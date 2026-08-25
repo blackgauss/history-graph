@@ -1,0 +1,20 @@
+schema: '2.0'
+stages:
+  ingest:
+    cmd: uv run python -m history_graph
+    deps:
+    - path: data/seed/dois.txt
+      hash: md5
+      md5: 0ad99f4c55ec9af280bcc1245bdf414d
+      size: 491
+    - path: src/history_graph
+      hash: md5
+      md5: 324e0ed5a3fe9e6c5f9dac1d0c915a96.dir
+      size: 32037
+      nfiles: 8
+    outs:
+    - path: data/raw
+      hash: md5
+      md5: 0a31055867ff81dfee1eb1e85f59cdd1.dir
+      size: 36109775
+      nfiles: 4

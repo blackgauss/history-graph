@@ -1,0 +1,7 @@
+# Seed papers for the ingestion POC.
+# One bare DOI per line; blank lines and #-comments are ignored.
+10.1038/s41586-021-03819-2  # AlphaFold protein structure prediction (Nature, 2021)
+10.65215/2q58a426          # Attention Is All You Need (NeurIPS 2017, via OpenAlex canonical record)
+10.18653/v1/N19-1423        # BERT (NAACL, 2019)
+10.1126/science.1225829     # CRISPR-Cas9 programmable editing (Science, 2012)
+10.1145/3065386             # ImageNet large-scale recognition (CACM, 2017)

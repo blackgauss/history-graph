@@ -1,0 +1,8 @@
+stages:
+  ingest:
+    cmd: uv run python -m history_graph
+    deps:
+      - data/seed/dois.txt
+      - src/history_graph
+    outs:
+      - data/raw
