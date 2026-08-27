@@ -126,6 +126,16 @@ class OpenAlexClient:
         )
         return next(iter(results), None)
 
+    def get_work_by_title(self, title: str) -> dict[str, Any] | None:
+        """Best-effort resolution via ``title.search``; for works without DOIs."""
+        results = self.paginate(
+            WORKS_PATH,
+            {"filter": "title.search:" + title},
+            select=WORK_FIELDS,
+            per_page=BATCH_SIZE,
+        )
+        return next(iter(results), None)
+
     def get_works(
         self,
         work_ids: Sequence[str],

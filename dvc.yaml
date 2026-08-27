@@ -6,3 +6,11 @@ stages:
       - src/history_graph
     outs:
       - data/raw
+  thread:
+    cmd: uv run python -m history_graph.thread && uv run python -m history_graph.report
+    deps:
+      - data/seed/computing_thread.yaml
+      - src/history_graph
+      - src/history_graph/report.py
+    outs:
+      - data/thread
