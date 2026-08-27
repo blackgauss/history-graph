@@ -120,6 +120,64 @@ def test_run_report_handles_no_internal_citations(tmp_path: Path) -> None:
     assert "None found." in (tmp_path / "report.md").read_text(encoding="utf-8")
 
 
+def test_build_fulltext_extracts_oa_links(tmp_path: Path) -> None:
+    _write_ndjson(tmp_path / "events.jsonl", [_event("a", 2000, "paper")])
+    oa_paper = {
+        "id": "oa-paper",
+        "openalex_id": "https://openalex.org/WOA",
+        "resolved_via": "doi",
+        "doi": "x",
+        "title": "OA Paper",
+        "publication_year": 2000,
+        "type": "article",
+        "cited_by_count": 5,
+        "referenced_works": [],
+        "authorships": [],
+        "funders": [],
+        "primary_location": {},
+        "best_oa_location": {
+            "pdf_url": "https://example.org/oa.pdf",
+            "landing_page_url": "https://doi.org/10.1/x",
+            "license": "cc-by",
+        },
+        "open_access": {
+            "is_oa": True,
+            "oa_status": "hybrid",
+            "oa_url": "https://example.org/oa.pdf",
+        },
+    }
+    closed_paper = {
+        "id": "closed-paper",
+        "openalex_id": "https://openalex.org/WCL",
+        "resolved_via": "doi",
+        "doi": "y",
+        "title": "Closed Paper",
+        "publication_year": 2001,
+        "type": "article",
+        "cited_by_count": 1,
+        "referenced_works": [],
+        "authorships": [],
+        "funders": [],
+        "primary_location": {},
+        "best_oa_location": None,
+        "open_access": {"is_oa": False, "oa_status": "closed", "oa_url": None},
+    }
+    _write_ndjson(tmp_path / "papers.jsonl", [oa_paper, closed_paper])
+
+    run_report(tmp_path)
+
+    fulltext = pl.read_csv(tmp_path / "paper_fulltext.csv")
+    assert fulltext.height == 2
+    oa_row = fulltext.filter(pl.col("paper_id") == "oa-paper")
+    assert oa_row["pdf_url"][0] == "https://example.org/oa.pdf"
+    assert oa_row["license"][0] == "cc-by"
+    closed_row = fulltext.filter(pl.col("paper_id") == "closed-paper")
+    assert not bool(closed_row["is_oa"][0])
+
+    report = (tmp_path / "report.md").read_text(encoding="utf-8")
+    assert "1/2 thread papers have a lawful free full text" in report
+
+
 def test_build_relations_extracts_orgs_funders_and_venue(tmp_path: Path) -> None:
     _write_ndjson(tmp_path / "events.jsonl", [_event("a", 2000, "paper")])
     _write_ndjson(

@@ -7,6 +7,7 @@ Builds, via polars:
 - paper_institutions.csv   paper -> institution edges (type, country)
 - paper_funders.csv        paper -> funder edges (name, ROR)
 - paper_venue.csv          paper -> journal/venue edges
+- paper_fulltext.csv       paper -> lawful open-access full-text links
 - report.md                human-readable summary
 
 Usage: python -m history_graph.report [--raw-dir data/thread]
@@ -133,6 +134,40 @@ def build_relations(papers: pl.DataFrame) -> tuple[pl.DataFrame, pl.DataFrame, p
     return institutions, funders, venues
 
 
+def build_fulltext(papers: pl.DataFrame) -> pl.DataFrame:
+    """Extract lawful open-access full-text links per paper."""
+    rows: list[dict[str, Any]] = []
+    for record in _paper_dicts(papers):
+        best = record.get("best_oa_location") or {}
+        oa = record.get("open_access") or {}
+        rows.append(
+            {
+                "paper_id": record["id"],
+                "pdf_url": best.get("pdf_url") or oa.get("oa_url"),
+                "landing_page_url": best.get("landing_page_url"),
+                "license": best.get("license"),
+                "is_oa": oa.get("is_oa"),
+                "oa_status": oa.get("oa_status"),
+            }
+        )
+    return (
+        pl.DataFrame(rows)
+        .with_columns(pl.col("is_oa").cast(pl.Boolean))
+        .sort("paper_id")
+        if rows
+        else pl.DataFrame(
+            schema={
+                "paper_id": pl.Utf8,
+                "pdf_url": pl.Utf8,
+                "landing_page_url": pl.Utf8,
+                "license": pl.Utf8,
+                "is_oa": pl.Boolean,
+                "oa_status": pl.Utf8,
+            }
+        )
+    )
+
+
 def build_gap_stats(events: pl.DataFrame) -> dict[str, float]:
     years = events.get_column("year")
     gaps = years.diff().drop_nulls()
@@ -163,6 +198,7 @@ def write_report(
     institutions: pl.DataFrame,
     funders: pl.DataFrame,
     venues: pl.DataFrame,
+    fulltext: pl.DataFrame,
 ) -> Path:
     events.select("date", "kind", "sub", "title", "who").write_csv(raw_dir / "events.csv")
     impact.write_csv(raw_dir / "paper_impact.csv")
@@ -170,6 +206,7 @@ def write_report(
     institutions.write_csv(raw_dir / "paper_institutions.csv")
     funders.write_csv(raw_dir / "paper_funders.csv")
     venues.write_csv(raw_dir / "paper_venue.csv")
+    fulltext.write_csv(raw_dir / "paper_fulltext.csv")
 
     kind_counts = events["kind"].value_counts().sort("count", descending=True)
     kinds_summary = ", ".join(f"{kind}={count}" for kind, count in kind_counts.iter_rows())
@@ -219,14 +256,22 @@ def write_report(
         "## Paper -> Institutions (authors' affiliations)",
         "",
         *_markdown_table(
-            institutions.select(
-                "paper_id", "institution", "country_code", "type"
-            )
+            institutions.select("paper_id", "institution", "country_code", "type")
             .unique()
             .sort("paper_id"),
             ["paper_id", "institution", "country_code", "type"],
         ),
+        "",
+        "## Paper -> Open-access full text (legal PDF links)",
+        "",
     ]
+    oa_count = int(fulltext.filter(pl.col("is_oa").fill_null(False)).height)
+    lines.append(f"- {oa_count}/{fulltext.height} thread papers have a lawful free full text.")
+    lines.append("")
+    lines += _markdown_table(
+        fulltext.select("paper_id", "pdf_url", "license", "oa_status"),
+        ["paper_id", "pdf_url", "license", "oa_status"],
+    )
 
     report_path = raw_dir / "report.md"
     report_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -242,9 +287,19 @@ def run_report(raw_dir: Path) -> Path:
     impact = build_impact(papers)
     edges, edge_titles = build_internal_citations(papers)
     institutions, funders, venues = build_relations(papers)
+    fulltext = build_fulltext(papers)
     gaps = build_gap_stats(events)
     return write_report(
-        raw_dir, events, impact, edges, edge_titles, gaps, institutions, funders, venues
+        raw_dir,
+        events,
+        impact,
+        edges,
+        edge_titles,
+        gaps,
+        institutions,
+        funders,
+        venues,
+        fulltext,
     )
 
 

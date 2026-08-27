@@ -60,9 +60,7 @@ def resolve_papers(
             logger.warning("Unresolved paper %s (%s)", entry.id, ref_hint)
             unresolved.append(entry.id)
             continue
-        logger.info(
-            "Resolved %s via %s -> %s", entry.id, via, work.get("title")
-        )
+        logger.info("Resolved %s via %s -> %s", entry.id, via, work.get("title"))
         record = {
             "id": entry.id,
             "openalex_id": work.get("id"),

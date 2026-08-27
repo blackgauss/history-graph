@@ -28,16 +28,16 @@ stages:
       size: 8942
     - path: src/history_graph
       hash: md5
-      md5: 68927cd9bddad33417bcdbbc5fc13eb5.dir
-      size: 70414
+      md5: b9bf8706114459f5f801a191526be503.dir
+      size: 74643
       nfiles: 14
     - path: src/history_graph/report.py
       hash: md5
-      md5: e1b0b19eda7e78f959487df567387485
-      size: 8989
+      md5: cfeff9df7367aa82af7e0948a10230ab
+      size: 10797
     outs:
     - path: data/thread
       hash: md5
-      md5: 2972839edfbfbf6156069a3053d4889c.dir
-      size: 65394
-      nfiles: 10
+      md5: b20bc2ed320c44baecf9fc827abf8eb5.dir
+      size: 69552
+      nfiles: 11

@@ -35,6 +35,8 @@ WORK_FIELDS = (
     "ids",
     "counts_by_year",
     "primary_location",
+    "best_oa_location",
+    "open_access",
 )
 
 _TRANSIENT_STATUS = {429, 500, 502, 503, 504}
