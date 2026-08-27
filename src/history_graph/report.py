@@ -9,6 +9,7 @@ Builds, via polars:
 - paper_venue.csv          paper -> journal/venue edges
 - paper_fulltext.csv       paper -> lawful open-access full-text links
 - paper_abstracts.csv      paper -> reconstructed plaintext abstract
+- curated_edges.csv        curated `related` cross-links (conceptual lineage)
 - report.md                human-readable summary
 
 Usage: python -m history_graph.report [--raw-dir data/thread]
@@ -26,9 +27,28 @@ import polars as pl
 CURRENT_YEAR = date.today().year
 
 
+def _empty_papers() -> pl.DataFrame:
+    return pl.DataFrame(
+        schema={
+            "id": pl.Utf8,
+            "openalex_id": pl.Utf8,
+            "title": pl.Utf8,
+            "publication_year": pl.Int64,
+            "cited_by_count": pl.Int64,
+            "referenced_works": pl.List(pl.Utf8),
+            "authorships": pl.List(pl.Utf8),
+        }
+    )
+
+
 def load_frames(raw_dir: Path) -> tuple[pl.DataFrame, pl.DataFrame]:
-    events = pl.read_ndjson(raw_dir / "events.jsonl").sort("year")
-    papers = pl.read_ndjson(raw_dir / "papers.jsonl")
+    events_path = raw_dir / "events.jsonl"
+    papers_path = raw_dir / "papers.jsonl"
+    events = pl.read_ndjson(events_path).sort("year")
+    if papers_path.stat().st_size == 0:
+        papers = _empty_papers()
+    else:
+        papers = pl.read_ndjson(papers_path)
     return events, papers
 
 
@@ -169,6 +189,20 @@ def build_abstracts(papers: pl.DataFrame) -> pl.DataFrame:
     )
 
 
+def build_curated_edges(events: pl.DataFrame) -> pl.DataFrame:
+    """Edges from each entry's curated ``related`` cross-links."""
+    rows: list[dict[str, Any]] = []
+    for record in events.select("id", "related").iter_rows():
+        source, related = record
+        for target in related or []:
+            rows.append({"source": source, "target": target})
+    return (
+        pl.DataFrame(rows).unique().sort(["source", "target"])
+        if rows
+        else pl.DataFrame(schema={"source": pl.Utf8, "target": pl.Utf8})
+    )
+
+
 def build_fulltext(papers: pl.DataFrame) -> pl.DataFrame:
     """Extract lawful open-access full-text links per paper."""
     rows: list[dict[str, Any]] = []
@@ -235,6 +269,7 @@ def write_report(
     venues: pl.DataFrame,
     fulltext: pl.DataFrame,
     abstracts: pl.DataFrame,
+    curated: pl.DataFrame,
 ) -> Path:
     events.select("date", "kind", "sub", "title", "who").write_csv(raw_dir / "events.csv")
     impact.write_csv(raw_dir / "paper_impact.csv")
@@ -244,6 +279,7 @@ def write_report(
     venues.write_csv(raw_dir / "paper_venue.csv")
     fulltext.write_csv(raw_dir / "paper_fulltext.csv")
     abstracts.write_csv(raw_dir / "paper_abstracts.csv")
+    curated.write_csv(raw_dir / "curated_edges.csv")
 
     kind_counts = events["kind"].value_counts().sort("count", descending=True)
     kinds_summary = ", ".join(f"{kind}={count}" for kind, count in kind_counts.iter_rows())
@@ -276,6 +312,17 @@ def write_report(
             pl.col("cited_entry").replace_strict(edge_titles),
         )
         lines += _markdown_table(mapped, ["citing_entry", "cited_entry"])
+
+    lines += [
+        "",
+        "## Curated relations (from `related` cross-links)",
+        "",
+        (
+            f"- {curated.height} curated edges: conceptual/industrial lineage the "
+            'citation graph can\'t see (e.g. Shannon 1948 -> Lamport 1978). '
+            "See `curated_edges.csv`."
+        ),
+    ]
 
     lines += [
         "",
@@ -337,6 +384,7 @@ def run_report(raw_dir: Path) -> Path:
     institutions, funders, venues = build_relations(papers)
     fulltext = build_fulltext(papers)
     abstracts = build_abstracts(papers)
+    curated = build_curated_edges(events)
     gaps = build_gap_stats(events)
     return write_report(
         raw_dir,
@@ -350,6 +398,7 @@ def run_report(raw_dir: Path) -> Path:
         venues,
         fulltext,
         abstracts,
+        curated,
     )
 
 

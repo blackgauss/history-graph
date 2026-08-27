@@ -134,6 +134,31 @@ def test_reconstruct_abstract_from_inverted_index() -> None:
     assert reconstruct_abstract({}) is None
 
 
+def test_surfaces_curated_related_edges(tmp_path: Path) -> None:
+    _write_ndjson(
+        tmp_path / "events.jsonl",
+        [
+            _event("a", 1948, "paper"),
+            _event("b", 1978, "paper"),
+            {
+                **_event("c", 2003, "paper"),
+                "related": ["a", "b"],
+            },
+        ],
+    )
+    _write_ndjson(tmp_path / "papers.jsonl", [])
+
+    reports = [r for r in run_report(tmp_path).parent.glob("curated_edges.csv")]
+    assert len(reports) == 1
+    curated = pl.read_csv(reports[0])
+    assert curated.height == 2
+    rows = {tuple(r) for r in curated.iter_rows()}
+    assert ("c", "a") in rows
+    assert ("c", "b") in rows
+    report = (tmp_path / "report.md").read_text(encoding="utf-8")
+    assert "## Curated relations" in report
+
+
 def test_build_fulltext_extracts_oa_links(tmp_path: Path) -> None:
     _write_ndjson(tmp_path / "events.jsonl", [_event("a", 2000, "paper")])
     oa_paper = {

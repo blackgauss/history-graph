@@ -150,6 +150,22 @@ entries:
     refs:
       doi: 10.1109/tcom.1974.1092259
 
+  - id: lamport-time-clocks-1978
+    date: "1978-07"
+    kind: paper
+    title: "Time, Clocks, and the Ordering of Events in a Distributed System"
+    who: Leslie Lamport
+    refs:
+      doi: 10.1145/359545.359563
+    related: [tcp-paper-1974, gfs-paper-2003, shannon-math-theory-comm-1948]
+    notes: >
+      Logical clocks + the paper that later industrializes as Paxos consensus:
+      Chubby (GFS metadata), ZooKeeper (Hadoop/Spark), etc. Turing Award 2013.
+      Also author of LaTeX. Conceptual link to Shannon 1948: where Shannon
+      reconstructs symbols through a noisy channel, Lamport reconstructs
+      ordering/causality through a network with no global clock (framed via
+      relativity, which descends from Maxwell 1865).
+
   # --- learning, web, ads ---
   - id: backprop-nature-1986
     date: "1986-10"
