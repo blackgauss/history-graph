@@ -118,3 +118,58 @@ def test_run_report_handles_no_internal_citations(tmp_path: Path) -> None:
     edges = pl.read_csv(tmp_path / "internal_citations.csv")
     assert edges.height == 0
     assert "None found." in (tmp_path / "report.md").read_text(encoding="utf-8")
+
+
+def test_build_relations_extracts_orgs_funders_and_venue(tmp_path: Path) -> None:
+    _write_ndjson(tmp_path / "events.jsonl", [_event("a", 2000, "paper")])
+    _write_ndjson(
+        tmp_path / "papers.jsonl",
+        [
+            {
+                "id": "paper-a",
+                "openalex_id": "https://openalex.org/WA",
+                "resolved_via": "doi",
+                "doi": "x",
+                "title": "Paper A",
+                "publication_year": 2000,
+                "type": "article",
+                "cited_by_count": 5,
+                "referenced_works": [],
+                "authorships": [
+                    {
+                        "author": {"display_name": "Jane Doe"},
+                        "institutions": [
+                            {"display_name": "DeepMind", "country_code": "GB", "type": "company"}
+                        ],
+                    }
+                ],
+                "funders": [{"display_name": "DeepMind", "ror": "https://ror.org/00971b260"}],
+                "primary_location": {
+                    "source": {
+                        "display_name": "Nature",
+                        "host_organization_name": "Springer Nature",
+                    }
+                },
+            }
+        ],
+    )
+
+    run_report(tmp_path)
+
+    institutions = pl.read_csv(tmp_path / "paper_institutions.csv")
+    assert institutions.height == 1
+    assert institutions["institution"][0] == "DeepMind"
+    assert institutions["type"][0] == "company"
+    assert institutions["country_code"][0] == "GB"
+
+    funders = pl.read_csv(tmp_path / "paper_funders.csv")
+    assert funders["funder"][0] == "DeepMind"
+    assert str(funders["ror"][0]).endswith("00971b260")
+
+    venues = pl.read_csv(tmp_path / "paper_venue.csv")
+    assert venues["venue"][0] == "Nature"
+
+    report = (tmp_path / "report.md").read_text(encoding="utf-8")
+    assert "## Paper -> Venue" in report
+    assert "## Paper -> Funders" in report
+    assert "## Paper -> Institutions" in report

@@ -1,10 +1,13 @@
 """Derive meaningful views from an ingested thread.
 
 Builds, via polars:
+- events.csv               normalized chronological timeline
 - paper_impact.csv         per-paper citation impact metrics
 - internal_citations.csv   citation edges among the thread's own papers
-- events.csv               normalized chronological timeline
-- report.md                human-readable summary of all three
+- paper_institutions.csv   paper -> institution edges (type, country)
+- paper_funders.csv        paper -> funder edges (name, ROR)
+- paper_venue.csv          paper -> journal/venue edges
+- report.md                human-readable summary
 
 Usage: python -m history_graph.report [--raw-dir data/thread]
 """
@@ -14,6 +17,7 @@ from __future__ import annotations
 import argparse
 from datetime import date
 from pathlib import Path
+from typing import Any
 
 import polars as pl
 
@@ -43,7 +47,12 @@ def build_internal_citations(
 ) -> tuple[pl.DataFrame, dict[str, str]]:
     """Edges where one thread paper cites another thread paper."""
     id_to_entry = papers.select(pl.col("openalex_id"), pl.col("id"))
-    exploded = papers.select(pl.col("id"), pl.col("referenced_works")).explode("referenced_works")
+    exploded = (
+        papers.select(pl.col("id"), pl.col("referenced_works"))
+        .explode("referenced_works")
+        .with_columns(pl.col("referenced_works").cast(pl.Utf8))
+        .drop_nulls()
+    )
     edges = (
         exploded.join(id_to_entry, left_on="referenced_works", right_on="openalex_id", how="inner")
         .rename({"id": "citing_entry", "id_right": "cited_entry"})
@@ -53,6 +62,75 @@ def build_internal_citations(
     )
     titles = dict(papers.select("id", "title").iter_rows())
     return edges, titles
+
+
+def _paper_dicts(papers: pl.DataFrame) -> list[dict[str, Any]]:
+    return papers.to_dicts()
+
+
+def build_relations(papers: pl.DataFrame) -> tuple[pl.DataFrame, pl.DataFrame, pl.DataFrame]:
+    """Walk nested record fields into flat paper->org relation tables.
+
+    Returns (institutions, funders, venues) frames.
+    """
+    inst_rows: list[dict[str, Any]] = []
+    funder_rows: list[dict[str, Any]] = []
+    venue_rows: list[dict[str, Any]] = []
+
+    for record in _paper_dicts(papers):
+        paper_id = record["id"]
+        for authorship in record.get("authorships") or []:
+            for institution in authorship.get("institutions") or []:
+                inst_rows.append(
+                    {
+                        "paper_id": paper_id,
+                        "author": authorship.get("author", {}).get("display_name"),
+                        "institution": institution.get("display_name"),
+                        "country_code": institution.get("country_code"),
+                        "type": institution.get("type"),
+                    }
+                )
+        for funder in record.get("funders") or []:
+            funder_rows.append(
+                {
+                    "paper_id": paper_id,
+                    "funder": funder.get("display_name"),
+                    "ror": funder.get("ror"),
+                }
+            )
+        source = (record.get("primary_location") or {}).get("source")
+        venue_rows.append(
+            {
+                "paper_id": paper_id,
+                "venue": source.get("display_name") if source else None,
+                "publisher": source.get("host_organization_name") if source else None,
+            }
+        )
+
+    institutions = (
+        pl.DataFrame(inst_rows).unique().sort("paper_id")
+        if inst_rows
+        else pl.DataFrame(
+            schema={
+                "paper_id": pl.Utf8,
+                "author": pl.Utf8,
+                "institution": pl.Utf8,
+                "country_code": pl.Utf8,
+                "type": pl.Utf8,
+            }
+        )
+    )
+    funders = (
+        pl.DataFrame(funder_rows).unique().sort("paper_id")
+        if funder_rows
+        else pl.DataFrame(schema={"paper_id": pl.Utf8, "funder": pl.Utf8, "ror": pl.Utf8})
+    )
+    venues = (
+        pl.DataFrame(venue_rows).sort("paper_id")
+        if venue_rows
+        else pl.DataFrame(schema={"paper_id": pl.Utf8, "venue": pl.Utf8, "publisher": pl.Utf8})
+    )
+    return institutions, funders, venues
 
 
 def build_gap_stats(events: pl.DataFrame) -> dict[str, float]:
@@ -82,10 +160,16 @@ def write_report(
     edges: pl.DataFrame,
     edge_titles: dict[str, str],
     gaps: dict[str, float],
+    institutions: pl.DataFrame,
+    funders: pl.DataFrame,
+    venues: pl.DataFrame,
 ) -> Path:
     events.select("date", "kind", "sub", "title", "who").write_csv(raw_dir / "events.csv")
     impact.write_csv(raw_dir / "paper_impact.csv")
     edges.write_csv(raw_dir / "internal_citations.csv")
+    institutions.write_csv(raw_dir / "paper_institutions.csv")
+    funders.write_csv(raw_dir / "paper_funders.csv")
+    venues.write_csv(raw_dir / "paper_venue.csv")
 
     kind_counts = events["kind"].value_counts().sort("count", descending=True)
     kinds_summary = ", ".join(f"{kind}={count}" for kind, count in kind_counts.iter_rows())
@@ -119,6 +203,31 @@ def write_report(
         )
         lines += _markdown_table(mapped, ["citing_entry", "cited_entry"])
 
+    lines += [
+        "",
+        "## Paper -> Venue",
+        "",
+        *_markdown_table(venues, ["paper_id", "venue", "publisher"]),
+        "",
+        "## Paper -> Funders (companies/orgs)",
+        "",
+        *_markdown_table(
+            funders.select("paper_id", "funder", "ror").unique().sort("paper_id"),
+            ["paper_id", "funder", "ror"],
+        ),
+        "",
+        "## Paper -> Institutions (authors' affiliations)",
+        "",
+        *_markdown_table(
+            institutions.select(
+                "paper_id", "institution", "country_code", "type"
+            )
+            .unique()
+            .sort("paper_id"),
+            ["paper_id", "institution", "country_code", "type"],
+        ),
+    ]
+
     report_path = raw_dir / "report.md"
     report_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return report_path
@@ -132,8 +241,11 @@ def run_report(raw_dir: Path) -> Path:
     )
     impact = build_impact(papers)
     edges, edge_titles = build_internal_citations(papers)
+    institutions, funders, venues = build_relations(papers)
     gaps = build_gap_stats(events)
-    return write_report(raw_dir, events, impact, edges, edge_titles, gaps)
+    return write_report(
+        raw_dir, events, impact, edges, edge_titles, gaps, institutions, funders, venues
+    )
 
 
 def main(argv: list[str] | None = None) -> int:

@@ -29,7 +29,12 @@ WORK_FIELDS = (
     "type",
     "cited_by_count",
     "referenced_works",
+    "related_works",
     "authorships",
+    "funders",
+    "ids",
+    "counts_by_year",
+    "primary_location",
 )
 
 _TRANSIENT_STATUS = {429, 500, 502, 503, 504}

@@ -18,3 +18,26 @@ stages:
       md5: 0a31055867ff81dfee1eb1e85f59cdd1.dir
       size: 36109775
       nfiles: 4
+  thread:
+    cmd: uv run python -m history_graph.thread && uv run python -m 
+      history_graph.report
+    deps:
+    - path: data/seed/computing_thread.yaml
+      hash: md5
+      md5: cf52d642cabecf21b5d018696cb44dee
+      size: 8942
+    - path: src/history_graph
+      hash: md5
+      md5: 68927cd9bddad33417bcdbbc5fc13eb5.dir
+      size: 70414
+      nfiles: 14
+    - path: src/history_graph/report.py
+      hash: md5
+      md5: e1b0b19eda7e78f959487df567387485
+      size: 8989
+    outs:
+    - path: data/thread
+      hash: md5
+      md5: 2972839edfbfbf6156069a3053d4889c.dir
+      size: 65394
+      nfiles: 10
