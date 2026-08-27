@@ -8,6 +8,7 @@ Builds, via polars:
 - paper_funders.csv        paper -> funder edges (name, ROR)
 - paper_venue.csv          paper -> journal/venue edges
 - paper_fulltext.csv       paper -> lawful open-access full-text links
+- paper_abstracts.csv      paper -> reconstructed plaintext abstract
 - report.md                human-readable summary
 
 Usage: python -m history_graph.report [--raw-dir data/thread]
@@ -134,6 +135,40 @@ def build_relations(papers: pl.DataFrame) -> tuple[pl.DataFrame, pl.DataFrame, p
     return institutions, funders, venues
 
 
+def reconstruct_abstract(inverted: dict[str, list[int]] | None) -> str | None:
+    """Reassemble the plaintext abstract from OpenAlex's inverted index."""
+    if not inverted:
+        return None
+    positions: list[tuple[int, str]] = []
+    for word, indexes in inverted.items():
+        if indexes is None:
+            continue
+        if isinstance(indexes, int):
+            positions.append((indexes, word))
+            continue
+        for position in indexes:
+            if position is not None:
+                positions.append((position, word))
+    positions.sort(key=lambda pair: pair[0])
+    return " ".join(word for _, word in positions)
+
+
+def build_abstracts(papers: pl.DataFrame) -> pl.DataFrame:
+    """Reconstructed plaintext abstract per paper."""
+    rows = [
+        {
+            "paper_id": record["id"],
+            "abstract": reconstruct_abstract(record.get("abstract_inverted_index")),
+        }
+        for record in _paper_dicts(papers)
+    ]
+    return (
+        pl.DataFrame(rows).sort("paper_id")
+        if rows
+        else pl.DataFrame(schema={"paper_id": pl.Utf8, "abstract": pl.Utf8})
+    )
+
+
 def build_fulltext(papers: pl.DataFrame) -> pl.DataFrame:
     """Extract lawful open-access full-text links per paper."""
     rows: list[dict[str, Any]] = []
@@ -199,6 +234,7 @@ def write_report(
     funders: pl.DataFrame,
     venues: pl.DataFrame,
     fulltext: pl.DataFrame,
+    abstracts: pl.DataFrame,
 ) -> Path:
     events.select("date", "kind", "sub", "title", "who").write_csv(raw_dir / "events.csv")
     impact.write_csv(raw_dir / "paper_impact.csv")
@@ -207,6 +243,7 @@ def write_report(
     funders.write_csv(raw_dir / "paper_funders.csv")
     venues.write_csv(raw_dir / "paper_venue.csv")
     fulltext.write_csv(raw_dir / "paper_fulltext.csv")
+    abstracts.write_csv(raw_dir / "paper_abstracts.csv")
 
     kind_counts = events["kind"].value_counts().sort("count", descending=True)
     kinds_summary = ", ".join(f"{kind}={count}" for kind, count in kind_counts.iter_rows())
@@ -273,6 +310,17 @@ def write_report(
         ["paper_id", "pdf_url", "license", "oa_status"],
     )
 
+    abstract_count = int(abstracts.filter(pl.col("abstract").is_not_null()).height)
+    lines += [
+        "",
+        "## Paper -> Abstract (free plaintext)",
+        "",
+        (
+            f"- {abstract_count}/{abstracts.height} thread papers have a free "
+            "abstract. See `paper_abstracts.csv`."
+        ),
+    ]
+
     report_path = raw_dir / "report.md"
     report_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return report_path
@@ -288,6 +336,7 @@ def run_report(raw_dir: Path) -> Path:
     edges, edge_titles = build_internal_citations(papers)
     institutions, funders, venues = build_relations(papers)
     fulltext = build_fulltext(papers)
+    abstracts = build_abstracts(papers)
     gaps = build_gap_stats(events)
     return write_report(
         raw_dir,
@@ -300,6 +349,7 @@ def run_report(raw_dir: Path) -> Path:
         funders,
         venues,
         fulltext,
+        abstracts,
     )
 
 

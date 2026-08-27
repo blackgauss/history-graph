@@ -120,6 +120,20 @@ def test_run_report_handles_no_internal_citations(tmp_path: Path) -> None:
     assert "None found." in (tmp_path / "report.md").read_text(encoding="utf-8")
 
 
+def test_reconstruct_abstract_from_inverted_index() -> None:
+    from history_graph.report import reconstruct_abstract
+
+    inverted = {
+        "research": [0, 4],
+        "paper": [1, 5],
+        "about": [2],
+        "history": [3],
+    }
+    assert reconstruct_abstract(inverted) == "research paper about history research paper"
+    assert reconstruct_abstract(None) is None
+    assert reconstruct_abstract({}) is None
+
+
 def test_build_fulltext_extracts_oa_links(tmp_path: Path) -> None:
     _write_ndjson(tmp_path / "events.jsonl", [_event("a", 2000, "paper")])
     oa_paper = {
@@ -135,16 +149,13 @@ def test_build_fulltext_extracts_oa_links(tmp_path: Path) -> None:
         "authorships": [],
         "funders": [],
         "primary_location": {},
-        "best_oa_location": {
+"best_oa_location": {
             "pdf_url": "https://example.org/oa.pdf",
             "landing_page_url": "https://doi.org/10.1/x",
             "license": "cc-by",
         },
-        "open_access": {
-            "is_oa": True,
-            "oa_status": "hybrid",
-            "oa_url": "https://example.org/oa.pdf",
-        },
+        "open_access": {"is_oa": True, "oa_status": "hybrid", "oa_url": "https://example.org/oa.pdf"},
+        "abstract_inverted_index": {"data": [1], "abstract": [0]},
     }
     closed_paper = {
         "id": "closed-paper",
@@ -176,6 +187,11 @@ def test_build_fulltext_extracts_oa_links(tmp_path: Path) -> None:
 
     report = (tmp_path / "report.md").read_text(encoding="utf-8")
     assert "1/2 thread papers have a lawful free full text" in report
+
+    abstracts = pl.read_csv(tmp_path / "paper_abstracts.csv")
+    oa_abstract = abstracts.filter(pl.col("paper_id") == "oa-paper")
+    assert oa_abstract["abstract"][0] == "abstract data"
+    assert "1/2 thread papers have a free abstract" in report
 
 
 def test_build_relations_extracts_orgs_funders_and_venue(tmp_path: Path) -> None:

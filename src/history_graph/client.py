@@ -37,6 +37,7 @@ WORK_FIELDS = (
     "primary_location",
     "best_oa_location",
     "open_access",
+    "abstract_inverted_index",
 )
 
 _TRANSIENT_STATUS = {429, 500, 502, 503, 504}
