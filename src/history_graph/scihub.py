@@ -11,10 +11,12 @@ from __future__ import annotations
 import logging
 import re
 import time
-from collections.abc import Sequence
+from collections.abc import Callable, Sequence
 
 import httpx
 from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponential
+
+from .observability import instrument
 
 logger = logging.getLogger(__name__)
 
@@ -80,6 +82,8 @@ class SciHubClient:
         *,
         http: httpx.Client | None = None,
         min_interval_s: float = MIN_REQUEST_INTERVAL_S,
+        clock: Callable[[], float] = time.monotonic,
+        sleep: Callable[[float], None] = time.sleep,
     ) -> None:
         self._mirrors = tuple(mirrors) if mirrors else MIRRORS
         self._http = http or httpx.Client(
@@ -88,6 +92,8 @@ class SciHubClient:
             headers={"User-Agent": USER_AGENT},
         )
         self._min_interval_s = min_interval_s
+        self._clock = clock
+        self._sleep = sleep
         self._last_request_monotonic = 0.0
 
     def close(self) -> None:
@@ -96,11 +102,11 @@ class SciHubClient:
     # -- low level -----------------------------------------------------------
 
     def _throttle(self) -> None:
-        elapsed = time.monotonic() - self._last_request_monotonic
+        elapsed = self._clock() - self._last_request_monotonic
         wait = self._min_interval_s - elapsed
         if wait > 0:
-            time.sleep(wait)
-        self._last_request_monotonic = time.monotonic()
+            self._sleep(wait)
+        self._last_request_monotonic = self._clock()
 
     @retry(
         retry=retry_if_exception(_is_transient),
@@ -110,14 +116,17 @@ class SciHubClient:
     )
     def _get(self, url: str, *, referer: str | None = None) -> httpx.Response:
         headers = {"Referer": referer} if referer else {}
-        self._throttle()
-        response = self._http.get(str(url), headers=headers)
-        if response.status_code == 429 and (retry_after := response.headers.get("retry-after")):
-            try:
-                time.sleep(min(float(retry_after), 60.0))
-            except ValueError:
-                pass
-        response.raise_for_status()
+        with instrument("http.scihub"):
+            self._throttle()
+            response = self._http.get(str(url), headers=headers)
+            if response.status_code == 429 and (
+                retry_after := response.headers.get("retry-after")
+            ):
+                try:
+                    self._sleep(min(float(retry_after), 60.0))
+                except ValueError:
+                    pass
+            response.raise_for_status()
         return response
 
     # -- public api ----------------------------------------------------------

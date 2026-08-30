@@ -24,6 +24,8 @@ from typing import Any
 
 import polars as pl
 
+from .observability import instrumented
+
 CURRENT_YEAR = date.today().year
 
 
@@ -61,7 +63,7 @@ def build_impact(papers: pl.DataFrame) -> pl.DataFrame:
         (pl.col("cited_by_count") / (CURRENT_YEAR - pl.col("publication_year") + 1))
         .round(1)
         .alias("citations_per_year"),
-    ).sort("cited_by_count", descending=True)
+    ).sort(["cited_by_count", "entry_id"], descending=[True, False])
 
 
 def build_internal_citations(
@@ -130,7 +132,7 @@ def build_relations(papers: pl.DataFrame) -> tuple[pl.DataFrame, pl.DataFrame, p
         )
 
     institutions = (
-        pl.DataFrame(inst_rows).unique().sort("paper_id")
+        pl.DataFrame(inst_rows).unique().sort(["paper_id", "author", "institution"])
         if inst_rows
         else pl.DataFrame(
             schema={
@@ -143,12 +145,12 @@ def build_relations(papers: pl.DataFrame) -> tuple[pl.DataFrame, pl.DataFrame, p
         )
     )
     funders = (
-        pl.DataFrame(funder_rows).unique().sort("paper_id")
+        pl.DataFrame(funder_rows).unique().sort(["paper_id", "funder", "ror"])
         if funder_rows
         else pl.DataFrame(schema={"paper_id": pl.Utf8, "funder": pl.Utf8, "ror": pl.Utf8})
     )
     venues = (
-        pl.DataFrame(venue_rows).sort("paper_id")
+        pl.DataFrame(venue_rows).unique().sort(["paper_id", "venue", "publisher"])
         if venue_rows
         else pl.DataFrame(schema={"paper_id": pl.Utf8, "venue": pl.Utf8, "publisher": pl.Utf8})
     )
@@ -281,7 +283,7 @@ def write_report(
     abstracts.write_csv(raw_dir / "paper_abstracts.csv")
     curated.write_csv(raw_dir / "curated_edges.csv")
 
-    kind_counts = events["kind"].value_counts().sort("count", descending=True)
+    kind_counts = events["kind"].value_counts().sort(["count", "kind"], descending=[True, False])
     kinds_summary = ", ".join(f"{kind}={count}" for kind, count in kind_counts.iter_rows())
     lines = [
         "# Computing thread report",
@@ -333,7 +335,9 @@ def write_report(
         "## Paper -> Funders (companies/orgs)",
         "",
         *_markdown_table(
-            funders.select("paper_id", "funder", "ror").unique().sort("paper_id"),
+            funders.select("paper_id", "funder", "ror").unique().sort(
+                ["paper_id", "funder", "ror"]
+            ),
             ["paper_id", "funder", "ror"],
         ),
         "",
@@ -342,7 +346,7 @@ def write_report(
         *_markdown_table(
             institutions.select("paper_id", "institution", "country_code", "type")
             .unique()
-            .sort("paper_id"),
+            .sort(["paper_id", "institution", "country_code", "type"]),
             ["paper_id", "institution", "country_code", "type"],
         ),
         "",
@@ -373,6 +377,7 @@ def write_report(
     return report_path
 
 
+@instrumented("stage.report")
 def run_report(raw_dir: Path) -> Path:
     events, papers = load_frames(raw_dir)
     papers = papers.with_columns(

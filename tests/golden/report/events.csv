@@ -1,0 +1,42 @@
+date,kind,sub,title,who
+1809,paper,,Theoria motus corporum coelestium (introduces least squares),Carl Friedrich Gauss
+1865,paper,,A Dynamical Theory of the Electromagnetic Field,James Clerk Maxwell
+1876-03-06,patent,,Improvements in Telegraphy (the telephone patent),Alexander Graham Bell
+1877,business,founded,Bell Telephone Company founded,"Gardiner Hubbard, Thomas Sanders, Alexander Graham Bell"
+1893,business,expired,Bell telephone master patent expires,
+1899,business,acquired,AT&T acquires American Bell's assets,
+1907,tech,,Thermionic triode (vacuum tube) invented,Lee de Forest
+1925,business,hired,Mervin J. Kelly joins Bell Labs,
+1936,paper,,"On Computable Numbers, with an Application to the Entscheidungsproblem",Alan Turing
+1945,tech,,ENIAC completed,"Mauchly & Eckert, University of Pennsylvania"
+1946,patent,,Static magnetic memory patent filed,George Devol
+1947-12-23,tech,,Point-contact transistor demonstrated,"Bardeen & Brattain, Bell Labs"
+1948,paper,,A Mathematical Theory of Communication,Claude Shannon
+1957,tech,,FORTRAN released,"John Backus, IBM"
+1959,patent,,Time-sharing patent filed,Christopher Strachey
+1969,tech,,UNIX development begins at Bell Labs,"Ken Thompson, Dennis Ritchie"
+1972,tech,,C programming language created,"Dennis Ritchie, Bell Labs"
+1974-05,paper,,A Protocol for Packet Network Intercommunication (TCP),Vint Cerf & Bob Kahn
+1978-07,paper,,"Time, Clocks, and the Ordering of Events in a Distributed System",Leslie Lamport
+1986-10,paper,,Learning representations by back-propagating errors,"Rumelhart, Hinton & Williams"
+1989,tech,,Information Management: A Proposal (hypertext web proposal),"Tim Berners-Lee, CERN"
+1994-10-27,business,launched,First banner ad runs on HotWired,AT&T
+1995,business,founded,DoubleClick founded,
+1998-01,patent,,Method for Node Ranking in a Linked Database filed,"Larry Page, Stanford"
+1998-09,business,founded,Google founded,Larry Page & Sergey Brin
+1999,business,founded,Apache Software Foundation started,
+2000-10,business,launched,Google AdWords launches,
+2003-10,paper,,The Google File System,"Ghemawat, Gobioff & Leung"
+2004-12,paper,,MapReduce: Simplified Data Processing on Large Clusters,Dean & Ghemawat
+2005,tech,,Nutch ships MapReduce + distributed filesystem implementation,
+2005,business,launched,First ad exchange launches (Right Media),Brian O'Kelley
+2006,business,founded,Quantcast founded,
+2007,business,founded,AppNexus founded,Brian O'Kelley & Mike Nolet
+2008,business,acquired,Google acquires DoubleClick ($3.1B),
+2010,tech,,Spark open sourced by Matei Zaharia (UC Berkeley AMP Lab),
+2012-05-18,business,ipo,Facebook IPO,
+2013,paper,,Quantcast File System (QFS),Ovsiannikov et al.
+2016,tech,,ByteDance launches Douyin/TikTok precursor,
+2017-06,paper,,Attention Is All You Need,"Vaswani et al., Google"
+2018,business,acquired,AT&T acquires AppNexus ($1.6B),
+2022-11-30,tech,,ChatGPT launches,

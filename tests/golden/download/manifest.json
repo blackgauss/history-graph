@@ -1,0 +1,10 @@
+{
+  "dois_seen": 2,
+  "failures": {},
+  "files": {
+    "10.1126/science.1225829": "{tmp}/pdfs/10.1126_science.1225829.pdf",
+    "10.1145/3065386": "{tmp}/pdfs/10.1145_3065386.pdf"
+  },
+  "pdfs_downloaded": 2,
+  "pdfs_failed": 0
+}
