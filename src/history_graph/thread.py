@@ -21,6 +21,7 @@ import yaml
 
 from .client import WORK_FIELDS, OpenAlexClient
 from .models import ThreadEntry, parse_thread
+from .observability import instrumented
 
 logger = logging.getLogger(__name__)
 
@@ -85,6 +86,7 @@ def _event_record(entry: ThreadEntry) -> dict[str, Any]:
     }
 
 
+@instrumented("stage.thread")
 def run_thread(client: OpenAlexClient, seeds_path: Path, raw_dir: Path) -> dict[str, Any]:
     entries = load_thread(seeds_path)
     raw_dir.mkdir(parents=True, exist_ok=True)

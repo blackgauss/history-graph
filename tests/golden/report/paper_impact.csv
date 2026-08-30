@@ -1,0 +1,12 @@
+entry_id,title,publication_year,cited_by_count,citations_per_year
+shannon-math-theory-comm-1948,A Mathematical Theory of Communication,1948,82116,1039.4
+backprop-nature-1986,Learning representations by back-propagating errors,1986,31635,771.6
+lamport-time-clocks-1978,"Time, clocks, and the ordering of events in a distributed system",1978,8477,173.0
+turing-computable-numbers-1936,"On Computable Numbers, with an Application to the Entscheidungsproblem",1937,8145,90.5
+attention-paper-2017,Attention Is All You Need,2025,7070,3535.0
+gfs-paper-2003,The Google file system,2003,5010,208.8
+mapreduce-paper-2004,MapReduce: Simplified Data Processing on Large Cluster,2018,2981,331.2
+maxwell-electromagnetic-1865,VIII. A dynamical theory of the electromagnetic field,1865,1298,8.0
+tcp-paper-1974,A Protocol for Packet Network Intercommunication,1974,822,15.5
+gauss-least-squares-1809,THEORIA MOTUS CORPORUM COELESTIUM IN SECTIONIBUS CONICIS SOLEM AMBIENTIUM,2011,374,23.4
+qfs-paper-2013,The quantcast file system,2013,164,11.7

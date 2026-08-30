@@ -19,6 +19,7 @@ from pathlib import Path
 from typing import Any
 
 from .client import WORK_FIELDS, OpenAlexClient
+from .observability import instrumented
 
 logger = logging.getLogger(__name__)
 
@@ -123,6 +124,7 @@ def hydrate_references(
     return writer.count
 
 
+@instrumented("stage.ingest")
 def run_ingest(
     client: OpenAlexClient,
     seeds_path: Path,

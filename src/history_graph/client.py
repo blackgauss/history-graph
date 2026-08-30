@@ -8,11 +8,13 @@ cursor-based pagination.
 from __future__ import annotations
 
 import time
-from collections.abc import Iterator, Mapping, Sequence
+from collections.abc import Callable, Iterator, Mapping, Sequence
 from typing import Any
 
 import httpx
 from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponential
+
+from .observability import instrument
 
 BASE_URL = "https://api.openalex.org"
 WORKS_PATH = "/works"
@@ -62,9 +64,13 @@ class OpenAlexClient:
         *,
         http: httpx.Client | None = None,
         base_url: str = BASE_URL,
+        clock: Callable[[], float] = time.monotonic,
+        sleep: Callable[[float], None] = time.sleep,
     ) -> None:
         self._mailto = mailto
         self._http = http or httpx.Client(base_url=base_url, timeout=30.0)
+        self._clock = clock
+        self._sleep = sleep
         self._last_request_monotonic = 0.0
 
     def close(self) -> None:
@@ -73,11 +79,11 @@ class OpenAlexClient:
     # -- low level -----------------------------------------------------------
 
     def _throttle(self) -> None:
-        elapsed = time.monotonic() - self._last_request_monotonic
+        elapsed = self._clock() - self._last_request_monotonic
         wait = MIN_REQUEST_INTERVAL_S - elapsed
         if wait > 0:
-            time.sleep(wait)
-        self._last_request_monotonic = time.monotonic()
+            self._sleep(wait)
+        self._last_request_monotonic = self._clock()
 
     @retry(
         retry=retry_if_exception(_is_transient),
@@ -88,10 +94,11 @@ class OpenAlexClient:
     def _request(self, path: str, params: Mapping[str, Any]) -> dict[str, Any]:
         merged: dict[str, Any] = {"mailto": self._mailto} if self._mailto else {}
         merged.update(params)
-        self._throttle()
-        response = self._http.get(path, params=merged)
-        response.raise_for_status()
-        payload = response.json()
+        with instrument("http.openalex"):
+            self._throttle()
+            response = self._http.get(path, params=merged)
+            response.raise_for_status()
+            payload = response.json()
         if not isinstance(payload, dict):
             raise OpenAlexError(f"Expected JSON object from {path}, got {type(payload)!r}")
         return payload

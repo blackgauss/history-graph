@@ -1,0 +1,25 @@
+paper_id,author,institution,country_code,type
+attention-paper-2017,Aidan N. Gomez,Google (United States),US,company
+attention-paper-2017,Aidan N. Gomez,University of Toronto,CA,education
+attention-paper-2017,Ashish Vaswani,Google (United States),US,company
+attention-paper-2017,Illia Polosukhin,Google (United States),US,company
+attention-paper-2017,Jakob Uszkoreit,Google (United States),US,company
+attention-paper-2017,Llion Jones,Google (United States),US,company
+attention-paper-2017,Niki Parmar,Google (United States),US,company
+attention-paper-2017,Niki Parmar,University of Southern California,US,education
+attention-paper-2017,Noam Shazeer,Google (United States),US,company
+attention-paper-2017,Łukasz Kaiser,Google (United States),US,company
+backprop-nature-1986,David E. Rumelhart,University of California San Diego,US,education
+backprop-nature-1986,Geoffrey E. Hinton,Carnegie Mellon University,US,education
+backprop-nature-1986,Ronald J. Williams,University of California San Diego,US,education
+gfs-paper-2003,Howard Gobioff,Google (United States),US,company
+gfs-paper-2003,Sanjay Ghemawat,Google (United States),US,company
+gfs-paper-2003,Shun-Tak A. Leung,Google (United States),US,company
+lamport-time-clocks-1978,Leslie Lamport,Abt Global (United States),US,company
+mapreduce-paper-2004,Muthu Dayalan,Google (United States),US,company
+maxwell-electromagnetic-1865,James Clerk Maxwell,Google (United States),US,company
+qfs-paper-2013,Damian Reeves,Google (United States),US,company
+qfs-paper-2013,Sriram Rao,Microsoft Research (United Kingdom),GB,company
+tcp-paper-1974,Robert E. Kahn,Defense Advanced Research Projects Agency,US,government
+tcp-paper-1974,Vinton G. Cerf,Stanford University,US,education
+turing-computable-numbers-1936,Alan Turing,Princeton University,US,education

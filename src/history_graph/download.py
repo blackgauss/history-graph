@@ -21,6 +21,7 @@ from typing import Any, Protocol
 import httpx
 
 from .ingest import load_dois
+from .observability import instrumented
 from .scihub import MIN_REQUEST_INTERVAL_S, SciHubClient, SciHubError
 
 logger = logging.getLogger(__name__)
@@ -70,6 +71,7 @@ def iter_dois(path: Path) -> list[str]:
     return dois
 
 
+@instrumented("stage.download")
 def run_download(
     client: PdfFetcher,
     inputs: list[Path],
