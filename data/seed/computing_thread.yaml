@@ -1,0 +1,329 @@
+# The computing thread: Gauss -> ChatGPT
+#
+# One entry per milestone. Fields:
+#   id      stable slug
+#   date    free-form (year or ISO date); first 4 chars must be the year
+#   kind    paper | patent | tech | business
+#   title   human label for the event
+#   who     actor(s), optional
+#   refs    optional: doi / patent_number / title_search (OpenAlex fallback)
+#   related optional: ids of other entries this event connects to
+#   notes   factual annotations, corrections, context
+
+entries:
+  # --- mathematical foundations ---
+  - id: gauss-least-squares-1809
+    date: "1809"
+    kind: paper
+    title: "Theoria motus corporum coelestium (introduces least squares)"
+    who: Carl Friedrich Gauss
+    refs:
+      title_search: "Theoria motus corporum coelestium sectionibus conicis solem ambientium"
+    notes: "Method of least squares also claimed earlier (1795) by Legendre's 1805 publication priority dispute."
+
+  - id: maxwell-electromagnetic-1865
+    date: "1865"
+    kind: paper
+    title: "A Dynamical Theory of the Electromagnetic Field"
+    who: James Clerk Maxwell
+    refs:
+      doi: 10.1098/rstl.1865.0008
+
+  # --- telephone era ---
+  - id: bell-telephone-patent-1876
+    date: "1876-03-06"
+    kind: patent
+    title: "Improvements in Telegraphy (the telephone patent)"
+    who: Alexander Graham Bell
+    refs:
+      patent_number: "174465"
+    notes: "US Patent 174,465 actually issued March 7, 1876; often cited as March 6."
+
+  - id: bell-telephone-company-1877
+    date: "1877"
+    kind: business
+    sub: founded
+    title: "Bell Telephone Company founded"
+    who: Gardiner Hubbard, Thomas Sanders, Alexander Graham Bell
+
+  - id: telephone-patent-expires-1893
+    date: "1893"
+    kind: business
+    sub: expired
+    title: "Bell telephone master patent expires"
+    related: [bell-telephone-patent-1876]
+
+  - id: att-buys-american-bell-1899
+    date: "1899"
+    kind: business
+    sub: acquired
+    title: "AT&T acquires American Bell's assets"
+    notes: "Made AT&T the parent of the Bell System."
+
+  - id: thermionic-triode-1907
+    date: "1907"
+    kind: tech
+    title: "Thermionic triode (vacuum tube) invented"
+    who: Lee de Forest
+    notes: "Audion triode patented 1908; key amplifying element until the transistor."
+
+  - id: kelly-joins-bell-labs-1925
+    date: "1925"
+    kind: business
+    sub: hired
+    title: "Mervin J. Kelly joins Bell Labs"
+    notes: "Later director (1936) and chairman; recruited the solid-state group that built the transistor."
+
+  # --- computation is formalized ---
+  - id: turing-computable-numbers-1936
+    date: "1936"
+    kind: paper
+    title: "On Computable Numbers, with an Application to the Entscheidungsproblem"
+    who: Alan Turing
+    refs:
+      doi: 10.1112/plms/s2-42.1.230
+
+  - id: eniac-completed-1945
+    date: "1945"
+    kind: tech
+    title: "ENIAC completed"
+    who: Mauchly & Eckert, University of Pennsylvania
+
+  - id: devol-memory-patent-1946
+    date: "1946"
+    kind: patent
+    title: "Static magnetic memory patent filed"
+    who: George Devol
+    refs:
+      patent_number: "2463463"
+    notes: "Filed April 1946, granted March 1949; Devol later invented Unimate, the first industrial robot."
+
+  - id: point-contact-transistor-1947
+    date: "1947-12-23"
+    kind: tech
+    title: "Point-contact transistor demonstrated"
+    who: Bardeen & Brattain, Bell Labs
+    related: [kelly-joins-bell-labs-1925]
+
+  - id: shannon-math-theory-comm-1948
+    date: "1948"
+    kind: paper
+    title: "A Mathematical Theory of Communication"
+    who: Claude Shannon
+    refs:
+      doi: 10.1002/j.1538-7305.1948.tb01338.x
+    related: [kelly-joins-bell-labs-1925]
+    notes: "Founded information theory; published in Bell System Technical Journal."
+
+  # --- software and networks ---
+  - id: fortran-created-1957
+    date: "1957"
+    kind: tech
+    title: "FORTRAN released"
+    who: John Backus, IBM
+
+  - id: strachey-time-sharing-patent-1959
+    date: "1959"
+    kind: patent
+    title: "Time-sharing patent filed"
+    who: Christopher Strachey
+    notes: "No reliable US number on record; concept articulated in his 1959 CACM time-sharing letter."
+
+  - id: unix-starts-1969
+    date: "1969"
+    kind: tech
+    title: "UNIX development begins at Bell Labs"
+    who: Ken Thompson, Dennis Ritchie
+
+  - id: c-language-created-1972
+    date: "1972"
+    kind: tech
+    title: "C programming language created"
+    who: Dennis Ritchie, Bell Labs
+    related: [unix-starts-1969]
+
+  - id: tcp-paper-1974
+    date: "1974-05"
+    kind: paper
+    title: "A Protocol for Packet Network Intercommunication (TCP)"
+    who: Vint Cerf & Bob Kahn
+    refs:
+      doi: 10.1109/tcom.1974.1092259
+
+  - id: lamport-time-clocks-1978
+    date: "1978-07"
+    kind: paper
+    title: "Time, Clocks, and the Ordering of Events in a Distributed System"
+    who: Leslie Lamport
+    refs:
+      doi: 10.1145/359545.359563
+    related: [tcp-paper-1974, gfs-paper-2003, shannon-math-theory-comm-1948]
+    notes: >
+      Logical clocks + the paper that later industrializes as Paxos consensus:
+      Chubby (GFS metadata), ZooKeeper (Hadoop/Spark), etc. Turing Award 2013.
+      Also author of LaTeX. Conceptual link to Shannon 1948: where Shannon
+      reconstructs symbols through a noisy channel, Lamport reconstructs
+      ordering/causality through a network with no global clock (framed via
+      relativity, which descends from Maxwell 1865).
+
+  # --- learning, web, ads ---
+  - id: backprop-nature-1986
+    date: "1986-10"
+    kind: paper
+    title: "Learning representations by back-propagating errors"
+    who: Rumelhart, Hinton & Williams
+    refs:
+      doi: 10.1038/323533a0
+
+  - id: berners-lee-hypertext-1989
+    date: "1989"
+    kind: tech
+    title: "Information Management: A Proposal (hypertext web proposal)"
+    who: Tim Berners-Lee, CERN
+
+  - id: first-banner-ad-1994
+    date: "1994-10-27"
+    kind: business
+    sub: launched
+    title: "First banner ad runs on HotWired"
+    who: AT&T
+
+  - id: doubleclick-founded-1995
+    date: "1995"
+    kind: business
+    sub: founded
+    title: "DoubleClick founded"
+    related: [first-banner-ad-1994]
+
+  - id: pagerank-patent-filed-1998
+    date: "1998-01"
+    kind: patent
+    title: "Method for Node Ranking in a Linked Database filed"
+    who: Larry Page, Stanford
+    refs:
+      patent_number: "6285999"
+    notes: "Granted 2001; exclusively assigned to Google."
+
+  - id: google-founded-1998
+    date: "1998-09"
+    kind: business
+    sub: founded
+    title: "Google founded"
+    who: Larry Page & Sergey Brin
+    related: [pagerank-patent-filed-1998]
+
+  - id: apache-foundation-1999
+    date: "1999"
+    kind: business
+    sub: founded
+    title: "Apache Software Foundation started"
+
+  - id: adwords-launch-2000
+    date: "2000-10"
+    kind: business
+    sub: launched
+    title: "Google AdWords launches"
+    related: [google-founded-1998]
+
+  # --- big data infrastructure ---
+  - id: gfs-paper-2003
+    date: "2003-10"
+    kind: paper
+    title: "The Google File System"
+    who: Ghemawat, Gobioff & Leung
+    refs:
+      title_search: "The Google File System"
+
+  - id: mapreduce-paper-2004
+    date: "2004-12"
+    kind: paper
+    title: "MapReduce: Simplified Data Processing on Large Clusters"
+    who: Dean & Ghemawat
+    refs:
+      title_search: "MapReduce Simplified Data Processing on Large Clusters"
+    related: [gfs-paper-2003]
+
+  - id: nutch-mapreduce-2005
+    date: "2005"
+    kind: tech
+    title: "Nutch ships MapReduce + distributed filesystem implementation"
+    notes: "Became the seed of Hadoop when it split from Nutch in 2006."
+
+  - id: first-ad-exchange-2005
+    date: "2005"
+    kind: business
+    sub: launched
+    title: "First ad exchange launches (Right Media)"
+    who: Brian O'Kelley
+    notes: "Entry credited to 'Brian Kelley'; Right Media's exchange was built by Brian O'Kelley's team."
+
+  - id: quantcast-founded-2006
+    date: "2006"
+    kind: business
+    sub: founded
+    title: "Quantcast founded"
+
+  - id: appnexus-founded-2007
+    date: "2007"
+    kind: business
+    sub: founded
+    title: "AppNexus founded"
+    who: Brian O'Kelley & Mike Nolet
+    related: [first-ad-exchange-2005]
+
+  - id: google-acquires-doubleclick-2008
+    date: "2008"
+    kind: business
+    sub: acquired
+    title: "Google acquires DoubleClick ($3.1B)"
+    related: [doubleclick-founded-1995, google-founded-1998]
+
+  - id: spark-open-sourced-2010
+    date: "2010"
+    kind: tech
+    title: "Spark open sourced by Matei Zaharia (UC Berkeley AMP Lab)"
+    related: [mapreduce-paper-2004]
+    notes: "Hatched against MapReduce's disk-bound model; first paper at NSDI 2012."
+
+  - id: facebook-ipo-2012
+    date: "2012-05-18"
+    kind: business
+    sub: ipo
+    title: "Facebook IPO"
+
+  - id: qfs-paper-2013
+    date: "2013"
+    kind: paper
+    title: "Quantcast File System (QFS)"
+    who: Ovsiannikov et al.
+    refs:
+      title_search: "The Quantcast File System"
+    related: [quantcast-founded-2006, gfs-paper-2003]
+
+  - id: tiktok-precursor-2016
+    date: "2016"
+    kind: tech
+    title: "ByteDance launches Douyin/TikTok precursor"
+
+  - id: attention-paper-2017
+    date: "2017-06"
+    kind: paper
+    title: "Attention Is All You Need"
+    who: Vaswani et al., Google
+    refs:
+      doi: 10.65215/2q58a426
+    related: [backprop-nature-1986]
+    notes: "Canonical OpenAlex record uses this Zenodo-minted DOI rather than an arXiv DOI."
+
+  - id: att-acquires-appnexus-2018
+    date: "2018"
+    kind: business
+    sub: acquired
+    title: "AT&T acquires AppNexus ($1.6B)"
+    related: [appnexus-founded-2007]
+
+  - id: chatgpt-launch-2022
+    date: "2022-11-30"
+    kind: tech
+    title: "ChatGPT launches"
+    related: [attention-paper-2017]

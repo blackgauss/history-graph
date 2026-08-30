@@ -29,7 +29,15 @@ WORK_FIELDS = (
     "type",
     "cited_by_count",
     "referenced_works",
+    "related_works",
     "authorships",
+    "funders",
+    "ids",
+    "counts_by_year",
+    "primary_location",
+    "best_oa_location",
+    "open_access",
+    "abstract_inverted_index",
 )
 
 _TRANSIENT_STATUS = {429, 500, 502, 503, 504}
@@ -121,6 +129,16 @@ class OpenAlexClient:
         results = self.paginate(
             WORKS_PATH,
             {"filter": f"doi:{doi.strip().lower()}"},
+            select=WORK_FIELDS,
+            per_page=BATCH_SIZE,
+        )
+        return next(iter(results), None)
+
+    def get_work_by_title(self, title: str) -> dict[str, Any] | None:
+        """Best-effort resolution via ``title.search``; for works without DOIs."""
+        results = self.paginate(
+            WORKS_PATH,
+            {"filter": "title.search:" + title},
             select=WORK_FIELDS,
             per_page=BATCH_SIZE,
         )
