@@ -14,3 +14,11 @@ stages:
       - src/history_graph/report.py
     outs:
       - data/thread
+  pdfs:
+    cmd: uv run python -m history_graph.download
+    deps:
+      - data/thread
+      - src/history_graph
+      - src/history_graph/download.py
+    outs:
+      - data/pdfs
