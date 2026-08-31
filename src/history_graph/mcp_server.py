@@ -125,6 +125,20 @@ def _scihub() -> SciHubClient:
     return _clients["scihub"]
 
 
+def _s2() -> Any:
+    if "s2" not in _clients:
+        mode = _cassette_mode()
+        if mode:
+            from .testing import s2_client
+
+            _clients["s2"] = s2_client(record=mode == "record")
+        else:
+            from .s2 import SemanticScholarClient
+
+            _clients["s2"] = SemanticScholarClient()
+    return _clients["s2"]
+
+
 def _compact_work(work: dict[str, Any]) -> dict[str, Any]:
     authors = [
         (a.get("author") or {}).get("display_name") for a in work.get("authorships") or []
@@ -453,6 +467,47 @@ def promote_thread(slug: str, repro: bool = False) -> str:
         combined = done.stdout + done.stderr
         summary["repro"] = {"returncode": done.returncode, "tail": combined[-800:]}
     return _cap(summary)
+
+
+# ----------------------------------------------------------------------- insight
+
+
+@tool
+def citation_path(
+    from_work: str, to_work: str, max_hops: int = 5, max_paths: int = 3
+) -> str:
+    """Short citation paths between two works (DOI, OpenAlex ID, or title).
+
+    Bidirectional BFS over references and citations; ranks paths by concept
+    gap, flags nodes present in every path (bridge nodes). Cost-bounded."""
+    from .paths import citation_path as find_paths
+
+    cache = Path(os.environ.get("HG_GRAPH_CACHE", "data/cache")) / "graph_cache.json"
+    result = find_paths(
+        _openalex(),
+        from_work,
+        to_work,
+        max_nodes=max_hops * 40,
+        max_paths=max_paths,
+        cache_dir=cache.parent,
+        cache_name=cache.name,
+    )
+    return _cap(result)
+
+
+@tool
+def citation_context(citing_work: str, cited_work: str) -> str:
+    """How one work cites another (S2): snippet + intent (builds-upon/method/
+
+    comparison/background) — turns a raw citation edge into an argument.
+    Snippets exist for only part of the corpus; absence is stated, not guessed."""
+    from .s2 import SemanticScholarError
+
+    try:
+        found = _s2().citation_context(citing_work, cited_work)
+    except SemanticScholarError as exc:
+        return _cap({"error": str(exc)[:160]})
+    return _cap(found or {"error": "citing work unknown to Semantic Scholar"})
 
 
 def build_server() -> MCPServer:
