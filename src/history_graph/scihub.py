@@ -14,8 +14,8 @@ import time
 from collections.abc import Callable, Sequence
 
 import httpx
-from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponential
 
+from .http import CanNotTell, retry_mirrors
 from .observability import instrument
 
 logger = logging.getLogger(__name__)
@@ -37,19 +37,12 @@ _PDF_PATTERNS = (
     re.compile(r"""location\.href\s*=\s*["']([^"']+)["']"""),
 )
 
-_TRANSIENT_STATUS = {429, 500, 502, 503, 504}
+class SciHubError(CanNotTell):
+    """Raised when no mirror yields a PDF for a DOI (coverage shifts; retry later)."""
+
+    reason = "unavailable"
 
 
-class SciHubError(RuntimeError):
-    """Raised when no mirror yields a PDF for a DOI."""
-
-
-def _is_transient(exc: BaseException) -> bool:
-    if isinstance(exc, httpx.ConnectError):
-        return False  # DNS/TLS failures will not heal between attempts
-    if isinstance(exc, httpx.TransportError):
-        return True
-    return isinstance(exc, httpx.HTTPStatusError) and exc.response.status_code in _TRANSIENT_STATUS
 
 
 def _looks_like_pdf(content: bytes, content_type: str) -> bool:
@@ -108,12 +101,7 @@ class SciHubClient:
             self._sleep(wait)
         self._last_request_monotonic = self._clock()
 
-    @retry(
-        retry=retry_if_exception(_is_transient),
-        wait=wait_exponential(multiplier=0.5, max=8),
-        stop=stop_after_attempt(5),
-        reraise=True,
-    )
+    @retry_mirrors
     def _get(self, url: str, *, referer: str | None = None) -> httpx.Response:
         headers = {"Referer": referer} if referer else {}
         with instrument("http.scihub"):

@@ -12,8 +12,8 @@ from collections.abc import Callable, Iterator, Mapping, Sequence
 from typing import Any
 
 import httpx
-from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponential
 
+from .http import CanNotTell, bad_format_error, http_status_outcome, retry_transient
 from .observability import instrument
 
 BASE_URL = "https://api.openalex.org"
@@ -42,17 +42,12 @@ WORK_FIELDS = (
     "abstract_inverted_index",
 )
 
-_TRANSIENT_STATUS = {429, 500, 502, 503, 504}
-
-
-class OpenAlexError(RuntimeError):
+class OpenAlexError(CanNotTell):
     """Raised when the API responds in an unexpected shape."""
 
+    reason = "server_error"
 
-def _is_transient(exc: BaseException) -> bool:
-    if isinstance(exc, httpx.TransportError):
-        return True
-    return isinstance(exc, httpx.HTTPStatusError) and exc.response.status_code in _TRANSIENT_STATUS
+
 
 
 class OpenAlexClient:
@@ -85,20 +80,25 @@ class OpenAlexClient:
             self._sleep(wait)
         self._last_request_monotonic = self._clock()
 
-    @retry(
-        retry=retry_if_exception(_is_transient),
-        wait=wait_exponential(multiplier=0.5, max=8),
-        stop=stop_after_attempt(5),
-        reraise=True,
-    )
-    def _request(self, path: str, params: Mapping[str, Any]) -> dict[str, Any]:
+    @retry_transient
+    def _fetch(self, path: str, params: Mapping[str, Any]) -> httpx.Response:
         merged: dict[str, Any] = {"mailto": self._mailto} if self._mailto else {}
         merged.update(params)
         with instrument("http.openalex"):
             self._throttle()
             response = self._http.get(path, params=merged)
-            response.raise_for_status()
+        response.raise_for_status()
+        return response
+
+    def _request(self, path: str, params: Mapping[str, Any]) -> dict[str, Any]:
+        try:
+            response = self._fetch(path, params)
+        except httpx.HTTPError as exc:  # status + transport: never raw, always typed
+            raise http_status_outcome(OpenAlexError, exc) from exc
+        try:
             payload = response.json()
+        except ValueError as exc:
+            raise bad_format_error(OpenAlexError, path) from exc
         if not isinstance(payload, dict):
             raise OpenAlexError(f"Expected JSON object from {path}, got {type(payload)!r}")
         return payload

@@ -8,7 +8,7 @@ import conftest
 import httpx
 import pytest
 
-from history_graph.client import OpenAlexClient
+from history_graph.client import OpenAlexClient, OpenAlexError
 
 
 def test_paginate_walks_cursor_pages(client_factory) -> None:
@@ -110,10 +110,11 @@ def test_retry_gives_up_after_five_attempts(client_factory) -> None:
         return httpx.Response(503)
 
     client = client_factory(handler)
-    with pytest.raises(httpx.HTTPStatusError):
+    with pytest.raises(OpenAlexError) as exc_info:
         list(client.paginate("/works"))
 
     assert attempts == 5
+    assert exc_info.value.reason == "server_error"
 
 
 def test_mailto_is_sent_for_polite_pool(client_factory) -> None:

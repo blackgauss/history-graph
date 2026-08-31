@@ -14,19 +14,28 @@ from collections.abc import Callable
 from typing import Any
 
 import httpx
-from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_exponential
 
+from .http import (
+    CanNotTell,
+    bad_format_error,
+    http_status_outcome,
+    retry_transient,
+)
 from .observability import instrument
 
 BASE_URL = "https://patents.google.com"
 
 
-class PatentError(RuntimeError):
+class PatentError(CanNotTell):
     """Unexpected response shape from the patents endpoints."""
+
+    reason = "server_error"
 
 
 class PatentCaptchaError(PatentError):
     """Google's bot wall was served; retry later (like sci-hub captcha)."""
+
+    reason = "bot_walled"
 
 
 def _rows(payload: dict[str, Any]) -> list[dict[str, Any]]:
@@ -79,26 +88,29 @@ class PatentSearchClient:
             self._sleep(wait)
         self._last = self._clock()
 
-    @retry(
-        retry=retry_if_exception_type(httpx.TransportError),
-        wait=wait_exponential(multiplier=0.5, max=5),
-        stop=stop_after_attempt(2),
-        reraise=True,
-    )
-    def _get(self, path: str, *, url: str, referer: str | None = None) -> Any:
+    @retry_transient
+    def _fetch(self, path: str, *, url: str, referer: str | None = None) -> httpx.Response:
         with instrument("http.googlepatents"):
             self._throttle()
             response = self._http.get(
                 path, params={"url": url}, headers=({"Referer": referer} if referer else None)
             )
-            if "Sorry" in response.text[:400]:
-                raise PatentCaptchaError("google bot wall; retry later")
-            if response.status_code >= 400:
-                raise PatentError(f"status {response.status_code} for {url}")
-            try:
-                return json.loads(response.text)
-            except json.JSONDecodeError as exc:
-                raise PatentError(f"non-JSON body from {path}") from exc
+        if "Sorry" in response.text[:400]:  # bot wall: raised, never retried or parsed
+            raise PatentCaptchaError("google bot wall; retry later")
+        if response.status_code == 429:
+            raise httpx.HTTPStatusError("429", request=response.request, response=response)
+        response.raise_for_status()
+        return response
+
+    def _get(self, path: str, *, url: str, referer: str | None = None) -> Any:
+        try:
+            response = self._fetch(path, url=url, referer=referer)
+        except httpx.HTTPError as exc:
+            raise http_status_outcome(PatentError, exc) from exc
+        try:
+            return json.loads(response.text)
+        except ValueError as exc:
+            raise bad_format_error(PatentError, path) from exc
 
     @staticmethod
     def _inner(q: str, *, after: int | None = None, before: int | None = None) -> str:

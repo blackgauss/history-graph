@@ -12,8 +12,13 @@ from collections.abc import Callable
 from typing import Any
 
 import httpx
-from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_exponential
 
+from .http import (
+    CanNotTell,
+    bad_format_error,
+    http_status_outcome,
+    retry_transient,
+)
 from .observability import instrument
 
 BASE_URL = "https://api.semanticscholar.org/graph/v1"
@@ -40,8 +45,10 @@ def classify_context(context: str | None, intents: list[str] | None) -> str:
     return "reference" if not text else "mention"
 
 
-class SemanticScholarError(RuntimeError):
+class SemanticScholarError(CanNotTell):
     """Raised when the S2 Graph API responds in an unexpected shape."""
+
+    reason = "server_error"
 
 
 class SemanticScholarClient:
@@ -69,20 +76,28 @@ class SemanticScholarClient:
             self._sleep(wait)
         self._last = self._clock()
 
-    @retry(
-        retry=retry_if_exception_type(httpx.TransportError),
-        wait=wait_exponential(multiplier=0.5, max=5),
-        stop=stop_after_attempt(3),
-        reraise=True,
-    )
-    def _get(self, path: str, params: dict[str, Any]) -> dict[str, Any]:
+    @retry_transient
+    def _fetch(self, path: str, params: dict[str, Any]) -> httpx.Response:
         with instrument("http.semanticscholar"):
             self._throttle()
             response = self._http.get(path, params=params)
-            if response.status_code in (429, 404):
-                return {"__status__": response.status_code}
+        if response.status_code == 429:
+            raise httpx.HTTPStatusError("429", request=response.request, response=response)
+        if response.status_code != 404:
             response.raise_for_status()
+        return response
+
+    def _get(self, path: str, params: dict[str, Any]) -> dict[str, Any]:
+        try:
+            response = self._fetch(path, params)
+        except httpx.HTTPError as exc:
+            raise http_status_outcome(SemanticScholarError, exc) from exc
+        if response.status_code == 404:
+            return {"__status__": 404}
+        try:
             payload = response.json()
+        except ValueError as exc:
+            raise bad_format_error(SemanticScholarError, path) from exc
         if not isinstance(payload, dict):
             raise SemanticScholarError(f"expected object from {path}")
         return payload
