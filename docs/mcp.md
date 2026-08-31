@@ -36,3 +36,8 @@ is the approval step (comment-preserving append).
 
 `OPENALEX_MAILTO`, `SCIHUB_MIRROR`, `HG_THREAD_DIR`, `HG_PDFS_DIR`,
 `HG_PROPOSED_DIR`, `HG_THREAD_YAML`, `HG_SEED_TXT`.
+
+Testing/recording: `HG_CASSETTES=1` makes the server replay all HTTP from
+`tests/cassettes` (offline, deterministic); `HG_CASSETTE_MODE=record` records
+a fresh live pass into them instead (see `scripts/record_cassettes.py` and
+`tests/test_lineage_scenario.py`).

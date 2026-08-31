@@ -104,6 +104,7 @@ def test_search_fulltext_quotes_cassette_pdf(workspace: Path) -> None:
     hit = call("search_fulltext", query="convolutional")
     assert hit["corpus_files"] == 1 and hit["hits"]
     assert "convolutional" in hit["hits"][0]["excerpt"].lower()
+    assert {"file", "excerpt", "title"} <= set(hit["hits"][0])
 
 
 # ----------------------------------------------------------------------- proposals

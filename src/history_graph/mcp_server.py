@@ -87,17 +87,36 @@ def _read_csv(path: Path) -> list[dict[str, str]]:
 _clients: dict[str, Any] = {}
 
 
+def _cassette_mode() -> str:
+    """Set HG_CASSETTES=1 to run all HTTP through tests/cassettes
+    (HG_CASSETTE_MODE=record to extend them live instead of replaying)."""
+    mode = os.environ.get("HG_CASSETTE_MODE")
+    return mode or ("replay" if os.environ.get("HG_CASSETTES") else "")
+
+
 def _openalex() -> OpenAlexClient:
     if "openalex" not in _clients:
-        _clients["openalex"] = OpenAlexClient(
-            mailto=os.environ.get("OPENALEX_MAILTO", "history-graph@localhost")
-        )
+        mode = _cassette_mode()
+        if mode:
+            from .testing import openalex_client
+
+            _clients["openalex"] = openalex_client(record=mode == "record")
+        else:
+            _clients["openalex"] = OpenAlexClient(
+                mailto=os.environ.get("OPENALEX_MAILTO", "history-graph@localhost")
+            )
     return _clients["openalex"]
 
 
 def _scihub() -> SciHubClient:
     if "scihub" not in _clients:
-        _clients["scihub"] = SciHubClient()
+        mode = _cassette_mode()
+        if mode:
+            from .testing import scihub_client
+
+            _clients["scihub"] = scihub_client(record=mode == "record")
+        else:
+            _clients["scihub"] = SciHubClient()
     return _clients["scihub"]
 
 
@@ -186,7 +205,8 @@ def get_paper(entry_or_doi: str) -> str:
         }
         record = dict(paper)
         abstract = reconstruct_abstract(record.pop("abstract_inverted_index", None))
-        compacted = _compact_work({"id": record.get("openalex_id"), **record})
+        compact_source = {**record, "id": record.get("openalex_id")}
+        compacted = _compact_work(compact_source)
         edges = [
             e
             for e in _read_csv(_thread_dir() / "internal_citations.csv")
@@ -268,7 +288,7 @@ def search_fulltext(query: str, context_chars: int = 200, limit: int = 5) -> str
     """Quote matches for `query` in extracted PDF full texts of the thread."""
     text_dir = _pdfs_dir() / TEXT_DIR
     titles = {
-        doi_to_filename(p.get("doi") or ""): p.get("title")
+        doi_to_filename(p.get("doi") or "").removesuffix(".pdf"): p.get("title")
         for p in _read_jsonl(_thread_dir() / "papers.jsonl")
     }
     corpus = sorted(text_dir.glob("*.txt")) if text_dir.exists() else []
@@ -283,7 +303,7 @@ def search_fulltext(query: str, context_chars: int = 200, limit: int = 5) -> str
         hits.append(
             {
                 "file": txt.name,
-                "title": titles.get(txt.name),
+                "title": titles.get(txt.stem),
                 "excerpt": " ".join(snippet.split()),
             }
         )
@@ -308,7 +328,7 @@ def fetch_pdf(doi: str) -> str:
     finally:
         tmp_seeds.unlink(missing_ok=True)
     key = normalize_doi(doi)
-    text_path = pdf_dir / TEXT_DIR / (doi_to_filename(key) + ".txt")
+    text_path = pdf_dir / TEXT_DIR / (doi_to_filename(key).removesuffix(".pdf") + ".txt")
     return _cap(
         {
             "status": "downloaded" if key in manifest["files"] else "failed",
