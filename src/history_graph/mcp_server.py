@@ -543,20 +543,53 @@ def patent_links(publication_number: str, page: int = 0) -> str:
     """Citations around a patent: citing patents, plus (best-effort) academic
 
     works citing it — the patent<->paper bridge OpenAlex usually lacks.
-    The academic half is captcha-prone; when walled the rest still returns."""
+    When Google walls us, falls back to OpenAlex's patent record (indexed
+    coverage is spotty for pre-1976 patents); failures are labeled, not faked."""
     from .uspto import PatentError
 
     out: dict[str, Any] = {"publication_number": publication_number}
+    walled = False
     try:
         out["cited_by_patents"] = _patents().citing(publication_number, page=page)
     except PatentError as exc:
-        out["cited_by_patents"] = {"error": str(exc)[:120]}
+        out["cited_by_patents"] = None
+        out["google_note"] = str(exc)[:120]
+        walled = True
     try:
         out["cited_by_papers"] = _patents().scholar(publication_number, "forward")["works"]
     except PatentError as exc:
         out["cited_by_papers"] = None
         out["scholar_note"] = str(exc)[:120]
+        walled = True
+    if walled:
+        fallback = _openalex_patent_citations(publication_number)
+        if fallback is not None:
+            out["fallback"] = fallback
+        else:
+            out["fallback"] = {"reason": "not indexed on OpenAlex either; retry Google later"}
     return _cap(out)
+
+
+def _openalex_patent_citations(publication_number: str) -> dict[str, Any] | None:
+    bare = publication_number[:-1] if publication_number[-1:] in {"A", "B"} else publication_number
+    for num in dict.fromkeys((bare, publication_number)):
+        doi = f"https://patents.google.com/patent/{num}"
+        work = next(iter(_openalex().paginate(
+            "/works", {"filter": f"type:patent,doi:{doi}"},
+            select=["id", "doi", "title", "publication_year"], per_page=5,
+        )), None)
+        if work is None:
+            continue
+        citing = [
+            {"openalex_id": w["id"], "title": w.get("title"), "year": w.get("publication_year")}
+            for w in _openalex().iter_citing_works(work["id"], max_pages=1)
+        ][:20]
+        return {
+            "source": "openalex",
+            "work": {k: work.get(k) for k in ("id", "doi", "title", "publication_year")},
+            "cited_by_papers": citing,
+        }
+    return None
 
 
 @tool
