@@ -19,10 +19,46 @@ from __future__ import annotations
 
 import time
 from collections.abc import Callable
+from pathlib import Path
 from typing import Any
 
 import httpx
 from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponential
+
+REPO_ENV_FILE = Path(__file__).resolve().parents[2] / ".env"
+
+
+def parse_env_file(text: str) -> dict[str, str]:
+    """Minimal dotenv parsing: KEY=VALUE lines, comments/blank skipped."""
+    out: dict[str, str] = {}
+    for line in text.splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        value = value.split(" #", 1)[0].strip().strip("\"'")
+        if key.strip():
+            out[key.strip()] = value
+    return out
+
+
+def dotenv_defaults(path: Path = REPO_ENV_FILE, environ: dict[str, str] | None = None) -> None:
+    """Seed config from the repo's .env without clobbering real env vars.
+
+    Removes the spawn-time-env footgun: MCP servers inherit opencode's cached
+    config environment, but this repo's settings (and the OpenAlex key) live
+    next to the code, where they cannot go stale.
+    """
+    import os
+
+    try:
+        values = parse_env_file(path.read_text(encoding="utf-8"))
+    except OSError:
+        return
+    target = os.environ if environ is None else environ
+    for key, value in values.items():
+        target.setdefault(key, value)
+
 
 TRANSIENT_STATUSES = {429, 500, 502, 503, 504}
 RETRYABLE_BUDGET_MARKER = b"Insufficient budget"

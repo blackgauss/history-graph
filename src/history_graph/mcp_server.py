@@ -29,6 +29,7 @@ from mcp.server.mcpserver import MCPServer
 from . import candidates
 from .client import OpenAlexClient
 from .download import TEXT_DIR, doi_to_filename, extract_pdf_texts, normalize_doi, run_download
+from .http import dotenv_defaults
 from .proposals import apply_proposals as _apply_proposals
 from .proposals import list_proposals as _list_proposals
 from .proposals import propose_event as _propose_event
@@ -37,6 +38,9 @@ from .report import reconstruct_abstract
 from .scihub import SciHubClient
 
 MAX_CHARS = 12_000
+
+# spawn-time env can be stale (opencode caches config); repo .env is authoritative
+dotenv_defaults()
 
 TOOLS: list[Any] = []
 

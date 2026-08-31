@@ -69,3 +69,16 @@ def test_non_json_success_body_is_bad_format_not_data():
     with pytest.raises(OpenAlexError) as exc_info:
         client._request("/works", {})
     assert exc_info.value.reason == "bad_format"
+
+
+def test_env_file_seeds_without_clobbering(tmp_path):
+    from history_graph.http import dotenv_defaults, parse_env_file
+
+    env_file = tmp_path / ".env"
+    env_file.write_text('A=1\nB = "two"  # trailing\n# comment\nC=\'3\'\nD=4 # real comment\n')
+    env = dict(parse_env_file(env_file.read_text()))
+    assert env == {"A": "1", "B": "two", "C": "3", "D": "4"}
+
+    environ = {"A": "already-set"}
+    dotenv_defaults(env_file, environ)
+    assert environ == {"A": "already-set", "B": "two", "C": "3", "D": "4"}
