@@ -1,7 +1,7 @@
 {
-  "entries": 45,
+  "entries": 41,
   "outputs": {
-    "events.jsonl": 45,
+    "events.jsonl": 41,
     "papers.jsonl": 11
   },
   "papers_resolved": 11,

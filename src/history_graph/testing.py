@@ -106,6 +106,12 @@ class _Recorder(httpx.BaseTransport):
             # saved entry instead of going live again
             self._interactions.pop(key, None)
             self.save()
+            if b"Insufficient budget" in response.content:
+                raise RuntimeError(
+                    "OpenAlex credit budget exhausted for this IP (resets at "
+                    "midnight UTC); resume recording later -- recorded "
+                    "entries are kept"
+                )
             return response
         saved = response
         headers = {h: saved.headers[h] for h in saved.headers if h.lower() in _STORED_HEADERS}

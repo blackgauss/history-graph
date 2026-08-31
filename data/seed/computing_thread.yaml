@@ -327,39 +327,3 @@ entries:
     kind: tech
     title: "ChatGPT launches"
     related: [attention-paper-2017]
-
-  - id: patent-widrow-adaptive-memory-1965
-    date: "1965-05-27"
-    kind: patent
-    title: "US3395402A — Adaptive memory element (Memistor)"
-    who: "Bernard Widrow / Memistor Corp"
-    refs:
-      patent_number: "US3395402A"
-    notes: "Adaptive weight element patented by the ADALINE co-inventor; origin anchor alongside the perceptron patent. [proposal evidence: Google Patents search (inventor Widrow, 1956-1975) returned US3395402A 'Adaptive memory element', assignee Memistor Corp, priority_date 1965-05-27, grant_date 1968-07-30.]"
-
-  - id: patent-rosenblatt-perceptron-1963
-    date: "1963-09-09"
-    kind: patent
-    title: "US3287649A — Audio signal pattern perception device (perceptron)"
-    who: "Frank Rosenblatt / Research Corp"
-    refs:
-      patent_number: "US3287649A"
-    notes: "Hardware embodiment of perceptron pattern perception (priority 1963-09-09, granted 1966-11-22). Companion to patent-widrow-adaptive-memory-1965 as an origin point of machine learning. [proposal evidence: Google Patents search (inventor Rosenblatt, 1956-1970) returned exactly one hit: US3287649A 'Audio signal pattern perception device', assignee Research Corp, priority_date 1963-09-09, grant_date 1966-11-22; claims a 'perceptron device' with threshold-response units per frequency band.]"
-
-  - id: patent-google-word-vectors-2013
-    date: "2013-12-09"
-    kind: patent
-    title: "US9514098B1 — Iteratively learning coreference embeddings of noun phrases"
-    who: "Google (Amarnag Subramanya et al.)"
-    refs:
-      patent_number: "US9514098B1"
-    notes: "Industrialized the word2vec-era distributed-representation idea (priority 2013-12-09, granted 2016-12-06); contemporary of mikolov-efficient-estimation-of-2013. [proposal evidence: Google Patents search (assignee Google, 'word vector semantic representation', post-2012) returned US9514098B1 'Iteratively learning coreference embeddings of noun phrases using feature...', priority_date 2013-12-09, grant_date 2016-12-06, expressly built on distributed word representations.]"
-
-  - id: patent-google-pretrained-projections-2019
-    date: "2019-02-14"
-    kind: patent
-    title: "US11526680B2 — Pre-trained projection networks for transferable natural language representations"
-    who: "Google / Sujith Ravi"
-    refs:
-      patent_number: "US11526680B2"
-    notes: "Patent side of modern transferable text-embedding models (priority 2019-02-14, granted 2022-12-13); endpoint of the Rosenblatt→Mikolov→embedding lineage. [proposal evidence: Google Patents search (assignee Google) returned US11526680B2 'Pre-trained projection networks for transferable natural language representation generators', inventor Sujith Ravi, priority_date 2019-02-14, grant_date 2022-12-13, covering pre-training schemes for transferable representation generators.]"

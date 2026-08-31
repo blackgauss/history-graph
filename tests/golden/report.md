@@ -1,6 +1,6 @@
 # Computing thread report
 
-- Timeline entries: **45** (business=15, paper=11, tech=11, patent=8)
+- Timeline entries: **41** (business=15, paper=11, tech=11, patent=4)
 - Papers resolved: **11**
 - Internal citation edges among thread papers: **2**
 - Milestone gap in years — min 0, median 2, max 56
