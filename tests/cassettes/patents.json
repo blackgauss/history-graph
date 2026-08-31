@@ -1,0 +1,9 @@
+{
+  "GET https://patents.google.com/xhr/query?url=citing%3DUS2466157A": {
+    "body_file": "patents/bodies/cff92047ffdcde0b.bin",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "status": 200
+  }
+}
