@@ -145,3 +145,4 @@ def test_s2_to_s2_id_forms():
     assert s2.SemanticScholarClient.to_s2_id("10.1038/x") == "doi:10.1038/x"
     assert s2.SemanticScholarClient.to_s2_id("ARXIV:1706.03762") == "ARXIV:1706.03762"
     assert s2.SemanticScholarClient.to_s2_id("https://doi.org/10.1/x") == "doi:10.1/x"
+

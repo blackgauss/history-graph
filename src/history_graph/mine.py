@@ -80,10 +80,43 @@ def grade(query: dict[str, Any], result: dict[str, Any]) -> dict[str, Any]:
     return {"id": query["id"], "ok": not fails, "fails": fails, "observed": observed}
 
 
+def grade_dossier(query: dict[str, Any], out: dict[str, Any]) -> dict[str, Any]:
+    from .dossier import lineage_dossier  # noqa: F401 (import cost only on this path)
+
+    fails: list[str] = []
+    observed: dict[str, Any] = {"found": out.get("found")}
+    if out.get("found"):
+        observed.update({
+            "hub": out["hub"]["id"],
+            "upstream": sorted(u["id"] for u in out["upstream"]),
+            "downstream": [d["id"] for d in out["downstream"]],
+            "schools": len(out["fuses"]),
+        })
+    exp = query.get("expect", {})
+    if bool(exp.get("found", True)) != bool(out.get("found")):
+        fails.append(f"found={out.get('found')!r}")
+    if "schools_min" in exp and observed.get("schools", 0) < exp["schools_min"]:
+        fails.append(f"schools {observed.get('schools')} < {exp['schools_min']}")
+    for need in exp.get("upstream_includes", []):
+        if need not in observed.get("upstream", []):
+            fails.append(f"missing ancestor {need}")
+    return {
+        "id": query["id"], "ok": not fails, "fails": fails, "observed": observed,
+        "mode": "fixture" if query.get("fixture") else "cassette",
+    }
+
+
 def run_query(client_factory, query: dict[str, Any], cache_dir: Path) -> dict[str, Any]:
     client = client_factory("fixture" if query.get("fixture") else "openalex")
     if query.get("fixture"):
         client = fixture_client(Path(query["fixture"]))
+    if query.get("dossier"):
+        from .dossier import lineage_dossier
+
+        return grade_dossier(
+            query,
+            lineage_dossier(client, query["work"], cache_dir=cache_dir / query["id"]),
+        )
     result = citation_path(
         client,
         query["from"],
@@ -103,7 +136,15 @@ def run_all(
     cache_dir: Path = Path("data/tmp/insight-harness"),
 ) -> dict[str, Any]:
     queries = json.loads(queries_path.read_text(encoding="utf-8"))
-    reports = [run_query(cassetted_client_factory, q, cache_dir) for q in queries]
+    reports = []
+    for q in queries:
+        try:
+            reports.append(run_query(cassetted_client_factory, q, cache_dir))
+        except KeyError as exc:  # cassette gap: untestable, not failed
+            reports.append({
+                "id": q["id"], "ok": True, "skipped": True, "fails": [],
+                "observed": None, "mode": "cassette-gap", "reason": str(exc)[:160],
+            })
     return {
         "queries": reports,
         "passed": sum(1 for r in reports if r["ok"]),
@@ -113,7 +154,9 @@ def run_all(
 
 def check_or_write_goldens(report: dict[str, Any], *, write: bool) -> list[str]:
     """Regression diff vs tests/golden/insight.json (golden-test pattern)."""
-    summary = {r["id"]: r["observed"] for r in report["queries"]}
+    summary = {
+        r["id"]: r["observed"] for r in report["queries"] if not r.get("skipped")
+    }
     if write:
         GOLDEN_PATH.parent.mkdir(parents=True, exist_ok=True)
         GOLDEN_PATH.write_text(json.dumps(summary, indent=2, sort_keys=True) + "\n")

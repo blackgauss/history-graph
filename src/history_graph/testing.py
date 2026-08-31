@@ -22,6 +22,7 @@ from .scihub import SciHubClient
 
 CASSETTE_DIR = Path("tests/cassettes")
 _STRIP_PARAMS = {"mailto"}
+_TRANSIENT_STATUSES = {429, 500, 502, 503, 504}
 _STORED_HEADERS = {"content-type", "retry-after", "location"}
 _INLINE_BODY_MAX = 48_000  # larger payloads land in deduped body files
 
@@ -100,6 +101,18 @@ class _Recorder(httpx.BaseTransport):
     def handle_request(self, request: httpx.Request) -> httpx.Response:
         key = request_key(request)
         response = self._live.send(request, follow_redirects=True)
+        if response.status_code in _TRANSIENT_STATUSES:
+            # persisting a 429/5xx poisons the cassette: the retry re-reads the
+            # saved entry instead of going live again
+            self._interactions.pop(key, None)
+            self.save()
+            if b"Insufficient budget" in response.content:
+                raise RuntimeError(
+                    "OpenAlex credit budget exhausted for this IP (resets at "
+                    "midnight UTC); resume recording later -- recorded "
+                    "entries are kept"
+                )
+            return response
         saved = response
         headers = {h: saved.headers[h] for h in saved.headers if h.lower() in _STORED_HEADERS}
         self._interactions[key] = {
@@ -128,7 +141,14 @@ def zero_clock() -> float:
 
 
 def openalex_client(name: str = "openalex", *, record: bool = False) -> OpenAlexClient:
-    """Replaying OpenAlex client by default; ``record=True`` hits the live API."""
+    """Replaying OpenAlex client by default; ``record=True`` hits the live API.
+
+    Record mode sleeps for real (no_sleep would burst past OpenAlex's flood
+    control) and honors ``OPENALEX_MAILTO`` for the polite pool.
+    """
+    import os
+    import time
+
     cassette = Cassette(name)
     if record:
         live = httpx.Client(timeout=30.0)
@@ -137,10 +157,10 @@ def openalex_client(name: str = "openalex", *, record: bool = False) -> OpenAlex
         transport = cassette.transport()
     http = httpx.Client(base_url=BASE_URL, transport=transport)
     return OpenAlexClient(
-        mailto="cassette@history-graph.local",
+        mailto=os.environ.get("OPENALEX_MAILTO", "cassette@history-graph.local"),
         http=http,
-        clock=zero_clock,
-        sleep=no_sleep,
+        clock=time.monotonic if record else zero_clock,
+        sleep=time.sleep if record else no_sleep,
     )
 
 
