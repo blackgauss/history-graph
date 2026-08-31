@@ -17,7 +17,7 @@ from typing import Any
 
 import httpx
 
-from .client import BASE_URL, OpenAlexClient
+from .client import BASE_URL, OpenAlexClient, OpenAlexError
 from .scihub import SciHubClient
 
 CASSETTE_DIR = Path("tests/cassettes")
@@ -107,11 +107,13 @@ class _Recorder(httpx.BaseTransport):
             self._interactions.pop(key, None)
             self.save()
             if b"Insufficient budget" in response.content:
-                raise RuntimeError(
+                err = OpenAlexError(
                     "OpenAlex credit budget exhausted for this IP (resets at "
                     "midnight UTC); resume recording later -- recorded "
                     "entries are kept"
                 )
+                err.reason = "rate_limited"
+                raise err
             return response
         saved = response
         headers = {h: saved.headers[h] for h in saved.headers if h.lower() in _STORED_HEADERS}

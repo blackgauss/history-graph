@@ -8,7 +8,7 @@ import httpx
 import pytest
 
 from history_graph import observability
-from history_graph.client import OpenAlexClient
+from history_graph.client import OpenAlexClient, OpenAlexError
 from history_graph.scihub import SciHubClient
 from history_graph.testing import Cassette, no_sleep, request_key, zero_clock
 
@@ -106,7 +106,7 @@ def test_openalex_client_uses_injected_sleep_for_throttle() -> None:
         clock=lambda: float(next(ticks)),
         sleep=slept.append,
     )
-    with pytest.raises(httpx.HTTPStatusError):
+    with pytest.raises(OpenAlexError):
         client._request("/works", {})
     assert slept and slept[0] <= 0.2  # 0.12s polite-pool gap, never real sleeping
 
