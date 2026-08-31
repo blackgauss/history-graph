@@ -46,6 +46,7 @@ def workspace(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> Path:
     monkeypatch.setenv("HG_PROPOSED_DIR", str(tmp_path / "proposed"))
     monkeypatch.setenv("HG_THREAD_YAML", str(seeded / "thread.yaml"))
     monkeypatch.setenv("HG_SEED_TXT", str(seeded / "dois.txt"))
+    monkeypatch.setenv("HG_ALLOW_CURATED_WRITES", "1")  # tests play the human
     return tmp_path
 
 
@@ -65,6 +66,19 @@ def test_thread_status_reports_counts(workspace: Path) -> None:
         assert status[key] == len([x for x in lines if x.strip()])
     assert status["papers"] >= 11 and status["events"] >= 41
     assert status["unresolved_papers"] == []
+
+
+def test_curated_writes_are_human_gated(workspace: Path, monkeypatch) -> None:
+    call(
+        "propose_event",
+        entry={"id": "gated-1991", "date": "1991", "kind": "paper", "title": "Gated"},
+        evidence="unit test",
+    )
+    monkeypatch.delenv("HG_ALLOW_CURATED_WRITES")
+    refused = call("apply_proposals", repro=False)
+    assert refused["applied"] is False and "human" in refused["hint"]
+    assert call("list_proposals")["events"], "proposal must stay quarantined"
+    assert call("promote_thread", slug="whatever", repro=False)["applied"] is False
 
 
 def test_list_events_filters_by_year_and_text(workspace: Path) -> None:

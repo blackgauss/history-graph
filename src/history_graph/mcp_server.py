@@ -385,10 +385,28 @@ def list_proposals() -> str:
 
 
 @tool
+def _curated_gate(tool: str) -> str | None:
+    """Curated-input writes are human-gated: agents must propose, not edit.
+
+    Returns a JSON refusal unless HG_ALLOW_CURATED_WRITES=1 in the server env
+    (a human setting), so autonomous sessions cannot bless the seed or goldens."""
+    if os.environ.get("HG_ALLOW_CURATED_WRITES") == "1":
+        return None
+    return _cap({
+        "applied": False,
+        "reason": "curated writes are human-gated",
+        "tool": tool,
+        "hint": "propose is enough; a human re-runs this with HG_ALLOW_CURATED_WRITES=1",
+    })
+
+
+@tool
 def apply_proposals(repro: bool = False) -> str:
     """Approve all proposals: append entries/seeds to curated inputs.
 
     With repro=True also runs `uv run dvc repro` afterwards (slow, network)."""
+    if gated := _curated_gate("apply_proposals"):
+        return gated
     summary = _apply_proposals(
         proposed_dir=_proposed_dir(), thread_yaml=_thread_yaml(), seed_txt=_seed_txt()
     )
@@ -455,6 +473,8 @@ def promote_thread(slug: str, repro: bool = False) -> str:
     """Approve a candidate thread: append its entries to the curated thread YAML.
 
     With repro=True also runs `uv run dvc repro` afterwards (slow, network)."""
+    if gated := _curated_gate("promote_thread"):
+        return gated
     summary = candidates.promote_thread(
         slug, candidate_dir=_candidate_dir(), thread_yaml=_thread_yaml()
     )
