@@ -26,6 +26,7 @@ from typing import Any
 
 from mcp.server.mcpserver import MCPServer
 
+from . import candidates
 from .client import OpenAlexClient
 from .download import TEXT_DIR, doi_to_filename, extract_pdf_texts, normalize_doi, run_download
 from .proposals import apply_proposals as _apply_proposals
@@ -55,6 +56,10 @@ def _pdfs_dir() -> Path:
 
 def _proposed_dir() -> Path:
     return Path(os.environ.get("HG_PROPOSED_DIR", "data/proposed"))
+
+
+def _candidate_dir() -> Path:
+    return Path(os.environ.get("HG_CANDIDATES_DIR", "data/candidates"))
 
 
 def _thread_yaml() -> Path:
@@ -383,6 +388,70 @@ def apply_proposals(repro: bool = False) -> str:
             "returncode": done.returncode,
             "tail": (done.stdout + done.stderr)[-800:],
         }
+    return _cap(summary)
+
+
+# --------------------------------------------------------------------- threads
+
+
+@tool
+def propose_thread(slug: str, claim: str, seed_dois: list[str]) -> str:
+    """Start a candidate thread (hypothesis) from seed DOIs; seeds become entries.
+
+    Candidate threads live in data/candidates/ and never touch curated data."""
+    return _cap(
+        candidates.propose_thread(
+            _openalex(), candidates.slugify(slug), claim, seed_dois,
+            candidate_dir=_candidate_dir(),
+        )
+    )
+
+
+@tool
+def list_candidate_threads() -> str:
+    """Names + claims of candidate threads on disk."""
+    return _cap(candidates.list_threads(_candidate_dir()))
+
+
+@tool
+def test_thread(slug: str) -> str:
+    """Deterministic scorecard: resolution, dangling links, chronology, gaps,
+
+    citation support per related edge (cites-backwards / co-cited /
+    metadata-blind), evidence coverage, verdict, issue list."""
+    return _cap(candidates.score_thread(_openalex(), slug, candidate_dir=_candidate_dir()))
+
+
+@tool
+def grow_thread(slug: str, limit: int = 8) -> str:
+    """Rank suggestions for the next entry: shared cited ancestors, then citing works.
+
+    Feed chosen ones back via add_thread_entries, then test_thread again."""
+    return _cap(candidates.frontier(_openalex(), slug, limit=limit, candidate_dir=_candidate_dir()))
+
+
+@tool
+def add_thread_entries(slug: str, entries: list[dict]) -> str:
+    """Append schema-validated entries to a candidate thread (dedup by id)."""
+    return _cap(candidates.add_entries(slug, entries, candidate_dir=_candidate_dir()))
+
+
+@tool
+def promote_thread(slug: str, repro: bool = False) -> str:
+    """Approve a candidate thread: append its entries to the curated thread YAML.
+
+    With repro=True also runs `uv run dvc repro` afterwards (slow, network)."""
+    summary = candidates.promote_thread(
+        slug, candidate_dir=_candidate_dir(), thread_yaml=_thread_yaml()
+    )
+    if repro:
+        import subprocess
+
+        done = subprocess.run(
+            ["uv", "run", "dvc", "repro"], capture_output=True, text=True, timeout=1800
+        )
+        combined = done.stdout + done.stderr
+        summary["repro"] = {"returncode": done.returncode, "tail": combined[-800:]}
     return _cap(summary)
 
 

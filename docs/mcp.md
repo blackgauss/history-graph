@@ -28,13 +28,14 @@ Register with an MCP client (example for an `mcpServers` config):
 | explore | `resolve_doi`, `find_by_title`, `references_of`, `citing_works` |
 | evidence | `search_fulltext` (extracted PDFs under `data/pdfs/text/`), `fetch_pdf` (sci-hub, 15s+ per request, captcha-retryable) |
 | propose | `propose_seed`, `propose_event` (schema-validated, evidence required) -> quarantine in `data/proposed/`; `list_proposals`, human-gated `apply_proposals` (`repro=True` appends then runs `dvc repro`) |
+| threads | `propose_thread(slug, claim, seed_dois)` -> candidate YAML in `data/candidates/`; `test_thread` (scorecard: resolution, dangling links, chronology, citation support per edge, evidence coverage); `grow_thread` (ranked frontier suggestions); `add_thread_entries`; `list_candidate_threads`; human-gated `promote_thread` (curated append, optional `repro=True`) |
 
 Agents never edit `data/seed/*` or the curated YAML directly; `apply_proposals`
 is the approval step (comment-preserving append).
 
 ## Env overrides
 
-`OPENALEX_MAILTO`, `SCIHUB_MIRROR`, `HG_THREAD_DIR`, `HG_PDFS_DIR`,
+`OPENALEX_MAILTO`, `SCIHUB_MIRROR`, `HG_THREAD_DIR`, `HG_PDFS_DIR`, `HG_CANDIDATES_DIR`,
 `HG_PROPOSED_DIR`, `HG_THREAD_YAML`, `HG_SEED_TXT`.
 
 Testing/recording: `HG_CASSETTES=1` makes the server replay all HTTP from

@@ -90,12 +90,13 @@ def list_event_proposals(proposed_dir: Path = DEFAULT_PROPOSED_DIR) -> list[dict
     ]
 
 
-def _thread_ids(path: Path) -> set[str]:
-    return {
-        part.split(":", 1)[1].strip().strip('"')
-        for line in path.read_text(encoding="utf-8").splitlines()
-        if (part := line.strip()).startswith("id:")
-    }
+def thread_ids(path: Path) -> set[str]:
+    ids = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        part = line.strip().removeprefix("- ")
+        if part.startswith("id:"):
+            ids.add(part.split(":", 1)[1].strip().strip('"'))
+    return ids
 
 
 def apply_proposals(
@@ -114,14 +115,14 @@ def apply_proposals(
 
     skipped: list[str] = []
     events_added: list[str] = []
-    existing_ids = _thread_ids(thread_yaml)
+    existing_ids = thread_ids(thread_yaml)
     blocks: list[str] = []
     for row in list_event_proposals(proposed_dir):
         ThreadEntry.model_validate(row["entry"])
         if row["entry"]["id"] in existing_ids:
             skipped.append(f"event {row['entry']['id']}: id already in thread")
             continue
-        blocks.append(_yaml_block(row["entry"], row.get("evidence", "")))
+        blocks.append(yaml_block(row["entry"], row.get("evidence", "")))
         events_added.append(row["entry"]["id"])
     if blocks:
         with thread_yaml.open("a", encoding="utf-8") as handle:
@@ -149,7 +150,7 @@ def apply_proposals(
     return {"events_added": events_added, "seeds_added": seeds_added, "skipped": skipped}
 
 
-def _yaml_block(entry: dict[str, Any], evidence: str) -> str:
+def yaml_block(entry: dict[str, Any], evidence: str) -> str:
     lines = [
         f"  - id: {entry['id']}",
         f"    date: \"{entry['date']}\"",
