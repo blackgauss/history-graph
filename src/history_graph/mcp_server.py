@@ -125,6 +125,20 @@ def _scihub() -> SciHubClient:
     return _clients["scihub"]
 
 
+def _s2() -> Any:
+    if "s2" not in _clients:
+        mode = _cassette_mode()
+        if mode:
+            from .testing import s2_client
+
+            _clients["s2"] = s2_client(record=mode == "record")
+        else:
+            from .s2 import SemanticScholarClient
+
+            _clients["s2"] = SemanticScholarClient()
+    return _clients["s2"]
+
+
 def _compact_work(work: dict[str, Any]) -> dict[str, Any]:
     authors = [
         (a.get("author") or {}).get("display_name") for a in work.get("authorships") or []
@@ -453,6 +467,155 @@ def promote_thread(slug: str, repro: bool = False) -> str:
         combined = done.stdout + done.stderr
         summary["repro"] = {"returncode": done.returncode, "tail": combined[-800:]}
     return _cap(summary)
+
+
+def _patents() -> Any:
+    if "patents" not in _clients:
+        mode = _cassette_mode()
+        if mode:
+            from .testing import patent_client
+
+            _clients["patents"] = patent_client(record=mode == "record")
+        else:
+            from .uspto import PatentSearchClient
+
+            _clients["patents"] = PatentSearchClient()
+    return _clients["patents"]
+
+
+# ----------------------------------------------------------------------- insight
+
+
+@tool
+def citation_path(
+    from_work: str, to_work: str, max_hops: int = 5, max_paths: int = 3
+) -> str:
+    """Short citation paths between two works (DOI, OpenAlex ID, or title).
+
+    Bidirectional BFS over references and citations; ranks paths by concept
+    gap, flags nodes present in every path (bridge nodes). Cost-bounded."""
+    from .paths import citation_path as find_paths
+
+    cache = Path(os.environ.get("HG_GRAPH_CACHE", "data/cache")) / "graph_cache.json"
+    result = find_paths(
+        _openalex(),
+        from_work,
+        to_work,
+        max_nodes=max_hops * 40,
+        max_paths=max_paths,
+        cache_dir=cache.parent,
+        cache_name=cache.name,
+    )
+    return _cap(result)
+
+
+@tool
+def search_patents(
+    query: str,
+    after_year: int | None = None,
+    before_year: int | None = None,
+    assignee: str | None = None,
+    inventor: str | None = None,
+    limit: int = 15,
+) -> str:
+    """Find patents (Google Patents full text, keyless).
+
+    Priority-date window helps for pre-1960 prior art; use with
+    propose_event(kind="patent", patent_no=...)."""
+    from .uspto import PatentError
+
+    try:
+        found = _patents().search(
+            query,
+            after=after_year,
+            before=before_year,
+            assignee=assignee,
+            inventor=inventor,
+            limit=limit,
+        )
+    except PatentError as exc:
+        return _cap({"error": str(exc)[:160]})
+    return _cap(found)
+
+
+@tool
+def patent_links(publication_number: str, page: int = 0) -> str:
+    """Citations around a patent: citing patents, plus (best-effort) academic
+
+    works citing it — the patent<->paper bridge OpenAlex usually lacks.
+    When Google walls us, falls back to OpenAlex's patent record (indexed
+    coverage is spotty for pre-1976 patents); failures are labeled, not faked."""
+    from .uspto import PatentError
+
+    out: dict[str, Any] = {"publication_number": publication_number}
+    walled = False
+    try:
+        out["cited_by_patents"] = _patents().citing(publication_number, page=page)
+    except PatentError as exc:
+        out["cited_by_patents"] = None
+        out["google_note"] = str(exc)[:120]
+        walled = True
+    try:
+        out["cited_by_papers"] = _patents().scholar(publication_number, "forward")["works"]
+    except PatentError as exc:
+        out["cited_by_papers"] = None
+        out["scholar_note"] = str(exc)[:120]
+        walled = True
+    if walled:
+        fallback = _openalex_patent_citations(publication_number)
+        if fallback is not None:
+            out["fallback"] = fallback
+        else:
+            out["fallback"] = {"reason": "not indexed on OpenAlex either; retry Google later"}
+    return _cap(out)
+
+
+def _openalex_patent_citations(publication_number: str) -> dict[str, Any] | None:
+    bare = publication_number[:-1] if publication_number[-1:] in {"A", "B"} else publication_number
+    for num in dict.fromkeys((bare, publication_number)):
+        doi = f"https://patents.google.com/patent/{num}"
+        work = next(iter(_openalex().paginate(
+            "/works", {"filter": f"type:patent,doi:{doi}"},
+            select=["id", "doi", "title", "publication_year"], per_page=5,
+        )), None)
+        if work is None:
+            continue
+        citing = [
+            {"openalex_id": w["id"], "title": w.get("title"), "year": w.get("publication_year")}
+            for w in _openalex().iter_citing_works(work["id"], max_pages=1)
+        ][:20]
+        return {
+            "source": "openalex",
+            "work": {k: work.get(k) for k in ("id", "doi", "title", "publication_year")},
+            "cited_by_papers": citing,
+        }
+    return None
+
+
+@tool
+def patent_prior_art(publication_number: str) -> str:
+    """Academic works the patent itself cites (examiner (backward scholar))."""
+    from .uspto import PatentError
+
+    try:
+        return _cap(_patents().scholar(publication_number, "backward"))
+    except PatentError as exc:
+        return _cap({"works": None, "note": str(exc)[:160]})
+
+
+@tool
+def citation_context(citing_work: str, cited_work: str) -> str:
+    """How one work cites another (S2): snippet + intent (builds-upon/method/
+
+    comparison/background) — turns a raw citation edge into an argument.
+    Snippets exist for only part of the corpus; absence is stated, not guessed."""
+    from .s2 import SemanticScholarError
+
+    try:
+        found = _s2().citation_context(citing_work, cited_work)
+    except SemanticScholarError as exc:
+        return _cap({"error": str(exc)[:160]})
+    return _cap(found or {"error": "citing work unknown to Semantic Scholar"})
 
 
 def build_server() -> MCPServer:

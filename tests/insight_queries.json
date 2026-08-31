@@ -1,0 +1,30 @@
+[
+  {
+    "id": "backprop-to-deepctr",
+    "fixture": "tests/fixtures/graph_ctr.json",
+    "from": "10.1038/syn.1986",
+    "to": "10.5555/syn.2017dfm",
+    "expect": {
+      "found": true,
+      "edges": 4,
+      "include": ["W103", "W102"],
+      "bridges": ["W103"],
+      "min_score": 0.4
+    }
+  },
+  {
+    "id": "rendle-into-deepfm",
+    "fixture": "tests/fixtures/graph_ctr.json",
+    "from": "10.1145/syn.2010fm",
+    "to": "10.5555/syn.2017dfm",
+    "expect": {"found": true, "edges": 1, "include": ["W104", "W107"]}
+  },
+  {
+    "id": "turing-thesis-bridge",
+    "cassette": true,
+    "from": "10.1109/T-AIEE.1938.5057767",
+    "to": "W2323777246",
+    "max_nodes": 40,
+    "expect": {"found": true, "edges": 3, "include": ["W2323777246"]}
+  }
+]

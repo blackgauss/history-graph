@@ -23,7 +23,7 @@ from .scihub import SciHubClient
 CASSETTE_DIR = Path("tests/cassettes")
 _STRIP_PARAMS = {"mailto"}
 _STORED_HEADERS = {"content-type", "retry-after", "location"}
-_INLINE_BODY_MAX = 512_000  # bigger payloads are stored as siblings, not b64 blobs
+_INLINE_BODY_MAX = 48_000  # larger payloads land in deduped body files
 
 
 def request_key(request: httpx.Request) -> str:
@@ -142,6 +142,36 @@ def openalex_client(name: str = "openalex", *, record: bool = False) -> OpenAlex
         clock=zero_clock,
         sleep=no_sleep,
     )
+
+
+def s2_client(name: str = "semanticscholar", *, record: bool = False):
+    """Semantic Scholar client bound to its own cassette."""
+    from .s2 import BASE_URL as S2_BASE
+    from .s2 import SemanticScholarClient
+
+    cassette = Cassette(name)
+    if record:
+        live = httpx.Client(timeout=30.0)
+        transport: httpx.BaseTransport = cassette.transport(recorder=live)
+    else:
+        transport = cassette.transport()
+    http = httpx.Client(base_url=S2_BASE, transport=transport)
+    return SemanticScholarClient(http=http, clock=zero_clock, sleep=no_sleep, min_interval_s=0.0)
+
+
+def patent_client(name: str = "patents", *, record: bool = False):
+    """Google Patents client bound to a cassette (never sleeping)."""
+    from .uspto import BASE_URL as GP_BASE
+    from .uspto import PatentSearchClient
+
+    cassette = Cassette(name)
+    if record:
+        live = httpx.Client(timeout=30.0, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64)"})
+        transport: httpx.BaseTransport = cassette.transport(recorder=live)
+    else:
+        transport = cassette.transport()
+    http = httpx.Client(base_url=GP_BASE, transport=transport)
+    return PatentSearchClient(http=http, clock=zero_clock, sleep=no_sleep, min_interval_s=0.0)
 
 
 def scihub_client(name: str = "scihub", *, record: bool = False) -> SciHubClient:

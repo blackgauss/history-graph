@@ -172,6 +172,7 @@ class OpenAlexClient:
         *,
         select: Sequence[str] | None = None,
         max_pages: int | None = None,
+        per_page: int | None = None,
     ) -> Iterator[dict[str, Any]]:
         """Yield works that cite ``work_id`` (e.g. ``W2741809807``)."""
         return self.paginate(
@@ -179,4 +180,5 @@ class OpenAlexClient:
             {"filter": f"cites:{work_id}"},
             select=select or WORK_FIELDS,
             max_pages=max_pages,
+            per_page=per_page or PER_PAGE_MAX,
         )

@@ -50,16 +50,41 @@ def record_scihub(attempts: int = 3, wait_s: int = 45) -> None:
     sys.exit("recording incomplete: sci-hub kept serving captcha pages; rerun later")
 
 
+PATENTS_QUERIES = ("US2466157A",)
+
+
+def record_patents() -> None:
+    """Seed the patents cassette with canonical patent-links lookups.
+
+    Walled responses are skipped, not fatal; rerun when Google cools down."""
+    from history_graph.testing import patent_client
+    from history_graph.uspto import PatentError
+
+    client = patent_client("patents", record=True)
+    try:
+        for pn in PATENTS_QUERIES:
+            try:
+                found = client.citing(pn, limit=10)
+                print(f"patents cassette: {pn} citing total={found['total']}")
+            except PatentError as exc:
+                print(f"patents cassette: {pn} skipped ({exc}) — rerun --patents later")
+    finally:
+        client.close()
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--thread", action="store_true", help="record OpenAlex only")
     parser.add_argument("--scihub", action="store_true", help="record sci-hub only")
+    parser.add_argument("--patents", action="store_true", help="record Google Patents queries")
     args = parser.parse_args(argv)
-    which = args.thread or args.scihub
-    if not args.scihub or which and args.thread:
+    which = args.thread or args.scihub or args.patents
+    if args.thread or not which:
         record_thread()
-    if not args.thread or which and args.scihub:
+    if args.scihub or (not which):
         record_scihub()
+    if args.patents:
+        record_patents()
     return 0
 
 

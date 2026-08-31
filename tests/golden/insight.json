@@ -1,0 +1,44 @@
+{
+  "backprop-to-deepctr": {
+    "bridges": [
+      "W102",
+      "W103",
+      "W106"
+    ],
+    "edges": 4,
+    "found": true,
+    "ids": [
+      "W101",
+      "W102",
+      "W103",
+      "W106",
+      "W107"
+    ],
+    "score": 0.7418
+  },
+  "rendle-into-deepfm": {
+    "bridges": [],
+    "edges": 1,
+    "found": true,
+    "ids": [
+      "W104",
+      "W107"
+    ],
+    "score": 1.0
+  },
+  "turing-thesis-bridge": {
+    "bridges": [
+      "W1586677474",
+      "W2126160338"
+    ],
+    "edges": 3,
+    "found": true,
+    "ids": [
+      "W2053619330",
+      "W1586677474",
+      "W2126160338",
+      "W2323777246"
+    ],
+    "score": 0.9327
+  }
+}
