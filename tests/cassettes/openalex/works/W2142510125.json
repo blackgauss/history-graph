@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 73,
+ "doi": "https://doi.org/10.1145/858476.858479",
+ "id": "https://openalex.org/W2142510125",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W170175661",
+  "https://openalex.org/W173028006",
+  "https://openalex.org/W1482214997",
+  "https://openalex.org/W1490883626",
+  "https://openalex.org/W1509991416",
+  "https://openalex.org/W1828972360",
+  "https://openalex.org/W1854214752",
+  "https://openalex.org/W1989468977",
+  "https://openalex.org/W1989626928",
+  "https://openalex.org/W2028406909",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2086368750",
+  "https://openalex.org/W2118131693",
+  "https://openalex.org/W2133986984",
+  "https://openalex.org/W2156037541",
+  "https://openalex.org/W2164052363",
+  "https://openalex.org/W2166227910",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6630516739"
+ ],
+ "title": "Query-independent evidence in home page finding"
+}

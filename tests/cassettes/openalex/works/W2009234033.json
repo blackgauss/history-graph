@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1007/bf02054946",
+ "id": "https://openalex.org/W2009234033",
+ "publication_year": 1951,
+ "referenced_works": [
+  "https://openalex.org/W2013680190",
+  "https://openalex.org/W2319549361"
+ ],
+ "title": "Systems of logic whose truth-values form lattices"
+}

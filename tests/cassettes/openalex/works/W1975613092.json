@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 63,
+ "doi": "https://doi.org/10.1103/physrevlett.78.3971",
+ "id": "https://openalex.org/W1975613092",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1967037487",
+  "https://openalex.org/W2005869501",
+  "https://openalex.org/W2017920704",
+  "https://openalex.org/W2035112473",
+  "https://openalex.org/W2049913461",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2101903351",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2179731956",
+  "https://openalex.org/W4230665353"
+ ],
+ "title": "Quantum Computation with Phase Drift Errors"
+}

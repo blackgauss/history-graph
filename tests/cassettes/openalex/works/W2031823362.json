@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 905,
+ "doi": "https://doi.org/10.1016/0020-0190(79)90002-4",
+ "id": "https://openalex.org/W2031823362",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1514415888",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W2003160050",
+  "https://openalex.org/W2006146932",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2118382442",
+  "https://openalex.org/W2166566648",
+  "https://openalex.org/W3133279294"
+ ],
+ "title": "A linear-time algorithm for testing the truth of certain quantified boolean formulas"
+}

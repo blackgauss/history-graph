@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 73,
+ "doi": "https://doi.org/10.1137/070707890",
+ "id": "https://openalex.org/W2914539165",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1525870773",
+  "https://openalex.org/W1970630090",
+  "https://openalex.org/W1994863011",
+  "https://openalex.org/W2055194501",
+  "https://openalex.org/W2056003475",
+  "https://openalex.org/W2061055380",
+  "https://openalex.org/W2074734756",
+  "https://openalex.org/W2080210666",
+  "https://openalex.org/W2087038607",
+  "https://openalex.org/W2179261203",
+  "https://openalex.org/W3004537778",
+  "https://openalex.org/W4231598316",
+  "https://openalex.org/W4235805661"
+ ],
+ "title": "Testing Halfspaces"
+}

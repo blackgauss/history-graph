@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 142,
+ "doi": "https://doi.org/10.1103/physrevlett.85.2006",
+ "id": "https://openalex.org/W2049718282",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1620538313",
+  "https://openalex.org/W1631356911",
+  "https://openalex.org/W1964707419",
+  "https://openalex.org/W1969246646",
+  "https://openalex.org/W1969329609",
+  "https://openalex.org/W1978553093",
+  "https://openalex.org/W1983312464",
+  "https://openalex.org/W2006415694",
+  "https://openalex.org/W2042474962",
+  "https://openalex.org/W2051618454",
+  "https://openalex.org/W2085129097",
+  "https://openalex.org/W2092148287",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2109741106",
+  "https://openalex.org/W2114089071",
+  "https://openalex.org/W2135048896",
+  "https://openalex.org/W2142024874",
+  "https://openalex.org/W2763302490",
+  "https://openalex.org/W2764347725",
+  "https://openalex.org/W3037517441"
+ ],
+ "title": "Quantum Algorithm for Distributed Clock Synchronization"
+}

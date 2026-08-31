@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 55,
+ "doi": "https://doi.org/10.1016/0303-1268(76)90033-x",
+ "id": "https://openalex.org/W2031476778",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W2007696147",
+  "https://openalex.org/W2013310157",
+  "https://openalex.org/W2035356411",
+  "https://openalex.org/W2068422506",
+  "https://openalex.org/W2099251677",
+  "https://openalex.org/W2120688461",
+  "https://openalex.org/W2146969125",
+  "https://openalex.org/W6659264647",
+  "https://openalex.org/W6667608778",
+  "https://openalex.org/W6675160157",
+  "https://openalex.org/W6677439203"
+ ],
+ "title": "The binary decision machine as programmable controller"
+}

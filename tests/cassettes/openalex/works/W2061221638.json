@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 22,
+ "doi": "https://doi.org/10.1109/tc.1980.1675472",
+ "id": "https://openalex.org/W2061221638",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1592251652",
+  "https://openalex.org/W1663177989",
+  "https://openalex.org/W1981519869",
+  "https://openalex.org/W2033724727",
+  "https://openalex.org/W2054765133",
+  "https://openalex.org/W2061221638",
+  "https://openalex.org/W2111989077"
+ ],
+ "title": "On the Design of Three-Valued Asynchronous Modules"
+}

@@ -1,0 +1,912 @@
+{
+ "abstract_inverted_index": {
+  "(IoT)”,": [
+   11
+  ],
+  "(Variety,": [
+   123
+  ],
+  "A": [
+   73,
+   284
+  ],
+  "ADS,": [
+   286
+  ],
+  "An": [
+   82
+  ],
+  "Apart": [
+   59
+  ],
+  "Application:": [
+   262
+  ],
+  "Big": [
+   45,
+   79,
+   130
+  ],
+  "C++": [
+   232
+  ],
+  "Cassandra": [
+   52,
+   188
+  ],
+  "Cassandra,": [
+   287
+  ],
+  "Data": [
+   131
+  ],
+  "Data,": [
+   46
+  ],
+  "Data.": [
+   80
+  ],
+  "Distributed": [
+   49,
+   75
+  ],
+  "Effective": [
+   117
+  ],
+  "File": [
+   50
+  ],
+  "Findings:": [
+   116
+  ],
+  "HD": [
+   290
+  ],
+  "HDFS,": [
+   289
+  ],
+  "Hadoop": [
+   48,
+   143,
+   195,
+   204
+  ],
+  "Hadoop,": [
+   288
+  ],
+  "Insight,": [
+   291
+  ],
+  "It": [
+   163,
+   234
+  ],
+  "Keywords:": [
+   283
+  ],
+  "Methods:": [
+   81
+  ],
+  "Moreover": [
+   246
+  ],
+  "Objective:": [
+   0
+  ],
+  "Quantcast": [
+   56,
+   292
+  ],
+  "System": [
+   76
+  ],
+  "System,": [
+   51
+  ],
+  "The": [
+   103,
+   187,
+   220,
+   263
+  ],
+  "Things": [
+   10
+  ],
+  "This": [
+   28
+  ],
+  "Train,": [
+   285
+  ],
+  "Value)": [
+   128
+  ],
+  "Velocity,": [
+   125
+  ],
+  "Veracity": [
+   126
+  ],
+  "Volume,": [
+   124
+  ],
+  "V’s": [
+   122
+  ],
+  "With": [
+   1
+  ],
+  "a": [
+   35,
+   70,
+   134,
+   184
+  ],
+  "above": [
+   87
+  ],
+  "also": [
+   68,
+   105,
+   235
+  ],
+  "alternative": [
+   193
+  ],
+  "among": [
+   38
+  ],
+  "amount": [
+   13
+  ],
+  "an": [
+   31,
+   160,
+   192,
+   241
+  ],
+  "and": [
+   22,
+   26,
+   55,
+   127,
+   152,
+   175,
+   243
+  ],
+  "any": [
+   268
+  ],
+  "architecture": [
+   214
+  ],
+  "architecture.": [
+   219
+  ],
+  "are": [
+   114,
+   178
+  ],
+  "around": [
+   140
+  ],
+  "as": [
+   173,
+   205
+  ],
+  "aspects": [
+   95
+  ],
+  "at": [
+   180
+  ],
+  "attempt": [
+   32
+  ],
+  "available": [
+   271
+  ],
+  "become": [
+   133
+  ],
+  "been": [
+   101
+  ],
+  "being": [
+   17
+  ],
+  "big": [
+   98,
+   157,
+   166,
+   238,
+   275
+  ],
+  "block": [
+   174
+  ],
+  "blocks": [
+   177
+  ],
+  "breaks": [
+   164
+  ],
+  "by": [
+   258
+  ],
+  "capable": [
+   154
+  ],
+  "challenging": [
+   135
+  ],
+  "chips.": [
+   27
+  ],
+  "chunks": [
+   171
+  ],
+  "claims": [
+   248
+  ],
+  "client": [
+   217
+  ],
+  "colossal": [
+   12
+  ],
+  "comparison": [
+   37
+  ],
+  "computing": [
+   24
+  ],
+  "concerned": [
+   264
+  ],
+  "considering": [
+   93
+  ],
+  "data": [
+   99,
+   158,
+   167,
+   239,
+   276
+  ],
+  "depending": [
+   277
+  ],
+  "described.": [
+   102
+  ],
+  "details": [
+   92
+  ],
+  "devices": [
+   25
+  ],
+  "disk": [
+   256
+  ],
+  "distinct": [
+   181
+  ],
+  "distributed": [
+   185,
+   212
+  ],
+  "effective": [
+   161,
+   242
+  ],
+  "efficient": [
+   244
+  ],
+  "eliminates": [
+   197
+  ],
+  "emergence": [
+   3
+  ],
+  "encoding.": [
+   261
+  ],
+  "erasure": [
+   260
+  ],
+  "explores": [
+   69
+  ],
+  "failure": [
+   201
+  ],
+  "fifty": [
+   252
+  ],
+  "file": [
+   53,
+   57,
+   64,
+   89,
+   189,
+   226
+  ],
+  "five": [
+   121
+  ],
+  "fixed": [
+   169
+  ],
+  "follows": [
+   207
+  ],
+  "for": [
+   43,
+   60,
+   77,
+   96,
+   137,
+   273
+  ],
+  "frameworks": [
+   272
+  ],
+  "generated": [
+   18
+  ],
+  "handles": [
+   236
+  ],
+  "handling": [
+   44,
+   78,
+   97,
+   156,
+   274
+  ],
+  "has": [
+   100,
+   132
+  ],
+  "implementing": [
+   259
+  ],
+  "in": [
+   91,
+   159,
+   183,
+   231,
+   240
+  ],
+  "information": [
+   15
+  ],
+  "inner": [
+   83
+  ],
+  "instead": [
+   215
+  ],
+  "into": [
+   168
+  ],
+  "is": [
+   16,
+   30,
+   144,
+   149,
+   153,
+   191,
+   223,
+   229
+  ],
+  "it": [
+   206,
+   247
+  ],
+  "known": [
+   172
+  ],
+  "language.": [
+   233
+  ],
+  "locations": [
+   182
+  ],
+  "lucid": [
+   36
+  ],
+  "manner.": [
+   162,
+   186,
+   245
+  ],
+  "master-less": [
+   208
+  ],
+  "nature": [
+   280
+  ],
+  "needs.": [
+   282
+  ],
+  "newly": [
+   71
+  ],
+  "notion": [
+   6
+  ],
+  "of": [
+   4,
+   7,
+   9,
+   14,
+   85,
+   119,
+   129,
+   155,
+   203,
+   216,
+   254,
+   269,
+   281
+  ],
+  "on": [
+   108
+  ],
+  "one": [
+   145
+  ],
+  "open": [
+   150
+  ],
+  "organization": [
+   265
+  ],
+  "other": [
+   23
+  ],
+  "paper": [
+   29,
+   67,
+   104
+  ],
+  "peer": [
+   209,
+   211
+  ],
+  "percent": [
+   253
+  ],
+  "perspective": [
+   84
+  ],
+  "point": [
+   200
+  ],
+  "premier": [
+   63
+  ],
+  "problem": [
+   202
+  ],
+  "prominent": [
+   40
+  ],
+  "proposed": [
+   72
+  ],
+  "provide": [
+   34
+  ],
+  "provides": [
+   106
+  ],
+  "quantcast": [
+   225
+  ],
+  "researcher": [
+   139
+  ],
+  "ring": [
+   213
+  ],
+  "sagacity": [
+   107
+  ],
+  "save": [
+   250
+  ],
+  "saved": [
+   179
+  ],
+  "sensors": [
+   21
+  ],
+  "server": [
+   218
+  ],
+  "single": [
+   199
+  ],
+  "situations": [
+   110
+  ],
+  "sized": [
+   170
+  ],
+  "source": [
+   151
+  ],
+  "space": [
+   257
+  ],
+  "stated": [
+   88
+  ],
+  "such": [
+   146
+  ],
+  "system": [
+   54,
+   190,
+   227
+  ],
+  "system.": [
+   58
+  ],
+  "systems": [
+   90
+  ],
+  "systems,": [
+   65
+  ],
+  "tackling": [
+   118
+  ],
+  "task": [
+   136
+  ],
+  "technologies": [
+   41,
+   113
+  ],
+  "technology": [
+   147,
+   222
+  ],
+  "the": [
+   2,
+   5,
+   20,
+   66,
+   86,
+   109,
+   120,
+   138,
+   141,
+   165,
+   198,
+   224,
+   237,
+   255
+  ],
+  "their": [
+   279
+  ],
+  "these": [
+   61,
+   112,
+   176,
+   270
+  ],
+  "third": [
+   221
+  ],
+  "three": [
+   39,
+   62
+  ],
+  "through": [
+   19
+  ],
+  "to": [
+   33,
+   194,
+   210,
+   249,
+   266
+  ],
+  "train": [
+   74
+  ],
+  "upon": [
+   278
+  ],
+  "upto": [
+   251
+  ],
+  "use": [
+   267
+  ],
+  "used": [
+   42
+  ],
+  "useful.": [
+   115
+  ],
+  "various": [
+   94
+  ],
+  "viz.": [
+   47
+  ],
+  "wherein": [
+   111
+  ],
+  "which": [
+   148,
+   196,
+   228
+  ],
+  "world.": [
+   142
+  ],
+  "written": [
+   230
+  ],
+  "“Internet": [
+   8
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I191365509",
+      "https://openalex.org/I19716509"
+     ],
+     "raw_affiliation_string": "Department of Computer Science & Engineering, Faculty of Engineering and Technology, Jamia Hamdard, (Hamdard University), New Delhi -110062"
+    }
+   ],
+   "author": {
+    "display_name": "Mohd Abdul Ahad",
+    "id": "https://openalex.org/A5013241142",
+    "orcid": "https://orcid.org/0000-0002-3880-3680"
+   },
+   "author_position": "first",
+   "countries": [
+    "IN",
+    "PK"
+   ],
+   "institutions": [
+    {
+     "country_code": "PK",
+     "display_name": "Hamdard University",
+     "id": "https://openalex.org/I191365509",
+     "lineage": [
+      "https://openalex.org/I191365509"
+     ],
+     "ror": "https://ror.org/01zrv0z61",
+     "type": "education"
+    },
+    {
+     "country_code": "IN",
+     "display_name": "Jamia Hamdard",
+     "id": "https://openalex.org/I19716509",
+     "lineage": [
+      "https://openalex.org/I19716509"
+     ],
+     "ror": "https://ror.org/03dwxvb85",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science & Engineering, Faculty of Engineering and Technology, Jamia Hamdard, (Hamdard University), New Delhi -110062"
+   ],
+   "raw_author_name": "Mohd Abdul Ahad",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I191365509",
+      "https://openalex.org/I19716509"
+     ],
+     "raw_affiliation_string": "Department of Computer Science & Engineering, Faculty of Engineering and Technology, Jamia Hamdard, (Hamdard University), New Delhi -110062"
+    }
+   ],
+   "author": {
+    "display_name": "Ranjit Biswas",
+    "id": "https://openalex.org/A5007268087",
+    "orcid": "https://orcid.org/0000-0003-4472-5743"
+   },
+   "author_position": "last",
+   "countries": [
+    "IN",
+    "PK"
+   ],
+   "institutions": [
+    {
+     "country_code": "PK",
+     "display_name": "Hamdard University",
+     "id": "https://openalex.org/I191365509",
+     "lineage": [
+      "https://openalex.org/I191365509"
+     ],
+     "ror": "https://ror.org/01zrv0z61",
+     "type": "education"
+    },
+    {
+     "country_code": "IN",
+     "display_name": "Jamia Hamdard",
+     "id": "https://openalex.org/I19716509",
+     "lineage": [
+      "https://openalex.org/I19716509"
+     ],
+     "ror": "https://ror.org/03dwxvb85",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science & Engineering, Faculty of Engineering and Technology, Jamia Hamdard, (Hamdard University), New Delhi -110062"
+   ],
+   "raw_author_name": "Ranjit Biswas",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.17485/ijst/2017/v10i8/105400",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.17485/ijst/2017/v10i8/105400",
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "pdf_url": null,
+  "raw_source_name": "Indian Journal of Science and Technology",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Indian Journal of Science and Technology",
+   "host_organization": "https://openalex.org/P4322615647",
+   "host_organization_lineage": [
+    "https://openalex.org/P4322615647"
+   ],
+   "host_organization_lineage_names": [
+    "Indian Society for Education and Environment"
+   ],
+   "host_organization_name": "Indian Society for Education and Environment",
+   "id": "https://openalex.org/S2764746358",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "0974-5645",
+    "0974-6846"
+   ],
+   "issn_l": "0974-5645",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 13,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2017
+  }
+ ],
+ "doi": "https://doi.org/10.17485/ijst/2017/v10i8/105400",
+ "funders": [],
+ "id": "https://openalex.org/W2606861698",
+ "ids": {
+  "doi": "https://doi.org/10.17485/ijst/2017/v10i8/105400",
+  "mag": "2606861698",
+  "openalex": "https://openalex.org/W2606861698"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": true,
+  "oa_status": "diamond",
+  "oa_url": "https://doi.org/10.17485/ijst/2017/v10i8/105400"
+ },
+ "primary_location": {
+  "id": "doi:10.17485/ijst/2017/v10i8/105400",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.17485/ijst/2017/v10i8/105400",
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "pdf_url": null,
+  "raw_source_name": "Indian Journal of Science and Technology",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Indian Journal of Science and Technology",
+   "host_organization": "https://openalex.org/P4322615647",
+   "host_organization_lineage": [
+    "https://openalex.org/P4322615647"
+   ],
+   "host_organization_lineage_names": [
+    "Indian Society for Education and Environment"
+   ],
+   "host_organization_name": "Indian Society for Education and Environment",
+   "id": "https://openalex.org/S2764746358",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "0974-5645",
+    "0974-6846"
+   ],
+   "issn_l": "0974-5645",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2017,
+ "referenced_works": [
+  "https://openalex.org/W132173676",
+  "https://openalex.org/W1505837402",
+  "https://openalex.org/W1675339843",
+  "https://openalex.org/W2004958263",
+  "https://openalex.org/W2082014773",
+  "https://openalex.org/W2087946700",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2119738171",
+  "https://openalex.org/W2142421910",
+  "https://openalex.org/W2230985096",
+  "https://openalex.org/W2267682254",
+  "https://openalex.org/W2489099356",
+  "https://openalex.org/W2538772049",
+  "https://openalex.org/W6605295113",
+  "https://openalex.org/W6651671888",
+  "https://openalex.org/W6670722674",
+  "https://openalex.org/W6677660805",
+  "https://openalex.org/W6678205474",
+  "https://openalex.org/W6728744618"
+ ],
+ "related_works": [
+  "https://openalex.org/W1601407282",
+  "https://openalex.org/W2382986841",
+  "https://openalex.org/W2901726430",
+  "https://openalex.org/W2354060507",
+  "https://openalex.org/W2368437561",
+  "https://openalex.org/W786186891",
+  "https://openalex.org/W1505619784",
+  "https://openalex.org/W2371792015",
+  "https://openalex.org/W1509840194",
+  "https://openalex.org/W2978687348"
+ ],
+ "title": "Comparing and Analyzing the Characteristics of Hadoop, Cassandra and Quantcast File Systems for Handling Big Data",
+ "type": "article"
+}

@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 61,
+ "doi": "https://doi.org/10.1016/0004-3702(71)90003-8",
+ "id": "https://openalex.org/W2044919352",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W196393734",
+  "https://openalex.org/W1224593062",
+  "https://openalex.org/W2002947720",
+  "https://openalex.org/W2025360553",
+  "https://openalex.org/W2048229624",
+  "https://openalex.org/W2076638174",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2171376204",
+  "https://openalex.org/W6608006189",
+  "https://openalex.org/W6628014074",
+  "https://openalex.org/W6651381756",
+  "https://openalex.org/W6685560238"
+ ],
+ "title": "Extracting information from resolution proof trees"
+}

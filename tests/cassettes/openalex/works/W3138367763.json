@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 929,
+ "doi": null,
+ "id": "https://openalex.org/W3138367763",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1497285001",
+  "https://openalex.org/W1510397861",
+  "https://openalex.org/W1515932031",
+  "https://openalex.org/W1969450725",
+  "https://openalex.org/W1975577269",
+  "https://openalex.org/W1993819379",
+  "https://openalex.org/W1997020216",
+  "https://openalex.org/W2010413210",
+  "https://openalex.org/W2044240774",
+  "https://openalex.org/W2063601856",
+  "https://openalex.org/W2068739275",
+  "https://openalex.org/W2080427212",
+  "https://openalex.org/W2103201239",
+  "https://openalex.org/W2103412498",
+  "https://openalex.org/W2104954161",
+  "https://openalex.org/W2111967617",
+  "https://openalex.org/W2117917070",
+  "https://openalex.org/W2124851765",
+  "https://openalex.org/W2128912667",
+  "https://openalex.org/W2129652681",
+  "https://openalex.org/W2151834759",
+  "https://openalex.org/W2158237121",
+  "https://openalex.org/W2167911783",
+  "https://openalex.org/W2341510490"
+ ],
+ "title": "C-store: a column-oriented DBMS"
+}

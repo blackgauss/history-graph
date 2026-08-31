@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 12,
+ "doi": null,
+ "id": "https://openalex.org/W2095712978",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W50051696",
+  "https://openalex.org/W1967011375",
+  "https://openalex.org/W2042300283",
+  "https://openalex.org/W2045908891",
+  "https://openalex.org/W2131329059",
+  "https://openalex.org/W2140766383",
+  "https://openalex.org/W2887242076",
+  "https://openalex.org/W2913399920"
+ ],
+ "title": "Discovering Discrete Distributed Representations with Iterative Competitive Learning"
+}

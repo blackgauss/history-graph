@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 781,
+ "doi": null,
+ "id": "https://openalex.org/W1483135265",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W19427811",
+  "https://openalex.org/W1487801850",
+  "https://openalex.org/W1490514105",
+  "https://openalex.org/W1504694836",
+  "https://openalex.org/W1533169541",
+  "https://openalex.org/W1576962511",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1639032689",
+  "https://openalex.org/W1704669313",
+  "https://openalex.org/W2000867254",
+  "https://openalex.org/W2080427212",
+  "https://openalex.org/W2100406636",
+  "https://openalex.org/W2101927907",
+  "https://openalex.org/W2105175890",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2142334564",
+  "https://openalex.org/W2149706766",
+  "https://openalex.org/W2152150600",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W3112596628"
+ ],
+ "title": "SPRINT: A Scalable Parallel Classifier for Data Mining"
+}

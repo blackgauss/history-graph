@@ -1,0 +1,45 @@
+{
+ "cited_by_count": 601,
+ "counts_by_year": [
+  {
+   "cited_by_count": 20,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 57,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 75,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 79,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 116,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 108,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 77,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2018
+  }
+ ],
+ "doi": "https://doi.org/10.1109/hpca.2018.00059",
+ "id": "https://openalex.org/W2794670651",
+ "publication_year": 2018,
+ "title": "Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective"
+}

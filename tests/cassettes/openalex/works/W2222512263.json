@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 12882,
+ "doi": "https://doi.org/10.1002/nav.3800020109",
+ "id": "https://openalex.org/W2222512263",
+ "publication_year": 1955,
+ "referenced_works": [
+  "https://openalex.org/W1980675521",
+  "https://openalex.org/W1983148611",
+  "https://openalex.org/W1995759476",
+  "https://openalex.org/W2048590231",
+  "https://openalex.org/W2053050060",
+  "https://openalex.org/W2063292248",
+  "https://openalex.org/W2064909143",
+  "https://openalex.org/W3113130260",
+  "https://openalex.org/W6833374926"
+ ],
+ "title": "The Hungarian method for the assignment problem"
+}

@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1109/isit.1997.612921",
+ "id": "https://openalex.org/W2156258440",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W7241855",
+  "https://openalex.org/W2129031807",
+  "https://openalex.org/W2134700719",
+  "https://openalex.org/W2171265988",
+  "https://openalex.org/W4250143236",
+  "https://openalex.org/W4254018622",
+  "https://openalex.org/W4297792526"
+ ],
+ "title": "A general algorithm for distributing information in a graph"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 17,
+ "doi": null,
+ "id": "https://openalex.org/W3105900773",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1500509064",
+  "https://openalex.org/W1623920228",
+  "https://openalex.org/W1752395154",
+  "https://openalex.org/W1964924120",
+  "https://openalex.org/W1978553093",
+  "https://openalex.org/W1994712115",
+  "https://openalex.org/W2014306526",
+  "https://openalex.org/W2067204178",
+  "https://openalex.org/W2084685553",
+  "https://openalex.org/W2093856853",
+  "https://openalex.org/W2113730801",
+  "https://openalex.org/W2135830616",
+  "https://openalex.org/W3121189109",
+  "https://openalex.org/W4251813881"
+ ],
+ "title": "High-Fidelity Teleportation of Independent Qubits"
+}

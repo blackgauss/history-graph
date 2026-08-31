@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 24,
+ "doi": "https://doi.org/10.1007/bfb0054184",
+ "id": "https://openalex.org/W1873964603",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1498875780",
+  "https://openalex.org/W1512750313",
+  "https://openalex.org/W1546619436",
+  "https://openalex.org/W1575118279",
+  "https://openalex.org/W1588869192",
+  "https://openalex.org/W1593799327",
+  "https://openalex.org/W1602383075",
+  "https://openalex.org/W1699259381",
+  "https://openalex.org/W1998084650",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2051629332",
+  "https://openalex.org/W2057182494",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2113722134",
+  "https://openalex.org/W2123995178",
+  "https://openalex.org/W2127271657",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2913944636",
+  "https://openalex.org/W4388298880"
+ ],
+ "title": "Deciding fixed and non-fixed size bit-vectors"
+}

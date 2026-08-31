@@ -1,0 +1,127 @@
+{
+ "cited_by_count": 1311,
+ "counts_by_year": [
+  {
+   "cited_by_count": 10,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 64,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 61,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 79,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 54,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 41,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1023/a:1007618119488",
+ "id": "https://openalex.org/W1540007258",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W50541286",
+  "https://openalex.org/W237241536",
+  "https://openalex.org/W854322902",
+  "https://openalex.org/W856134462",
+  "https://openalex.org/W1480153866",
+  "https://openalex.org/W1481643961",
+  "https://openalex.org/W1483918101",
+  "https://openalex.org/W1491053661",
+  "https://openalex.org/W1553313034",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1570060426",
+  "https://openalex.org/W1584432800",
+  "https://openalex.org/W1584462862",
+  "https://openalex.org/W1597529531",
+  "https://openalex.org/W1604938182",
+  "https://openalex.org/W1975846642",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2007154098",
+  "https://openalex.org/W2008056655",
+  "https://openalex.org/W2022306346",
+  "https://openalex.org/W2024046085",
+  "https://openalex.org/W2032210760",
+  "https://openalex.org/W2051381803",
+  "https://openalex.org/W2060591526",
+  "https://openalex.org/W2067885219",
+  "https://openalex.org/W2087347434",
+  "https://openalex.org/W2097477220",
+  "https://openalex.org/W2099968818",
+  "https://openalex.org/W2119821739",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2141518341",
+  "https://openalex.org/W2149846618",
+  "https://openalex.org/W2156909104",
+  "https://openalex.org/W2161920802",
+  "https://openalex.org/W2168156818",
+  "https://openalex.org/W2170120409",
+  "https://openalex.org/W2171277043",
+  "https://openalex.org/W2172195373",
+  "https://openalex.org/W2174647409",
+  "https://openalex.org/W2293879901",
+  "https://openalex.org/W2345561105",
+  "https://openalex.org/W2911885104",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W3119651796",
+  "https://openalex.org/W4239510810",
+  "https://openalex.org/W4248437541",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4312787320",
+  "https://openalex.org/W4388297464",
+  "https://openalex.org/W6674671455",
+  "https://openalex.org/W6680674136",
+  "https://openalex.org/W6685267064",
+  "https://openalex.org/W6704641005",
+  "https://openalex.org/W6926261798",
+  "https://openalex.org/W7024761944",
+  "https://openalex.org/W7025168525"
+ ],
+ "title": "Soft Margins for AdaBoost"
+}

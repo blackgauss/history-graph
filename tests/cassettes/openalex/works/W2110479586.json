@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.1007/978-3-540-45193-8_55",
+ "id": "https://openalex.org/W2110479586",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W39997369",
+  "https://openalex.org/W98547340",
+  "https://openalex.org/W1525466908",
+  "https://openalex.org/W1593443951",
+  "https://openalex.org/W1709509222",
+  "https://openalex.org/W2021025450",
+  "https://openalex.org/W2134567445",
+  "https://openalex.org/W2139460891",
+  "https://openalex.org/W2479999086",
+  "https://openalex.org/W2610670723",
+  "https://openalex.org/W4211144022"
+ ],
+ "title": "Constraint Programming for Modelling and Solving Modal Satisfiability"
+}

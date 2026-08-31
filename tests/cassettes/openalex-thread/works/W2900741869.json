@@ -1,0 +1,640 @@
+{
+ "abstract_inverted_index": {
+  "(GFS),": [
+   4
+  ],
+  "64": [
+   73
+  ],
+  "File": [
+   2
+  ],
+  "GFS": [
+   50,
+   149
+  ],
+  "Google": [
+   1,
+   13
+  ],
+  "Google's": [
+   153
+  ],
+  "It": [
+   27,
+   121
+  ],
+  "MB": [
+   74
+  ],
+  "System": [
+   3
+  ],
+  "TBs": [
+   178
+  ],
+  "The": [
+   0,
+   172
+  ],
+  "Then": [
+   85
+  ],
+  "a": [
+   5,
+   45
+  ],
+  "access": [
+   115,
+   127,
+   193
+  ],
+  "also": [
+   123
+  ],
+  "and": [
+   34,
+   43,
+   77,
+   101,
+   111,
+   128,
+   158,
+   164,
+   189
+  ],
+  "any": [
+   113
+  ],
+  "applications,": [
+   22
+  ],
+  "as": [
+   162
+  ],
+  "at": [
+   145
+  ],
+  "based": [
+   96
+  ],
+  "be": [
+   15,
+   95
+  ],
+  "biggest": [
+   173
+  ],
+  "by": [
+   12,
+   194
+  ],
+  "cheap": [
+   40
+  ],
+  "chunk.": [
+   84
+  ],
+  "chunks": [
+   67,
+   89
+  ],
+  "clients.": [
+   49
+  ],
+  "cluster": [
+   174
+  ],
+  "commodity": [
+   41
+  ],
+  "computers": [
+   42
+  ],
+  "concurrency": [
+   126,
+   192
+  ],
+  "control": [
+   129
+  ],
+  "copies": [
+   80,
+   139
+  ],
+  "could": [
+   94
+  ],
+  "data": [
+   21,
+   69,
+   83,
+   88,
+   159,
+   170
+  ],
+  "despite": [
+   37
+  ],
+  "development": [
+   165
+  ],
+  "disks": [
+   185
+  ],
+  "distributed": [
+   8,
+   20,
+   56,
+   181
+  ],
+  "divides": [
+   63
+  ],
+  "do": [
+   143
+  ],
+  "due": [
+   133
+  ],
+  "each": [
+   70,
+   82,
+   141
+  ],
+  "efficiency,": [
+   29
+  ],
+  "engine.": [
+   26
+  ],
+  "enhance": [
+   104,
+   124
+  ],
+  "exist": [
+   144
+  ],
+  "fact": [
+   136
+  ],
+  "fault": [
+   35
+  ],
+  "file": [
+   9,
+   57,
+   142
+  ],
+  "files": [
+   65,
+   109,
+   131
+  ],
+  "for": [
+   17,
+   156
+  ],
+  "generate": [
+   78
+  ],
+  "generation": [
+   157
+  ],
+  "geographical": [
+   99
+  ],
+  "global": [
+   98
+  ],
+  "goals,": [
+   61
+  ],
+  "has": [
+   150
+  ],
+  "huge": [
+   19,
+   169
+  ],
+  "hundreds": [
+   176,
+   195
+  ],
+  "improves": [
+   28
+  ],
+  "in": [
+   59,
+   75,
+   182
+  ],
+  "into": [
+   66
+  ],
+  "is": [
+   51,
+   72
+  ],
+  "issues": [
+   166
+  ],
+  "it": [
+   62,
+   190
+  ],
+  "its": [
+   18
+  ],
+  "large": [
+   46
+  ],
+  "limited": [
+   114
+  ],
+  "locations,": [
+   100
+  ],
+  "machines,": [
+   188
+  ],
+  "met": [
+   152
+  ],
+  "more": [
+   119
+  ],
+  "mounts": [
+   86
+  ],
+  "need": [
+   168
+  ],
+  "needs,": [
+   155
+  ],
+  "number": [
+   47
+  ],
+  "of": [
+   38,
+   48,
+   68,
+   81,
+   107,
+   140,
+   177,
+   179,
+   184,
+   196
+  ],
+  "on": [
+   90,
+   97,
+   186
+  ],
+  "one": [
+   71,
+   117
+  ],
+  "online": [
+   110,
+   132
+  ],
+  "or": [
+   118
+  ],
+  "over": [
+   130
+  ],
+  "overcome": [
+   112
+  ],
+  "previous": [
+   55
+  ],
+  "primarily": [
+   23
+  ],
+  "processing": [
+   160
+  ],
+  "proprietary": [
+   6
+  ],
+  "provides": [
+   175,
+   191
+  ],
+  "reliability": [
+   106
+  ],
+  "reliability,": [
+   30
+  ],
+  "research": [
+   163
+  ],
+  "retrieving": [
+   108
+  ],
+  "same": [
+   147
+  ],
+  "scalability,": [
+   31
+  ],
+  "scalable": [
+   7
+  ],
+  "search": [
+   25
+  ],
+  "security": [
+   33
+  ],
+  "servers": [
+   92
+  ],
+  "servers.": [
+   120
+  ],
+  "serving": [
+   44
+  ],
+  "sets.": [
+   171
+  ],
+  "several": [
+   79,
+   91,
+   138
+  ],
+  "similar": [
+   52
+  ],
+  "size": [
+   76
+  ],
+  "sophisticated": [
+   11
+  ],
+  "storage": [
+   154,
+   180
+  ],
+  "successfully": [
+   151
+  ],
+  "such": [
+   161
+  ],
+  "system": [
+   10
+  ],
+  "systems": [
+   58
+  ],
+  "that": [
+   102,
+   137,
+   167
+  ],
+  "the": [
+   24,
+   54,
+   60,
+   64,
+   105,
+   125,
+   135,
+   146
+  ],
+  "these": [
+   87
+  ],
+  "thousand": [
+   187
+  ],
+  "thousands": [
+   183
+  ],
+  "time.": [
+   148
+  ],
+  "to": [
+   14,
+   116,
+   134
+  ],
+  "tolerance": [
+   36
+  ],
+  "transparency,": [
+   32
+  ],
+  "used": [
+   16
+  ],
+  "users.": [
+   197
+  ],
+  "using": [
+   39
+  ],
+  "which": [
+   93
+  ],
+  "will": [
+   103,
+   122
+  ],
+  "with": [
+   53
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I104941359"
+     ],
+     "raw_affiliation_string": "Dept. of Computer Engineering Faculty of Engineering, Al-Ahliyya Amman University Amman-Jordan"
+    }
+   ],
+   "author": {
+    "display_name": "Akuwan Saleh",
+    "id": "https://openalex.org/A5049066246",
+    "orcid": "https://orcid.org/0000-0002-9082-1448"
+   },
+   "author_position": "first",
+   "countries": [
+    "JO"
+   ],
+   "institutions": [
+    {
+     "country_code": "JO",
+     "display_name": "Al-Ahliyya Amman University",
+     "id": "https://openalex.org/I104941359",
+     "lineage": [
+      "https://openalex.org/I104941359"
+     ],
+     "ror": "https://ror.org/00xddhq60",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Dept. of Computer Engineering Faculty of Engineering, Al-Ahliyya Amman University Amman-Jordan"
+   ],
+   "raw_author_name": "Saleh A.",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I104941359"
+     ],
+     "raw_affiliation_string": "Dept. of Computer Engineering Faculty of Engineering, Al-Ahliyya Amman University Amman, Jordan"
+    }
+   ],
+   "author": {
+    "display_name": "N. Enas",
+    "id": "https://openalex.org/A5096849812",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [
+    "JO"
+   ],
+   "institutions": [
+    {
+     "country_code": "JO",
+     "display_name": "Al-Ahliyya Amman University",
+     "id": "https://openalex.org/I104941359",
+     "lineage": [
+      "https://openalex.org/I104941359"
+     ],
+     "ror": "https://ror.org/00xddhq60",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Dept. of Computer Engineering Faculty of Engineering, Al-Ahliyya Amman University Amman, Jordan"
+   ],
+   "raw_author_name": "Enas N.",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.5120/ijca2018918084",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.5120/ijca2018918084",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://doi.org/10.5120/ijca2018918084",
+  "raw_source_name": "International Journal of Computer Applications",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal of Computer Applications",
+   "host_organization": "https://openalex.org/P4322545532",
+   "host_organization_lineage": [
+    "https://openalex.org/P4322545532"
+   ],
+   "host_organization_lineage_names": [
+    "Foundation of Computer Science"
+   ],
+   "host_organization_name": "Foundation of Computer Science",
+   "id": "https://openalex.org/S4210206007",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "0975-8887"
+   ],
+   "issn_l": "0975-8887",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 1,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  }
+ ],
+ "doi": "https://doi.org/10.5120/ijca2018918084",
+ "funders": [],
+ "id": "https://openalex.org/W2900741869",
+ "ids": {
+  "doi": "https://doi.org/10.5120/ijca2018918084",
+  "mag": "2900741869",
+  "openalex": "https://openalex.org/W2900741869"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": true,
+  "oa_status": "diamond",
+  "oa_url": "https://doi.org/10.5120/ijca2018918084"
+ },
+ "primary_location": {
+  "id": "doi:10.5120/ijca2018918084",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.5120/ijca2018918084",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://doi.org/10.5120/ijca2018918084",
+  "raw_source_name": "International Journal of Computer Applications",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal of Computer Applications",
+   "host_organization": "https://openalex.org/P4322545532",
+   "host_organization_lineage": [
+    "https://openalex.org/P4322545532"
+   ],
+   "host_organization_lineage_names": [
+    "Foundation of Computer Science"
+   ],
+   "host_organization_name": "Foundation of Computer Science",
+   "id": "https://openalex.org/S4210206007",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "0975-8887"
+   ],
+   "issn_l": "0975-8887",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2018,
+ "referenced_works": [
+  "https://openalex.org/W1497253957",
+  "https://openalex.org/W2138555106",
+  "https://openalex.org/W6678205474",
+  "https://openalex.org/W6680447750"
+ ],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W753420207",
+  "https://openalex.org/W2353896575",
+  "https://openalex.org/W1550839482",
+  "https://openalex.org/W2379000728",
+  "https://openalex.org/W2368354671",
+  "https://openalex.org/W2389631998",
+  "https://openalex.org/W2362483455",
+  "https://openalex.org/W2355113374",
+  "https://openalex.org/W2391476234"
+ ],
+ "title": "Survey on a Google File System (GFS)",
+ "type": "article"
+}

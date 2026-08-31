@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 1537,
+ "doi": "https://doi.org/10.1007/978-0-8176-4842-8_26",
+ "id": "https://openalex.org/W2059608229",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1964119857",
+  "https://openalex.org/W1985061810",
+  "https://openalex.org/W1999667176",
+  "https://openalex.org/W2020403120",
+  "https://openalex.org/W2027421115",
+  "https://openalex.org/W2048652909",
+  "https://openalex.org/W2327315803",
+  "https://openalex.org/W2335597645",
+  "https://openalex.org/W4230627818",
+  "https://openalex.org/W4244424643"
+ ],
+ "title": "Paths, Trees, and Flowers"
+}

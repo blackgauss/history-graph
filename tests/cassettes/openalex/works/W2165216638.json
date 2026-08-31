@@ -1,0 +1,101 @@
+{
+ "cited_by_count": 1000,
+ "counts_by_year": [
+  {
+   "cited_by_count": 3,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 36,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1257/00028280260344632",
+ "id": "https://openalex.org/W2165216638",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1506394582",
+  "https://openalex.org/W1565592200",
+  "https://openalex.org/W1577178526",
+  "https://openalex.org/W1981691280",
+  "https://openalex.org/W1985034397",
+  "https://openalex.org/W2011516239",
+  "https://openalex.org/W2029924050",
+  "https://openalex.org/W2055034183",
+  "https://openalex.org/W2072238833",
+  "https://openalex.org/W2073590234",
+  "https://openalex.org/W2078191242",
+  "https://openalex.org/W2078695482",
+  "https://openalex.org/W2082009392",
+  "https://openalex.org/W2083256317",
+  "https://openalex.org/W2090513801",
+  "https://openalex.org/W2108365287",
+  "https://openalex.org/W2133625513",
+  "https://openalex.org/W2142609574",
+  "https://openalex.org/W2161078173",
+  "https://openalex.org/W2163827606",
+  "https://openalex.org/W2167252851",
+  "https://openalex.org/W2247439585",
+  "https://openalex.org/W2471696311",
+  "https://openalex.org/W2570155829",
+  "https://openalex.org/W3122598660",
+  "https://openalex.org/W3122799521",
+  "https://openalex.org/W3123079832",
+  "https://openalex.org/W3123388428",
+  "https://openalex.org/W3125044229",
+  "https://openalex.org/W3125282442"
+ ],
+ "title": "Last-Minute Bidding and the Rules for Ending Second-Price Auctions: Evidence from eBay and Amazon Auctions on the Internet"
+}

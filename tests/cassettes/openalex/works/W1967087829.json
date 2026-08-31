@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 56,
+ "doi": null,
+ "id": "https://openalex.org/W1967087829",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1983711073",
+  "https://openalex.org/W1991199257",
+  "https://openalex.org/W2047695422",
+  "https://openalex.org/W2065419751",
+  "https://openalex.org/W2066799613",
+  "https://openalex.org/W2103920867",
+  "https://openalex.org/W2106887953",
+  "https://openalex.org/W2116013009",
+  "https://openalex.org/W2118269922",
+  "https://openalex.org/W2131300191",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2169012378"
+ ],
+ "title": "An Analysis of Rule Indexing Implementations in Data Base Systems."
+}

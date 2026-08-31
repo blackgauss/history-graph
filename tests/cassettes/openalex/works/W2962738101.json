@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 411,
+ "doi": null,
+ "id": "https://openalex.org/W2962738101",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1993688167",
+  "https://openalex.org/W2003989103",
+  "https://openalex.org/W2012206667",
+  "https://openalex.org/W2026402424",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2093416591",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W2137005141",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2160083149",
+  "https://openalex.org/W3011907935"
+ ],
+ "title": "Quantum measurements and the Abelian Stabilizer Problem"
+}

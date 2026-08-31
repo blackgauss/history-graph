@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 75,
+ "doi": "https://doi.org/10.21437/interspeech.2014-445",
+ "id": "https://openalex.org/W2394662942",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W1514737389",
+  "https://openalex.org/W1522612817",
+  "https://openalex.org/W2020024436",
+  "https://openalex.org/W2045158511",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2076638338",
+  "https://openalex.org/W2094035326",
+  "https://openalex.org/W2102003408",
+  "https://openalex.org/W2136848157",
+  "https://openalex.org/W2143612262",
+  "https://openalex.org/W2143908786",
+  "https://openalex.org/W2154920538",
+  "https://openalex.org/W2160473997",
+  "https://openalex.org/W2170942820",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Prosody contour prediction with long short-term memory, bi-directional, deep recurrent neural networks"
+}

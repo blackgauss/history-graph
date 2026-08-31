@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 613,
+ "doi": "https://doi.org/10.1002/spe.4380250705",
+ "id": "https://openalex.org/W2018951244",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1489393579",
+  "https://openalex.org/W1532966629",
+  "https://openalex.org/W1579278367",
+  "https://openalex.org/W2054452283",
+  "https://openalex.org/W2064490449",
+  "https://openalex.org/W2109507516",
+  "https://openalex.org/W2913741673"
+ ],
+ "title": "ANTLR: A predicated‐ LL ( k ) parser generator"
+}

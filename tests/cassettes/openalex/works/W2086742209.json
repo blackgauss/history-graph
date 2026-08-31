@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 44,
+ "doi": "https://doi.org/10.1016/s0304-3975(98)00138-8",
+ "id": "https://openalex.org/W2086742209",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W133177166",
+  "https://openalex.org/W1482532876",
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1487717359",
+  "https://openalex.org/W1506616756",
+  "https://openalex.org/W1556158007",
+  "https://openalex.org/W1590029082",
+  "https://openalex.org/W1786798484",
+  "https://openalex.org/W1795577507",
+  "https://openalex.org/W1974637055",
+  "https://openalex.org/W2030752324",
+  "https://openalex.org/W2055224523",
+  "https://openalex.org/W2070324762",
+  "https://openalex.org/W2093111544",
+  "https://openalex.org/W2131739376",
+  "https://openalex.org/W2250593455",
+  "https://openalex.org/W2803451785",
+  "https://openalex.org/W4206283588",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6605371973",
+  "https://openalex.org/W6629202573",
+  "https://openalex.org/W6691145215",
+  "https://openalex.org/W6751402630"
+ ],
+ "title": "Permutability of proofs in intuitionistic sequent calculi"
+}

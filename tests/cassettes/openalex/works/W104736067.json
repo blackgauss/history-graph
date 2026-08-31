@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 49,
+ "doi": "https://doi.org/10.1023/a:1018923925800",
+ "id": "https://openalex.org/W104736067",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W2004053964",
+  "https://openalex.org/W2039402388",
+  "https://openalex.org/W4244829582"
+ ],
+ "title": "Proof of convergence of an iterative technique for thin plate spline interpolation in two dimensions"
+}

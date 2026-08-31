@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 853,
+ "doi": "https://doi.org/10.1016/0022-247x(65)90154-x",
+ "id": "https://openalex.org/W2011418219",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W240501105",
+  "https://openalex.org/W1535973036",
+  "https://openalex.org/W1971754637",
+  "https://openalex.org/W2003812970",
+  "https://openalex.org/W2028145673",
+  "https://openalex.org/W2034541289",
+  "https://openalex.org/W2038107162",
+  "https://openalex.org/W2040217797",
+  "https://openalex.org/W2066505667",
+  "https://openalex.org/W2103116581",
+  "https://openalex.org/W2156245224",
+  "https://openalex.org/W2341171179",
+  "https://openalex.org/W2885323201",
+  "https://openalex.org/W2912825112",
+  "https://openalex.org/W3152364991",
+  "https://openalex.org/W3206777520",
+  "https://openalex.org/W6609225582",
+  "https://openalex.org/W6643418694",
+  "https://openalex.org/W6659909391",
+  "https://openalex.org/W6722227665",
+  "https://openalex.org/W6753583744",
+  "https://openalex.org/W6815283105"
+ ],
+ "title": "Optimal control of Markov processes with incomplete state information"
+}

@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 91,
+ "doi": "https://doi.org/10.1103/physrevlett.77.3240",
+ "id": "https://openalex.org/W2090433716",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W252316601",
+  "https://openalex.org/W1966533239",
+  "https://openalex.org/W1967037487",
+  "https://openalex.org/W1967045838",
+  "https://openalex.org/W2001688573",
+  "https://openalex.org/W2003992904",
+  "https://openalex.org/W2017920704",
+  "https://openalex.org/W2038907799",
+  "https://openalex.org/W2039608115",
+  "https://openalex.org/W2040136860",
+  "https://openalex.org/W2049913461",
+  "https://openalex.org/W2063726815",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2076485024",
+  "https://openalex.org/W2080038481",
+  "https://openalex.org/W2086201659",
+  "https://openalex.org/W2107050628",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W3016003595",
+  "https://openalex.org/W3100206575",
+  "https://openalex.org/W4230665353",
+  "https://openalex.org/W4249266103"
+ ],
+ "title": "Decoherence Bounds on Quantum Computation with Trapped Ions"
+}

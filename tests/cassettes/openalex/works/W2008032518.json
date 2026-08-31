@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 70,
+ "doi": "https://doi.org/10.1137/0912070",
+ "id": "https://openalex.org/W2008032518",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W2444430",
+  "https://openalex.org/W141760394",
+  "https://openalex.org/W1510444525",
+  "https://openalex.org/W1608480862",
+  "https://openalex.org/W1965561602",
+  "https://openalex.org/W1972622789",
+  "https://openalex.org/W1982483258",
+  "https://openalex.org/W1983020550",
+  "https://openalex.org/W2006314423",
+  "https://openalex.org/W2025343193",
+  "https://openalex.org/W2026540119",
+  "https://openalex.org/W2033663831",
+  "https://openalex.org/W2034374737",
+  "https://openalex.org/W2038201879",
+  "https://openalex.org/W2068179746",
+  "https://openalex.org/W2094566169",
+  "https://openalex.org/W2095769364",
+  "https://openalex.org/W2162870748",
+  "https://openalex.org/W2172960773",
+  "https://openalex.org/W2237982269",
+  "https://openalex.org/W2586841898"
+ ],
+ "title": "Computation of Thin-Plate Splines"
+}

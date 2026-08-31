@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 119,
+ "doi": "https://doi.org/10.48550/arxiv.1301.6709",
+ "id": "https://openalex.org/W2062122868",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1484324861",
+  "https://openalex.org/W1494628589",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1554743847",
+  "https://openalex.org/W1561981064",
+  "https://openalex.org/W1578685895",
+  "https://openalex.org/W1592590442",
+  "https://openalex.org/W1593021443",
+  "https://openalex.org/W1593793857",
+  "https://openalex.org/W1609461728",
+  "https://openalex.org/W1901420645",
+  "https://openalex.org/W1984567898",
+  "https://openalex.org/W2046584898",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2138215503",
+  "https://openalex.org/W2147565737",
+  "https://openalex.org/W3160881378"
+ ],
+ "title": "A General Algorithm for Approximate Inference and its Application to Hybrid Bayes Nets"
+}

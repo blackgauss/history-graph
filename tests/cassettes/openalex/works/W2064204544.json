@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 6,
+ "doi": "https://doi.org/10.1109/tse.1987.233465",
+ "id": "https://openalex.org/W2064204544",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W2020174888",
+  "https://openalex.org/W2023195086",
+  "https://openalex.org/W2046649829",
+  "https://openalex.org/W2129084394",
+  "https://openalex.org/W2153485419"
+ ],
+ "title": "Shortest Semijoin Schedule for a Local Area Distributed Database System"
+}

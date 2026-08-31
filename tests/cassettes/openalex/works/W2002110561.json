@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 405,
+ "doi": "https://doi.org/10.1145/130283.130333",
+ "id": "https://openalex.org/W2002110561",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W113037826",
+  "https://openalex.org/W138816814",
+  "https://openalex.org/W207305439",
+  "https://openalex.org/W1505054487",
+  "https://openalex.org/W1524011117",
+  "https://openalex.org/W1526124194",
+  "https://openalex.org/W1735558737",
+  "https://openalex.org/W2006299591",
+  "https://openalex.org/W2019580127",
+  "https://openalex.org/W2037717074",
+  "https://openalex.org/W2062851028",
+  "https://openalex.org/W2066636971",
+  "https://openalex.org/W2067481201",
+  "https://openalex.org/W2120052337",
+  "https://openalex.org/W4205167958",
+  "https://openalex.org/W4236015061",
+  "https://openalex.org/W4248319243",
+  "https://openalex.org/W6630119620",
+  "https://openalex.org/W6650784929"
+ ],
+ "title": "Continuous queries over append-only databases"
+}

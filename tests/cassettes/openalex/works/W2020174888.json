@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 26,
+ "doi": "https://doi.org/10.1145/582318.582344",
+ "id": "https://openalex.org/W2020174888",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1539164172",
+  "https://openalex.org/W1967955864",
+  "https://openalex.org/W1994593991",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2044202775",
+  "https://openalex.org/W2084248338",
+  "https://openalex.org/W2153485419",
+  "https://openalex.org/W2225570703",
+  "https://openalex.org/W2676755577"
+ ],
+ "title": "Optimal semijoin schedules for query processing in local distributed database systems"
+}

@@ -1,0 +1,106 @@
+{
+ "cited_by_count": 8726,
+ "counts_by_year": [
+  {
+   "cited_by_count": 544,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 803,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 801,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 687,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 578,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 559,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 512,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 395,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 384,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 384,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 360,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 317,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 329,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 308,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 232,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1007/bf01589116",
+ "id": "https://openalex.org/W2051434435",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W13214399",
+  "https://openalex.org/W220758854",
+  "https://openalex.org/W288255560",
+  "https://openalex.org/W1549376673",
+  "https://openalex.org/W1578471822",
+  "https://openalex.org/W1586015540",
+  "https://openalex.org/W1635457335",
+  "https://openalex.org/W2000389939",
+  "https://openalex.org/W2010647796",
+  "https://openalex.org/W2011253492",
+  "https://openalex.org/W2030405518",
+  "https://openalex.org/W2035002995",
+  "https://openalex.org/W2035079355",
+  "https://openalex.org/W2043382734",
+  "https://openalex.org/W2050218775",
+  "https://openalex.org/W2051669046",
+  "https://openalex.org/W2056603712",
+  "https://openalex.org/W2059808679",
+  "https://openalex.org/W2062542688",
+  "https://openalex.org/W2068484625",
+  "https://openalex.org/W2077658674",
+  "https://openalex.org/W2082003847",
+  "https://openalex.org/W2086518770",
+  "https://openalex.org/W2091985100",
+  "https://openalex.org/W2122565324",
+  "https://openalex.org/W2123019231",
+  "https://openalex.org/W2130844535",
+  "https://openalex.org/W2142738245",
+  "https://openalex.org/W2153532571",
+  "https://openalex.org/W2154589350",
+  "https://openalex.org/W2171926168",
+  "https://openalex.org/W3027959458",
+  "https://openalex.org/W3141890267",
+  "https://openalex.org/W4236316114",
+  "https://openalex.org/W4237753401"
+ ],
+ "title": "On the limited memory BFGS method for large scale optimization"
+}

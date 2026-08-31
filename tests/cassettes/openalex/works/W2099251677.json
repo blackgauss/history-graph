@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 696,
+ "doi": "https://doi.org/10.1002/j.1538-7305.1959.tb01585.x",
+ "id": "https://openalex.org/W2099251677",
+ "publication_year": 1959,
+ "referenced_works": [
+  "https://openalex.org/W2053619330",
+  "https://openalex.org/W2068422506",
+  "https://openalex.org/W2146969125",
+  "https://openalex.org/W6667608778",
+  "https://openalex.org/W6681829970"
+ ],
+ "title": "Representation of Switching Circuits by Binary-Decision Programs"
+}

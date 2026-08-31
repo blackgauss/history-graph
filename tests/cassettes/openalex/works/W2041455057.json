@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 48,
+ "doi": "https://doi.org/10.1162/neco.1996.8.4.773",
+ "id": "https://openalex.org/W2041455057",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1278167707",
+  "https://openalex.org/W1979191599",
+  "https://openalex.org/W1994618660",
+  "https://openalex.org/W2026295629",
+  "https://openalex.org/W2043998982",
+  "https://openalex.org/W2081881941",
+  "https://openalex.org/W2085927826",
+  "https://openalex.org/W2106884367",
+  "https://openalex.org/W2113055360",
+  "https://openalex.org/W2115565078",
+  "https://openalex.org/W2122925692",
+  "https://openalex.org/W2130839218",
+  "https://openalex.org/W2137234026",
+  "https://openalex.org/W2150863395",
+  "https://openalex.org/W2165746994",
+  "https://openalex.org/W2169476756",
+  "https://openalex.org/W2171490281",
+  "https://openalex.org/W2782861958",
+  "https://openalex.org/W2969888398"
+ ],
+ "title": "Semilinear Predictability Minimization Produces Well-Known Feature Detectors"
+}

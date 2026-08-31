@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 449,
+ "doi": "https://doi.org/10.48550/arxiv.1311.2901",
+ "id": "https://openalex.org/W2952186574",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1599933961",
+  "https://openalex.org/W1849277567",
+  "https://openalex.org/W1904365287",
+  "https://openalex.org/W2025768430",
+  "https://openalex.org/W2031342017",
+  "https://openalex.org/W2097018403",
+  "https://openalex.org/W2104371740",
+  "https://openalex.org/W2110798204",
+  "https://openalex.org/W2115733720",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2137313500",
+  "https://openalex.org/W2141200610",
+  "https://openalex.org/W2144869872",
+  "https://openalex.org/W2147800946",
+  "https://openalex.org/W2147860648",
+  "https://openalex.org/W2546302380",
+  "https://openalex.org/W2953360861"
+ ],
+ "title": "Visualizing and Understanding Convolutional Networks"
+}

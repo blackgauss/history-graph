@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 485,
+ "doi": "https://doi.org/10.1145/253260.253268",
+ "id": "https://openalex.org/W2111967617",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W144888112",
+  "https://openalex.org/W1501548698",
+  "https://openalex.org/W1521479407",
+  "https://openalex.org/W1538592187",
+  "https://openalex.org/W1555915743",
+  "https://openalex.org/W1586923923",
+  "https://openalex.org/W2010413210",
+  "https://openalex.org/W2086681205",
+  "https://openalex.org/W2103201239",
+  "https://openalex.org/W2140646908",
+  "https://openalex.org/W2143401113",
+  "https://openalex.org/W2161694911"
+ ],
+ "title": "Improved query performance with variant indexes"
+}

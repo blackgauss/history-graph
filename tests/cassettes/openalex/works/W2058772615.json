@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 80,
+ "doi": "https://doi.org/10.1017/s0963548399004071",
+ "id": "https://openalex.org/W2058772615",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W118210480",
+  "https://openalex.org/W1569752386",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W2013737143",
+  "https://openalex.org/W2038225707",
+  "https://openalex.org/W2041979432",
+  "https://openalex.org/W2087226760",
+  "https://openalex.org/W2109039359",
+  "https://openalex.org/W2164530213",
+  "https://openalex.org/W3022136271",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Bipartite Subgraphs and the Smallest Eigenvalue"
+}

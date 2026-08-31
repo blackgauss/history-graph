@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 236,
+ "doi": "https://doi.org/10.1016/0376-5075(78)90045-4",
+ "id": "https://openalex.org/W2047482026",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W164293929",
+  "https://openalex.org/W1996360405",
+  "https://openalex.org/W2170262285",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W4232836212",
+  "https://openalex.org/W6606595402",
+  "https://openalex.org/W6643834494"
+ ],
+ "title": "The implementation of reliable distributed multiprocess systems"
+}

@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 54,
+ "doi": "https://doi.org/10.1006/inco.1996.0058",
+ "id": "https://openalex.org/W2156829867",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1543688617",
+  "https://openalex.org/W1547562281",
+  "https://openalex.org/W1812404936",
+  "https://openalex.org/W1973576343",
+  "https://openalex.org/W1984190288",
+  "https://openalex.org/W2005219276",
+  "https://openalex.org/W2005230371",
+  "https://openalex.org/W2010663699",
+  "https://openalex.org/W2024873396",
+  "https://openalex.org/W2038863376",
+  "https://openalex.org/W2121306658",
+  "https://openalex.org/W2493473242"
+ ],
+ "title": "A Coinduction Principle for Recursive Data Types Based on Bisimulation"
+}

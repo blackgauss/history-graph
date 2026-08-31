@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 188,
+ "doi": "https://doi.org/10.1093/biomet/67.2.261",
+ "id": "https://openalex.org/W2093257937",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1509045286",
+  "https://openalex.org/W1965555277",
+  "https://openalex.org/W1968269771",
+  "https://openalex.org/W1984470784",
+  "https://openalex.org/W1987037087",
+  "https://openalex.org/W2034517627",
+  "https://openalex.org/W2063698478",
+  "https://openalex.org/W2071166009",
+  "https://openalex.org/W2072773730",
+  "https://openalex.org/W2089318689",
+  "https://openalex.org/W2131070718",
+  "https://openalex.org/W2324309783",
+  "https://openalex.org/W2328699028",
+  "https://openalex.org/W2428510962",
+  "https://openalex.org/W2588106347",
+  "https://openalex.org/W2904673549",
+  "https://openalex.org/W3015375750",
+  "https://openalex.org/W3016239831",
+  "https://openalex.org/W3035751571"
+ ],
+ "title": "Logistic-normal distributions:Some properties and uses"
+}

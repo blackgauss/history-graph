@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 425,
+ "doi": "https://doi.org/10.1016/0001-8708(76)90184-5",
+ "id": "https://openalex.org/W1993000235",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W1969681050",
+  "https://openalex.org/W1999809553",
+  "https://openalex.org/W2043702877",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2258578877",
+  "https://openalex.org/W2915118698",
+  "https://openalex.org/W3021947329",
+  "https://openalex.org/W3159313784",
+  "https://openalex.org/W4236028268",
+  "https://openalex.org/W4403297208",
+  "https://openalex.org/W6640554228",
+  "https://openalex.org/W6650538109",
+  "https://openalex.org/W6692582951"
+ ],
+ "title": "Best constants in Young's inequality, its converse, and its generalization to more than three functions"
+}

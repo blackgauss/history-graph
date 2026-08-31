@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 124,
+ "doi": "https://doi.org/10.1007/11499107_12",
+ "id": "https://openalex.org/W1574451223",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W81610693",
+  "https://openalex.org/W125178576",
+  "https://openalex.org/W127040706",
+  "https://openalex.org/W139325465",
+  "https://openalex.org/W1494865762",
+  "https://openalex.org/W1521053613",
+  "https://openalex.org/W1546338010",
+  "https://openalex.org/W1667614912",
+  "https://openalex.org/W1978526866",
+  "https://openalex.org/W1984853564",
+  "https://openalex.org/W2026355757",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2106440199",
+  "https://openalex.org/W2165372647",
+  "https://openalex.org/W2494638445",
+  "https://openalex.org/W6605191500"
+ ],
+ "title": "Diversification and Determinism in Local Search for Satisfiability"
+}

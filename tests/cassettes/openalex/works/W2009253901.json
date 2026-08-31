@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 627,
+ "doi": "https://doi.org/10.1109/tac.1966.1098356",
+ "id": "https://openalex.org/W2009253901",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W833594278",
+  "https://openalex.org/W1598453729",
+  "https://openalex.org/W1945843680",
+  "https://openalex.org/W2004470537",
+  "https://openalex.org/W2011492128",
+  "https://openalex.org/W2019516897",
+  "https://openalex.org/W2043319684",
+  "https://openalex.org/W2062643246",
+  "https://openalex.org/W2127790141",
+  "https://openalex.org/W2606502450",
+  "https://openalex.org/W2946131385",
+  "https://openalex.org/W3146073576",
+  "https://openalex.org/W6623258800",
+  "https://openalex.org/W7056871082"
+ ],
+ "title": "On the input-output stability of time-varying nonlinear feedback systems--Part II: Conditions involving circles in the frequency plane and sector nonlinearities"
+}

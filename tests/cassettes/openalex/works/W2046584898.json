@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 425,
+ "doi": "https://doi.org/10.1080/01621459.1992.10476265",
+ "id": "https://openalex.org/W2046584898",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W14108901",
+  "https://openalex.org/W111380827",
+  "https://openalex.org/W1563779243",
+  "https://openalex.org/W1593793857",
+  "https://openalex.org/W2013567125",
+  "https://openalex.org/W2038374320",
+  "https://openalex.org/W2083890292",
+  "https://openalex.org/W2147565737",
+  "https://openalex.org/W2167826316",
+  "https://openalex.org/W2796121453",
+  "https://openalex.org/W4205844716",
+  "https://openalex.org/W4237238920",
+  "https://openalex.org/W4241764762",
+  "https://openalex.org/W4256170606",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Propagation of Probabilities, Means, and Variances in Mixed Graphical Association Models"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 153,
+ "doi": "https://doi.org/10.1016/0004-3702(95)00018-a",
+ "id": "https://openalex.org/W2160811334",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1588085858",
+  "https://openalex.org/W1998084650",
+  "https://openalex.org/W2007448387",
+  "https://openalex.org/W2073491323",
+  "https://openalex.org/W2076073997",
+  "https://openalex.org/W2163751633",
+  "https://openalex.org/W6635012917",
+  "https://openalex.org/W6649727821",
+  "https://openalex.org/W6652368642"
+ ],
+ "title": "The effect of bounding the number of primitive propositions and the depth of nesting on the complexity of modal logic"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 2231,
+ "doi": "https://doi.org/10.1016/s0022-0000(74)80044-9",
+ "id": "https://openalex.org/W2040924621",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W149461665",
+  "https://openalex.org/W594514321",
+  "https://openalex.org/W1531368347",
+  "https://openalex.org/W1579391414",
+  "https://openalex.org/W1595545560",
+  "https://openalex.org/W1597020313",
+  "https://openalex.org/W2002680893",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2046063196",
+  "https://openalex.org/W2058200712",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2108301529",
+  "https://openalex.org/W2128553546",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W6634497547",
+  "https://openalex.org/W6635630268",
+  "https://openalex.org/W6644040475",
+  "https://openalex.org/W6650877037",
+  "https://openalex.org/W6659573362",
+  "https://openalex.org/W6662248159",
+  "https://openalex.org/W6664798580"
+ ],
+ "title": "Approximation algorithms for combinatorial problems"
+}

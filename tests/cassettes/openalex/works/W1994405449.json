@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 76,
+ "doi": "https://doi.org/10.1016/0167-2789(86)90244-7",
+ "id": "https://openalex.org/W1994405449",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1992476998",
+  "https://openalex.org/W2016354087",
+  "https://openalex.org/W2094930158",
+  "https://openalex.org/W2112246162",
+  "https://openalex.org/W2128084896"
+ ],
+ "title": "A self-optimizing, nonsymmetrical neural net for content addressable memory and pattern recognition"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 1449,
+ "doi": "https://doi.org/10.1147/rd.441.0206",
+ "id": "https://openalex.org/W2138178898",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1999051457",
+  "https://openalex.org/W2036049211",
+  "https://openalex.org/W2040870580",
+  "https://openalex.org/W2054102673",
+  "https://openalex.org/W2159187100",
+  "https://openalex.org/W2202514763",
+  "https://openalex.org/W2604681111",
+  "https://openalex.org/W3023348153",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Some studies in machine learning using the game of checkers"
+}

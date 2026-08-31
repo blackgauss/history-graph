@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 1671,
+ "doi": "https://doi.org/10.1109/tit.1979.1055985",
+ "id": "https://openalex.org/W2078289947",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1530753374",
+  "https://openalex.org/W2019935404",
+  "https://openalex.org/W2038488239",
+  "https://openalex.org/W2164684058",
+  "https://openalex.org/W2577446513",
+  "https://openalex.org/W3127549917"
+ ],
+ "title": "On the Shannon capacity of a graph"
+}

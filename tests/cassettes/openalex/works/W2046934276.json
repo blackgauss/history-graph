@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 242,
+ "doi": "https://doi.org/10.1145/258533.258616",
+ "id": "https://openalex.org/W2046934276",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1483114294",
+  "https://openalex.org/W1970041563",
+  "https://openalex.org/W1970483275",
+  "https://openalex.org/W2009487047",
+  "https://openalex.org/W2011395874",
+  "https://openalex.org/W2028002587",
+  "https://openalex.org/W2050660892",
+  "https://openalex.org/W2066539191",
+  "https://openalex.org/W2093825590",
+  "https://openalex.org/W2116190532",
+  "https://openalex.org/W2119047110",
+  "https://openalex.org/W2123959253",
+  "https://openalex.org/W2125889002",
+  "https://openalex.org/W2129113961",
+  "https://openalex.org/W2142901448",
+  "https://openalex.org/W2163294786",
+  "https://openalex.org/W2440833291",
+  "https://openalex.org/W2610496362",
+  "https://openalex.org/W2611627047",
+  "https://openalex.org/W3149261725"
+ ],
+ "title": "Using and combining predictors that specialize"
+}

@@ -1,0 +1,627 @@
+{
+ "abstract_inverted_index": {
+  "(HDFS).": [
+   15
+  ],
+  "(QFS)": [
+   4
+  ],
+  "2011.": [
+   128
+  ],
+  "50%": [
+   35
+  ],
+  "Apache": [
+   114
+  ],
+  "As": [
+   82
+  ],
+  "C++,": [
+   20
+  ],
+  "Distributed": [
+   12
+  ],
+  "File": [
+   2,
+   13
+  ],
+  "HDFS": [
+   94
+  ],
+  "HDFS:": [
+   34
+  ],
+  "Hadoop": [
+   11,
+   25
+  ],
+  "Hadoop,": [
+   90
+  ],
+  "I/O": [
+   79
+  ],
+  "MapReduce,": [
+   26
+  ],
+  "Multi-petabyte": [
+   118
+  ],
+  "QFS": [
+   16,
+   83,
+   96,
+   102,
+   119
+  ],
+  "Quantcast": [
+   1
+  ],
+  "System": [
+   3,
+   14
+  ],
+  "The": [
+   0
+  ],
+  "a": [
+   45,
+   51,
+   62,
+   66
+  ],
+  "alternative": [
+   8
+  ],
+  "an": [
+   6,
+   113
+  ],
+  "and": [
+   27,
+   59,
+   76,
+   109
+  ],
+  "append": [
+   64
+  ],
+  "available": [
+   111
+  ],
+  "been": [
+   122
+  ],
+  "being": [
+   104
+  ],
+  "box": [
+   88
+  ],
+  "client": [
+   70
+  ],
+  "coding": [
+   41
+  ],
+  "command": [
+   68
+  ],
+  "compatible": [
+   23
+  ],
+  "concurrent": [
+   63
+  ],
+  "data": [
+   92
+  ],
+  "developed": [
+   105
+  ],
+  "device": [
+   80
+  ],
+  "disk": [
+   36
+  ],
+  "distcp.": [
+   101
+  ],
+  "doubling": [
+   47
+  ],
+  "efficiency": [
+   30
+  ],
+  "efficient": [
+   7
+  ],
+  "erasure": [
+   40
+  ],
+  "executing": [
+   99
+  ],
+  "faster": [
+   52,
+   57,
+   72
+  ],
+  "feature,": [
+   65
+  ],
+  "feedback-directed": [
+   78
+  ],
+  "for": [
+   56
+  ],
+  "from": [
+   93,
+   116
+  ],
+  "fs,": [
+   75
+  ],
+  "fully": [
+   106
+  ],
+  "global": [
+   77
+  ],
+  "hadoop": [
+   74,
+   100
+  ],
+  "have": [
+   121
+  ],
+  "heavy": [
+   124
+  ],
+  "https://github.com/quantcast/qfs.": [
+   117
+  ],
+  "improvements": [
+   31
+  ],
+  "in": [
+   19,
+   123
+  ],
+  "instances": [
+   120
+  ],
+  "instead": [
+   42
+  ],
+  "involves": [
+   97
+  ],
+  "is": [
+   5,
+   17,
+   21,
+   103,
+   110
+  ],
+  "license": [
+   115
+  ],
+  "line": [
+   69
+  ],
+  "logging": [
+   60
+  ],
+  "management.": [
+   81
+  ],
+  "migrating": [
+   91
+  ],
+  "much": [
+   71
+  ],
+  "name": [
+   53
+  ],
+  "native": [
+   67
+  ],
+  "node,": [
+   54
+  ],
+  "of": [
+   43,
+   48,
+   86
+  ],
+  "offers": [
+   28
+  ],
+  "open": [
+   107
+  ],
+  "out": [
+   85
+  ],
+  "plugin": [
+   22
+  ],
+  "production": [
+   125
+  ],
+  "relative": [
+   32
+  ],
+  "replication,": [
+   44
+  ],
+  "resulting": [
+   46
+  ],
+  "savings": [
+   38
+  ],
+  "several": [
+   29
+  ],
+  "simply": [
+   98
+  ],
+  "since": [
+   127
+  ],
+  "sorting": [
+   58
+  ],
+  "source": [
+   108
+  ],
+  "space": [
+   37
+  ],
+  "support": [
+   55
+  ],
+  "than": [
+   73
+  ],
+  "the": [
+   10,
+   87
+  ],
+  "through": [
+   39,
+   61
+  ],
+  "throughput,": [
+   50
+  ],
+  "to": [
+   9,
+   33,
+   95
+  ],
+  "under": [
+   112
+  ],
+  "use": [
+   126
+  ],
+  "with": [
+   24,
+   89
+  ],
+  "works": [
+   84
+  ],
+  "write": [
+   49
+  ],
+  "written": [
+   18
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Quantcast"
+    }
+   ],
+   "author": {
+    "display_name": "Michael Ovsiannikov",
+    "id": "https://openalex.org/A5063013595",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Quantcast"
+   ],
+   "raw_author_name": "Michael Ovsiannikov",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Quantcast"
+    }
+   ],
+   "author": {
+    "display_name": "Silvius Rus",
+    "id": "https://openalex.org/A5091284596",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Quantcast"
+   ],
+   "raw_author_name": "Silvius Rus",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ],
+     "raw_affiliation_string": "Google"
+    }
+   ],
+   "author": {
+    "display_name": "Damian Reeves",
+    "id": "https://openalex.org/A5065339265",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Google (United States)",
+     "id": "https://openalex.org/I1291425158",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ],
+     "ror": "https://ror.org/00njsd438",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Google"
+   ],
+   "raw_author_name": "Damian Reeves",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Quantcast"
+    }
+   ],
+   "author": {
+    "display_name": "Paul M. Sutter",
+    "id": "https://openalex.org/A5106409089",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Quantcast"
+   ],
+   "raw_author_name": "Paul Sutter",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210164937"
+     ],
+     "raw_affiliation_string": "Microsoft"
+    }
+   ],
+   "author": {
+    "display_name": "Sriram Rao",
+    "id": "https://openalex.org/A5070183492",
+    "orcid": "https://orcid.org/0000-0002-3265-6165"
+   },
+   "author_position": "middle",
+   "countries": [
+    "GB"
+   ],
+   "institutions": [
+    {
+     "country_code": "GB",
+     "display_name": "Microsoft Research (United Kingdom)",
+     "id": "https://openalex.org/I4210164937",
+     "lineage": [
+      "https://openalex.org/I1290206253",
+      "https://openalex.org/I4210164937"
+     ],
+     "ror": "https://ror.org/05k87vq12",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Microsoft"
+   ],
+   "raw_author_name": "Sriram Rao",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Quantcast"
+    }
+   ],
+   "author": {
+    "display_name": "Jim Kelly",
+    "id": "https://openalex.org/A5103265232",
+    "orcid": "https://orcid.org/0000-0003-4832-0292"
+   },
+   "author_position": "last",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Quantcast"
+   ],
+   "raw_author_name": "Jim Kelly",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 164,
+ "counts_by_year": [
+  {
+   "cited_by_count": 5,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2013
+  }
+ ],
+ "doi": "https://doi.org/10.14778/2536222.2536234",
+ "funders": [],
+ "id": "https://openalex.org/W2004958263",
+ "ids": {
+  "doi": "https://doi.org/10.14778/2536222.2536234",
+  "mag": "2004958263",
+  "openalex": "https://openalex.org/W2004958263"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.14778/2536222.2536234",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.14778/2536222.2536234",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Proceedings of the VLDB Endowment",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Proceedings of the VLDB Endowment",
+   "host_organization": "https://openalex.org/P4310319798",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319798"
+   ],
+   "host_organization_lineage_names": [
+    "Association for Computing Machinery"
+   ],
+   "host_organization_name": "Association for Computing Machinery",
+   "id": "https://openalex.org/S4210226185",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "2150-8097"
+   ],
+   "issn_l": "2150-8097",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1900515362",
+  "https://openalex.org/W2076164405",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2119738171",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W4238584892"
+ ],
+ "related_works": [
+  "https://openalex.org/W753420207",
+  "https://openalex.org/W1480425691",
+  "https://openalex.org/W3042976586",
+  "https://openalex.org/W2353896575",
+  "https://openalex.org/W1550839482",
+  "https://openalex.org/W2379000728",
+  "https://openalex.org/W2368354671",
+  "https://openalex.org/W2389631998",
+  "https://openalex.org/W2362483455",
+  "https://openalex.org/W290983047"
+ ],
+ "title": "The quantcast file system",
+ "type": "article"
+}

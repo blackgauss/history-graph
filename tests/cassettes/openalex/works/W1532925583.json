@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1023/a:1021208315170",
+ "id": "https://openalex.org/W1532925583",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1547057964",
+  "https://openalex.org/W1560025104",
+  "https://openalex.org/W1562502650",
+  "https://openalex.org/W1562625908",
+  "https://openalex.org/W1650993530",
+  "https://openalex.org/W1967073510",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W1986005884",
+  "https://openalex.org/W2004472922",
+  "https://openalex.org/W2026820987",
+  "https://openalex.org/W2029163643",
+  "https://openalex.org/W2035016254",
+  "https://openalex.org/W2038193643",
+  "https://openalex.org/W2050091725",
+  "https://openalex.org/W2061607408",
+  "https://openalex.org/W2069767473",
+  "https://openalex.org/W2069798394",
+  "https://openalex.org/W2078289947",
+  "https://openalex.org/W2130857672",
+  "https://openalex.org/W2137373403",
+  "https://openalex.org/W2147012241",
+  "https://openalex.org/W2787523326",
+  "https://openalex.org/W4231694652"
+ ],
+ "title": "On Semidefinite Programming Relaxations of (2+p)-SAT"
+}

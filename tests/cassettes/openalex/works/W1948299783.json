@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 96,
+ "doi": "https://doi.org/10.1007/10720246_8",
+ "id": "https://openalex.org/W1948299783",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W82633235",
+  "https://openalex.org/W1480255812",
+  "https://openalex.org/W1480745786",
+  "https://openalex.org/W1536217426",
+  "https://openalex.org/W1541282514",
+  "https://openalex.org/W1549117130",
+  "https://openalex.org/W1556434751",
+  "https://openalex.org/W1596013090",
+  "https://openalex.org/W1605860778",
+  "https://openalex.org/W2043829066",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2068852367",
+  "https://openalex.org/W2091084325",
+  "https://openalex.org/W2130182605",
+  "https://openalex.org/W2152721940",
+  "https://openalex.org/W2482394638",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W4233253115",
+  "https://openalex.org/W7052370674"
+ ],
+ "title": "SAT-Based Procedures for Temporal Reasoning"
+}

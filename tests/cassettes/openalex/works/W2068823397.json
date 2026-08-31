@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 16,
+ "doi": "https://doi.org/10.1016/s0167-7152(00)00141-3",
+ "id": "https://openalex.org/W2068823397",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1965574914",
+  "https://openalex.org/W2069754508",
+  "https://openalex.org/W2070723874",
+  "https://openalex.org/W2087636648",
+  "https://openalex.org/W2751862591",
+  "https://openalex.org/W2753908209",
+  "https://openalex.org/W2797066837",
+  "https://openalex.org/W2972424502",
+  "https://openalex.org/W3013406015",
+  "https://openalex.org/W3027720329",
+  "https://openalex.org/W3122958986",
+  "https://openalex.org/W3143261911",
+  "https://openalex.org/W4300546246",
+  "https://openalex.org/W4376599336"
+ ],
+ "title": "A remark on quadrant normal probabilities in high dimensions"
+}

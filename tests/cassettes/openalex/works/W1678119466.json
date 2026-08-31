@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 11,
+ "doi": null,
+ "id": "https://openalex.org/W1678119466",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W107715831",
+  "https://openalex.org/W1531333757",
+  "https://openalex.org/W1547612193",
+  "https://openalex.org/W1586173270",
+  "https://openalex.org/W1999609797",
+  "https://openalex.org/W2026680900",
+  "https://openalex.org/W2045546253",
+  "https://openalex.org/W2118429180",
+  "https://openalex.org/W2131774270",
+  "https://openalex.org/W2142362566",
+  "https://openalex.org/W2147568880"
+ ],
+ "title": "RNN-based Learning of Compact Maps for Efficient Robot Localization"
+}

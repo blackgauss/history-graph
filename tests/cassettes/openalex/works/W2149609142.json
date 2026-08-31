@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 129,
+ "doi": null,
+ "id": "https://openalex.org/W2149609142",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W86934288",
+  "https://openalex.org/W112781129",
+  "https://openalex.org/W310480992",
+  "https://openalex.org/W1530042190",
+  "https://openalex.org/W1539753748",
+  "https://openalex.org/W1546550030",
+  "https://openalex.org/W1913279262",
+  "https://openalex.org/W2007415020",
+  "https://openalex.org/W2019819322",
+  "https://openalex.org/W2026904103",
+  "https://openalex.org/W2048071586",
+  "https://openalex.org/W2077944153",
+  "https://openalex.org/W2094082125",
+  "https://openalex.org/W2107460938",
+  "https://openalex.org/W2147504831",
+  "https://openalex.org/W2147838018",
+  "https://openalex.org/W2160488754",
+  "https://openalex.org/W2163643788",
+  "https://openalex.org/W2205436351",
+  "https://openalex.org/W2250292136",
+  "https://openalex.org/W2296226841"
+ ],
+ "title": "SWIFT: USING DISTRIBUTED DISK STRIPING TO PROVIDE HIGH I/O DATA RATES"
+}

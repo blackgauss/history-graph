@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 138,
+ "doi": "https://doi.org/10.1007/3-540-61769-8_1",
+ "id": "https://openalex.org/W2138949781",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1515932031",
+  "https://openalex.org/W1658016212",
+  "https://openalex.org/W1988698742",
+  "https://openalex.org/W2035362408",
+  "https://openalex.org/W2047482026",
+  "https://openalex.org/W2132107743",
+  "https://openalex.org/W2152465173",
+  "https://openalex.org/W2611515161",
+  "https://openalex.org/W2914206182",
+  "https://openalex.org/W6669650361"
+ ],
+ "title": "How to build a highly available system using consensus"
+}

@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 240,
+ "doi": "https://doi.org/10.1080/00207176908905777",
+ "id": "https://openalex.org/W2136032750",
+ "publication_year": 1969,
+ "referenced_works": [
+  "https://openalex.org/W2014208555",
+  "https://openalex.org/W2052920959",
+  "https://openalex.org/W2083402998",
+  "https://openalex.org/W2094060968",
+  "https://openalex.org/W2799137445",
+  "https://openalex.org/W4206038828",
+  "https://openalex.org/W4231005344"
+ ],
+ "title": "Monte Carlo techniques to estimate the conditional expectation in multi-stage non-linear filtering†"
+}

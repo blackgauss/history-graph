@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1137/s0097539793256053",
+ "id": "https://openalex.org/W2001636851",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1550402024",
+  "https://openalex.org/W1923807516",
+  "https://openalex.org/W1980584633",
+  "https://openalex.org/W1995067748",
+  "https://openalex.org/W2003306963",
+  "https://openalex.org/W2005180798",
+  "https://openalex.org/W2010848428",
+  "https://openalex.org/W2016042296",
+  "https://openalex.org/W2018025912",
+  "https://openalex.org/W2021126666",
+  "https://openalex.org/W2028837121",
+  "https://openalex.org/W2038987765",
+  "https://openalex.org/W2050917944",
+  "https://openalex.org/W2055978814",
+  "https://openalex.org/W2060937691",
+  "https://openalex.org/W2076342862",
+  "https://openalex.org/W2082220431",
+  "https://openalex.org/W2155058940",
+  "https://openalex.org/W2577960842"
+ ],
+ "title": "Probe Order Backtracking"
+}

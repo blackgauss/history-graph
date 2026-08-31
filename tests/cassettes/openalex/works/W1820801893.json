@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 266,
+ "doi": "https://doi.org/10.1109/sfcs.1991.185365",
+ "id": "https://openalex.org/W1820801893",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1538209031",
+  "https://openalex.org/W1559116151",
+  "https://openalex.org/W1915010918",
+  "https://openalex.org/W1991718988",
+  "https://openalex.org/W2007880598",
+  "https://openalex.org/W2018830344",
+  "https://openalex.org/W2022287675",
+  "https://openalex.org/W2071367694",
+  "https://openalex.org/W2140802988",
+  "https://openalex.org/W2156017259",
+  "https://openalex.org/W2945259913",
+  "https://openalex.org/W6632153059",
+  "https://openalex.org/W6640039603",
+  "https://openalex.org/W6648115327"
+ ],
+ "title": "On selecting a satisfying truth assignment"
+}

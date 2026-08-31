@@ -1,0 +1,170 @@
+{
+ "cited_by_count": 876,
+ "counts_by_year": [
+  {
+   "cited_by_count": 11,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 35,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 71,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 67,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 68,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 54,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1111/j.1751-5823.2001.tb00465.x",
+ "id": "https://openalex.org/W2032026767",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W14420165",
+  "https://openalex.org/W27256942",
+  "https://openalex.org/W38021410",
+  "https://openalex.org/W66443818",
+  "https://openalex.org/W84167423",
+  "https://openalex.org/W177590838",
+  "https://openalex.org/W178169250",
+  "https://openalex.org/W202150751",
+  "https://openalex.org/W203696055",
+  "https://openalex.org/W229986433",
+  "https://openalex.org/W334725163",
+  "https://openalex.org/W655662964",
+  "https://openalex.org/W1492518391",
+  "https://openalex.org/W1515344597",
+  "https://openalex.org/W1559060276",
+  "https://openalex.org/W1587718046",
+  "https://openalex.org/W1625504505",
+  "https://openalex.org/W1678889691",
+  "https://openalex.org/W1801413419",
+  "https://openalex.org/W1817561967",
+  "https://openalex.org/W1840338487",
+  "https://openalex.org/W1906182963",
+  "https://openalex.org/W1912123407",
+  "https://openalex.org/W1917795079",
+  "https://openalex.org/W1965894730",
+  "https://openalex.org/W1966703359",
+  "https://openalex.org/W1969341260",
+  "https://openalex.org/W1969874171",
+  "https://openalex.org/W1970539577",
+  "https://openalex.org/W1985995090",
+  "https://openalex.org/W1988921224",
+  "https://openalex.org/W1993621239",
+  "https://openalex.org/W1996603569",
+  "https://openalex.org/W2000241167",
+  "https://openalex.org/W2001619934",
+  "https://openalex.org/W2014597967",
+  "https://openalex.org/W2032845127",
+  "https://openalex.org/W2036304687",
+  "https://openalex.org/W2046727047",
+  "https://openalex.org/W2048113320",
+  "https://openalex.org/W2053004029",
+  "https://openalex.org/W2053399824",
+  "https://openalex.org/W2054658115",
+  "https://openalex.org/W2064331944",
+  "https://openalex.org/W2068294433",
+  "https://openalex.org/W2069816608",
+  "https://openalex.org/W2076056672",
+  "https://openalex.org/W2076544732",
+  "https://openalex.org/W2078713358",
+  "https://openalex.org/W2078867609",
+  "https://openalex.org/W2079385701",
+  "https://openalex.org/W2090578816",
+  "https://openalex.org/W2098487665",
+  "https://openalex.org/W2100911240",
+  "https://openalex.org/W2108711342",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2117812871",
+  "https://openalex.org/W2126163471",
+  "https://openalex.org/W2129476886",
+  "https://openalex.org/W2136000097",
+  "https://openalex.org/W2138745909",
+  "https://openalex.org/W2140785063",
+  "https://openalex.org/W2141018925",
+  "https://openalex.org/W2142334564",
+  "https://openalex.org/W2142655237",
+  "https://openalex.org/W2149428338",
+  "https://openalex.org/W2149730309",
+  "https://openalex.org/W2150294528",
+  "https://openalex.org/W2155467226",
+  "https://openalex.org/W2155968679",
+  "https://openalex.org/W2158485250",
+  "https://openalex.org/W2185494298",
+  "https://openalex.org/W2202951610",
+  "https://openalex.org/W2214501862",
+  "https://openalex.org/W2287001840",
+  "https://openalex.org/W2323747984",
+  "https://openalex.org/W2327048920",
+  "https://openalex.org/W2330340192",
+  "https://openalex.org/W2330570574",
+  "https://openalex.org/W2343373547",
+  "https://openalex.org/W2399932201",
+  "https://openalex.org/W2407438990",
+  "https://openalex.org/W2426700575",
+  "https://openalex.org/W2490800645",
+  "https://openalex.org/W2795831070",
+  "https://openalex.org/W2796765386",
+  "https://openalex.org/W2797114046",
+  "https://openalex.org/W2797794508",
+  "https://openalex.org/W2903657341",
+  "https://openalex.org/W2976840617",
+  "https://openalex.org/W3015981925",
+  "https://openalex.org/W3020908471",
+  "https://openalex.org/W3146003712",
+  "https://openalex.org/W3149337475",
+  "https://openalex.org/W4230399976",
+  "https://openalex.org/W4234760406",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4298186428",
+  "https://openalex.org/W6630959974"
+ ],
+ "title": "Idiot's Bayes—Not So Stupid After All?"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 26,
+ "doi": "https://doi.org/10.1016/s0925-2312(02)00635-5",
+ "id": "https://openalex.org/W2058449906",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1538999627",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1589549454",
+  "https://openalex.org/W1592532324",
+  "https://openalex.org/W1983285777",
+  "https://openalex.org/W1991848143",
+  "https://openalex.org/W2002011878",
+  "https://openalex.org/W2016207894",
+  "https://openalex.org/W2020246210",
+  "https://openalex.org/W2026501592",
+  "https://openalex.org/W2057082825",
+  "https://openalex.org/W2061383870",
+  "https://openalex.org/W2067623061",
+  "https://openalex.org/W2113420097",
+  "https://openalex.org/W2124776405",
+  "https://openalex.org/W2126577791",
+  "https://openalex.org/W2316478175",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W6608190351"
+ ],
+ "title": "A training algorithm for classification of high-dimensional data"
+}

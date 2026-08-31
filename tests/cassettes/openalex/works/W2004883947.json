@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 20,
+ "doi": "https://doi.org/10.1145/984488.984491",
+ "id": "https://openalex.org/W2004883947",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W2090731375",
+  "https://openalex.org/W2168447405",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Note on the expected size of a join"
+}

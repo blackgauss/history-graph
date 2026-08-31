@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 144,
+ "doi": null,
+ "id": "https://openalex.org/W176053229",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1508355855",
+  "https://openalex.org/W1528680691",
+  "https://openalex.org/W1572028520",
+  "https://openalex.org/W1589223644",
+  "https://openalex.org/W1731416698",
+  "https://openalex.org/W1735558737",
+  "https://openalex.org/W1993863827",
+  "https://openalex.org/W2046269252",
+  "https://openalex.org/W2058424950",
+  "https://openalex.org/W2105125871",
+  "https://openalex.org/W2127057359",
+  "https://openalex.org/W2138381338",
+  "https://openalex.org/W2152362264",
+  "https://openalex.org/W2162064942",
+  "https://openalex.org/W2165442822",
+  "https://openalex.org/W2398507576"
+ ],
+ "title": "Tribeca: a system for managing large databases of network traffic"
+}

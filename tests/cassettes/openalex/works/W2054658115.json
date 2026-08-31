@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 6049,
+ "doi": "https://doi.org/10.1016/0005-1098(78)90005-5",
+ "id": "https://openalex.org/W2054658115",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W171686316",
+  "https://openalex.org/W2005097301",
+  "https://openalex.org/W2046419776",
+  "https://openalex.org/W2058815839",
+  "https://openalex.org/W2110381504",
+  "https://openalex.org/W2123838014",
+  "https://openalex.org/W2158208985",
+  "https://openalex.org/W2168175751",
+  "https://openalex.org/W2223651601",
+  "https://openalex.org/W2549568718",
+  "https://openalex.org/W2798453649",
+  "https://openalex.org/W6606958096",
+  "https://openalex.org/W6689212225"
+ ],
+ "title": "Modeling by shortest data description"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 2734,
+ "doi": "https://doi.org/10.1090/s0025-5718-1980-0572855-7",
+ "id": "https://openalex.org/W2051669046",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W183574720",
+  "https://openalex.org/W1998444222",
+  "https://openalex.org/W2003385023",
+  "https://openalex.org/W2032083269",
+  "https://openalex.org/W2054171867",
+  "https://openalex.org/W2056641273",
+  "https://openalex.org/W2062294426",
+  "https://openalex.org/W2062542688",
+  "https://openalex.org/W2078409719",
+  "https://openalex.org/W2608505863",
+  "https://openalex.org/W2989128237",
+  "https://openalex.org/W4235085014",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Updating quasi-Newton matrices with limited storage"
+}

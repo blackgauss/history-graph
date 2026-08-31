@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 60,
+ "doi": "https://doi.org/10.1007/bfb0024729",
+ "id": "https://openalex.org/W1776654319",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1482133123",
+  "https://openalex.org/W1529035452",
+  "https://openalex.org/W1559314111",
+  "https://openalex.org/W1604422310",
+  "https://openalex.org/W1968819403",
+  "https://openalex.org/W2008521806",
+  "https://openalex.org/W2055893308",
+  "https://openalex.org/W2073491596",
+  "https://openalex.org/W2087240301",
+  "https://openalex.org/W2087977509",
+  "https://openalex.org/W2101413772",
+  "https://openalex.org/W2118549063",
+  "https://openalex.org/W2122878758"
+ ],
+ "title": "Systematic efficient parallelization of scan and other list homomorphisms"
+}

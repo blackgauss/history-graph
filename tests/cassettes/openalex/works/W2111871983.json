@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 29,
+ "doi": null,
+ "id": "https://openalex.org/W2111871983",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2071906671",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W2114747792",
+  "https://openalex.org/W2118127772",
+  "https://openalex.org/W2121553911",
+  "https://openalex.org/W2128499899",
+  "https://openalex.org/W2129831132",
+  "https://openalex.org/W2156960699",
+  "https://openalex.org/W2167615167",
+  "https://openalex.org/W2291174979",
+  "https://openalex.org/W2766736793"
+ ],
+ "title": "Learning Sequential Tasks by Incrementally Adding Higher Orders"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1016/s0921-4526(97)00434-1",
+ "id": "https://openalex.org/W2061998552",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1966533239",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2032617156",
+  "https://openalex.org/W2054388650",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2071090470",
+  "https://openalex.org/W2087634531",
+  "https://openalex.org/W2092628095",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2096551755",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2107050628",
+  "https://openalex.org/W4239873278"
+ ],
+ "title": "Dynamics of a Control-Not gate for a quantum system of two weakly interacting spins"
+}

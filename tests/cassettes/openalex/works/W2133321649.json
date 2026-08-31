@@ -1,0 +1,120 @@
+{
+ "cited_by_count": 143,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1093/petroj/40.5.679",
+ "id": "https://openalex.org/W2133321649",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W617353587",
+  "https://openalex.org/W1503482980",
+  "https://openalex.org/W1587077228",
+  "https://openalex.org/W1599002981",
+  "https://openalex.org/W1602588818",
+  "https://openalex.org/W1788228824",
+  "https://openalex.org/W1963536999",
+  "https://openalex.org/W1964175282",
+  "https://openalex.org/W1968009233",
+  "https://openalex.org/W1974569679",
+  "https://openalex.org/W1979966408",
+  "https://openalex.org/W1996428254",
+  "https://openalex.org/W2000985431",
+  "https://openalex.org/W2002488706",
+  "https://openalex.org/W2002768804",
+  "https://openalex.org/W2003647747",
+  "https://openalex.org/W2005992694",
+  "https://openalex.org/W2008768289",
+  "https://openalex.org/W2014988054",
+  "https://openalex.org/W2018890533",
+  "https://openalex.org/W2025099137",
+  "https://openalex.org/W2029384474",
+  "https://openalex.org/W2030362233",
+  "https://openalex.org/W2040397451",
+  "https://openalex.org/W2041636221",
+  "https://openalex.org/W2042805047",
+  "https://openalex.org/W2053135892",
+  "https://openalex.org/W2056207362",
+  "https://openalex.org/W2059730541",
+  "https://openalex.org/W2063369535",
+  "https://openalex.org/W2066150374",
+  "https://openalex.org/W2069311570",
+  "https://openalex.org/W2080908504",
+  "https://openalex.org/W2089555148",
+  "https://openalex.org/W2090194751",
+  "https://openalex.org/W2103788137",
+  "https://openalex.org/W2109670845",
+  "https://openalex.org/W2110535686",
+  "https://openalex.org/W2123585974",
+  "https://openalex.org/W2144492262",
+  "https://openalex.org/W2310740491",
+  "https://openalex.org/W2896777998",
+  "https://openalex.org/W2897389213",
+  "https://openalex.org/W2924838375",
+  "https://openalex.org/W2998096244",
+  "https://openalex.org/W3008336260",
+  "https://openalex.org/W4233532678",
+  "https://openalex.org/W4245354576",
+  "https://openalex.org/W4249655969"
+ ],
+ "title": "Cr-Pyrope Garnets in the Lithospheric Mantle. I. Compositional Systematics and Relations to Tectonic Setting"
+}

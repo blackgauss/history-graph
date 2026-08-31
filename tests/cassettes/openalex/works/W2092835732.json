@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 333,
+ "doi": "https://doi.org/10.2307/2951780",
+ "id": "https://openalex.org/W2092835732",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1551610462",
+  "https://openalex.org/W2005747881",
+  "https://openalex.org/W2010029425",
+  "https://openalex.org/W2061905469",
+  "https://openalex.org/W2062176045",
+  "https://openalex.org/W2083194629",
+  "https://openalex.org/W2083979183",
+  "https://openalex.org/W2099756352",
+  "https://openalex.org/W2129905273",
+  "https://openalex.org/W2151411668",
+  "https://openalex.org/W2797333853",
+  "https://openalex.org/W4248721357",
+  "https://openalex.org/W4292025355",
+  "https://openalex.org/W4300905261"
+ ],
+ "title": "The Limiting Distribution of the Maximum Rank Correlation Estimator"
+}

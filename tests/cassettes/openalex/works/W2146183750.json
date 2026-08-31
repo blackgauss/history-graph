@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 157,
+ "doi": "https://doi.org/10.1109/32.52778",
+ "id": "https://openalex.org/W2146183750",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1852059679",
+  "https://openalex.org/W2005806403",
+  "https://openalex.org/W2008627910",
+  "https://openalex.org/W2023195086",
+  "https://openalex.org/W2060108852",
+  "https://openalex.org/W2095037822",
+  "https://openalex.org/W2123845384",
+  "https://openalex.org/W2153485419",
+  "https://openalex.org/W2159886933",
+  "https://openalex.org/W4255664558",
+  "https://openalex.org/W6629102967",
+  "https://openalex.org/W6638950451"
+ ],
+ "title": "Optimal semijoins for distributed database systems"
+}

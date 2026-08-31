@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 81,
+ "doi": "https://doi.org/10.1145/6490.6492",
+ "id": "https://openalex.org/W1985642978",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W22745672",
+  "https://openalex.org/W119690928",
+  "https://openalex.org/W121511052",
+  "https://openalex.org/W1479842037",
+  "https://openalex.org/W1480075876",
+  "https://openalex.org/W1532977286",
+  "https://openalex.org/W1546858469",
+  "https://openalex.org/W1978578701",
+  "https://openalex.org/W1984196856",
+  "https://openalex.org/W2037732452",
+  "https://openalex.org/W2042463931",
+  "https://openalex.org/W2061734820",
+  "https://openalex.org/W2068852367",
+  "https://openalex.org/W2069225252",
+  "https://openalex.org/W2081519360",
+  "https://openalex.org/W2081851784",
+  "https://openalex.org/W2095989672",
+  "https://openalex.org/W2096138715",
+  "https://openalex.org/W3109443706",
+  "https://openalex.org/W3146095863",
+  "https://openalex.org/W4247381127"
+ ],
+ "title": "The combinatorics of local constraints in model-based recognition and localization from sparse data"
+}

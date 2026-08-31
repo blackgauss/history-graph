@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 163,
+ "doi": null,
+ "id": "https://openalex.org/W182346126",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1485389564",
+  "https://openalex.org/W1525865893",
+  "https://openalex.org/W1566971546",
+  "https://openalex.org/W1593846945",
+  "https://openalex.org/W1847625648",
+  "https://openalex.org/W2040627684",
+  "https://openalex.org/W2048071586",
+  "https://openalex.org/W2050774583",
+  "https://openalex.org/W2070343246",
+  "https://openalex.org/W2104483571",
+  "https://openalex.org/W2116142433",
+  "https://openalex.org/W2119636671",
+  "https://openalex.org/W2124074197",
+  "https://openalex.org/W2128258320",
+  "https://openalex.org/W2131073792",
+  "https://openalex.org/W2144910430",
+  "https://openalex.org/W2151847079"
+ ],
+ "title": "Resolving file conflicts in the Ficus file system"
+}

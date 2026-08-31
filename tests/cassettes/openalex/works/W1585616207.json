@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.48550/arxiv.quant-ph/9703045",
+ "id": "https://openalex.org/W1585616207",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1593683169",
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W2042474962",
+  "https://openalex.org/W2063592138",
+  "https://openalex.org/W2064759901",
+  "https://openalex.org/W2069711632",
+  "https://openalex.org/W2091331782",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2111785678",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W2145801399",
+  "https://openalex.org/W2168226105",
+  "https://openalex.org/W2763302490",
+  "https://openalex.org/W3100206575"
+ ],
+ "title": "Quantum Reed-Muller Codes"
+}

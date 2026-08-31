@@ -1,0 +1,493 @@
+{
+ "abstract_inverted_index": {
+  "Antwerp": [
+   19
+  ],
+  "For": [
+   133
+  ],
+  "Fuelled": [
+   22
+  ],
+  "I": [
+   137
+  ],
+  "It": [
+   0
+  ],
+  "London.": [
+   21
+  ],
+  "Mediterranean": [
+   74
+  ],
+  "a": [
+   26,
+   111
+  ],
+  "also": [
+   32
+  ],
+  "an": [
+   104,
+   119
+  ],
+  "and": [
+   20,
+   154
+  ],
+  "and,": [
+   123
+  ],
+  "another": [
+   142
+  ],
+  "as": [
+   62,
+   93
+  ],
+  "at": [
+   82
+  ],
+  "attempt": [
+   105
+  ],
+  "attempts": [
+   145
+  ],
+  "both": [
+   18,
+   147
+  ],
+  "bourses": [
+   92
+  ],
+  "but": [
+   31
+  ],
+  "by": [
+   5,
+   25,
+   33,
+   84
+  ],
+  "capitalist": [
+   44
+  ],
+  "centres": [
+   94
+  ],
+  "century": [
+   11
+  ],
+  "century.\nAs": [
+   60
+  ],
+  "cities": [
+   68,
+   148
+  ],
+  "common": [
+   71,
+   143
+  ],
+  "concerned,": [
+   65
+  ],
+  "concluded": [
+   16
+  ],
+  "contracts": [
+   13
+  ],
+  "contracts;": [
+   100
+  ],
+  "counter": [
+   107
+  ],
+  "coupled": [
+   124
+  ],
+  "course": [
+   57
+  ],
+  "customs": [
+   153
+  ],
+  "dispute": [
+   131
+  ],
+  "down": [
+   158
+  ],
+  "end": [
+   7
+  ],
+  "existence,": [
+   102
+  ],
+  "expanded": [
+   53
+  ],
+  "far": [
+   61
+  ],
+  "feature:": [
+   144
+  ],
+  "features:": [
+   72
+  ],
+  "first": [
+   83
+  ],
+  "focus": [
+   140
+  ],
+  "for": [
+   95
+  ],
+  "foreign": [
+   85
+  ],
+  "formal": [
+   112
+  ],
+  "fraudulent": [
+   108
+  ],
+  "general": [
+   152
+  ],
+  "growth": [
+   27
+  ],
+  "in": [
+   17,
+   28,
+   51,
+   55,
+   103,
+   118,
+   146,
+   159
+  ],
+  "insurance": [
+   12,
+   50,
+   63,
+   78,
+   99,
+   115,
+   121,
+   157
+  ],
+  "insurance-specific": [
+   130
+  ],
+  "is": [
+   1
+  ],
+  "known": [
+   3
+  ],
+  "many": [
+   70
+  ],
+  "marine": [
+   41,
+   49
+  ],
+  "merchants,": [
+   45
+  ],
+  "merchants;": [
+   86
+  ],
+  "not": [
+   23
+  ],
+  "of": [
+   8,
+   40,
+   48,
+   58,
+   76,
+   89,
+   98,
+   110,
+   114,
+   129,
+   156
+  ],
+  "offered": [
+   43
+  ],
+  "office,": [
+   122
+  ],
+  "official": [
+   120
+  ],
+  "on": [
+   141
+  ],
+  "only": [
+   24
+  ],
+  "origin": [
+   75
+  ],
+  "overseas": [
+   29
+  ],
+  "particular": [
+   52
+  ],
+  "policy": [
+   116
+  ],
+  "possibilities": [
+   36
+  ],
+  "practice": [
+   47
+  ],
+  "practices,": [
+   109
+  ],
+  "practised": [
+   80
+  ],
+  "present": [
+   134
+  ],
+  "purposes,": [
+   135
+  ],
+  "rapidly": [
+   54
+  ],
+  "registration": [
+   117
+  ],
+  "regularly": [
+   15
+  ],
+  "requirement": [
+   113
+  ],
+  "resolution.": [
+   132
+  ],
+  "respective": [
+   91
+  ],
+  "risks": [
+   42
+  ],
+  "role": [
+   88
+  ],
+  "rudiments": [
+   128
+  ],
+  "rules": [
+   155
+  ],
+  "set": [
+   150
+  ],
+  "shared": [
+   69
+  ],
+  "sixteenth": [
+   10
+  ],
+  "speculative": [
+   35
+  ],
+  "techniques": [
+   79
+  ],
+  "that": [
+   4,
+   37,
+   59
+  ],
+  "that,": [
+   126
+  ],
+  "the": [
+   6,
+   9,
+   34,
+   38,
+   46,
+   56,
+   66,
+   73,
+   77,
+   87,
+   96,
+   101,
+   127,
+   151
+  ],
+  "their": [
+   90
+  ],
+  "there,": [
+   81
+  ],
+  "though,": [
+   136
+  ],
+  "to": [
+   106,
+   139,
+   149
+  ],
+  "trade,": [
+   30
+  ],
+  "transaction": [
+   97
+  ],
+  "two": [
+   67
+  ],
+  "underwriting": [
+   39
+  ],
+  "was": [
+   64
+  ],
+  "well": [
+   2
+  ],
+  "were": [
+   14
+  ],
+  "wish": [
+   138
+  ],
+  "with": [
+   125
+  ],
+  "writing.": [
+   160
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I165390105"
+     ],
+     "raw_affiliation_string": "University of South Africa"
+    }
+   ],
+   "author": {
+    "display_name": "J.P. Van Niekerk",
+    "id": "https://openalex.org/A5110296698",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "ZA"
+   ],
+   "institutions": [
+    {
+     "country_code": "ZA",
+     "display_name": "University of South Africa",
+     "id": "https://openalex.org/I165390105",
+     "lineage": [
+      "https://openalex.org/I165390105"
+     ],
+     "ror": "https://ror.org/048cwvf49",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "University of South Africa"
+   ],
+   "raw_author_name": "J.P. Van Niekerk"
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W1545066830",
+ "ids": {
+  "mag": "1545066830",
+  "openalex": "https://openalex.org/W1545066830"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "mag:1545066830",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://reference.sabinet.co.za/document/EJC34433",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Fundamina",
+  "raw_type": null,
+  "source": {
+   "display_name": "Fundamina",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S2764980411",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "1021-545X",
+    "2411-7870"
+   ],
+   "issn_l": "1021-545X",
+   "type": "journal"
+  },
+  "version": null
+ },
+ "publication_year": 2011,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W3125030945",
+  "https://openalex.org/W422151113",
+  "https://openalex.org/W2504789130",
+  "https://openalex.org/W2018284581",
+  "https://openalex.org/W3174328803",
+  "https://openalex.org/W2590951657",
+  "https://openalex.org/W2070819615",
+  "https://openalex.org/W2765697995",
+  "https://openalex.org/W1806818603",
+  "https://openalex.org/W1950831046",
+  "https://openalex.org/W1584535492",
+  "https://openalex.org/W3121964303",
+  "https://openalex.org/W2773667678",
+  "https://openalex.org/W2944297316",
+  "https://openalex.org/W2170467396",
+  "https://openalex.org/W2012005945",
+  "https://openalex.org/W170911479",
+  "https://openalex.org/W102301396",
+  "https://openalex.org/W157349980",
+  "https://openalex.org/W2993130886"
+ ],
+ "title": "The law and customs of marine insurance in Antwerp and London at the end of the sixteenth century : preliminary thoughts on the background to and some of the sources for a comparative investigation",
+ "type": "article"
+}

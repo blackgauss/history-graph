@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 131,
+ "doi": null,
+ "id": "https://openalex.org/W2168640731",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1486707268",
+  "https://openalex.org/W1536990779",
+  "https://openalex.org/W1556824961",
+  "https://openalex.org/W1585861384",
+  "https://openalex.org/W1968768508",
+  "https://openalex.org/W1971937094",
+  "https://openalex.org/W2039153121",
+  "https://openalex.org/W2056944867",
+  "https://openalex.org/W2090170171",
+  "https://openalex.org/W2109910161",
+  "https://openalex.org/W2121517924",
+  "https://openalex.org/W2139612737",
+  "https://openalex.org/W2143435603",
+  "https://openalex.org/W2160808139",
+  "https://openalex.org/W2171707538",
+  "https://openalex.org/W2343637401"
+ ],
+ "title": "Skill Characterization Based on Betweenness"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 638,
+ "doi": "https://doi.org/10.21236/ada440280",
+ "id": "https://openalex.org/W2139612737",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W172298727",
+  "https://openalex.org/W1486707268",
+  "https://openalex.org/W1515851193",
+  "https://openalex.org/W1585013689",
+  "https://openalex.org/W1590585250",
+  "https://openalex.org/W1592847719",
+  "https://openalex.org/W1777239053",
+  "https://openalex.org/W1984015281",
+  "https://openalex.org/W2043615441",
+  "https://openalex.org/W2109059823",
+  "https://openalex.org/W2109910161",
+  "https://openalex.org/W2114384389",
+  "https://openalex.org/W2114524506",
+  "https://openalex.org/W2117726420",
+  "https://openalex.org/W2121863487",
+  "https://openalex.org/W2160198238"
+ ],
+ "title": "Intrinsically Motivated Reinforcement Learning"
+}

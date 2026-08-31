@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 4836,
+ "doi": "https://doi.org/10.1145/357980.358007",
+ "id": "https://openalex.org/W2165467455",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W1558419571",
+  "https://openalex.org/W1984820433",
+  "https://openalex.org/W2022843269",
+  "https://openalex.org/W2044618373",
+  "https://openalex.org/W2088549934",
+  "https://openalex.org/W2104880663",
+  "https://openalex.org/W2798245138"
+ ],
+ "title": "A relational model of data for large shared data banks"
+}

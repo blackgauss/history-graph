@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 31,
+ "doi": null,
+ "id": "https://openalex.org/W2124817648",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1572401739",
+  "https://openalex.org/W1733248925",
+  "https://openalex.org/W1755925439",
+  "https://openalex.org/W1994618660",
+  "https://openalex.org/W2056133372",
+  "https://openalex.org/W2063971957",
+  "https://openalex.org/W2110602130",
+  "https://openalex.org/W2122925692",
+  "https://openalex.org/W2125001634",
+  "https://openalex.org/W2127003262"
+ ],
+ "title": "Unsupervised Discrimination of Clustered Data via Optimization of Binary Information Gain"
+}

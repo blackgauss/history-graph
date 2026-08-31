@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 23,
+ "doi": "https://doi.org/10.48550/arxiv.1002.4862",
+ "id": "https://openalex.org/W1594567720",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1966771059",
+  "https://openalex.org/W2091825929",
+  "https://openalex.org/W2102547221",
+  "https://openalex.org/W2113651538",
+  "https://openalex.org/W2121990650",
+  "https://openalex.org/W2122537498",
+  "https://openalex.org/W2139759436",
+  "https://openalex.org/W2148825261",
+  "https://openalex.org/W2149882723",
+  "https://openalex.org/W2160208155",
+  "https://openalex.org/W2402219816",
+  "https://openalex.org/W2405601855",
+  "https://openalex.org/W2951395930",
+  "https://openalex.org/W3147765605"
+ ],
+ "title": "Less Regret via Online Conditioning"
+}

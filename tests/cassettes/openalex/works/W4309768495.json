@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 121,
+ "counts_by_year": [
+  {
+   "cited_by_count": 17,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1016/j.jag.2022.103108",
+ "id": "https://openalex.org/W4309768495",
+ "publication_year": 2022,
+ "title": "Fusing GEDI with earth observation data for large area aboveground biomass mapping"
+}

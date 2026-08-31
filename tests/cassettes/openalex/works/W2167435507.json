@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 545,
+ "doi": null,
+ "id": "https://openalex.org/W2167435507",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1499231756",
+  "https://openalex.org/W1596186423",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1992006255",
+  "https://openalex.org/W2049385396",
+  "https://openalex.org/W2052602889",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2117656743",
+  "https://openalex.org/W2135453964",
+  "https://openalex.org/W2138838211",
+  "https://openalex.org/W2145785237",
+  "https://openalex.org/W2147542748",
+  "https://openalex.org/W2150119568",
+  "https://openalex.org/W2161999969",
+  "https://openalex.org/W2249508874"
+ ],
+ "title": "Algebraic Decision Diagrams and Their Applications"
+}

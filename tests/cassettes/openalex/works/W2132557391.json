@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 6,
+ "doi": "https://doi.org/10.1162/0899766053011519",
+ "id": "https://openalex.org/W2132557391",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W95557243",
+  "https://openalex.org/W196871588",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1624934511",
+  "https://openalex.org/W1987346796",
+  "https://openalex.org/W1991445795",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2041615247",
+  "https://openalex.org/W2061055380",
+  "https://openalex.org/W2121678276",
+  "https://openalex.org/W2134331967",
+  "https://openalex.org/W2147772771",
+  "https://openalex.org/W2155534369",
+  "https://openalex.org/W2171931454",
+  "https://openalex.org/W3151055018"
+ ],
+ "title": "Loading Deep Networks Is Hard: The Pyramidal Case"
+}

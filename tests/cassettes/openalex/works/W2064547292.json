@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 39,
+ "doi": "https://doi.org/10.1109/t-c.1974.223829",
+ "id": "https://openalex.org/W2064547292",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W2011349307",
+  "https://openalex.org/W2068869491",
+  "https://openalex.org/W2072836619",
+  "https://openalex.org/W2096164284",
+  "https://openalex.org/W2295866677"
+ ],
+ "title": "Application of Multithreshold Elements in the Realization of Many-Valued Logic Networks"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 308,
+ "doi": "https://doi.org/10.4103/2153-3539.112693",
+ "id": "https://openalex.org/W2122394460",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1986685116",
+  "https://openalex.org/W1998576236",
+  "https://openalex.org/W2010871781",
+  "https://openalex.org/W2019607023",
+  "https://openalex.org/W2088711878",
+  "https://openalex.org/W2102695035",
+  "https://openalex.org/W2103243046",
+  "https://openalex.org/W2104967324",
+  "https://openalex.org/W2109187183",
+  "https://openalex.org/W2152484764",
+  "https://openalex.org/W2165221029",
+  "https://openalex.org/W4239288612",
+  "https://openalex.org/W6675452190"
+ ],
+ "title": "Mitosis detection in breast cancer histological images An ICPR 2012 contest"
+}

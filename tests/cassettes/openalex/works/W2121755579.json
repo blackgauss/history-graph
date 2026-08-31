@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.5555/62597.62609",
+ "id": "https://openalex.org/W2121755579",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W27111487",
+  "https://openalex.org/W71093527",
+  "https://openalex.org/W172224151",
+  "https://openalex.org/W1493762187",
+  "https://openalex.org/W1531789027",
+  "https://openalex.org/W1553031737",
+  "https://openalex.org/W1588933040",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1968376769",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W1983886413",
+  "https://openalex.org/W2030736117",
+  "https://openalex.org/W2039179345",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2056616356",
+  "https://openalex.org/W2057341380",
+  "https://openalex.org/W2086681205",
+  "https://openalex.org/W2114958150",
+  "https://openalex.org/W2133682093",
+  "https://openalex.org/W2157511281",
+  "https://openalex.org/W2163785161",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W2494698479"
+ ],
+ "title": "Parallel join algorithms on a network of workstations"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 72,
+ "doi": "https://doi.org/10.1137/0219046",
+ "id": "https://openalex.org/W2022763264",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W69915804",
+  "https://openalex.org/W2015931928",
+  "https://openalex.org/W2030209085",
+  "https://openalex.org/W2061073612",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W2752885492"
+ ],
+ "title": "A Note on Bennett’s Time-Space Tradeoff for Reversible Computation"
+}

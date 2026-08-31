@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 48,
+ "doi": null,
+ "id": "https://openalex.org/W2120723699",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1494759436",
+  "https://openalex.org/W1495935433",
+  "https://openalex.org/W1518940219",
+  "https://openalex.org/W1575886793",
+  "https://openalex.org/W1972416792",
+  "https://openalex.org/W1974411071",
+  "https://openalex.org/W2014850486",
+  "https://openalex.org/W2017290750",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2057512592",
+  "https://openalex.org/W2103012681",
+  "https://openalex.org/W2751862591",
+  "https://openalex.org/W3118259273",
+  "https://openalex.org/W3190417764"
+ ],
+ "title": "Improved Learning of AC 0 Functions"
+}

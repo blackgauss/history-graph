@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 195,
+ "doi": "https://doi.org/10.1137/0403015",
+ "id": "https://openalex.org/W2097575812",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W25557007",
+  "https://openalex.org/W641920026",
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W1609370892",
+  "https://openalex.org/W1662824729",
+  "https://openalex.org/W2004502213",
+  "https://openalex.org/W2009994177",
+  "https://openalex.org/W2014593388",
+  "https://openalex.org/W2015950107",
+  "https://openalex.org/W2070678975",
+  "https://openalex.org/W2090432705",
+  "https://openalex.org/W2128084896",
+  "https://openalex.org/W2131194367",
+  "https://openalex.org/W2148043549",
+  "https://openalex.org/W2168745359",
+  "https://openalex.org/W2545696445",
+  "https://openalex.org/W2999004296",
+  "https://openalex.org/W4237630008",
+  "https://openalex.org/W4240842367"
+ ],
+ "title": "Harmonic Analysis of Polynomial Threshold Functions"
+}

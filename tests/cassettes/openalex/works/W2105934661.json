@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 31470,
+ "doi": "https://doi.org/10.1115/1.3662552",
+ "id": "https://openalex.org/W2105934661",
+ "publication_year": 1960,
+ "referenced_works": [
+  "https://openalex.org/W71817473",
+  "https://openalex.org/W610132389",
+  "https://openalex.org/W1519460252",
+  "https://openalex.org/W1994643457",
+  "https://openalex.org/W1999276251",
+  "https://openalex.org/W2023026992",
+  "https://openalex.org/W2030291784",
+  "https://openalex.org/W2031003381",
+  "https://openalex.org/W2044144205",
+  "https://openalex.org/W2062328787",
+  "https://openalex.org/W2075549445",
+  "https://openalex.org/W2076492098",
+  "https://openalex.org/W2107219746",
+  "https://openalex.org/W2112172398",
+  "https://openalex.org/W2115971087",
+  "https://openalex.org/W2319866455",
+  "https://openalex.org/W2799137445",
+  "https://openalex.org/W2887053799",
+  "https://openalex.org/W3007191719"
+ ],
+ "title": "A New Approach to Linear Filtering and Prediction Problems"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 375,
+ "doi": null,
+ "id": "https://openalex.org/W2586680856",
+ "publication_year": 2016,
+ "referenced_works": [
+  "https://openalex.org/W1514107797",
+  "https://openalex.org/W1568042657",
+  "https://openalex.org/W1586184796",
+  "https://openalex.org/W2089561656",
+  "https://openalex.org/W2095095223",
+  "https://openalex.org/W2107726111",
+  "https://openalex.org/W2109910161",
+  "https://openalex.org/W2119567691",
+  "https://openalex.org/W2121517924",
+  "https://openalex.org/W2130005627",
+  "https://openalex.org/W2143042284",
+  "https://openalex.org/W2158548602",
+  "https://openalex.org/W2161252410"
+ ],
+ "title": "FOR LEAST-SQUARES POLICY ITERATION"
+}

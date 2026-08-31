@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1023/a:1008648420750",
+ "id": "https://openalex.org/W1552951486",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1479802504",
+  "https://openalex.org/W1544662935",
+  "https://openalex.org/W1551101619",
+  "https://openalex.org/W1973576343",
+  "https://openalex.org/W2003295197",
+  "https://openalex.org/W2044758536",
+  "https://openalex.org/W2079958455",
+  "https://openalex.org/W2150421116",
+  "https://openalex.org/W4212983671",
+  "https://openalex.org/W4388310127"
+ ],
+ "title": "An Algebraic View on Recursive Types"
+}

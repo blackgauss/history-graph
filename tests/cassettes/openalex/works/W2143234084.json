@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.1109/tc.1980.1675592",
+ "id": "https://openalex.org/W2143234084",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1509198588",
+  "https://openalex.org/W2026488842",
+  "https://openalex.org/W2050252385",
+  "https://openalex.org/W2081107873",
+  "https://openalex.org/W2119980536",
+  "https://openalex.org/W2133231077",
+  "https://openalex.org/W6663124673"
+ ],
+ "title": "A High Data-Rate Digital Output Correlator Design"
+}

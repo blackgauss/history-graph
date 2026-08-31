@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 1125,
+ "doi": "https://doi.org/10.1126/science.7761831",
+ "id": "https://openalex.org/W1993845689",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W94647076",
+  "https://openalex.org/W1533169541",
+  "https://openalex.org/W2026799324",
+  "https://openalex.org/W2043968544",
+  "https://openalex.org/W2044875682",
+  "https://openalex.org/W2144219012",
+  "https://openalex.org/W2165055912",
+  "https://openalex.org/W2740373864",
+  "https://openalex.org/W4240035482"
+ ],
+ "title": "The \"Wake-Sleep\" Algorithm for Unsupervised Neural Networks"
+}

@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 60,
+ "doi": "https://doi.org/10.1080/01621459.1976.10480356",
+ "id": "https://openalex.org/W2100911240",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W149585942",
+  "https://openalex.org/W1997864634",
+  "https://openalex.org/W2018538722",
+  "https://openalex.org/W2029343028",
+  "https://openalex.org/W2061379937",
+  "https://openalex.org/W2085038710",
+  "https://openalex.org/W2089611415",
+  "https://openalex.org/W2092673714",
+  "https://openalex.org/W2167297612",
+  "https://openalex.org/W2333786694",
+  "https://openalex.org/W2334464090",
+  "https://openalex.org/W3028100754",
+  "https://openalex.org/W3190417764",
+  "https://openalex.org/W4230238214",
+  "https://openalex.org/W4254932737"
+ ],
+ "title": "Some Classification Procedures for Multivariate Binary Data Using Orthogonal Functions"
+}

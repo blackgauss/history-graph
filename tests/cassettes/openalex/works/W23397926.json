@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 174,
+ "doi": "https://doi.org/10.1016/s0304-0208(08)73063-9",
+ "id": "https://openalex.org/W23397926",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W1444168583",
+  "https://openalex.org/W1489878404",
+  "https://openalex.org/W1504855246",
+  "https://openalex.org/W1991445030",
+  "https://openalex.org/W1997272082",
+  "https://openalex.org/W2034615466",
+  "https://openalex.org/W2040232420",
+  "https://openalex.org/W2045472305",
+  "https://openalex.org/W2062670301",
+  "https://openalex.org/W2068014664",
+  "https://openalex.org/W2069905179",
+  "https://openalex.org/W2084751542",
+  "https://openalex.org/W2089081370",
+  "https://openalex.org/W2092198261",
+  "https://openalex.org/W2115164934",
+  "https://openalex.org/W2138163102",
+  "https://openalex.org/W2170758948",
+  "https://openalex.org/W4210622426"
+ ],
+ "title": "Pseudo-Random Graphs"
+}

@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 101,
+ "doi": "https://doi.org/10.5555/1283383.1283478",
+ "id": "https://openalex.org/W2045086034",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1977182854",
+  "https://openalex.org/W2048175848",
+  "https://openalex.org/W2054186026",
+  "https://openalex.org/W2068871408",
+  "https://openalex.org/W2069363808",
+  "https://openalex.org/W2099111195",
+  "https://openalex.org/W2115905049",
+  "https://openalex.org/W2131306093"
+ ],
+ "title": "Noisy binary search and its applications"
+}

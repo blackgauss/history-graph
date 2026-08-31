@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 224,
+ "doi": "https://doi.org/10.1109/sfcs.1986.44",
+ "id": "https://openalex.org/W2123540893",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1966167835",
+  "https://openalex.org/W1987842530",
+  "https://openalex.org/W2016606569",
+  "https://openalex.org/W2017359019",
+  "https://openalex.org/W2023146810",
+  "https://openalex.org/W2026325622",
+  "https://openalex.org/W2048037922",
+  "https://openalex.org/W2065230093",
+  "https://openalex.org/W2080620555",
+  "https://openalex.org/W2085081875",
+  "https://openalex.org/W2131277150",
+  "https://openalex.org/W2147862220",
+  "https://openalex.org/W2157803532"
+ ],
+ "title": "Probabilistic Boolean decision trees and the complexity of evaluating game trees"
+}

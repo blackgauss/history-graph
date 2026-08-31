@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 144,
+ "doi": "https://doi.org/10.1109/4236.968829",
+ "id": "https://openalex.org/W2084213692",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W57332734",
+  "https://openalex.org/W84912089",
+  "https://openalex.org/W1652319903",
+  "https://openalex.org/W1791808111",
+  "https://openalex.org/W1999047234",
+  "https://openalex.org/W2006551346",
+  "https://openalex.org/W2028036481",
+  "https://openalex.org/W2072290407",
+  "https://openalex.org/W2101635534",
+  "https://openalex.org/W2119859154",
+  "https://openalex.org/W2142094977",
+  "https://openalex.org/W2170699450",
+  "https://openalex.org/W4239645924",
+  "https://openalex.org/W4253830839",
+  "https://openalex.org/W6603423148",
+  "https://openalex.org/W6636888537",
+  "https://openalex.org/W6638242899"
+ ],
+ "title": "Inferring user interest"
+}

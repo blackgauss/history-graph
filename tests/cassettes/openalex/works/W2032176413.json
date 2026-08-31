@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 177,
+ "doi": "https://doi.org/10.1137/0320021",
+ "id": "https://openalex.org/W2032176413",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W125403777",
+  "https://openalex.org/W335971307",
+  "https://openalex.org/W1976901000",
+  "https://openalex.org/W1982931088",
+  "https://openalex.org/W2010165410",
+  "https://openalex.org/W2035803586",
+  "https://openalex.org/W2045352660",
+  "https://openalex.org/W2051652536",
+  "https://openalex.org/W2077802959",
+  "https://openalex.org/W2084027356",
+  "https://openalex.org/W2322975872",
+  "https://openalex.org/W2478586622",
+  "https://openalex.org/W2572955172",
+  "https://openalex.org/W4229844634",
+  "https://openalex.org/W4299533062",
+  "https://openalex.org/W4300810540"
+ ],
+ "title": "Optimal Control for Partially Observed Diffusions"
+}

@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 198,
+ "doi": null,
+ "id": "https://openalex.org/W1784244685",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1550288092",
+  "https://openalex.org/W1554598706",
+  "https://openalex.org/W1581547316",
+  "https://openalex.org/W1586887524",
+  "https://openalex.org/W1968829657",
+  "https://openalex.org/W1993482412",
+  "https://openalex.org/W2020584928",
+  "https://openalex.org/W2026896584",
+  "https://openalex.org/W2045604576",
+  "https://openalex.org/W2067911273",
+  "https://openalex.org/W2079656678",
+  "https://openalex.org/W2096021368",
+  "https://openalex.org/W2114372843",
+  "https://openalex.org/W2138793904",
+  "https://openalex.org/W2151203234",
+  "https://openalex.org/W2157637666",
+  "https://openalex.org/W2160754664",
+  "https://openalex.org/W2161463763",
+  "https://openalex.org/W2171903035",
+  "https://openalex.org/W2246071408",
+  "https://openalex.org/W2283224997",
+  "https://openalex.org/W2296677182"
+ ],
+ "title": "Histogram-Based Approximation of Set-Valued Query-Answers"
+}

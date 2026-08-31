@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 131,
+ "doi": "https://doi.org/10.1007/3-540-63912-8_81",
+ "id": "https://openalex.org/W1527743161",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W4789806",
+  "https://openalex.org/W38076005",
+  "https://openalex.org/W175258934",
+  "https://openalex.org/W1503127657",
+  "https://openalex.org/W1572073643",
+  "https://openalex.org/W1589967658",
+  "https://openalex.org/W1600919542",
+  "https://openalex.org/W1699282338",
+  "https://openalex.org/W1731763842",
+  "https://openalex.org/W1757148883",
+  "https://openalex.org/W1989492347",
+  "https://openalex.org/W1994226409",
+  "https://openalex.org/W2005473008",
+  "https://openalex.org/W2025451286",
+  "https://openalex.org/W2030224590",
+  "https://openalex.org/W2061438988",
+  "https://openalex.org/W2285973579",
+  "https://openalex.org/W2913459036",
+  "https://openalex.org/W4236387090",
+  "https://openalex.org/W6684644128"
+ ],
+ "title": "Planning via model checking: A decision procedure for AR"
+}

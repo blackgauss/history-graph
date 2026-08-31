@@ -1,0 +1,82 @@
+{
+ "cited_by_count": 8145,
+ "concepts": [
+  {
+   "display_name": "Turing",
+   "id": "https://openalex.org/C9870796",
+   "level": 2,
+   "score": 0.7232718467712402,
+   "wikidata": "https://www.wikidata.org/wiki/Q490481"
+  },
+  {
+   "display_name": "Computer science",
+   "id": "https://openalex.org/C41008148",
+   "level": 0,
+   "score": 0.5583387613296509,
+   "wikidata": "https://www.wikidata.org/wiki/Q21198"
+  },
+  {
+   "display_name": "Citation",
+   "id": "https://openalex.org/C2778805511",
+   "level": 2,
+   "score": 0.5400854349136353,
+   "wikidata": "https://www.wikidata.org/wiki/Q1713"
+  },
+  {
+   "display_name": "Turing machine",
+   "id": "https://openalex.org/C29248071",
+   "level": 3,
+   "score": 0.4934054911136627,
+   "wikidata": "https://www.wikidata.org/wiki/Q163310"
+  },
+  {
+   "display_name": "Mathematics",
+   "id": "https://openalex.org/C33923547",
+   "level": 0,
+   "score": 0.3373677134513855,
+   "wikidata": "https://www.wikidata.org/wiki/Q395"
+  },
+  {
+   "display_name": "Information retrieval",
+   "id": "https://openalex.org/C23123220",
+   "level": 1,
+   "score": 0.3276216983795166,
+   "wikidata": "https://www.wikidata.org/wiki/Q816826"
+  },
+  {
+   "display_name": "Library science",
+   "id": "https://openalex.org/C161191863",
+   "level": 1,
+   "score": 0.2792615294456482,
+   "wikidata": "https://www.wikidata.org/wiki/Q199655"
+  },
+  {
+   "display_name": "Algorithm",
+   "id": "https://openalex.org/C11413529",
+   "level": 1,
+   "score": 0.1645413637161255,
+   "wikidata": "https://www.wikidata.org/wiki/Q8366"
+  },
+  {
+   "display_name": "Programming language",
+   "id": "https://openalex.org/C199360897",
+   "level": 1,
+   "score": 0.11353302001953125,
+   "wikidata": "https://www.wikidata.org/wiki/Q9143"
+  },
+  {
+   "display_name": "Computation",
+   "id": "https://openalex.org/C45374587",
+   "level": 2,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q12525525"
+  }
+ ],
+ "doi": "https://doi.org/10.1112/plms/s2-42.1.230",
+ "id": "https://openalex.org/W2126160338",
+ "publication_year": 1937,
+ "referenced_works": [
+  "https://openalex.org/W2323777246"
+ ],
+ "title": "On Computable Numbers, with an Application to the Entscheidungsproblem"
+}

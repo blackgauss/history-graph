@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 138,
+ "counts_by_year": [
+  {
+   "cited_by_count": 17,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 46,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2021
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tcsvt.2021.3126591",
+ "id": "https://openalex.org/W3211937532",
+ "publication_year": 2021,
+ "title": "Deep Texture-Aware Features for Camouflaged Object Detection"
+}

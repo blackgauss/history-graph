@@ -1,0 +1,66 @@
+{
+ "cited_by_count": 1186,
+ "counts_by_year": [
+  {
+   "cited_by_count": 8,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 30,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 35,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 41,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W1524100745",
+ "publication_year": 1987,
+ "referenced_works": [],
+ "title": "Radial basis functions for multivariable interpolation: a review"
+}

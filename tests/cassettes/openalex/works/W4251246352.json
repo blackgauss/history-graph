@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 76,
+ "doi": "https://doi.org/10.1109/pdis.1991.183069",
+ "id": "https://openalex.org/W4251246352",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W178118290",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1574862731",
+  "https://openalex.org/W1575853110",
+  "https://openalex.org/W1596815897",
+  "https://openalex.org/W2063663576",
+  "https://openalex.org/W2080427212",
+  "https://openalex.org/W2126583885",
+  "https://openalex.org/W2128913083",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2161578281",
+  "https://openalex.org/W2167679350",
+  "https://openalex.org/W2171922437",
+  "https://openalex.org/W2745793029",
+  "https://openalex.org/W2746070208",
+  "https://openalex.org/W4238594802",
+  "https://openalex.org/W4255269732",
+  "https://openalex.org/W6633089140",
+  "https://openalex.org/W6634627511"
+ ],
+ "title": "Dataflow query execution in a parallel main-memory environment"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 1621,
+ "doi": "https://doi.org/10.1007/bf00191318",
+ "id": "https://openalex.org/W4214950786",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1985623009",
+  "https://openalex.org/W2007661134",
+  "https://openalex.org/W2020316223",
+  "https://openalex.org/W2051051926",
+  "https://openalex.org/W2052187872",
+  "https://openalex.org/W2079749988",
+  "https://openalex.org/W2110824700",
+  "https://openalex.org/W2134863191",
+  "https://openalex.org/W2315388224",
+  "https://openalex.org/W2336770924",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W2915470408",
+  "https://openalex.org/W4248090615",
+  "https://openalex.org/W6604549702"
+ ],
+ "title": "Experimental quantum cryptography"
+}

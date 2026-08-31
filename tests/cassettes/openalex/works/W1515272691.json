@@ -1,0 +1,121 @@
+{
+ "cited_by_count": 904,
+ "counts_by_year": [
+  {
+   "cited_by_count": 11,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 63,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 56,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 46,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 35,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 57,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 61,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 48,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W1515272691",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W41730657",
+  "https://openalex.org/W53464817",
+  "https://openalex.org/W190008395",
+  "https://openalex.org/W1496451467",
+  "https://openalex.org/W1516111018",
+  "https://openalex.org/W1528056001",
+  "https://openalex.org/W1549777868",
+  "https://openalex.org/W1559536185",
+  "https://openalex.org/W1560512119",
+  "https://openalex.org/W1575388622",
+  "https://openalex.org/W1588229727",
+  "https://openalex.org/W1606147224",
+  "https://openalex.org/W1618600317",
+  "https://openalex.org/W1791071530",
+  "https://openalex.org/W1861517257",
+  "https://openalex.org/W1934017349",
+  "https://openalex.org/W1966522529",
+  "https://openalex.org/W2022023686",
+  "https://openalex.org/W2037173892",
+  "https://openalex.org/W2046584898",
+  "https://openalex.org/W2047229728",
+  "https://openalex.org/W2049298802",
+  "https://openalex.org/W2062122868",
+  "https://openalex.org/W2073732659",
+  "https://openalex.org/W2083875149",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2093257937",
+  "https://openalex.org/W2097839764",
+  "https://openalex.org/W2098678088",
+  "https://openalex.org/W2100494227",
+  "https://openalex.org/W2105658140",
+  "https://openalex.org/W2105964352",
+  "https://openalex.org/W2107968230",
+  "https://openalex.org/W2109849264",
+  "https://openalex.org/W2120294885",
+  "https://openalex.org/W2120633557",
+  "https://openalex.org/W2120636621",
+  "https://openalex.org/W2128547631",
+  "https://openalex.org/W2129869373",
+  "https://openalex.org/W2132588110",
+  "https://openalex.org/W2137813581",
+  "https://openalex.org/W2139275499",
+  "https://openalex.org/W2139701068",
+  "https://openalex.org/W2141274633",
+  "https://openalex.org/W2141800987",
+  "https://openalex.org/W2150964576",
+  "https://openalex.org/W2151454335",
+  "https://openalex.org/W2152895903",
+  "https://openalex.org/W2157083019",
+  "https://openalex.org/W2158078575",
+  "https://openalex.org/W2161084348",
+  "https://openalex.org/W2165794341",
+  "https://openalex.org/W2539309999",
+  "https://openalex.org/W3103862435"
+ ],
+ "title": "A family of algorithms for approximate bayesian inference"
+}

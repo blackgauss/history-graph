@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 320,
+ "doi": "https://doi.org/10.1145/93597.98740",
+ "id": "https://openalex.org/W1978220611",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W166430344",
+  "https://openalex.org/W1694233656",
+  "https://openalex.org/W1981925480",
+  "https://openalex.org/W2022681178",
+  "https://openalex.org/W2033368934",
+  "https://openalex.org/W2058978608",
+  "https://openalex.org/W2081579241",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2167679350",
+  "https://openalex.org/W2170918251",
+  "https://openalex.org/W2489748212",
+  "https://openalex.org/W4230983477",
+  "https://openalex.org/W4238121600",
+  "https://openalex.org/W4244215662"
+ ],
+ "title": "Randomized algorithms for optimizing large join queries"
+}

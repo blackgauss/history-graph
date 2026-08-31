@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 979,
+ "doi": null,
+ "id": "https://openalex.org/W2097839764",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W99903558",
+  "https://openalex.org/W187881133",
+  "https://openalex.org/W1518171725",
+  "https://openalex.org/W1749992802",
+  "https://openalex.org/W2017337590",
+  "https://openalex.org/W2040884411",
+  "https://openalex.org/W2087684630",
+  "https://openalex.org/W2104671481",
+  "https://openalex.org/W2109363337",
+  "https://openalex.org/W2115763357",
+  "https://openalex.org/W2124776405",
+  "https://openalex.org/W2143426320",
+  "https://openalex.org/W2148603752",
+  "https://openalex.org/W2158001550"
+ ],
+ "title": "Feature Selection for SVMs"
+}

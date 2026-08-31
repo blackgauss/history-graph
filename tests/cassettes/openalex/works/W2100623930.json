@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 55,
+ "doi": "https://doi.org/10.1109/tnn.2010.2044802",
+ "id": "https://openalex.org/W2100623930",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1592855356",
+  "https://openalex.org/W1673035849",
+  "https://openalex.org/W2096133120",
+  "https://openalex.org/W2099606917",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2114393429",
+  "https://openalex.org/W2117002552",
+  "https://openalex.org/W2130984546",
+  "https://openalex.org/W2134557905",
+  "https://openalex.org/W2139427956",
+  "https://openalex.org/W2170508709",
+  "https://openalex.org/W4245304221",
+  "https://openalex.org/W6674641388"
+ ],
+ "title": "A Convolutional Learning System for Object Classification in 3-D Lidar Data"
+}

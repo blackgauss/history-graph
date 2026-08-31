@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 203,
+ "doi": "https://doi.org/10.1145/288627.288643",
+ "id": "https://openalex.org/W2083140545",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W20722260",
+  "https://openalex.org/W1483679765",
+  "https://openalex.org/W1504344267",
+  "https://openalex.org/W1553696291",
+  "https://openalex.org/W1597161471",
+  "https://openalex.org/W1641039719",
+  "https://openalex.org/W2093397547",
+  "https://openalex.org/W2140894515",
+  "https://openalex.org/W2156026066",
+  "https://openalex.org/W2157086973",
+  "https://openalex.org/W2158454296",
+  "https://openalex.org/W4300885858",
+  "https://openalex.org/W6673656472",
+  "https://openalex.org/W6683534485"
+ ],
+ "title": "Efficient enumeration of frequent sequences"
+}

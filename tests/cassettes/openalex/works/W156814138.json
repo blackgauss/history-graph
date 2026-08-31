@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 330,
+ "doi": null,
+ "id": "https://openalex.org/W156814138",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1484113995",
+  "https://openalex.org/W1491973539",
+  "https://openalex.org/W1521003796",
+  "https://openalex.org/W1536258751",
+  "https://openalex.org/W1590759229",
+  "https://openalex.org/W1993412827",
+  "https://openalex.org/W2032100464",
+  "https://openalex.org/W2137647991",
+  "https://openalex.org/W2161966858",
+  "https://openalex.org/W2168359464"
+ ],
+ "title": "Taming decentralized POMDPs: towards efficient policy computation for multiagent settings"
+}

@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 15,
+ "doi": null,
+ "id": "https://openalex.org/W2295700201",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1565394148",
+  "https://openalex.org/W1607896360",
+  "https://openalex.org/W2048984163",
+  "https://openalex.org/W2096533821",
+  "https://openalex.org/W2145805610",
+  "https://openalex.org/W2150355110",
+  "https://openalex.org/W2911283634",
+  "https://openalex.org/W2914656440"
+ ],
+ "title": "Free-energy-based Reinforcement Learning in a Partially Observable Environment"
+}

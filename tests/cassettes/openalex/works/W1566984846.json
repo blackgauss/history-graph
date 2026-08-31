@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 500,
+ "doi": null,
+ "id": "https://openalex.org/W1566984846",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1489992655",
+  "https://openalex.org/W1546842576",
+  "https://openalex.org/W1562405179",
+  "https://openalex.org/W1976624301",
+  "https://openalex.org/W1981202432",
+  "https://openalex.org/W1987272746",
+  "https://openalex.org/W2016122268",
+  "https://openalex.org/W2029341294",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2067338315",
+  "https://openalex.org/W2085950095",
+  "https://openalex.org/W2114167330",
+  "https://openalex.org/W2148839232"
+ ],
+ "title": "The Evolution of the Web and Implications for an Incremental Crawler"
+}

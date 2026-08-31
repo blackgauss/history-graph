@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 46,
+ "doi": "https://doi.org/10.1017/s0960129500000657",
+ "id": "https://openalex.org/W2047170808",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1762668282",
+  "https://openalex.org/W1875836313",
+  "https://openalex.org/W1973576343",
+  "https://openalex.org/W2002089154",
+  "https://openalex.org/W2027657506",
+  "https://openalex.org/W2033084853",
+  "https://openalex.org/W2094516550",
+  "https://openalex.org/W2104862163",
+  "https://openalex.org/W4212983671",
+  "https://openalex.org/W4302339081"
+ ],
+ "title": "Efficient recursive subtyping"
+}

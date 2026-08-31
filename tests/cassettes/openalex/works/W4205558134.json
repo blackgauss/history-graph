@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 209,
+ "counts_by_year": [
+  {
+   "cited_by_count": 27,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 70,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2022
+  }
+ ],
+ "doi": "https://doi.org/10.1109/jsen.2022.3144317",
+ "id": "https://openalex.org/W4205558134",
+ "publication_year": 2022,
+ "title": "Transformers for EEG-Based Emotion Recognition: A Hierarchical Spatial Information Learning Model"
+}

@@ -1,0 +1,103 @@
+{
+ "cited_by_count": 372,
+ "counts_by_year": [
+  {
+   "cited_by_count": 4,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1509/jmkr.48.1.87",
+ "id": "https://openalex.org/W2179252414",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W1500691954",
+  "https://openalex.org/W1575955166",
+  "https://openalex.org/W1909645447",
+  "https://openalex.org/W1989639132",
+  "https://openalex.org/W2000953197",
+  "https://openalex.org/W2023505872",
+  "https://openalex.org/W2038242546",
+  "https://openalex.org/W2093163898",
+  "https://openalex.org/W2110980416",
+  "https://openalex.org/W2135060498",
+  "https://openalex.org/W2139365147",
+  "https://openalex.org/W2142505346",
+  "https://openalex.org/W2144959234",
+  "https://openalex.org/W2151230943",
+  "https://openalex.org/W2151926297",
+  "https://openalex.org/W2152200898",
+  "https://openalex.org/W2155968480",
+  "https://openalex.org/W2160746267",
+  "https://openalex.org/W2162175235",
+  "https://openalex.org/W2164860750",
+  "https://openalex.org/W2167560365",
+  "https://openalex.org/W2506240679",
+  "https://openalex.org/W2913950235",
+  "https://openalex.org/W3009935988",
+  "https://openalex.org/W3060257960",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3123656730",
+  "https://openalex.org/W3123917778",
+  "https://openalex.org/W3124772166",
+  "https://openalex.org/W4237262408",
+  "https://openalex.org/W4241115065",
+  "https://openalex.org/W4254267043"
+ ],
+ "title": "From Generic to Branded: A Model of Spillover in Paid Search Advertising"
+}

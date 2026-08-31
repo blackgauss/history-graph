@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 294,
+ "doi": "https://doi.org/10.1109/infcom.2009.5061954",
+ "id": "https://openalex.org/W2167264214",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1517625504",
+  "https://openalex.org/W1700014370",
+  "https://openalex.org/W1982813377",
+  "https://openalex.org/W1995862053",
+  "https://openalex.org/W2035474199",
+  "https://openalex.org/W2060424304",
+  "https://openalex.org/W2101356709",
+  "https://openalex.org/W2104278862",
+  "https://openalex.org/W2113148084",
+  "https://openalex.org/W2118039249",
+  "https://openalex.org/W2126382432",
+  "https://openalex.org/W2130929918",
+  "https://openalex.org/W2135663206",
+  "https://openalex.org/W2141007964",
+  "https://openalex.org/W2148408897",
+  "https://openalex.org/W2171039044",
+  "https://openalex.org/W2500516842",
+  "https://openalex.org/W3143009350",
+  "https://openalex.org/W4233367026",
+  "https://openalex.org/W6630745766"
+ ],
+ "title": "A Theory of QoS for Wireless"
+}

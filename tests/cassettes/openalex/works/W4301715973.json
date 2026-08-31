@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1007/978-1-4899-7687-1_646",
+ "id": "https://openalex.org/W4301715973",
+ "publication_year": 2017,
+ "referenced_works": [
+  "https://openalex.org/W203276351",
+  "https://openalex.org/W2046765929",
+  "https://openalex.org/W2125612430",
+  "https://openalex.org/W2610184409",
+  "https://openalex.org/W4239993559"
+ ],
+ "title": "Policy Gradient Methods"
+}

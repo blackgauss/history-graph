@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 2981,
+ "doi": "https://doi.org/10.21276/ijre.2018.5.5.4",
+ "id": "https://openalex.org/W2122465391",
+ "publication_year": 2018,
+ "referenced_works": [
+  "https://openalex.org/W1776654319",
+  "https://openalex.org/W1988243929",
+  "https://openalex.org/W2026015769",
+  "https://openalex.org/W2044534358",
+  "https://openalex.org/W2045271686",
+  "https://openalex.org/W2058972589",
+  "https://openalex.org/W2073965851",
+  "https://openalex.org/W2082693041",
+  "https://openalex.org/W2087977509",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2133338501",
+  "https://openalex.org/W2133718097",
+  "https://openalex.org/W2143462372",
+  "https://openalex.org/W2156563037"
+ ],
+ "title": "MapReduce: Simplified Data Processing on Large Cluster"
+}

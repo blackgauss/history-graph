@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 643,
+ "doi": "https://doi.org/10.1016/0022-0531(74)90066-0",
+ "id": "https://openalex.org/W2045097767",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W1489484040",
+  "https://openalex.org/W1496946895",
+  "https://openalex.org/W1995162829",
+  "https://openalex.org/W1995616651",
+  "https://openalex.org/W2006258746",
+  "https://openalex.org/W2027236180",
+  "https://openalex.org/W2039522160",
+  "https://openalex.org/W2043948304",
+  "https://openalex.org/W2047273712",
+  "https://openalex.org/W2053435361",
+  "https://openalex.org/W2072794866",
+  "https://openalex.org/W2078901869",
+  "https://openalex.org/W2103793663",
+  "https://openalex.org/W2115931363",
+  "https://openalex.org/W2166373025",
+  "https://openalex.org/W2331124147",
+  "https://openalex.org/W2797328151",
+  "https://openalex.org/W3139574540",
+  "https://openalex.org/W4244980072",
+  "https://openalex.org/W6629226698",
+  "https://openalex.org/W6629650907",
+  "https://openalex.org/W6677233477"
+ ],
+ "title": "A two-armed bandit theory of market pricing"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 152,
+ "counts_by_year": [
+  {
+   "cited_by_count": 31,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 70,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1038/s42256-023-00624-6",
+ "id": "https://openalex.org/W4362579348",
+ "publication_year": 2023,
+ "title": "Multimodal learning with graphs"
+}

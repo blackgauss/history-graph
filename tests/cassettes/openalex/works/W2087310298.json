@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1007/bf00337365",
+ "id": "https://openalex.org/W2087310298",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1498711961",
+  "https://openalex.org/W1974043559",
+  "https://openalex.org/W2006327398",
+  "https://openalex.org/W2016935731",
+  "https://openalex.org/W2303608025",
+  "https://openalex.org/W2322002063"
+ ],
+ "title": "Learning processes in multilayer threshold nets"
+}

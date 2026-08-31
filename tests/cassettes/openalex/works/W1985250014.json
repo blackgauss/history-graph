@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 114,
+ "doi": "https://doi.org/10.1002/rsa.3240070105",
+ "id": "https://openalex.org/W1985250014",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W17078302",
+  "https://openalex.org/W1963913579",
+  "https://openalex.org/W1969966778",
+  "https://openalex.org/W1973240854",
+  "https://openalex.org/W1999678910",
+  "https://openalex.org/W2002651865",
+  "https://openalex.org/W2018251959",
+  "https://openalex.org/W2022695609",
+  "https://openalex.org/W2054387247",
+  "https://openalex.org/W2068871408",
+  "https://openalex.org/W2091968492",
+  "https://openalex.org/W2099546535",
+  "https://openalex.org/W2126420408",
+  "https://openalex.org/W2164346692",
+  "https://openalex.org/W2912284828",
+  "https://openalex.org/W4231916799"
+ ],
+ "title": "Tail bounds for occupancy and the satisfiability threshold conjecture"
+}

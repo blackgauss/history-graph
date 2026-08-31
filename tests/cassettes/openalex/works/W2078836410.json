@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 37,
+ "doi": "https://doi.org/10.1145/355934.355939",
+ "id": "https://openalex.org/W2078836410",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1488862788",
+  "https://openalex.org/W1976434461",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2046386580",
+  "https://openalex.org/W2062294426",
+  "https://openalex.org/W2087668963",
+  "https://openalex.org/W2092330019",
+  "https://openalex.org/W2120062331",
+  "https://openalex.org/W2145126461",
+  "https://openalex.org/W2164895118",
+  "https://openalex.org/W2236623899",
+  "https://openalex.org/W3089552053"
+ ],
+ "title": "A Nested Partitioning Procedure for Numerical Multiple Integration"
+}

@@ -1,0 +1,41 @@
+{
+ "cited_by_count": 2896,
+ "counts_by_year": [
+  {
+   "cited_by_count": 400,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 703,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 707,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 592,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 383,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 109,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2013
+  }
+ ],
+ "doi": "https://doi.org/10.3390/e23010018",
+ "id": "https://openalex.org/W3116286104",
+ "publication_year": 2020,
+ "title": "Explainable AI: A Review of Machine Learning Interpretability Methods"
+}

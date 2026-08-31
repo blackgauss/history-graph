@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 538,
+ "doi": "https://doi.org/10.48550/arxiv.1301.6676",
+ "id": "https://openalex.org/W1618600317",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1520448186",
+  "https://openalex.org/W1524704912",
+  "https://openalex.org/W1528056001",
+  "https://openalex.org/W1566045017",
+  "https://openalex.org/W1567331820",
+  "https://openalex.org/W1861517257",
+  "https://openalex.org/W1977067929",
+  "https://openalex.org/W1996355918",
+  "https://openalex.org/W2008906462",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2060843042",
+  "https://openalex.org/W2076818396",
+  "https://openalex.org/W2096878708",
+  "https://openalex.org/W2108384452",
+  "https://openalex.org/W2111051539",
+  "https://openalex.org/W2137969290",
+  "https://openalex.org/W2149239179",
+  "https://openalex.org/W2166698530",
+  "https://openalex.org/W2168175751",
+  "https://openalex.org/W2170112109",
+  "https://openalex.org/W2406193815",
+  "https://openalex.org/W2567948266",
+  "https://openalex.org/W2911546748"
+ ],
+ "title": "Inferring Parameters and Structure of Latent Variable Models by Variational Bayes"
+}

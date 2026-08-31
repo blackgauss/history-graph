@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 858,
+ "doi": "https://doi.org/10.14778/1687627.1687731",
+ "id": "https://openalex.org/W2125775320",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1560473542",
+  "https://openalex.org/W2098935637",
+  "https://openalex.org/W2114303224",
+  "https://openalex.org/W2119400430",
+  "https://openalex.org/W2131726714",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W3138367763",
+  "https://openalex.org/W4244704438"
+ ],
+ "title": "HadoopDB"
+}

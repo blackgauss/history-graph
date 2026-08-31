@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 71,
+ "doi": "https://doi.org/10.1145/358808.358814",
+ "id": "https://openalex.org/W2080085596",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1983849809",
+  "https://openalex.org/W2014618792",
+  "https://openalex.org/W2050753366",
+  "https://openalex.org/W2067002313",
+  "https://openalex.org/W2165495918"
+ ],
+ "title": "Information transfer and area-time tradeoffs for VLSI multiplication"
+}

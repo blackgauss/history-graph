@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 127,
+ "doi": "https://doi.org/10.1007/3-540-49208-9_15",
+ "id": "https://openalex.org/W1659329695",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1487721777",
+  "https://openalex.org/W1587133324",
+  "https://openalex.org/W1660562555",
+  "https://openalex.org/W1965455841",
+  "https://openalex.org/W1967037487",
+  "https://openalex.org/W2003992904",
+  "https://openalex.org/W2011167826",
+  "https://openalex.org/W2043545422",
+  "https://openalex.org/W2062947246",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2109741106",
+  "https://openalex.org/W2137005141",
+  "https://openalex.org/W2142212363",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2168676717",
+  "https://openalex.org/W3099197349"
+ ],
+ "title": "The Hidden Subgroup Problem and Eigenvalue Estimation on a Quantum Computer"
+}

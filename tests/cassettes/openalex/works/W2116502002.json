@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 2635,
+ "doi": "https://doi.org/10.1016/0004-3702(82)90020-0",
+ "id": "https://openalex.org/W2116502002",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W23343499",
+  "https://openalex.org/W105912200",
+  "https://openalex.org/W290069508",
+  "https://openalex.org/W1503377319",
+  "https://openalex.org/W1605514313",
+  "https://openalex.org/W1762923681",
+  "https://openalex.org/W2009960241",
+  "https://openalex.org/W2147480067",
+  "https://openalex.org/W2895153536",
+  "https://openalex.org/W6630048949",
+  "https://openalex.org/W6636342449",
+  "https://openalex.org/W6637937985",
+  "https://openalex.org/W6661885554",
+  "https://openalex.org/W6681500152"
+ ],
+ "title": "Rete: A fast algorithm for the many pattern/many object pattern match problem"
+}

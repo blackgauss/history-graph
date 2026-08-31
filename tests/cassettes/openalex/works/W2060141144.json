@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 43,
+ "doi": "https://doi.org/10.1090/s0025-5718-96-00780-6",
+ "id": "https://openalex.org/W2060141144",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W116293564",
+  "https://openalex.org/W1559907478",
+  "https://openalex.org/W1963785789",
+  "https://openalex.org/W1977123030",
+  "https://openalex.org/W1979410970",
+  "https://openalex.org/W1988771740",
+  "https://openalex.org/W1998892638",
+  "https://openalex.org/W2009047292",
+  "https://openalex.org/W2023638740",
+  "https://openalex.org/W2028420334",
+  "https://openalex.org/W2029625977",
+  "https://openalex.org/W2038527926",
+  "https://openalex.org/W2039402388",
+  "https://openalex.org/W2045935121",
+  "https://openalex.org/W2055140266",
+  "https://openalex.org/W2064486311",
+  "https://openalex.org/W2074029034",
+  "https://openalex.org/W2075498078",
+  "https://openalex.org/W2082100828",
+  "https://openalex.org/W2485630118",
+  "https://openalex.org/W3038165843",
+  "https://openalex.org/W4229514648",
+  "https://openalex.org/W4244829582",
+  "https://openalex.org/W4301709274"
+ ],
+ "title": "Strictly positive definite functions on spheres in Euclidean spaces"
+}

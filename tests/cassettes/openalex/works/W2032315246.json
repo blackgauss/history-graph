@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 157,
+ "doi": "https://doi.org/10.1109/t-c.1972.223579",
+ "id": "https://openalex.org/W2032315246",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W96322925",
+  "https://openalex.org/W114476996",
+  "https://openalex.org/W131746183",
+  "https://openalex.org/W1976678415",
+  "https://openalex.org/W1995426156",
+  "https://openalex.org/W2011523217",
+  "https://openalex.org/W2047275065",
+  "https://openalex.org/W2056071202",
+  "https://openalex.org/W2068639469",
+  "https://openalex.org/W2108831342",
+  "https://openalex.org/W2322002063",
+  "https://openalex.org/W4235359104",
+  "https://openalex.org/W4251530686",
+  "https://openalex.org/W6605279354"
+ ],
+ "title": "Layered \"Recognition Cone\" Networks That Preprocess, Classify, and Describe"
+}

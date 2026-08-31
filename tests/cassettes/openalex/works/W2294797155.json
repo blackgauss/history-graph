@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 442,
+ "doi": "https://doi.org/10.21437/interspeech.2014-443",
+ "id": "https://openalex.org/W2294797155",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W50577135",
+  "https://openalex.org/W1571950845",
+  "https://openalex.org/W1828163288",
+  "https://openalex.org/W2005708641",
+  "https://openalex.org/W2045158511",
+  "https://openalex.org/W2072128103",
+  "https://openalex.org/W2102003408",
+  "https://openalex.org/W2108674328",
+  "https://openalex.org/W2111194146",
+  "https://openalex.org/W2127141656",
+  "https://openalex.org/W2129142580",
+  "https://openalex.org/W2131774270",
+  "https://openalex.org/W2134973740",
+  "https://openalex.org/W2137782235",
+  "https://openalex.org/W2143612262",
+  "https://openalex.org/W2154920538",
+  "https://openalex.org/W2160306971",
+  "https://openalex.org/W2160815625",
+  "https://openalex.org/W2573373896",
+  "https://openalex.org/W2947169932",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "TTS synthesis with bidirectional LSTM based recurrent neural networks"
+}

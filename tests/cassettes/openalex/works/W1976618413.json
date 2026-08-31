@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 985,
+ "doi": "https://doi.org/10.1145/1102351.1102441",
+ "id": "https://openalex.org/W1976618413",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1492459858",
+  "https://openalex.org/W1524688041",
+  "https://openalex.org/W1673941785",
+  "https://openalex.org/W1902027874",
+  "https://openalex.org/W1966096622",
+  "https://openalex.org/W1986966428",
+  "https://openalex.org/W2021680564",
+  "https://openalex.org/W2049455633",
+  "https://openalex.org/W2098841537",
+  "https://openalex.org/W2109720450",
+  "https://openalex.org/W2118079529",
+  "https://openalex.org/W2122090912",
+  "https://openalex.org/W2135001774",
+  "https://openalex.org/W2165395308",
+  "https://openalex.org/W3029645440"
+ ],
+ "title": "Fast maximum margin matrix factorization for collaborative prediction"
+}

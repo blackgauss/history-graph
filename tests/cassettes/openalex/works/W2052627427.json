@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 300,
+ "doi": "https://doi.org/10.1007/bf00199581",
+ "id": "https://openalex.org/W2052627427",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W2007756875",
+  "https://openalex.org/W2063160149",
+  "https://openalex.org/W2081069937",
+  "https://openalex.org/W2081625465",
+  "https://openalex.org/W2084607461",
+  "https://openalex.org/W2090710867",
+  "https://openalex.org/W2101927907",
+  "https://openalex.org/W3121926921",
+  "https://openalex.org/W3149025087",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4237483856",
+  "https://openalex.org/W4255349969",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Evolving neural networks"
+}

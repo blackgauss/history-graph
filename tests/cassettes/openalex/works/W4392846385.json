@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 271,
+ "counts_by_year": [
+  {
+   "cited_by_count": 77,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 123,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 64,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2022
+  }
+ ],
+ "doi": "https://doi.org/10.1007/978-3-031-56060-6_24",
+ "id": "https://openalex.org/W4392846385",
+ "publication_year": 2024,
+ "title": "Large Language Models are Zero-Shot Rankers for Recommender Systems"
+}

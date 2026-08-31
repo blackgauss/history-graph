@@ -1,0 +1,95 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "John Laurin Martin",
+    "id": "https://openalex.org/A5026385643",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "John Laurin Martin",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W2529559765",
+ "ids": {
+  "mag": "2529559765",
+  "openalex": "https://openalex.org/W2529559765"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "pmh:oai:smartech.gatech.edu:1853/13866",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://hdl.handle.net/1853/13866",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "",
+  "raw_type": "Thesis",
+  "source": {
+   "display_name": "SMARTech Repository (Georgia Institute of Technology)",
+   "host_organization": "https://openalex.org/I130701444",
+   "host_organization_lineage": [
+    "https://openalex.org/I130701444"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "Georgia Institute of Technology",
+   "id": "https://openalex.org/S4377196313",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": "submittedVersion"
+ },
+ "publication_year": 1948,
+ "referenced_works": [
+  "https://openalex.org/W1594847712",
+  "https://openalex.org/W1804172620",
+  "https://openalex.org/W2053619330"
+ ],
+ "related_works": [
+  "https://openalex.org/W1594949991",
+  "https://openalex.org/W2146603089",
+  "https://openalex.org/W1555284180",
+  "https://openalex.org/W2141174199",
+  "https://openalex.org/W2019906979",
+  "https://openalex.org/W2114535222",
+  "https://openalex.org/W1561624338",
+  "https://openalex.org/W2112463242",
+  "https://openalex.org/W2108896030",
+  "https://openalex.org/W2032733423",
+  "https://openalex.org/W2107563485",
+  "https://openalex.org/W2151567680",
+  "https://openalex.org/W2292843558",
+  "https://openalex.org/W2123531174",
+  "https://openalex.org/W2170218136",
+  "https://openalex.org/W2154124883",
+  "https://openalex.org/W3143910879",
+  "https://openalex.org/W2122463652",
+  "https://openalex.org/W2155968807",
+  "https://openalex.org/W2170875692"
+ ],
+ "title": "Solution of relay and switching circuits by symbolic analysis",
+ "type": "dissertation"
+}

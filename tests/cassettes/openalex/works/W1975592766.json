@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 65,
+ "doi": "https://doi.org/10.2307/2271984",
+ "id": "https://openalex.org/W1975592766",
+ "publication_year": 1973,
+ "referenced_works": [
+  "https://openalex.org/W2021141490",
+  "https://openalex.org/W2089442854",
+  "https://openalex.org/W2117832390",
+  "https://openalex.org/W2131389166",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W6655934295"
+ ],
+ "title": "On complexity properties of recursively enumerable sets"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 113,
+ "doi": "https://doi.org/10.1103/physreva.54.r1745",
+ "id": "https://openalex.org/W2005250833",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1615489731",
+  "https://openalex.org/W1964082606",
+  "https://openalex.org/W1966533239",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2003992904",
+  "https://openalex.org/W2012595974",
+  "https://openalex.org/W2017920704",
+  "https://openalex.org/W2020056192",
+  "https://openalex.org/W2027926771",
+  "https://openalex.org/W2029488909",
+  "https://openalex.org/W2041599892",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2140240904",
+  "https://openalex.org/W3100206575"
+ ],
+ "title": "Error prevention scheme with four particles"
+}

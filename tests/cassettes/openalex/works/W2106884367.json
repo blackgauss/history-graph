@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 560,
+ "doi": "https://doi.org/10.1007/bf02331346",
+ "id": "https://openalex.org/W2106884367",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W81167575",
+  "https://openalex.org/W1278167707",
+  "https://openalex.org/W1490454746",
+  "https://openalex.org/W1501657095",
+  "https://openalex.org/W1558360673",
+  "https://openalex.org/W1560922264",
+  "https://openalex.org/W1967011375",
+  "https://openalex.org/W1979191599",
+  "https://openalex.org/W1991848143",
+  "https://openalex.org/W2009642296",
+  "https://openalex.org/W2013239224",
+  "https://openalex.org/W2029519781",
+  "https://openalex.org/W2045908891",
+  "https://openalex.org/W2057529293",
+  "https://openalex.org/W2082622165",
+  "https://openalex.org/W2113653296",
+  "https://openalex.org/W2128084896",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W2887242076",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4213348475",
+  "https://openalex.org/W4240035482",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Forming sparse representations by local anti-Hebbian learning"
+}

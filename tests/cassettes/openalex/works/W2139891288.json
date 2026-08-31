@@ -1,0 +1,115 @@
+{
+ "cited_by_count": 232,
+ "counts_by_year": [
+  {
+   "cited_by_count": 7,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1504/ijeb.2008.018068",
+ "id": "https://openalex.org/W2139891288",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W86205303",
+  "https://openalex.org/W152557103",
+  "https://openalex.org/W203077648",
+  "https://openalex.org/W638950628",
+  "https://openalex.org/W1528949297",
+  "https://openalex.org/W1539750620",
+  "https://openalex.org/W1547358889",
+  "https://openalex.org/W1558004581",
+  "https://openalex.org/W1576262084",
+  "https://openalex.org/W1639336711",
+  "https://openalex.org/W1769120835",
+  "https://openalex.org/W1986345564",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2027001088",
+  "https://openalex.org/W2029752818",
+  "https://openalex.org/W2038263585",
+  "https://openalex.org/W2064987260",
+  "https://openalex.org/W2088532256",
+  "https://openalex.org/W2103989040",
+  "https://openalex.org/W2112754195",
+  "https://openalex.org/W2115766295",
+  "https://openalex.org/W2117340018",
+  "https://openalex.org/W2122862680",
+  "https://openalex.org/W2124292332",
+  "https://openalex.org/W2130316040",
+  "https://openalex.org/W2131951207",
+  "https://openalex.org/W2134837986",
+  "https://openalex.org/W2135060498",
+  "https://openalex.org/W2135724610",
+  "https://openalex.org/W2152311983",
+  "https://openalex.org/W2161078173",
+  "https://openalex.org/W2295170818",
+  "https://openalex.org/W2400212759",
+  "https://openalex.org/W2490093888",
+  "https://openalex.org/W2612690410",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3124299361",
+  "https://openalex.org/W3125094476",
+  "https://openalex.org/W4205841831",
+  "https://openalex.org/W4244308905",
+  "https://openalex.org/W4248184695",
+  "https://openalex.org/W4251083239",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4286779346"
+ ],
+ "title": "Sponsored search: an overview of the concept, history, and technology"
+}

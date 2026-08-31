@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 1069,
+ "doi": "https://doi.org/10.1109/tac.1996.536519",
+ "id": "https://openalex.org/W1579118835",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1500134124",
+  "https://openalex.org/W1949984268",
+  "https://openalex.org/W1967812439",
+  "https://openalex.org/W1968315580",
+  "https://openalex.org/W2017151618",
+  "https://openalex.org/W2029741856",
+  "https://openalex.org/W2042106612",
+  "https://openalex.org/W2075666652",
+  "https://openalex.org/W2107487294",
+  "https://openalex.org/W2127101407",
+  "https://openalex.org/W2132116266"
+ ],
+ "title": "H/sup ∞/-0ptimal Control and Related Minimax Design Problems: A Dynamic Game Approach"
+}

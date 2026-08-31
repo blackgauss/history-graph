@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 159,
+ "doi": "https://doi.org/10.1007/s00778-002-0070-0",
+ "id": "https://openalex.org/W1977786400",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W187851124",
+  "https://openalex.org/W1482520531",
+  "https://openalex.org/W1483874328",
+  "https://openalex.org/W1520432709",
+  "https://openalex.org/W1538267625",
+  "https://openalex.org/W1581805425",
+  "https://openalex.org/W1778331442",
+  "https://openalex.org/W1793365533",
+  "https://openalex.org/W1975733288",
+  "https://openalex.org/W2017740323",
+  "https://openalex.org/W2068901259",
+  "https://openalex.org/W2094208432",
+  "https://openalex.org/W2111845378",
+  "https://openalex.org/W2112101330",
+  "https://openalex.org/W2113888164",
+  "https://openalex.org/W2114712170",
+  "https://openalex.org/W2122816893",
+  "https://openalex.org/W2132582487",
+  "https://openalex.org/W2152191782",
+  "https://openalex.org/W2160677885",
+  "https://openalex.org/W2170515491",
+  "https://openalex.org/W2171492933"
+ ],
+ "title": "A formal perspective on the view selection problem"
+}

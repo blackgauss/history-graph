@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 239,
+ "doi": null,
+ "id": "https://openalex.org/W2164056559",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W185726777",
+  "https://openalex.org/W1538558539",
+  "https://openalex.org/W1583380718",
+  "https://openalex.org/W1646707810",
+  "https://openalex.org/W2101533993",
+  "https://openalex.org/W2168359464",
+  "https://openalex.org/W2539369127"
+ ],
+ "title": "Gradient Descent for General Reinforcement Learning"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 89,
+ "doi": "https://doi.org/10.1080/09540098908915650",
+ "id": "https://openalex.org/W1982291194",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W41338955",
+  "https://openalex.org/W1527476591",
+  "https://openalex.org/W1529155465",
+  "https://openalex.org/W1544211475",
+  "https://openalex.org/W1967011375",
+  "https://openalex.org/W2047515372",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2119196219",
+  "https://openalex.org/W2143503258",
+  "https://openalex.org/W2783016852",
+  "https://openalex.org/W2784022806",
+  "https://openalex.org/W3036512766",
+  "https://openalex.org/W3041202696",
+  "https://openalex.org/W3198350258",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4300402905",
+  "https://openalex.org/W4300448817"
+ ],
+ "title": "A Local Learning Algorithm for Dynamic Feedforward and Recurrent Networks"
+}

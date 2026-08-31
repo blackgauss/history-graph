@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 106,
+ "doi": "https://doi.org/10.1145/10590.10593",
+ "id": "https://openalex.org/W1965917732",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1497538313",
+  "https://openalex.org/W1508734242",
+  "https://openalex.org/W1552730607",
+  "https://openalex.org/W1963734157",
+  "https://openalex.org/W1988638332",
+  "https://openalex.org/W2004816252",
+  "https://openalex.org/W2043671329",
+  "https://openalex.org/W2064032871",
+  "https://openalex.org/W2081409107",
+  "https://openalex.org/W2086510917",
+  "https://openalex.org/W2131053137",
+  "https://openalex.org/W2142849519",
+  "https://openalex.org/W2161531345",
+  "https://openalex.org/W2170262285",
+  "https://openalex.org/W3137220996"
+ ],
+ "title": "Highly available distributed services and fault-tolerant distributed garbage collection"
+}

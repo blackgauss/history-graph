@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 194,
+ "doi": null,
+ "id": "https://openalex.org/W1508384000",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W146018888",
+  "https://openalex.org/W611532223",
+  "https://openalex.org/W1528133536",
+  "https://openalex.org/W1570963478",
+  "https://openalex.org/W1575658237",
+  "https://openalex.org/W1632601927",
+  "https://openalex.org/W1965270141",
+  "https://openalex.org/W1998498767",
+  "https://openalex.org/W2004001705",
+  "https://openalex.org/W2014482607",
+  "https://openalex.org/W2069317438",
+  "https://openalex.org/W2074586650",
+  "https://openalex.org/W2077902449",
+  "https://openalex.org/W2093825590",
+  "https://openalex.org/W2120745256",
+  "https://openalex.org/W2141996170",
+  "https://openalex.org/W2148825261",
+  "https://openalex.org/W2169401877",
+  "https://openalex.org/W3023115439"
+ ],
+ "title": "Competing in the dark: An efficient algorithm for bandit linear optimization"
+}

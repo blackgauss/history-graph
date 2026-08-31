@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 1203,
+ "doi": null,
+ "id": "https://openalex.org/W2130306094",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1536929369",
+  "https://openalex.org/W1538131130",
+  "https://openalex.org/W1965080940",
+  "https://openalex.org/W2022508996",
+  "https://openalex.org/W2031489346",
+  "https://openalex.org/W2053229256",
+  "https://openalex.org/W2072128103",
+  "https://openalex.org/W2099972257",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2107452121",
+  "https://openalex.org/W2108598243",
+  "https://openalex.org/W2141357020",
+  "https://openalex.org/W2145743319",
+  "https://openalex.org/W2146502635",
+  "https://openalex.org/W2161969291",
+  "https://openalex.org/W2163605009",
+  "https://openalex.org/W2167510172",
+  "https://openalex.org/W2168356304",
+  "https://openalex.org/W2253807446",
+  "https://openalex.org/W2339558981"
+ ],
+ "title": "Deep Neural Networks for Object Detection"
+}

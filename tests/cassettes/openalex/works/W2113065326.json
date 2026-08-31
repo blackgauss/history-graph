@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 108,
+ "doi": "https://doi.org/10.48550/arxiv.1003.0120",
+ "id": "https://openalex.org/W2113065326",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1514587017",
+  "https://openalex.org/W1990966354",
+  "https://openalex.org/W2001947543",
+  "https://openalex.org/W2006722592",
+  "https://openalex.org/W2045302506",
+  "https://openalex.org/W2077902449",
+  "https://openalex.org/W2103012681",
+  "https://openalex.org/W2112420033",
+  "https://openalex.org/W2119850747",
+  "https://openalex.org/W2138909795",
+  "https://openalex.org/W2161521419",
+  "https://openalex.org/W2293743194",
+  "https://openalex.org/W2519411794"
+ ],
+ "title": "Learning from Logged Implicit Exploration Data"
+}

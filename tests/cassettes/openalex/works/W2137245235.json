@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 3572,
+ "doi": null,
+ "id": "https://openalex.org/W2137245235",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W190953082",
+  "https://openalex.org/W1612003148",
+  "https://openalex.org/W1976618413",
+  "https://openalex.org/W2099866409",
+  "https://openalex.org/W2109720450",
+  "https://openalex.org/W2122090912",
+  "https://openalex.org/W2124914669",
+  "https://openalex.org/W2125027820",
+  "https://openalex.org/W2151052953",
+  "https://openalex.org/W2156297475",
+  "https://openalex.org/W2165395308"
+ ],
+ "title": "Probabilistic Matrix Factorization"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 186,
+ "doi": "https://doi.org/10.48550/arxiv.0806.4686",
+ "id": "https://openalex.org/W2139432235",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1968444040",
+  "https://openalex.org/W1978259121",
+  "https://openalex.org/W2069317438",
+  "https://openalex.org/W2091825929",
+  "https://openalex.org/W2092279736",
+  "https://openalex.org/W2103736488",
+  "https://openalex.org/W2109722477",
+  "https://openalex.org/W2113606819",
+  "https://openalex.org/W2129113961",
+  "https://openalex.org/W2135046866",
+  "https://openalex.org/W2142623206",
+  "https://openalex.org/W2148825261",
+  "https://openalex.org/W2150102617",
+  "https://openalex.org/W2156459512",
+  "https://openalex.org/W2592212380",
+  "https://openalex.org/W3120740533"
+ ],
+ "title": "Sparse Online Learning via Truncated Gradient"
+}

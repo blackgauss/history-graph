@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 106,
+ "doi": null,
+ "id": "https://openalex.org/W2129869373",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W63373334",
+  "https://openalex.org/W102828713",
+  "https://openalex.org/W161994183",
+  "https://openalex.org/W1568892534",
+  "https://openalex.org/W1654787807",
+  "https://openalex.org/W1657213141",
+  "https://openalex.org/W2047229728",
+  "https://openalex.org/W2115438515",
+  "https://openalex.org/W2117063635",
+  "https://openalex.org/W2141800987",
+  "https://openalex.org/W2146766088",
+  "https://openalex.org/W2148603752",
+  "https://openalex.org/W2161813919",
+  "https://openalex.org/W2166473218"
+ ],
+ "title": "Bayesian Model Selection for Support Vector Machines, Gaussian Processes and Other Kernel Classifiers"
+}

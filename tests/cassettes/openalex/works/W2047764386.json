@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 762,
+ "doi": "https://doi.org/10.1090/s0002-9947-1953-0053041-6",
+ "id": "https://openalex.org/W2047764386",
+ "publication_year": 1953,
+ "referenced_works": [
+  "https://openalex.org/W2023778211",
+  "https://openalex.org/W2036869460",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2087443598",
+  "https://openalex.org/W2114804254",
+  "https://openalex.org/W2145967016",
+  "https://openalex.org/W2209400336",
+  "https://openalex.org/W2323777246",
+  "https://openalex.org/W4236482601",
+  "https://openalex.org/W4239495391",
+  "https://openalex.org/W4245597824",
+  "https://openalex.org/W4256369010"
+ ],
+ "title": "Classes of recursively enumerable sets and their decision problems"
+}

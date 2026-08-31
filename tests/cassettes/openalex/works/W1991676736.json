@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 111,
+ "doi": "https://doi.org/10.1002/(sici)1521-3978(199811)46:6/8<877::aid-prop877>3.0.co;2-a",
+ "id": "https://openalex.org/W1991676736",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1524870431",
+  "https://openalex.org/W1643745590",
+  "https://openalex.org/W1660956061",
+  "https://openalex.org/W1967045838",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W2137852732",
+  "https://openalex.org/W3111297213"
+ ],
+ "title": "Efficient Simulation of Quantum Systems by Quantum Computers"
+}

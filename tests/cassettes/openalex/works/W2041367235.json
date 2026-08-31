@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 801,
+ "doi": "https://doi.org/10.1162/neco.1994.6.2.215",
+ "id": "https://openalex.org/W2041367235",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2103626435",
+  "https://openalex.org/W2133473403",
+  "https://openalex.org/W2157305236",
+  "https://openalex.org/W3041202696"
+ ],
+ "title": "TD-Gammon, a Self-Teaching Backgammon Program, Achieves Master-Level Play"
+}

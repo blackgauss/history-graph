@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1145/1037947.1024400",
+ "id": "https://openalex.org/W4249933004",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W158241545",
+  "https://openalex.org/W1582414373",
+  "https://openalex.org/W1587246893",
+  "https://openalex.org/W1689590126",
+  "https://openalex.org/W2000832815",
+  "https://openalex.org/W2018292377",
+  "https://openalex.org/W2065180040",
+  "https://openalex.org/W2075854425",
+  "https://openalex.org/W2081584511",
+  "https://openalex.org/W2101939036",
+  "https://openalex.org/W2124288146",
+  "https://openalex.org/W2137509374",
+  "https://openalex.org/W2142849519",
+  "https://openalex.org/W2147853062",
+  "https://openalex.org/W4232342695",
+  "https://openalex.org/W4253493261",
+  "https://openalex.org/W6686169942"
+ ],
+ "title": "FAB"
+}

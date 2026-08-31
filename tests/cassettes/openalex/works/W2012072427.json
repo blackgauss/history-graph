@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 1343,
+ "doi": "https://doi.org/10.1090/s0002-9947-1958-0094302-9",
+ "id": "https://openalex.org/W2012072427",
+ "publication_year": 1958,
+ "referenced_works": [
+  "https://openalex.org/W1975627271",
+  "https://openalex.org/W2003976385",
+  "https://openalex.org/W2017096836",
+  "https://openalex.org/W2048610309",
+  "https://openalex.org/W2056017060",
+  "https://openalex.org/W2080126541",
+  "https://openalex.org/W2314134460",
+  "https://openalex.org/W3021659953",
+  "https://openalex.org/W4233191308",
+  "https://openalex.org/W4234769634",
+  "https://openalex.org/W4247833764"
+ ],
+ "title": "Algebraic analysis of many valued logics"
+}

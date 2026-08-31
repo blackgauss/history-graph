@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 55,
+ "doi": null,
+ "id": "https://openalex.org/W1780715146",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W268583082",
+  "https://openalex.org/W1525568670",
+  "https://openalex.org/W1552521662",
+  "https://openalex.org/W1976936019",
+  "https://openalex.org/W1999552553",
+  "https://openalex.org/W2009428216",
+  "https://openalex.org/W2014772227",
+  "https://openalex.org/W2034702409",
+  "https://openalex.org/W2052154033",
+  "https://openalex.org/W2061819031",
+  "https://openalex.org/W2076022311",
+  "https://openalex.org/W2078209861",
+  "https://openalex.org/W2117502725",
+  "https://openalex.org/W2118891797",
+  "https://openalex.org/W2122326479",
+  "https://openalex.org/W3137092842"
+ ],
+ "title": "A Paradigm for Reliable Clock Synchronization"
+}

@@ -1,0 +1,260 @@
+{
+ "abstract_inverted_index": {
+  "But": [
+   15
+  ],
+  "File": [
+   2
+  ],
+  "Google": [
+   1
+  ],
+  "Poisson": [
+   43
+  ],
+  "System": [
+   3
+  ],
+  "The": [
+   0
+  ],
+  "To": [
+   30
+  ],
+  "a": [
+   5,
+   26
+  ],
+  "adjusted": [
+   47
+  ],
+  "and": [
+   45
+  ],
+  "applications.": [
+   14
+  ],
+  "by": [
+   41
+  ],
+  "cluster": [
+   7,
+   27
+  ],
+  "control,": [
+   21
+  ],
+  "cope": [
+   31
+  ],
+  "data-intensive": [
+   13
+  ],
+  "dataserver": [
+   37
+  ],
+  "distributed": [
+   12
+  ],
+  "ethernet": [
+   60
+  ],
+  "file": [
+   8,
+   28
+  ],
+  "first": [
+   39
+  ],
+  "for": [
+   10
+  ],
+  "is": [
+   4,
+   17,
+   23,
+   38
+  ],
+  "it": [
+   16
+  ],
+  "large": [
+   11
+  ],
+  "local": [
+   51
+  ],
+  "meet": [
+   55
+  ],
+  "nature": [
+   58
+  ],
+  "of": [
+   19,
+   36,
+   59
+  ],
+  "paramount": [
+   24
+  ],
+  "predicted": [
+   40
+  ],
+  "problem,the": [
+   34
+  ],
+  "processes,": [
+   44
+  ],
+  "real": [
+   50
+  ],
+  "resources": [
+   52
+  ],
+  "scalable": [
+   6
+  ],
+  "self-similar": [
+   57
+  ],
+  "short": [
+   18
+  ],
+  "system": [
+   9
+  ],
+  "system.": [
+   29
+  ],
+  "the": [
+   33,
+   49,
+   56
+  ],
+  "then": [
+   46
+  ],
+  "to": [
+   25,
+   54
+  ],
+  "traffic.": [
+   61
+  ],
+  "usage": [
+   53
+  ],
+  "using": [
+   42
+  ],
+  "which": [
+   22
+  ],
+  "with": [
+   32,
+   48
+  ],
+  "workload": [
+   20,
+   35
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Post_office Box 3380, No"
+    }
+   ],
+   "author": {
+    "display_name": "Pan Qing",
+    "id": "https://openalex.org/A5110688581",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Post_office Box 3380, No"
+   ],
+   "raw_author_name": "Pan Qing"
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W2386464967",
+ "ids": {
+  "mag": "2386464967",
+  "openalex": "https://openalex.org/W2386464967"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "mag:2386464967",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://en.cnki.com.cn/Article_en/CJFDTotal-KXJS200611024.htm",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Science Technology and Engineering",
+  "raw_type": null,
+  "source": {
+   "display_name": "Science Technology and Engineering",
+   "host_organization": "https://openalex.org/P4310319389",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319389"
+   ],
+   "host_organization_lineage_names": [
+    "Mahasarakham University"
+   ],
+   "host_organization_name": "Mahasarakham University",
+   "id": "https://openalex.org/S2764978371",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "journal"
+  },
+  "version": null
+ },
+ "publication_year": 2006,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2125788329",
+  "https://openalex.org/W2161654258",
+  "https://openalex.org/W2397310697",
+  "https://openalex.org/W1519208733",
+  "https://openalex.org/W2160279323",
+  "https://openalex.org/W1975253474",
+  "https://openalex.org/W2006519720",
+  "https://openalex.org/W1513810499",
+  "https://openalex.org/W2156231852",
+  "https://openalex.org/W2024447534",
+  "https://openalex.org/W2153959828",
+  "https://openalex.org/W2118149665",
+  "https://openalex.org/W2041946383",
+  "https://openalex.org/W2108607688",
+  "https://openalex.org/W1967691873",
+  "https://openalex.org/W2078994842",
+  "https://openalex.org/W2207899285",
+  "https://openalex.org/W3144348968",
+  "https://openalex.org/W2132180991",
+  "https://openalex.org/W1486203539"
+ ],
+ "title": "The Research of Workload Control for Google File System",
+ "type": "article"
+}

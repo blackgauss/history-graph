@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 174,
+ "doi": "https://doi.org/10.1257/aer.90.4.961",
+ "id": "https://openalex.org/W4246157496",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W566586761",
+  "https://openalex.org/W1506440764",
+  "https://openalex.org/W1987768043",
+  "https://openalex.org/W1988168828",
+  "https://openalex.org/W1992585785",
+  "https://openalex.org/W1998328777",
+  "https://openalex.org/W2004046442",
+  "https://openalex.org/W2051558943",
+  "https://openalex.org/W2052475340",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2096423350",
+  "https://openalex.org/W2106264727",
+  "https://openalex.org/W2112381423",
+  "https://openalex.org/W2115662141",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2130136629",
+  "https://openalex.org/W2147330019",
+  "https://openalex.org/W2601195013",
+  "https://openalex.org/W4232653752",
+  "https://openalex.org/W4240565518",
+  "https://openalex.org/W4249667931"
+ ],
+ "title": "Demand Reduction in Multiunit Auctions: Evidence from a Sportscard Field Experiment"
+}

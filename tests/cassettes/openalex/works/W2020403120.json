@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 115,
+ "doi": "https://doi.org/10.1090/s0002-9939-1959-0106853-5",
+ "id": "https://openalex.org/W2020403120",
+ "publication_year": 1959,
+ "referenced_works": [
+  "https://openalex.org/W2048652909",
+  "https://openalex.org/W2063353399",
+  "https://openalex.org/W2335389215",
+  "https://openalex.org/W4229859560"
+ ],
+ "title": "An algorithm for a minimum cover of a graph"
+}

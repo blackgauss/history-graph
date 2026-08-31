@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 93,
+ "doi": "https://doi.org/10.1109/tsmc.1976.4309532",
+ "id": "https://openalex.org/W1977870224",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W628817687",
+  "https://openalex.org/W2014433918",
+  "https://openalex.org/W2021913925",
+  "https://openalex.org/W2028380838",
+  "https://openalex.org/W2046742536",
+  "https://openalex.org/W2055823751",
+  "https://openalex.org/W2068039102",
+  "https://openalex.org/W2068605895",
+  "https://openalex.org/W2150913357",
+  "https://openalex.org/W2486615937",
+  "https://openalex.org/W2611132655",
+  "https://openalex.org/W2791336133",
+  "https://openalex.org/W4292483811",
+  "https://openalex.org/W6654290857",
+  "https://openalex.org/W6667582477"
+ ],
+ "title": "Sequential GMDH Algorithm and Its Application to River Flow Prediction"
+}

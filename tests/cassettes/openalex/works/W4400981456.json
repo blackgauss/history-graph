@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 146,
+ "counts_by_year": [
+  {
+   "cited_by_count": 63,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 69,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.3389/frai.2024.1408843",
+ "id": "https://openalex.org/W4400981456",
+ "publication_year": 2024,
+ "title": "Multimodal data integration for oncology in the era of deep neural networks: a review"
+}

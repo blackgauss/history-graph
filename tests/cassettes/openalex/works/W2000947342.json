@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 2171,
+ "doi": "https://doi.org/10.1007/s100090050010",
+ "id": "https://openalex.org/W2000947342",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W59365162",
+  "https://openalex.org/W1482233117",
+  "https://openalex.org/W1490546070",
+  "https://openalex.org/W1503973138",
+  "https://openalex.org/W1541064517",
+  "https://openalex.org/W1543690662",
+  "https://openalex.org/W1599105192",
+  "https://openalex.org/W1863150103",
+  "https://openalex.org/W1903000972",
+  "https://openalex.org/W2076513239",
+  "https://openalex.org/W2099184861",
+  "https://openalex.org/W2117087357",
+  "https://openalex.org/W2118802216",
+  "https://openalex.org/W2145000217",
+  "https://openalex.org/W2160883697",
+  "https://openalex.org/W2170486827",
+  "https://openalex.org/W2180475648",
+  "https://openalex.org/W2341171179"
+ ],
+ "title": "Uppaal in a nutshell"
+}

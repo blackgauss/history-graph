@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 367,
+ "doi": "https://doi.org/10.48550/arxiv.1301.3878",
+ "id": "https://openalex.org/W1601974704",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1485905671",
+  "https://openalex.org/W1497683195",
+  "https://openalex.org/W1499408472",
+  "https://openalex.org/W1512407760",
+  "https://openalex.org/W1515851193",
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1569990960",
+  "https://openalex.org/W1640774615",
+  "https://openalex.org/W2019671617",
+  "https://openalex.org/W2084544490",
+  "https://openalex.org/W2098432798",
+  "https://openalex.org/W2119717200",
+  "https://openalex.org/W2161521419",
+  "https://openalex.org/W2164056559",
+  "https://openalex.org/W2169071224",
+  "https://openalex.org/W2911283634",
+  "https://openalex.org/W2914656440"
+ ],
+ "title": "PEGASUS: A Policy Search Method for Large MDPs and POMDPs"
+}

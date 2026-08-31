@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 16,
+ "doi": null,
+ "id": "https://openalex.org/W1535369866",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W100341640",
+  "https://openalex.org/W1490731164",
+  "https://openalex.org/W1958411456",
+  "https://openalex.org/W2049416518",
+  "https://openalex.org/W2067021215",
+  "https://openalex.org/W2090557014",
+  "https://openalex.org/W2104349760",
+  "https://openalex.org/W2110867479",
+  "https://openalex.org/W2149173084",
+  "https://openalex.org/W2151521932",
+  "https://openalex.org/W2165558283",
+  "https://openalex.org/W2311471863"
+ ],
+ "title": "Query processing method for multi-attribute clustered relations"
+}

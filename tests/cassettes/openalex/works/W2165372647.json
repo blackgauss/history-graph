@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 761,
+ "doi": null,
+ "id": "https://openalex.org/W2165372647",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W4326551",
+  "https://openalex.org/W4983232",
+  "https://openalex.org/W45908618",
+  "https://openalex.org/W125178576",
+  "https://openalex.org/W1513769081",
+  "https://openalex.org/W1561608403",
+  "https://openalex.org/W1667362966",
+  "https://openalex.org/W1667614912",
+  "https://openalex.org/W1820801893",
+  "https://openalex.org/W2010601719",
+  "https://openalex.org/W2024060531",
+  "https://openalex.org/W2025399946",
+  "https://openalex.org/W2037197578",
+  "https://openalex.org/W2040924621",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2104670598",
+  "https://openalex.org/W2153638045",
+  "https://openalex.org/W2154303016",
+  "https://openalex.org/W2160444875",
+  "https://openalex.org/W2408006898",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Noise strategies for improving local search"
+}

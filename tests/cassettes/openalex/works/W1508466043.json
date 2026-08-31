@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 20,
+ "doi": "https://doi.org/10.1007/11916277_36",
+ "id": "https://openalex.org/W1508466043",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1488686801",
+  "https://openalex.org/W1489527380",
+  "https://openalex.org/W1508466043",
+  "https://openalex.org/W1512564652",
+  "https://openalex.org/W1515175581",
+  "https://openalex.org/W1515278398",
+  "https://openalex.org/W1515930456",
+  "https://openalex.org/W1582571943",
+  "https://openalex.org/W1923495615",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2096307462",
+  "https://openalex.org/W2114037873",
+  "https://openalex.org/W2158995961",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2259817465",
+  "https://openalex.org/W4206525450"
+ ],
+ "title": "Delayed Theory Combination vs. Nelson-Oppen for Satisfiability Modulo Theories: A Comparative Analysis"
+}

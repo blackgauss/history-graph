@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 2811,
+ "doi": "https://doi.org/10.1214/aoms/1177699147",
+ "id": "https://openalex.org/W2007321142",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W1976761579",
+  "https://openalex.org/W1990693325",
+  "https://openalex.org/W2065861083",
+  "https://openalex.org/W2329077652",
+  "https://openalex.org/W2799137445"
+ ],
+ "title": "Statistical Inference for Probabilistic Functions of Finite State Markov Chains"
+}

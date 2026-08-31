@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 272,
+ "doi": null,
+ "id": "https://openalex.org/W1598618182",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W31622817",
+  "https://openalex.org/W101498165",
+  "https://openalex.org/W147900504",
+  "https://openalex.org/W189943346",
+  "https://openalex.org/W1494350973",
+  "https://openalex.org/W1502949683",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1985467476",
+  "https://openalex.org/W1993449345",
+  "https://openalex.org/W2020646533",
+  "https://openalex.org/W2029722359",
+  "https://openalex.org/W2030302663",
+  "https://openalex.org/W2032942041",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2046569047",
+  "https://openalex.org/W2087966340",
+  "https://openalex.org/W2099117306",
+  "https://openalex.org/W2161694911",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W2912815185"
+ ],
+ "title": "A Study of Index Structures for Main Memory Database Management Systems"
+}

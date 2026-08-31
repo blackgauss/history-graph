@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 92,
+ "doi": "https://doi.org/10.1126/science.257.5071.752",
+ "id": "https://openalex.org/W2147981560",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1979285003",
+  "https://openalex.org/W1980775910",
+  "https://openalex.org/W1997124098",
+  "https://openalex.org/W2051051926",
+  "https://openalex.org/W2156186849",
+  "https://openalex.org/W4214950786"
+ ],
+ "title": "Quantum Cryptography: Uncertainty in the Service of Privacy"
+}

@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 57,
+ "doi": "https://doi.org/10.1109/tct.1961.1086765",
+ "id": "https://openalex.org/W2063653858",
+ "publication_year": 1961,
+ "referenced_works": [
+  "https://openalex.org/W2003858978",
+  "https://openalex.org/W2011809592",
+  "https://openalex.org/W2032433450",
+  "https://openalex.org/W2044437461",
+  "https://openalex.org/W4213363274",
+  "https://openalex.org/W4253098088",
+  "https://openalex.org/W4253576536"
+ ],
+ "title": "Solving Steady-State Nonlinear Networks of 'Monotone' Elements"
+}

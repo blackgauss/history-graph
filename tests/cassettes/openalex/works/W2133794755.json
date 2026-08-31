@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1109/vldb.1979.718138",
+ "id": "https://openalex.org/W2133794755",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W2072191579",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W2313469048"
+ ],
+ "title": "The Entity Join"
+}

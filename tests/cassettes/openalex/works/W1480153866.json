@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1007/bfb0033303",
+ "id": "https://openalex.org/W1480153866",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1520188839",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1565072422",
+  "https://openalex.org/W2010581677",
+  "https://openalex.org/W2022814279",
+  "https://openalex.org/W2063541597",
+  "https://openalex.org/W2069324581",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2135346934",
+  "https://openalex.org/W2142248489",
+  "https://openalex.org/W2147874666",
+  "https://openalex.org/W2149846618",
+  "https://openalex.org/W2156909104",
+  "https://openalex.org/W2158289097",
+  "https://openalex.org/W2982720039"
+ ],
+ "title": "Modified minimum classification error learning and its application to neural networks"
+}

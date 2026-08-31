@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 60,
+ "doi": "https://doi.org/10.1109/icip.2013.6738559",
+ "id": "https://openalex.org/W2004935438",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1759689472",
+  "https://openalex.org/W1969013163",
+  "https://openalex.org/W1981759979",
+  "https://openalex.org/W2022508996",
+  "https://openalex.org/W2033154814",
+  "https://openalex.org/W2143516773",
+  "https://openalex.org/W2147484997",
+  "https://openalex.org/W2148461049",
+  "https://openalex.org/W2152417180",
+  "https://openalex.org/W2167510172",
+  "https://openalex.org/W2169805405",
+  "https://openalex.org/W2963431010",
+  "https://openalex.org/W6637757992",
+  "https://openalex.org/W6681813608",
+  "https://openalex.org/W6682704150",
+  "https://openalex.org/W6684372118"
+ ],
+ "title": "A fast learning algorithm for image segmentation with max-pooling convolutional networks"
+}

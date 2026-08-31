@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 21614,
+ "doi": "https://doi.org/10.1016/0893-6080(89)90020-8",
+ "id": "https://openalex.org/W2137983211",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W135768573",
+  "https://openalex.org/W1564953322",
+  "https://openalex.org/W1654142532",
+  "https://openalex.org/W2056099894",
+  "https://openalex.org/W2090270852",
+  "https://openalex.org/W2097415784",
+  "https://openalex.org/W2103496339",
+  "https://openalex.org/W2290234976",
+  "https://openalex.org/W2416739038",
+  "https://openalex.org/W2526529994",
+  "https://openalex.org/W3016266344",
+  "https://openalex.org/W3146803896",
+  "https://openalex.org/W4238143865",
+  "https://openalex.org/W4239022279",
+  "https://openalex.org/W6605488942",
+  "https://openalex.org/W6634558890",
+  "https://openalex.org/W6662101812",
+  "https://openalex.org/W6675590014",
+  "https://openalex.org/W6680133082",
+  "https://openalex.org/W6792719132",
+  "https://openalex.org/W6820010905"
+ ],
+ "title": "Multilayer feedforward networks are universal approximators"
+}

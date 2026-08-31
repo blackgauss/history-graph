@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 838,
+ "doi": "https://doi.org/10.1184/r1/6603266",
+ "id": "https://openalex.org/W1541007220",
+ "publication_year": 2018,
+ "referenced_works": [
+  "https://openalex.org/W174448985",
+  "https://openalex.org/W1526055535",
+  "https://openalex.org/W1573503290",
+  "https://openalex.org/W1586804319",
+  "https://openalex.org/W1606643095",
+  "https://openalex.org/W1809457171",
+  "https://openalex.org/W1945445380",
+  "https://openalex.org/W2160208155",
+  "https://openalex.org/W2565808444",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W2787163892",
+  "https://openalex.org/W3121926921",
+  "https://openalex.org/W3207342693"
+ ],
+ "title": "An empirical study of learning speed in back-propagation networks"
+}

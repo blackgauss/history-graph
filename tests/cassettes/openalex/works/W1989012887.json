@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 86,
+ "doi": "https://doi.org/10.1109/mcse.2010.112",
+ "id": "https://openalex.org/W1989012887",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1972827198",
+  "https://openalex.org/W1985940938",
+  "https://openalex.org/W2035382009",
+  "https://openalex.org/W2069764737",
+  "https://openalex.org/W2087058693",
+  "https://openalex.org/W2121458485",
+  "https://openalex.org/W2164653071",
+  "https://openalex.org/W2171945929"
+ ],
+ "title": "Modeling Spiking Neural Networks on SpiNNaker"
+}

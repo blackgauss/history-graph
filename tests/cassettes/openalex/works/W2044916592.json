@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1007/s10817-007-9067-0",
+ "id": "https://openalex.org/W2044916592",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1501554968",
+  "https://openalex.org/W1513004633",
+  "https://openalex.org/W1553278548",
+  "https://openalex.org/W1570891932",
+  "https://openalex.org/W1601935780",
+  "https://openalex.org/W1836852804",
+  "https://openalex.org/W1862403209",
+  "https://openalex.org/W1976876676",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2031823362",
+  "https://openalex.org/W2065251436",
+  "https://openalex.org/W2069767473",
+  "https://openalex.org/W2338405082",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Boolean Functions as Models for Quantified Boolean Formulas"
+}

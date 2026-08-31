@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 665,
+ "doi": "https://doi.org/10.1016/0375-9601(93)90880-9",
+ "id": "https://openalex.org/W2004304976",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W84717351",
+  "https://openalex.org/W180111340",
+  "https://openalex.org/W1988174048",
+  "https://openalex.org/W2051869207",
+  "https://openalex.org/W2055281720",
+  "https://openalex.org/W2086452860",
+  "https://openalex.org/W2089334469",
+  "https://openalex.org/W2131872505",
+  "https://openalex.org/W2135650458",
+  "https://openalex.org/W2323980249",
+  "https://openalex.org/W3003414507",
+  "https://openalex.org/W4206028667",
+  "https://openalex.org/W4213175861",
+  "https://openalex.org/W6663279102"
+ ],
+ "title": "A complete classification of quantum ensembles having a given density matrix"
+}

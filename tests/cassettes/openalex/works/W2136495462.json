@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 202,
+ "doi": "https://doi.org/10.1145/1830483.1830557",
+ "id": "https://openalex.org/W2136495462",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W2027964569",
+  "https://openalex.org/W2079780979",
+  "https://openalex.org/W2112036188",
+  "https://openalex.org/W2130990842",
+  "https://openalex.org/W2132181343",
+  "https://openalex.org/W2142508340",
+  "https://openalex.org/W2152353853",
+  "https://openalex.org/W2157701998",
+  "https://openalex.org/W2166160300",
+  "https://openalex.org/W2168924884",
+  "https://openalex.org/W2172968643",
+  "https://openalex.org/W4293860453"
+ ],
+ "title": "Exponential natural evolution strategies"
+}

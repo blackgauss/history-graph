@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 109,
+ "doi": "https://doi.org/10.2991/agi.2010.22",
+ "id": "https://openalex.org/W2027648864",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W359568995",
+  "https://openalex.org/W1494114146",
+  "https://openalex.org/W1576452626",
+  "https://openalex.org/W1646707810",
+  "https://openalex.org/W2075268401",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2121863487",
+  "https://openalex.org/W2134042548",
+  "https://openalex.org/W2139418546",
+  "https://openalex.org/W4214717370",
+  "https://openalex.org/W4307347247",
+  "https://openalex.org/W6601295022",
+  "https://openalex.org/W6634528131",
+  "https://openalex.org/W6677916085",
+  "https://openalex.org/W7065010408"
+ ],
+ "title": "GQ( ): A general gradient algorithm for temporal-difference prediction learning with eligibility traces"
+}

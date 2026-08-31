@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 6,
+ "doi": "https://doi.org/10.1109/tc.1972.5008986",
+ "id": "https://openalex.org/W2121799759",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W2013357016",
+  "https://openalex.org/W2041273777"
+ ],
+ "title": "Enumeration of Ternary Threshold Functions of Three Variables"
+}

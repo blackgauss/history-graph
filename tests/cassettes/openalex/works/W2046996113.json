@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 215,
+ "doi": "https://doi.org/10.1109/mm.2010.31",
+ "id": "https://openalex.org/W2046996113",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1555915743",
+  "https://openalex.org/W1587006120",
+  "https://openalex.org/W1850405760",
+  "https://openalex.org/W2004937484",
+  "https://openalex.org/W2050487400",
+  "https://openalex.org/W2096053480",
+  "https://openalex.org/W2121082877",
+  "https://openalex.org/W2140370341",
+  "https://openalex.org/W2400730668",
+  "https://openalex.org/W3113306529",
+  "https://openalex.org/W4300640896"
+ ],
+ "title": "Cache Hierarchy and Memory Subsystem of the AMD Opteron Processor"
+}

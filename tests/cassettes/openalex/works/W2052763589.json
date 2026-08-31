@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 150,
+ "doi": "https://doi.org/10.1007/978-3-642-95322-4_17",
+ "id": "https://openalex.org/W2052763589",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W100926944",
+  "https://openalex.org/W1604158939",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1966466171",
+  "https://openalex.org/W1973458874",
+  "https://openalex.org/W1995246641",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2021328726",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2061031797",
+  "https://openalex.org/W2065304692",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2336259629",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "On the Computational Complexity of Integer Programming Problems"
+}

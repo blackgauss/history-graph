@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 74,
+ "doi": "https://doi.org/10.1109/icnn.1988.23856",
+ "id": "https://openalex.org/W2166082022",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W1505136099",
+  "https://openalex.org/W1569296262",
+  "https://openalex.org/W1686514609",
+  "https://openalex.org/W2064018461",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W4300402905",
+  "https://openalex.org/W6630377948"
+ ],
+ "title": "On the use of backpropagation in associative reinforcement learning"
+}

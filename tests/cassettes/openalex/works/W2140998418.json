@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 2328,
+ "doi": "https://doi.org/10.1109/tac.1977.1101601",
+ "id": "https://openalex.org/W2140998418",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W17857991",
+  "https://openalex.org/W31300863",
+  "https://openalex.org/W35147865",
+  "https://openalex.org/W215279382",
+  "https://openalex.org/W1526586213",
+  "https://openalex.org/W1527510716",
+  "https://openalex.org/W1584901588",
+  "https://openalex.org/W1976169918",
+  "https://openalex.org/W2009043758",
+  "https://openalex.org/W2011307039",
+  "https://openalex.org/W2026892575",
+  "https://openalex.org/W2034280776",
+  "https://openalex.org/W2041277461",
+  "https://openalex.org/W2043515542",
+  "https://openalex.org/W2063963352",
+  "https://openalex.org/W2070267857",
+  "https://openalex.org/W2072698828",
+  "https://openalex.org/W2075938503",
+  "https://openalex.org/W2080611676",
+  "https://openalex.org/W2167615520",
+  "https://openalex.org/W2600604505",
+  "https://openalex.org/W3150827945",
+  "https://openalex.org/W4388206673",
+  "https://openalex.org/W6684557842"
+ ],
+ "title": "Nonlinear controllability and observability"
+}

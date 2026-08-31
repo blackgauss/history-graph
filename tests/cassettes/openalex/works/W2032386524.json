@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 423,
+ "doi": "https://doi.org/10.1145/320083.320091",
+ "id": "https://openalex.org/W2032386524",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W43035074",
+  "https://openalex.org/W52829598",
+  "https://openalex.org/W1495302482",
+  "https://openalex.org/W1505165377",
+  "https://openalex.org/W1566656512",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1985779022",
+  "https://openalex.org/W1998512182",
+  "https://openalex.org/W2023663289",
+  "https://openalex.org/W2023780854",
+  "https://openalex.org/W2074023317",
+  "https://openalex.org/W2110810394",
+  "https://openalex.org/W2118382442",
+  "https://openalex.org/W2125223317",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W2232207765",
+  "https://openalex.org/W2763569821"
+ ],
+ "title": "The theory of joins in relational databases"
+}

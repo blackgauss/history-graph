@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 156,
+ "doi": "https://doi.org/10.1137/0715085",
+ "id": "https://openalex.org/W2010647796",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W34580700",
+  "https://openalex.org/W1968098332",
+  "https://openalex.org/W1979089199",
+  "https://openalex.org/W1991848054",
+  "https://openalex.org/W2006729027",
+  "https://openalex.org/W2041285248",
+  "https://openalex.org/W2043170821",
+  "https://openalex.org/W2043382734",
+  "https://openalex.org/W2061054410",
+  "https://openalex.org/W2071609006",
+  "https://openalex.org/W2090963365",
+  "https://openalex.org/W2122565324",
+  "https://openalex.org/W2316564661",
+  "https://openalex.org/W3142300713",
+  "https://openalex.org/W4236240466",
+  "https://openalex.org/W4299512035"
+ ],
+ "title": "On the Convergence of a New Conjugate Gradient Algorithm"
+}

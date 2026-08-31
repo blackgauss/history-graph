@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 89,
+ "doi": null,
+ "id": "https://openalex.org/W21469624",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W42580963",
+  "https://openalex.org/W63681869",
+  "https://openalex.org/W150801922",
+  "https://openalex.org/W1545117279",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1975731516",
+  "https://openalex.org/W2020147322",
+  "https://openalex.org/W2097345556",
+  "https://openalex.org/W2109149785",
+  "https://openalex.org/W2133900260",
+  "https://openalex.org/W2148322068",
+  "https://openalex.org/W2151826520",
+  "https://openalex.org/W2155960838",
+  "https://openalex.org/W2170468103",
+  "https://openalex.org/W2201552871",
+  "https://openalex.org/W2203361072"
+ ],
+ "title": "Dynamic Pipeline Scheduling for Improving Interactive Query Performance"
+}

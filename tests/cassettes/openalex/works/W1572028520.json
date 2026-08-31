@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 151,
+ "doi": null,
+ "id": "https://openalex.org/W1572028520",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W175907690",
+  "https://openalex.org/W1528680691",
+  "https://openalex.org/W1533680255",
+  "https://openalex.org/W1541475832",
+  "https://openalex.org/W1575382631",
+  "https://openalex.org/W1579525522",
+  "https://openalex.org/W1584754980",
+  "https://openalex.org/W1589223644",
+  "https://openalex.org/W1965392376",
+  "https://openalex.org/W1993863827",
+  "https://openalex.org/W2050347474",
+  "https://openalex.org/W2073202537",
+  "https://openalex.org/W2078970516",
+  "https://openalex.org/W2102525619",
+  "https://openalex.org/W2110631345",
+  "https://openalex.org/W2127057359",
+  "https://openalex.org/W2163765478"
+ ],
+ "title": "The Design and Implementation of a Sequence Database System"
+}

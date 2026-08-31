@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 487,
+ "doi": "https://doi.org/10.1109/icsr.1998.685732",
+ "id": "https://openalex.org/W2114152285",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W6218226",
+  "https://openalex.org/W162813095",
+  "https://openalex.org/W1507924933",
+  "https://openalex.org/W1548825518",
+  "https://openalex.org/W1562335896",
+  "https://openalex.org/W1606567592",
+  "https://openalex.org/W2079550577",
+  "https://openalex.org/W2085226956",
+  "https://openalex.org/W2099213660",
+  "https://openalex.org/W2119692403",
+  "https://openalex.org/W2122824813",
+  "https://openalex.org/W2139907081",
+  "https://openalex.org/W2142934445",
+  "https://openalex.org/W2152122064",
+  "https://openalex.org/W2183652387",
+  "https://openalex.org/W2496223582",
+  "https://openalex.org/W2745156229",
+  "https://openalex.org/W6600249097"
+ ],
+ "title": "Integrating feature modeling with the RSEB"
+}

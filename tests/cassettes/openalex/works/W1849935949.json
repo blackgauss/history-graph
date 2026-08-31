@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 148,
+ "doi": "https://doi.org/10.1007/11554844_5",
+ "id": "https://openalex.org/W1849935949",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W61277393",
+  "https://openalex.org/W186294409",
+  "https://openalex.org/W1505090407",
+  "https://openalex.org/W1508875936",
+  "https://openalex.org/W1519721807",
+  "https://openalex.org/W1554977156",
+  "https://openalex.org/W1562934601",
+  "https://openalex.org/W1570173564",
+  "https://openalex.org/W1608589721",
+  "https://openalex.org/W2038248518",
+  "https://openalex.org/W2099213660",
+  "https://openalex.org/W2104577574",
+  "https://openalex.org/W2114152285",
+  "https://openalex.org/W2134601734",
+  "https://openalex.org/W2137050752",
+  "https://openalex.org/W2163369167",
+  "https://openalex.org/W2164765430",
+  "https://openalex.org/W2474428437",
+  "https://openalex.org/W2496223582",
+  "https://openalex.org/W4246698569",
+  "https://openalex.org/W4251356307",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "The PLUSS Approach – Domain Modeling with Features, Use Cases and Use Case Realizations"
+}

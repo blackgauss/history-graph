@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 126,
+ "doi": "https://doi.org/10.1016/s0165-1765(99)00241-4",
+ "id": "https://openalex.org/W2165079522",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1731559736",
+  "https://openalex.org/W2002430844",
+  "https://openalex.org/W2030177837",
+  "https://openalex.org/W2038927822",
+  "https://openalex.org/W2045665199",
+  "https://openalex.org/W2046213250",
+  "https://openalex.org/W2068115726",
+  "https://openalex.org/W2168987865",
+  "https://openalex.org/W4235234911",
+  "https://openalex.org/W6650836617",
+  "https://openalex.org/W7027435892"
+ ],
+ "title": "On a characterization of stable matchings"
+}

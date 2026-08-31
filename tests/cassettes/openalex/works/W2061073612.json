@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 414,
+ "doi": "https://doi.org/10.1137/0218053",
+ "id": "https://openalex.org/W2061073612",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1971498088",
+  "https://openalex.org/W1975631682",
+  "https://openalex.org/W2016397907",
+  "https://openalex.org/W2019506584",
+  "https://openalex.org/W2041517255",
+  "https://openalex.org/W2068967633",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W2108704847",
+  "https://openalex.org/W2149158279",
+  "https://openalex.org/W2479583503",
+  "https://openalex.org/W4233798822",
+  "https://openalex.org/W4251109627"
+ ],
+ "title": "Time/Space Trade-Offs for Reversible Computation"
+}

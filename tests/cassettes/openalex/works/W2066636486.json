@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 16124,
+ "doi": "https://doi.org/10.1016/s0169-7552(98)00110-x",
+ "id": "https://openalex.org/W2066636486",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W110443600",
+  "https://openalex.org/W1854214752",
+  "https://openalex.org/W1979126145",
+  "https://openalex.org/W1981202432",
+  "https://openalex.org/W2006119904",
+  "https://openalex.org/W2029341294",
+  "https://openalex.org/W2051804774",
+  "https://openalex.org/W2054119298",
+  "https://openalex.org/W2073788020",
+  "https://openalex.org/W2095150974",
+  "https://openalex.org/W2105276905",
+  "https://openalex.org/W2113641191",
+  "https://openalex.org/W2145311040",
+  "https://openalex.org/W2160484851",
+  "https://openalex.org/W2738227713",
+  "https://openalex.org/W2911756228",
+  "https://openalex.org/W6604611248",
+  "https://openalex.org/W6645485993",
+  "https://openalex.org/W6657826343",
+  "https://openalex.org/W6664215139",
+  "https://openalex.org/W6677132537",
+  "https://openalex.org/W6681370887"
+ ],
+ "title": "The anatomy of a large-scale hypertextual Web search engine"
+}

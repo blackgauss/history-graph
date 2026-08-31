@@ -1,0 +1,37 @@
+{
+ "cited_by_count": 1772,
+ "counts_by_year": [
+  {
+   "cited_by_count": 342,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 645,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 389,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 222,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 119,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2020
+  }
+ ],
+ "doi": "https://doi.org/10.1186/s40537-020-00369-8",
+ "id": "https://openalex.org/W3094948551",
+ "publication_year": 2020,
+ "title": "CatBoost for big data: an interdisciplinary review"
+}

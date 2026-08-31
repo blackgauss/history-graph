@@ -1,0 +1,585 @@
+{
+ "abstract_inverted_index": {
+  "(1)": [
+   1
+  ],
+  "Abstract": [
+   0
+  ],
+  "In": [
+   130,
+   157
+  ],
+  "The": [
+   2,
+   36
+  ],
+  "a": [
+   30,
+   71,
+   124
+  ],
+  "according": [
+   126
+  ],
+  "acting": [
+   57,
+   122,
+   162
+  ],
+  "action": [
+   15,
+   143
+  ],
+  "and": [
+   9,
+   52,
+   61,
+   81,
+   119,
+   148,
+   178,
+   182
+  ],
+  "any": [
+   184
+  ],
+  "ascertain": [
+   49
+  ],
+  "assuming": [
+   99
+  ],
+  "at": [
+   29,
+   90,
+   105,
+   123
+  ],
+  "been": [
+   155
+  ],
+  "between": [
+   58,
+   144,
+   163
+  ],
+  "bodies": [
+   18,
+   80,
+   166,
+   177
+  ],
+  "bodies,": [
+   60
+  ],
+  "body,": [
+   112
+  ],
+  "by": [
+   16,
+   98
+  ],
+  "capable": [
+   120
+  ],
+  "carrying": [
+   146
+  ],
+  "certain": [
+   20,
+   72
+  ],
+  "condition": [
+   174
+  ],
+  "condition,": [
+   87
+  ],
+  "conductors": [
+   145
+  ],
+  "consideration": [
+   186
+  ],
+  "constituting": [
+   113
+  ],
+  "currents": [
+   153
+  ],
+  "currents,": [
+   147
+  ],
+  "depends": [
+   69
+  ],
+  "direction": [
+   53
+  ],
+  "distance": [
+   32,
+   125
+  ],
+  "each": [
+   23,
+   34,
+   111
+  ],
+  "either": [
+   104
+  ],
+  "electric": [
+   84,
+   115
+  ],
+  "electrical": [
+   8
+  ],
+  "electricity,": [
+   137
+  ],
+  "existence": [
+   101
+  ],
+  "experiments": [
+   11
+  ],
+  "explain": [
+   95
+  ],
+  "express": [
+   185
+  ],
+  "facts": [
+   97
+  ],
+  "first": [
+   37,
+   91
+  ],
+  "force": [
+   56,
+   68,
+   161
+  ],
+  "form,": [
+   46
+  ],
+  "formed.": [
+   156
+  ],
+  "found": [
+   65
+  ],
+  "from": [
+   33
+  ],
+  "have": [
+   154
+  ],
+  "in": [
+   7,
+   19,
+   25,
+   40,
+   70,
+   108,
+   110
+  ],
+  "induction": [
+   151
+  ],
+  "into": [
+   44
+  ],
+  "is": [
+   12,
+   47,
+   64,
+   167
+  ],
+  "it": [
+   63,
+   88
+  ],
+  "its": [
+   114
+  ],
+  "laws.": [
+   129
+  ],
+  "magnetic": [
+   86,
+   117
+  ],
+  "magnetical": [
+   10
+  ],
+  "magnetism,": [
+   139
+  ],
+  "magnitude": [
+   51
+  ],
+  "mathematical": [
+   128,
+   133
+  ],
+  "mechanical": [
+   5,
+   142
+  ],
+  "medium.": [
+   190
+  ],
+  "most": [
+   3
+  ],
+  "motion": [
+   26,
+   109
+  ],
+  "mutual": [
+   14
+  ],
+  "natural": [
+   93
+  ],
+  "obvious": [
+   4
+  ],
+  "of": [
+   54,
+   78,
+   102,
+   121,
+   135,
+   138,
+   140,
+   149,
+   152,
+   175,
+   187
+  ],
+  "on": [
+   82
+  ],
+  "only": [
+   171
+  ],
+  "or": [
+   85,
+   107,
+   116
+  ],
+  "other": [
+   24
+  ],
+  "other.": [
+   35
+  ],
+  "phenomena": [
+   43
+  ],
+  "phenomenon": [
+   6
+  ],
+  "position": [
+   77
+  ],
+  "position,": [
+   181
+  ],
+  "reducing": [
+   41
+  ],
+  "reference": [
+   170
+  ],
+  "relative": [
+   76,
+   180
+  ],
+  "rest": [
+   106
+  ],
+  "scientific": [
+   45
+  ],
+  "seems": [
+   89
+  ],
+  "sensible": [
+   31
+  ],
+  "set": [
+   22
+  ],
+  "sight": [
+   92
+  ],
+  "something": [
+   103
+  ],
+  "state,": [
+   118
+  ],
+  "states": [
+   21
+  ],
+  "statical": [
+   136
+  ],
+  "step,": [
+   38
+  ],
+  "still": [
+   28
+  ],
+  "surrounding": [
+   189
+  ],
+  "that": [
+   66
+  ],
+  "the": [
+   13,
+   50,
+   55,
+   59,
+   75,
+   79,
+   96,
+   100,
+   141,
+   150,
+   160,
+   164,
+   173,
+   176,
+   188
+  ],
+  "their": [
+   83,
+   179
+  ],
+  "theories": [
+   134,
+   159
+  ],
+  "therefore,": [
+   39
+  ],
+  "these": [
+   42,
+   158
+  ],
+  "this": [
+   67,
+   131
+  ],
+  "to": [
+   48,
+   94,
+   127,
+   172
+  ],
+  "treated": [
+   168
+  ],
+  "two": [
+   165
+  ],
+  "upon": [
+   74
+  ],
+  "way": [
+   73,
+   132
+  ],
+  "when": [
+   62
+  ],
+  "which": [
+   17
+  ],
+  "while": [
+   27
+  ],
+  "with": [
+   169
+  ],
+  "without": [
+   183
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ],
+     "raw_affiliation_string": "Google Scholar  Find this author on PubMed"
+    }
+   ],
+   "author": {
+    "display_name": "James Clerk Maxwell",
+    "id": "https://openalex.org/A5090241847",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Google (United States)",
+     "id": "https://openalex.org/I1291425158",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ],
+     "ror": "https://ror.org/00njsd438",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Google Scholar  Find this author on PubMed"
+   ],
+   "raw_author_name": "James Clerk Maxwell",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 1298,
+ "counts_by_year": [
+  {
+   "cited_by_count": 73,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 99,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 107,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 109,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 66,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 67,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 117,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 81,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 49,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1098/rstl.1865.0008",
+ "funders": [],
+ "id": "https://openalex.org/W3159407573",
+ "ids": {
+  "doi": "https://doi.org/10.1098/rstl.1865.0008",
+  "mag": "3159407573",
+  "openalex": "https://openalex.org/W3159407573"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1098/rstl.1865.0008",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1098/rstl.1865.0008",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Philosophical Transactions of the Royal Society of London",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Philosophical Transactions of the Royal Society of London",
+   "host_organization": "https://openalex.org/P4310319787",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319787"
+   ],
+   "host_organization_lineage_names": [
+    "Royal Society"
+   ],
+   "host_organization_name": "Royal Society",
+   "id": "https://openalex.org/S4210177916",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0261-0523",
+    "2053-9223"
+   ],
+   "issn_l": "0261-0523",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 1865,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2083059311",
+  "https://openalex.org/W4293512011",
+  "https://openalex.org/W4283656812",
+  "https://openalex.org/W2108968720",
+  "https://openalex.org/W2106050778",
+  "https://openalex.org/W2076961944",
+  "https://openalex.org/W4319993187",
+  "https://openalex.org/W2049087841",
+  "https://openalex.org/W2148283208",
+  "https://openalex.org/W1751111753"
+ ],
+ "title": "VIII. A dynamical theory of the electromagnetic field",
+ "type": "article"
+}

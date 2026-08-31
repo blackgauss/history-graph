@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 106,
+ "doi": "https://doi.org/10.1109/tse.1985.232196",
+ "id": "https://openalex.org/W2074306365",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W178848230",
+  "https://openalex.org/W1480006450",
+  "https://openalex.org/W1964093362",
+  "https://openalex.org/W1968333714",
+  "https://openalex.org/W1991199257",
+  "https://openalex.org/W2005099092",
+  "https://openalex.org/W2011839903",
+  "https://openalex.org/W2016631874",
+  "https://openalex.org/W2023304911",
+  "https://openalex.org/W2065218449",
+  "https://openalex.org/W2070941848",
+  "https://openalex.org/W2122696933",
+  "https://openalex.org/W2129286037"
+ ],
+ "title": "Implementing Distributed Read-Only Transactions"
+}

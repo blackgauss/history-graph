@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 66,
+ "doi": null,
+ "id": "https://openalex.org/W15184999",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W61990743",
+  "https://openalex.org/W180674051",
+  "https://openalex.org/W203813864",
+  "https://openalex.org/W1482221291",
+  "https://openalex.org/W1489741075",
+  "https://openalex.org/W1499523602",
+  "https://openalex.org/W1507264782",
+  "https://openalex.org/W1599639003",
+  "https://openalex.org/W1611331702",
+  "https://openalex.org/W1991776956",
+  "https://openalex.org/W1994137932",
+  "https://openalex.org/W2065390951",
+  "https://openalex.org/W2066557547",
+  "https://openalex.org/W2069630233",
+  "https://openalex.org/W2104227090",
+  "https://openalex.org/W2132159329",
+  "https://openalex.org/W2156109180",
+  "https://openalex.org/W2248710467",
+  "https://openalex.org/W2398276489",
+  "https://openalex.org/W2420497912"
+ ],
+ "title": "Running up the Bid: Modeling Seller Opportunism in Internet Auctions"
+}

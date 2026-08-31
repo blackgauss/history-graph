@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 37,
+ "doi": "https://doi.org/10.2307/2267650",
+ "id": "https://openalex.org/W2129336437",
+ "publication_year": 1954,
+ "referenced_works": [
+  "https://openalex.org/W1022284923",
+  "https://openalex.org/W2052054484",
+  "https://openalex.org/W2082949635",
+  "https://openalex.org/W2088048005",
+  "https://openalex.org/W2318612879",
+  "https://openalex.org/W2319549361",
+  "https://openalex.org/W2323877322",
+  "https://openalex.org/W2324799691"
+ ],
+ "title": "The Sheffer functions of 3-valued logic"
+}

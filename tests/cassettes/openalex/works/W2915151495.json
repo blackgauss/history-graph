@@ -1,0 +1,41 @@
+{
+ "cited_by_count": 209,
+ "counts_by_year": [
+  {
+   "cited_by_count": 6,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 36,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 46,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2019
+  }
+ ],
+ "doi": "https://doi.org/10.1109/jiot.2019.2900528",
+ "id": "https://openalex.org/W2915151495",
+ "publication_year": 2019,
+ "title": "Timely Status Update in Internet of Things Monitoring Systems: An Age-Energy Tradeoff"
+}

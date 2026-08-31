@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 5207,
+ "doi": "https://doi.org/10.1145/1390156.1390177",
+ "id": "https://openalex.org/W2117130368",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W155855048",
+  "https://openalex.org/W183625566",
+  "https://openalex.org/W1598003989",
+  "https://openalex.org/W2056590938",
+  "https://openalex.org/W2060535757",
+  "https://openalex.org/W2107008379",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2113687551",
+  "https://openalex.org/W2117339222",
+  "https://openalex.org/W2117671523",
+  "https://openalex.org/W2118029084",
+  "https://openalex.org/W2130278561",
+  "https://openalex.org/W2130903752",
+  "https://openalex.org/W2140679639",
+  "https://openalex.org/W2146057216",
+  "https://openalex.org/W2152463966",
+  "https://openalex.org/W2154626406",
+  "https://openalex.org/W2158823144",
+  "https://openalex.org/W2158847908",
+  "https://openalex.org/W2163568299",
+  "https://openalex.org/W2885050925",
+  "https://openalex.org/W2914746235",
+  "https://openalex.org/W3088157629",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A unified architecture for natural language processing"
+}

@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 778,
+ "doi": null,
+ "id": "https://openalex.org/W190008395",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1983249544",
+  "https://openalex.org/W2161064850",
+  "https://openalex.org/W2797066837",
+  "https://openalex.org/W2801060221",
+  "https://openalex.org/W3101692757"
+ ],
+ "title": "Estimating a Dirichlet Distribution"
+}

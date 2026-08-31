@@ -1,0 +1,341 @@
+{
+ "abstract_inverted_index": {
+  "10": [
+   79
+  ],
+  "BigTable": [
+   13
+  ],
+  "Bigtable,": [
+   68
+  ],
+  "Data": [
+   0
+  ],
+  "File": [
+   47,
+   72
+  ],
+  "Google": [
+   20,
+   46,
+   71
+  ],
+  "MapReduce": [
+   22,
+   69
+  ],
+  "System": [
+   48
+  ],
+  "System,": [
+   73
+  ],
+  "This": [
+   64
+  ],
+  "a": [
+   17,
+   24,
+   39,
+   44
+  ],
+  "access": [
+   55
+  ],
+  "algorithm": [
+   42
+  ],
+  "algorithms": [
+   80
+  ],
+  "along": [
+   74
+  ],
+  "an": [
+   28
+  ],
+  "and": [
+   8,
+   27,
+   33,
+   70
+  ],
+  "associated": [
+   29
+  ],
+  "brief.": [
+   85
+  ],
+  "built": [
+   15
+  ],
+  "cluster[3].": [
+   45
+  ],
+  "clusters": [
+   60
+  ],
+  "commodity": [
+   62
+  ],
+  "conclusions": [
+   10
+  ],
+  "data": [
+   36,
+   57,
+   82
+  ],
+  "data[1].": [
+   12
+  ],
+  "designed": [
+   50
+  ],
+  "discuss": [
+   67
+  ],
+  "discussing": [
+   76
+  ],
+  "distributed": [
+   41
+  ],
+  "drawing": [
+   9
+  ],
+  "efficient,": [
+   53
+  ],
+  "extension": [
+   4
+  ],
+  "few": [
+   18
+  ],
+  "findings": [
+   7
+  ],
+  "for": [
+   31
+  ],
+  "from": [
+   11
+  ],
+  "generating": [
+   34
+  ],
+  "hardware[4].": [
+   63
+  ],
+  "implementation": [
+   30
+  ],
+  "in": [
+   81,
+   84
+  ],
+  "is": [
+   2,
+   14,
+   23,
+   49
+  ],
+  "large": [
+   35,
+   59
+  ],
+  "mining": [
+   83
+  ],
+  "model": [
+   26
+  ],
+  "of": [
+   5,
+   19,
+   61
+  ],
+  "on": [
+   16,
+   43
+  ],
+  "paper": [
+   65
+  ],
+  "parallel,": [
+   40
+  ],
+  "processing": [
+   32
+  ],
+  "programming": [
+   25
+  ],
+  "provide": [
+   52
+  ],
+  "reliable": [
+   54
+  ],
+  "research": [
+   6
+  ],
+  "science": [
+   1
+  ],
+  "sets": [
+   37
+  ],
+  "technologies[2].": [
+   21
+  ],
+  "the": [
+   3,
+   77
+  ],
+  "to": [
+   51,
+   56
+  ],
+  "top": [
+   78
+  ],
+  "using": [
+   58
+  ],
+  "will": [
+   66
+  ],
+  "with": [
+   38,
+   75
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Karan B. Maniar",
+    "id": "https://openalex.org/A5062354787",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Karan B Maniar",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Chintan B. Khatri",
+    "id": "https://openalex.org/A5066673620",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Chintan B Khatri",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 8,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2015
+  }
+ ],
+ "doi": "https://doi.org/10.14445/22312803/ijctt-v16p128",
+ "funders": [],
+ "id": "https://openalex.org/W2100822280",
+ "ids": {
+  "doi": "https://doi.org/10.14445/22312803/ijctt-v16p128",
+  "mag": "2100822280",
+  "openalex": "https://openalex.org/W2100822280"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.14445/22312803/ijctt-v16p128",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.14445/22312803/ijctt-v16p128",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "International Journal of Computer Trends and Technology",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal of Computer Trends and Technology",
+   "host_organization": "https://openalex.org/P4323288697",
+   "host_organization_lineage": [
+    "https://openalex.org/P4323288697"
+   ],
+   "host_organization_lineage_names": [
+    "Seventh Sense Research Group"
+   ],
+   "host_organization_name": "Seventh Sense Research Group",
+   "id": "https://openalex.org/S2764857185",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "2231-2803",
+    "2349-0829"
+   ],
+   "issn_l": "2231-2803",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2142827986",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W2624304035"
+ ],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W753420207",
+  "https://openalex.org/W2353896575",
+  "https://openalex.org/W1550839482",
+  "https://openalex.org/W2379000728",
+  "https://openalex.org/W2368354671",
+  "https://openalex.org/W2389631998",
+  "https://openalex.org/W2362483455",
+  "https://openalex.org/W2355113374",
+  "https://openalex.org/W2391476234"
+ ],
+ "title": "Data Science: Bigtable, MapReduce and Google File System",
+ "type": "article"
+}

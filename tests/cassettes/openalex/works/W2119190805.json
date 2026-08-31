@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 565,
+ "doi": null,
+ "id": "https://openalex.org/W2119190805",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W14839205",
+  "https://openalex.org/W125178576",
+  "https://openalex.org/W145815032",
+  "https://openalex.org/W165672800",
+  "https://openalex.org/W195939180",
+  "https://openalex.org/W266633353",
+  "https://openalex.org/W1480778854",
+  "https://openalex.org/W1502527706",
+  "https://openalex.org/W1600919542",
+  "https://openalex.org/W1660751281",
+  "https://openalex.org/W1827136749",
+  "https://openalex.org/W1996142083",
+  "https://openalex.org/W2022894179",
+  "https://openalex.org/W2038997204",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2102567944",
+  "https://openalex.org/W2108637261",
+  "https://openalex.org/W2137154807",
+  "https://openalex.org/W2154303016",
+  "https://openalex.org/W2154318861",
+  "https://openalex.org/W2166264273",
+  "https://openalex.org/W2167573750",
+  "https://openalex.org/W2913258176"
+ ],
+ "title": "Boosting combinatorial search through randomization"
+}

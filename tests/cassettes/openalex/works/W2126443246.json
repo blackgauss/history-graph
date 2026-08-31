@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 39,
+ "doi": "https://doi.org/10.48550/arxiv.0909.1781",
+ "id": "https://openalex.org/W2126443246",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W174869497",
+  "https://openalex.org/W243544039",
+  "https://openalex.org/W1707172707",
+  "https://openalex.org/W1749554492",
+  "https://openalex.org/W1968848955",
+  "https://openalex.org/W1969783316",
+  "https://openalex.org/W2076238443",
+  "https://openalex.org/W2083308531",
+  "https://openalex.org/W2105113802",
+  "https://openalex.org/W2117020831",
+  "https://openalex.org/W2122530852",
+  "https://openalex.org/W2124935488",
+  "https://openalex.org/W2129097092",
+  "https://openalex.org/W2135421348",
+  "https://openalex.org/W2135611729",
+  "https://openalex.org/W2139729124",
+  "https://openalex.org/W2145067130",
+  "https://openalex.org/W2158477395",
+  "https://openalex.org/W2161761794",
+  "https://openalex.org/W2423007790",
+  "https://openalex.org/W2545218269"
+ ],
+ "title": "Boosting XML Filtering with a Scalable FPGA-based Architecture"
+}

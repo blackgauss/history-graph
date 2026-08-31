@@ -122,3 +122,37 @@ def test_scihub_client_uses_injected_sleep_for_throttle() -> None:
     with pytest.raises(httpx.HTTPStatusError):
         client._get("https://s.test/10.1/x")
     assert slept == [pytest.approx(15.0)]  # 15s sci-hub policy via injected sleep only
+
+
+def test_work_store_synthesis_select_slice_and_dead_ids(tmp_path) -> None:
+    import urllib.parse as up
+
+    import httpx
+
+    from history_graph.testing import WorkStore, _synthesize_works
+
+    store = WorkStore(tmp_path)
+    store.upsert({"id": "https://openalex.org/W1", "doi": "https://doi.org/10.1/a",
+                  "cited_by_count": 5, "referenced_works": ["W0"]})
+    store.mark_dead("W9")
+
+    def synth(filter_: str, select: str | None = None) -> object:
+        params = {"filter": filter_, "cursor": "*"}
+        if select:
+            params["select"] = select
+        req = httpx.Request("GET", f"https://api.openalex.org/works?{up.urlencode(params)}")
+        return _synthesize_works(store, req)
+
+    out = synth("openalex_id:W1|W9")  # dead id omitted from results, batch still served
+    import json
+    payload = json.loads(out.content)
+    assert [r["id"] for r in payload["results"]] == ["https://openalex.org/W1"]
+
+    sliced = synth("openalex_id:W1", "id,cited_by_count")
+    assert json.loads(sliced.content)["results"] == [
+        {"id": "https://openalex.org/W1", "cited_by_count": 5}
+    ]
+    assert synth("doi:10.1/A") is not None         # doi index, case-insensitive
+    assert synth("openalex_id:W9") is not None     # all-dead batch: served empty
+    assert synth("openalex_id:W1|W42") is None     # unknown work -> fall through
+    assert synth("citing_and_cited_by:W1") is None  # other filters stay generic

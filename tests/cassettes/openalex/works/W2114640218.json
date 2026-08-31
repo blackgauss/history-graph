@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 73,
+ "doi": "https://doi.org/10.1145/872757.872813",
+ "id": "https://openalex.org/W2114640218",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1532988845",
+  "https://openalex.org/W1552142249",
+  "https://openalex.org/W1565260430",
+  "https://openalex.org/W1579198843",
+  "https://openalex.org/W1594975147",
+  "https://openalex.org/W1963811530",
+  "https://openalex.org/W1969313861",
+  "https://openalex.org/W1983539646",
+  "https://openalex.org/W2029306088",
+  "https://openalex.org/W2063296107",
+  "https://openalex.org/W2098293552",
+  "https://openalex.org/W2118269922",
+  "https://openalex.org/W2159894323",
+  "https://openalex.org/W2232710831",
+  "https://openalex.org/W2465771390",
+  "https://openalex.org/W4242246215",
+  "https://openalex.org/W4298410530",
+  "https://openalex.org/W6683802245"
+ ],
+ "title": "Hardware acceleration for spatial selections and joins"
+}

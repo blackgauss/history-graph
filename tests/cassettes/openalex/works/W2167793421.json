@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 186,
+ "doi": "https://doi.org/10.1145/347090.347126",
+ "id": "https://openalex.org/W2167793421",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1515026043",
+  "https://openalex.org/W1517113043",
+  "https://openalex.org/W1524761913",
+  "https://openalex.org/W1535147726",
+  "https://openalex.org/W1555798572",
+  "https://openalex.org/W1588282782",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1963921776",
+  "https://openalex.org/W1990748933",
+  "https://openalex.org/W2058732827",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2146935111",
+  "https://openalex.org/W2170913656",
+  "https://openalex.org/W2912485311",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W6633203125",
+  "https://openalex.org/W6843735874"
+ ],
+ "title": "Explicitly representing expected cost"
+}

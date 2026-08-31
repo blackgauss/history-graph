@@ -1,0 +1,1106 @@
+{
+ "abstract_inverted_index": {
+  "(decisions": [
+   143
+  ],
+  "(though": [
+   153
+  ],
+  "1": [
+   40
+  ],
+  "3%,": [
+   79
+  ],
+  "750": [
+   33
+  ],
+  "As": [
+   18
+  ],
+  "Facebook": [
+   47
+  ],
+  "In": [
+   55
+  ],
+  "Not": [
+   107
+  ],
+  "Once": [
+   133
+  ],
+  "Online": [
+   0
+  ],
+  "Picking": [
+   161
+  ],
+  "We": [
+   90
+  ],
+  "With": [
+   31
+  ],
+  "a": [
+   19,
+   50,
+   60,
+   94,
+   183
+  ],
+  "about": [
+   123
+  ],
+  "active": [
+   36,
+   42
+  ],
+  "ad": [
+   127
+  ],
+  "adding": [
+   182
+  ],
+  "ads": [
+   48
+  ],
+  "ads.": [
+   17
+  ],
+  "advertisers": [
+   3
+  ],
+  "advertisers,": [
+   43
+  ],
+  "advertising": [
+   1,
+   29
+  ],
+  "allows": [
+   2
+  ],
+  "an": [
+   80
+  ],
+  "and": [
+   7,
+   38,
+   139,
+   171
+  ],
+  "are": [
+   24,
+   157
+  ],
+  "as": [
+   14
+  ],
+  "at": [
+   159
+  ],
+  "begin": [
+   192
+  ],
+  "bid": [
+   6
+  ],
+  "by": [
+   77
+  ],
+  "capturing": [
+   120
+  ],
+  "central": [
+   25
+  ],
+  "challenging": [
+   51
+  ],
+  "click": [
+   21
+  ],
+  "clicks": [
+   15,
+   45
+  ],
+  "combines": [
+   63
+  ],
+  "consequence,": [
+   20
+  ],
+  "daily": [
+   35
+  ],
+  "data": [
+   166,
+   172
+  ],
+  "decision": [
+   64
+  ],
+  "dominate": [
+   128
+  ],
+  "either": [
+   70
+  ],
+  "even": [
+   154
+  ],
+  "explore": [
+   92
+  ],
+  "factors": [
+   149
+  ],
+  "feature,": [
+   185
+  ],
+  "features": [
+   138
+  ],
+  "features.": [
+   132
+  ],
+  "features:": [
+   118
+  ],
+  "final": [
+   101
+  ],
+  "for": [
+   9,
+   165
+  ],
+  "freshness,": [
+   167
+  ],
+  "fundamental": [
+   97
+  ],
+  "handling": [
+   164
+  ],
+  "have": [
+   115,
+   135
+  ],
+  "high-value": [
+   184
+  ],
+  "historical": [
+   121
+  ],
+  "how": [
+   93
+  ],
+  "impact": [
+   84,
+   99
+  ],
+  "important": [
+   111,
+   158
+  ],
+  "improve": [
+   174
+  ],
+  "improvement": [
+   81
+  ],
+  "improvements": [
+   156
+  ],
+  "information": [
+   122
+  ],
+  "introduce": [
+   59
+  ],
+  "is": [
+   49,
+   113
+  ],
+  "its": [
+   75
+  ],
+  "learning": [
+   53,
+   168
+  ],
+  "less": [
+   180
+  ],
+  "logistic": [
+   67,
+   146
+  ],
+  "machine": [
+   52
+  ],
+  "measurable": [
+   10
+  ],
+  "methods": [
+   73
+  ],
+  "million": [
+   34,
+   41
+  ],
+  "model": [
+   61,
+   142,
+   176,
+   190
+  ],
+  "most": [
+   27,
+   110
+  ],
+  "much": [
+   179
+  ],
+  "number": [
+   95
+  ],
+  "of": [
+   71,
+   96,
+   104,
+   131
+  ],
+  "on": [
+   16,
+   46,
+   74
+  ],
+  "online": [
+   28
+  ],
+  "only": [
+   5
+  ],
+  "optimal": [
+   163
+  ],
+  "or": [
+   126,
+   186
+  ],
+  "other": [
+   129,
+   148
+  ],
+  "our": [
+   105
+  ],
+  "outperforming": [
+   69
+  ],
+  "over": [
+   32,
+   39,
+   78
+  ],
+  "overall": [
+   87
+  ],
+  "own": [
+   76
+  ],
+  "paper": [
+   57
+  ],
+  "parameters": [
+   98
+  ],
+  "pay": [
+   8
+  ],
+  "performance": [
+   103
+  ],
+  "performance.": [
+   89
+  ],
+  "picking": [
+   187
+  ],
+  "play": [
+   150
+  ],
+  "plus": [
+   145
+  ],
+  "predicting": [
+   44
+  ],
+  "prediction": [
+   22,
+   102
+  ],
+  "rate": [
+   169
+  ],
+  "regression),": [
+   147
+  ],
+  "regression,": [
+   68
+  ],
+  "responses,": [
+   12
+  ],
+  "right": [
+   117,
+   137,
+   141,
+   189
+  ],
+  "roles": [
+   152
+  ],
+  "sampling": [
+   173
+  ],
+  "scale).": [
+   160
+  ],
+  "schema": [
+   170
+  ],
+  "significant": [
+   83
+  ],
+  "slightly,": [
+   177
+  ],
+  "small": [
+   151,
+   155
+  ],
+  "such": [
+   13
+  ],
+  "surprisingly,": [
+   108
+  ],
+  "system": [
+   88
+  ],
+  "system.": [
+   106
+  ],
+  "systems": [
+   23
+  ],
+  "systems.": [
+   30
+  ],
+  "task.": [
+   54
+  ],
+  "than": [
+   181
+  ],
+  "the": [
+   86,
+   100,
+   109,
+   116,
+   124,
+   136,
+   140,
+   162,
+   175,
+   188
+  ],
+  "then": [
+   91
+  ],
+  "these": [
+   72
+  ],
+  "thing": [
+   112
+  ],
+  "this": [
+   56
+  ],
+  "those": [
+   119
+  ],
+  "though": [
+   178
+  ],
+  "to": [
+   4,
+   26,
+   85,
+   114,
+   191
+  ],
+  "trees": [
+   65,
+   144
+  ],
+  "types": [
+   130
+  ],
+  "user": [
+   11,
+   125
+  ],
+  "users": [
+   37
+  ],
+  "we": [
+   58,
+   134
+  ],
+  "which": [
+   62
+  ],
+  "with": [
+   66,
+   82
+  ],
+  "with.": [
+   193
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Xinran He",
+    "id": "https://openalex.org/A5010444015",
+    "orcid": "https://orcid.org/0000-0002-6812-518X"
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Xinran He",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Junfeng Pan",
+    "id": "https://openalex.org/A5109935473",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Junfeng Pan",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Ou Jin",
+    "id": "https://openalex.org/A5111776207",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Ou Jin",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Tian-Bing Xu",
+    "id": "https://openalex.org/A5028384432",
+    "orcid": "https://orcid.org/0000-0002-3375-3653"
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Tianbing Xu",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Bo Liu",
+    "id": "https://openalex.org/A5100461751",
+    "orcid": "https://orcid.org/0000-0003-3948-2839"
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Bo Liu",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Tao Xu",
+    "id": "https://openalex.org/A5100728480",
+    "orcid": "https://orcid.org/0009-0006-7709-4756"
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Tao Xu",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Yanxin Shi",
+    "id": "https://openalex.org/A5101196925",
+    "orcid": "https://orcid.org/0000-0001-9371-2442"
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Yanxin Shi",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "A. Atallah",
+    "id": "https://openalex.org/A5088228903",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Antoine Atallah",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Ralf Herbrich",
+    "id": "https://openalex.org/A5059907791",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Ralf Herbrich",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Stuart Bowers",
+    "id": "https://openalex.org/A5077241974",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Stuart Bowers",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ],
+     "raw_affiliation_string": "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+    }
+   ],
+   "author": {
+    "display_name": "Joaquin Quiñonero Candela",
+    "id": "https://openalex.org/A5041298987",
+    "orcid": "https://orcid.org/0009-0004-5149-3228"
+   },
+   "author_position": "last",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Meta (United States)",
+     "id": "https://openalex.org/I4210114444",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ],
+     "ror": "https://ror.org/01zbnvs85",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Facebook, 1601 Willow Road, Menlo Park, CA, United States"
+   ],
+   "raw_author_name": "Joaquin Quiñonero Candela",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 897,
+ "concepts": [
+  {
+   "display_name": "Computer science",
+   "id": "https://openalex.org/C41008148",
+   "level": 0,
+   "score": 0.7939872741699219,
+   "wikidata": "https://www.wikidata.org/wiki/Q21198"
+  },
+  {
+   "display_name": "Schema (genetic algorithms)",
+   "id": "https://openalex.org/C52146309",
+   "level": 2,
+   "score": 0.7215050458908081,
+   "wikidata": "https://www.wikidata.org/wiki/Q7431116"
+  },
+  {
+   "display_name": "Click-through rate",
+   "id": "https://openalex.org/C115174607",
+   "level": 2,
+   "score": 0.541392982006073,
+   "wikidata": "https://www.wikidata.org/wiki/Q1100934"
+  },
+  {
+   "display_name": "Logistic regression",
+   "id": "https://openalex.org/C151956035",
+   "level": 2,
+   "score": 0.5274605751037598,
+   "wikidata": "https://www.wikidata.org/wiki/Q1132755"
+  },
+  {
+   "display_name": "Machine learning",
+   "id": "https://openalex.org/C119857082",
+   "level": 1,
+   "score": 0.5179494619369507,
+   "wikidata": "https://www.wikidata.org/wiki/Q2539"
+  },
+  {
+   "display_name": "Task (project management)",
+   "id": "https://openalex.org/C2780451532",
+   "level": 2,
+   "score": 0.47461119294166565,
+   "wikidata": "https://www.wikidata.org/wiki/Q759676"
+  },
+  {
+   "display_name": "Artificial intelligence",
+   "id": "https://openalex.org/C154945302",
+   "level": 1,
+   "score": 0.46649834513664246,
+   "wikidata": "https://www.wikidata.org/wiki/Q11660"
+  },
+  {
+   "display_name": "Decision tree",
+   "id": "https://openalex.org/C84525736",
+   "level": 2,
+   "score": 0.45232564210891724,
+   "wikidata": "https://www.wikidata.org/wiki/Q831366"
+  },
+  {
+   "display_name": "Feature (linguistics)",
+   "id": "https://openalex.org/C2776401178",
+   "level": 2,
+   "score": 0.444233238697052,
+   "wikidata": "https://www.wikidata.org/wiki/Q12050496"
+  },
+  {
+   "display_name": "World Wide Web",
+   "id": "https://openalex.org/C136764020",
+   "level": 1,
+   "score": 0.22917145490646362,
+   "wikidata": "https://www.wikidata.org/wiki/Q466"
+  },
+  {
+   "display_name": "Engineering",
+   "id": "https://openalex.org/C127413603",
+   "level": 0,
+   "score": 0.09458422660827637,
+   "wikidata": "https://www.wikidata.org/wiki/Q11023"
+  },
+  {
+   "display_name": "Systems engineering",
+   "id": "https://openalex.org/C201995342",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q682496"
+  },
+  {
+   "display_name": "Linguistics",
+   "id": "https://openalex.org/C41895202",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q8162"
+  },
+  {
+   "display_name": "Philosophy",
+   "id": "https://openalex.org/C138885662",
+   "level": 0,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q5891"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 31,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 65,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 46,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 93,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 101,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 133,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 140,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 106,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 69,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 70,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/2648584.2648589",
+ "funders": [],
+ "id": "https://openalex.org/W2076618162",
+ "ids": {
+  "doi": "https://doi.org/10.1145/2648584.2648589",
+  "mag": "2076618162",
+  "openalex": "https://openalex.org/W2076618162"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1145/2648584.2648589",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1145/2648584.2648589",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Proceedings of the Eighth International Workshop on Data Mining for Online Advertising",
+  "raw_type": "proceedings-article",
+  "source": null,
+  "version": "publishedVersion"
+ },
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W1568229137",
+  "https://openalex.org/W1678356000",
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W2010953147",
+  "https://openalex.org/W2074694452",
+  "https://openalex.org/W2090883204",
+  "https://openalex.org/W2107343618",
+  "https://openalex.org/W2108738385",
+  "https://openalex.org/W2114226753",
+  "https://openalex.org/W2119528150",
+  "https://openalex.org/W2162979096",
+  "https://openalex.org/W2604272474",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4231144620",
+  "https://openalex.org/W4298856664",
+  "https://openalex.org/W6676077707"
+ ],
+ "related_works": [
+  "https://openalex.org/W2129863591",
+  "https://openalex.org/W1596769710",
+  "https://openalex.org/W2923497059",
+  "https://openalex.org/W4367335967",
+  "https://openalex.org/W3164948662",
+  "https://openalex.org/W3105157121",
+  "https://openalex.org/W3104067163",
+  "https://openalex.org/W3153597579",
+  "https://openalex.org/W4382049132",
+  "https://openalex.org/W3159661535"
+ ],
+ "title": "Practical Lessons from Predicting Clicks on Ads at Facebook",
+ "type": "conference-paper"
+}

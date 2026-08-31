@@ -1,0 +1,49 @@
+{
+ "cited_by_count": 2295,
+ "counts_by_year": [
+  {
+   "cited_by_count": 120,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 299,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 328,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 387,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 361,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 372,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 232,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 145,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2017
+  }
+ ],
+ "doi": "https://doi.org/10.24963/ijcai.2017/239",
+ "id": "https://openalex.org/W2604662567",
+ "publication_year": 2017,
+ "title": "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction"
+}

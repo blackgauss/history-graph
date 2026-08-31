@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 247,
+ "doi": "https://doi.org/10.1109/tc.1978.1675139",
+ "id": "https://openalex.org/W1937706874",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W94921875",
+  "https://openalex.org/W127812686",
+  "https://openalex.org/W607232712",
+  "https://openalex.org/W1502955189",
+  "https://openalex.org/W1766829730",
+  "https://openalex.org/W1993225874",
+  "https://openalex.org/W1997084193",
+  "https://openalex.org/W2002510877",
+  "https://openalex.org/W2043111827",
+  "https://openalex.org/W2096007426",
+  "https://openalex.org/W2136361941",
+  "https://openalex.org/W2148972210",
+  "https://openalex.org/W2159593129",
+  "https://openalex.org/W6605095531"
+ ],
+ "title": "Strongly Fault Secure Logic Networks"
+}

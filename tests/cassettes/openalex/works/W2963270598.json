@@ -1,0 +1,45 @@
+{
+ "cited_by_count": 643,
+ "counts_by_year": [
+  {
+   "cited_by_count": 35,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 73,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 78,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 100,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 86,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 108,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 101,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 54,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2018
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tnet.2018.2873606",
+ "id": "https://openalex.org/W2963270598",
+ "publication_year": 2018,
+ "title": "Scheduling Policies for Minimizing Age of Information in Broadcast Wireless Networks"
+}

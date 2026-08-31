@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1109/icsmc.1990.142119",
+ "id": "https://openalex.org/W2133133569",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W56903235",
+  "https://openalex.org/W161283806",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1571439584",
+  "https://openalex.org/W1994530392",
+  "https://openalex.org/W2157475639",
+  "https://openalex.org/W2162363099",
+  "https://openalex.org/W2732415280",
+  "https://openalex.org/W6602333299",
+  "https://openalex.org/W6741064561"
+ ],
+ "title": "VLSI implementations of electronic neural networks: an example in character recognition"
+}

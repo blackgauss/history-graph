@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 916,
+ "doi": "https://doi.org/10.1145/321356.321363",
+ "id": "https://openalex.org/W1969678783",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W1995875735",
+  "https://openalex.org/W2032627084"
+ ],
+ "title": "On the Length of Programs for Computing Finite Binary Sequences"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 43,
+ "doi": "https://doi.org/10.1007/978-1-4615-5703-6_2",
+ "id": "https://openalex.org/W1592855356",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1679514135",
+  "https://openalex.org/W1994530392",
+  "https://openalex.org/W2057653135",
+  "https://openalex.org/W2068657485",
+  "https://openalex.org/W2097184562",
+  "https://openalex.org/W2112462566",
+  "https://openalex.org/W2113853349",
+  "https://openalex.org/W2120472140",
+  "https://openalex.org/W2123716044",
+  "https://openalex.org/W2132152975",
+  "https://openalex.org/W2133965177",
+  "https://openalex.org/W2150355110",
+  "https://openalex.org/W2157148561",
+  "https://openalex.org/W3145013517",
+  "https://openalex.org/W4302039983",
+  "https://openalex.org/W6637250966",
+  "https://openalex.org/W6679574032"
+ ],
+ "title": "Enhanced Multi-Stream Kalman Filter Training for Recurrent Networks"
+}

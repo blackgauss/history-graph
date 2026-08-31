@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 13,
+ "doi": "https://doi.org/10.1007/3-540-46084-5_213",
+ "id": "https://openalex.org/W1888714701",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1527240141",
+  "https://openalex.org/W1981176352",
+  "https://openalex.org/W2046399019",
+  "https://openalex.org/W2057653135",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2137388705",
+  "https://openalex.org/W2143908786",
+  "https://openalex.org/W2154363415",
+  "https://openalex.org/W2163715362",
+  "https://openalex.org/W2163965432",
+  "https://openalex.org/W2217896605",
+  "https://openalex.org/W6631618440"
+ ],
+ "title": "Learning Face Localization Using Hierarchical Recurrent Networks"
+}

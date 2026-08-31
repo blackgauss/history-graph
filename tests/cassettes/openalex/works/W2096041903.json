@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 365,
+ "doi": null,
+ "id": "https://openalex.org/W2096041903",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1562405179",
+  "https://openalex.org/W1854214752",
+  "https://openalex.org/W1956559956",
+  "https://openalex.org/W1981202432",
+  "https://openalex.org/W2006119904",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2079656678",
+  "https://openalex.org/W2079672501",
+  "https://openalex.org/W2108346334",
+  "https://openalex.org/W2130610812",
+  "https://openalex.org/W2140350208",
+  "https://openalex.org/W2798909945"
+ ],
+ "title": "The Intelligent surfer: Probabilistic Combination of Link and Content Information in PageRank"
+}

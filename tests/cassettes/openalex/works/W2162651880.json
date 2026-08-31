@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 10191,
+ "doi": "https://doi.org/10.1109/tct.1971.1083337",
+ "id": "https://openalex.org/W2162651880",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W126635237",
+  "https://openalex.org/W1538225113",
+  "https://openalex.org/W1576407418",
+  "https://openalex.org/W1603128821",
+  "https://openalex.org/W1965438416",
+  "https://openalex.org/W1985725614",
+  "https://openalex.org/W2003858978",
+  "https://openalex.org/W2008974032",
+  "https://openalex.org/W2010044405",
+  "https://openalex.org/W2051220390",
+  "https://openalex.org/W2118337051",
+  "https://openalex.org/W2124900403",
+  "https://openalex.org/W2133516482",
+  "https://openalex.org/W2162651880",
+  "https://openalex.org/W2312610232",
+  "https://openalex.org/W2798905169",
+  "https://openalex.org/W3154282863",
+  "https://openalex.org/W4243854733",
+  "https://openalex.org/W4250406569",
+  "https://openalex.org/W4298162782"
+ ],
+ "title": "Memristor-The missing circuit element"
+}

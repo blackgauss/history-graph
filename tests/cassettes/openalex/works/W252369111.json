@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 38,
+ "doi": "https://doi.org/10.1007/978-3-540-25934-3_16",
+ "id": "https://openalex.org/W252369111",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W45889316",
+  "https://openalex.org/W130348806",
+  "https://openalex.org/W186964632",
+  "https://openalex.org/W1553078293",
+  "https://openalex.org/W1554498106",
+  "https://openalex.org/W1554977156",
+  "https://openalex.org/W1591726984",
+  "https://openalex.org/W2090403712",
+  "https://openalex.org/W2099213660",
+  "https://openalex.org/W2101724922",
+  "https://openalex.org/W2108999965",
+  "https://openalex.org/W2135601664",
+  "https://openalex.org/W2162655341",
+  "https://openalex.org/W2496223582",
+  "https://openalex.org/W2911646362",
+  "https://openalex.org/W4242122368",
+  "https://openalex.org/W6714012318"
+ ],
+ "title": "Modeling Variability for Object-Oriented Product Lines"
+}

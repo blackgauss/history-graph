@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 75,
+ "doi": "https://doi.org/10.1109/72.279194",
+ "id": "https://openalex.org/W2152080463",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1485981043",
+  "https://openalex.org/W1982370770",
+  "https://openalex.org/W1990813072",
+  "https://openalex.org/W2002089154",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2049093093",
+  "https://openalex.org/W2061315523",
+  "https://openalex.org/W2071906671",
+  "https://openalex.org/W2074584543",
+  "https://openalex.org/W2087946919",
+  "https://openalex.org/W2099683551",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W2121553911",
+  "https://openalex.org/W2129831132",
+  "https://openalex.org/W2154640398",
+  "https://openalex.org/W2598912124",
+  "https://openalex.org/W4212774754",
+  "https://openalex.org/W4254816979",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4300402905",
+  "https://openalex.org/W4302339081"
+ ],
+ "title": "Discrete recurrent neural networks for grammatical inference"
+}

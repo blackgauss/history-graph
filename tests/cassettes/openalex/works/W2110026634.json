@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 170,
+ "doi": "https://doi.org/10.1145/223784.223787",
+ "id": "https://openalex.org/W2110026634",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W54838500",
+  "https://openalex.org/W65051209",
+  "https://openalex.org/W149446377",
+  "https://openalex.org/W153841428",
+  "https://openalex.org/W1512654486",
+  "https://openalex.org/W1523563630",
+  "https://openalex.org/W1565153071",
+  "https://openalex.org/W1567991821",
+  "https://openalex.org/W1571856917",
+  "https://openalex.org/W1599531407",
+  "https://openalex.org/W1965799783",
+  "https://openalex.org/W1982431534",
+  "https://openalex.org/W1991199257",
+  "https://openalex.org/W2029344921",
+  "https://openalex.org/W2056862375",
+  "https://openalex.org/W2099623813",
+  "https://openalex.org/W2105534158",
+  "https://openalex.org/W2106887953",
+  "https://openalex.org/W2118014784",
+  "https://openalex.org/W2121946292",
+  "https://openalex.org/W2132981149",
+  "https://openalex.org/W2133386065",
+  "https://openalex.org/W2151858498",
+  "https://openalex.org/W6645980743"
+ ],
+ "title": "Efficient optimistic concurrency control using loosely synchronized clocks"
+}

@@ -1,0 +1,314 @@
+{
+ "abstract_inverted_index": {
+  "(A": [
+   39
+  ],
+  "Analysis": [
+   41
+  ],
+  "Circuits)": [
+   46
+  ],
+  "Claude": [
+   3
+  ],
+  "Communication": [
+   12
+  ],
+  "Elwood": [
+   4
+  ],
+  "His": [
+   32
+  ],
+  "However,": [
+   14
+  ],
+  "Relay": [
+   43
+  ],
+  "Shannon": [
+   5,
+   74
+  ],
+  "Switching": [
+   45
+  ],
+  "Symbolic": [
+   40
+  ],
+  "The": [
+   0
+  ],
+  "This": [
+   66
+  ],
+  "XXth": [
+   26
+  ],
+  "a": [
+   8
+  ],
+  "and": [
+   35,
+   44,
+   75
+  ],
+  "and,": [
+   57
+  ],
+  "as": [
+   63
+  ],
+  "century": [
+   27
+  ],
+  "communication": [
+   23,
+   55
+  ],
+  "communication.": [
+   84
+  ],
+  "completely": [
+   9
+  ],
+  "computers": [
+   53
+  ],
+  "consequently,": [
+   58
+  ],
+  "context": [
+   82
+  ],
+  "derived": [
+   37
+  ],
+  "dissertation": [
+   34
+  ],
+  "essentials": [
+   48
+  ],
+  "explains": [
+   76
+  ],
+  "first": [
+   70
+  ],
+  "great": [
+   71
+  ],
+  "happens": [
+   64
+  ],
+  "history": [
+   21
+  ],
+  "importance": [
+   18
+  ],
+  "in": [
+   24,
+   60,
+   79
+  ],
+  "into": [
+   54
+  ],
+  "is": [
+   6,
+   28
+  ],
+  "its": [
+   17,
+   77
+  ],
+  "known.": [
+   31
+  ],
+  "machines": [
+   56
+  ],
+  "master’s": [
+   33
+  ],
+  "name": [
+   1
+  ],
+  "not": [
+   7,
+   29
+  ],
+  "of": [
+   2,
+   16,
+   22,
+   42,
+   52,
+   73,
+   83
+  ],
+  "our": [
+   61
+  ],
+  "paper": [
+   38,
+   67
+  ],
+  "part": [
+   15
+  ],
+  "participation": [
+   78
+  ],
+  "penetration": [
+   59
+  ],
+  "present": [
+   81
+  ],
+  "researchers.": [
+   13
+  ],
+  "revises": [
+   68
+  ],
+  "society": [
+   62
+  ],
+  "strange": [
+   10
+  ],
+  "the": [
+   20,
+   25,
+   36,
+   50,
+   69,
+   80
+  ],
+  "to": [
+   11,
+   19,
+   49
+  ],
+  "today.": [
+   65
+  ],
+  "transformation": [
+   51
+  ],
+  "well": [
+   30
+  ],
+  "were": [
+   47
+  ],
+  "work": [
+   72
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Christian Hugo Pelegrini",
+    "id": "https://openalex.org/A5014832887",
+    "orcid": "https://orcid.org/0000-0001-9289-4694"
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Christian Hugo Pelegrini",
+   "raw_orcid": "https://orcid.org/0000-0001-9289-4694"
+  }
+ ],
+ "best_oa_location": {
+  "id": "pmh:oai:ojs.periodicos.ufba.br:article/3600",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://periodicos.ufba.br/index.php/contemporaneaposcom/article/view/3600",
+  "license": "other-oa",
+  "license_id": "https://openalex.org/licenses/other-oa",
+  "pdf_url": null,
+  "raw_source_name": "instacron:UFBA",
+  "raw_type": "info:eu-repo/semantics/article",
+  "source": {
+   "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+   "host_organization": "https://openalex.org/I4383465926",
+   "host_organization_lineage": [
+    "https://openalex.org/I4383465926"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "LA Referencia",
+   "id": "https://openalex.org/S4306402641",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 1,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2020
+  }
+ ],
+ "doi": "https://doi.org/10.9771/contemporanea.v7i1.3600",
+ "funders": [],
+ "id": "https://openalex.org/W2468066566",
+ "ids": {
+  "doi": "https://doi.org/10.9771/contemporanea.v7i1.3600",
+  "mag": "2468066566",
+  "openalex": "https://openalex.org/W2468066566"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": true,
+  "is_oa": true,
+  "oa_status": "green",
+  "oa_url": "https://periodicos.ufba.br/index.php/contemporaneaposcom/article/view/3600"
+ },
+ "primary_location": {
+  "id": "pmh:oai:ojs.periodicos.ufba.br:article/3600",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://periodicos.ufba.br/index.php/contemporaneaposcom/article/view/3600",
+  "license": "other-oa",
+  "license_id": "https://openalex.org/licenses/other-oa",
+  "pdf_url": null,
+  "raw_source_name": "instacron:UFBA",
+  "raw_type": "info:eu-repo/semantics/article",
+  "source": {
+   "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+   "host_organization": "https://openalex.org/I4383465926",
+   "host_organization_lineage": [
+    "https://openalex.org/I4383465926"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "LA Referencia",
+   "id": "https://openalex.org/S4306402641",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2009,
+ "referenced_works": [],
+ "related_works": [],
+ "title": "Claude Elwood Shannon e A Symbolic Analysis of Relay and Switching Circuits: tornando o computador uma máquina semiótica",
+ "type": "article"
+}

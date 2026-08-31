@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 196,
+ "doi": "https://doi.org/10.4310/mrl.2001.v8.n3.a1",
+ "id": "https://openalex.org/W2078134499",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W21432015",
+  "https://openalex.org/W934596661",
+  "https://openalex.org/W1993572209",
+  "https://openalex.org/W2049731483",
+  "https://openalex.org/W2084401659",
+  "https://openalex.org/W4206236664"
+ ],
+ "title": "Distributional and $L^{q}$ norm inequalities for polynomials over convex bodies in ${\\Bbb R}^n$"
+}

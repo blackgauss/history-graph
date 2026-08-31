@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 154,
+ "doi": null,
+ "id": "https://openalex.org/W2157083019",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1496612019",
+  "https://openalex.org/W1526146785",
+  "https://openalex.org/W1658064490",
+  "https://openalex.org/W1667072054",
+  "https://openalex.org/W2139212933",
+  "https://openalex.org/W2156909104",
+  "https://openalex.org/W3193477162"
+ ],
+ "title": "Dynamically Adapting Kernels in Support Vector Machines"
+}

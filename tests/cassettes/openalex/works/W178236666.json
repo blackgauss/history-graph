@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 1,
+ "doi": "https://doi.org/10.48550/arxiv.1211.3955",
+ "id": "https://openalex.org/W178236666",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W1599263113",
+  "https://openalex.org/W1618905105",
+  "https://openalex.org/W2023943903",
+  "https://openalex.org/W2098824882",
+  "https://openalex.org/W2129018774",
+  "https://openalex.org/W2130715829",
+  "https://openalex.org/W2162979096",
+  "https://openalex.org/W2273216302",
+  "https://openalex.org/W3122305203"
+ ],
+ "title": "On Calibrated Predictions for Auction Selection Mechanisms"
+}

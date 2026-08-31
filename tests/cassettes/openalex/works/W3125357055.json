@@ -1,0 +1,160 @@
+{
+ "cited_by_count": 120,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1257/mic.5.1.100",
+ "id": "https://openalex.org/W3125357055",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W166545893",
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1497182081",
+  "https://openalex.org/W1511751337",
+  "https://openalex.org/W1523175535",
+  "https://openalex.org/W1532470232",
+  "https://openalex.org/W1540084646",
+  "https://openalex.org/W1549789182",
+  "https://openalex.org/W1551610462",
+  "https://openalex.org/W1553846691",
+  "https://openalex.org/W1587843808",
+  "https://openalex.org/W1595159159",
+  "https://openalex.org/W1822914776",
+  "https://openalex.org/W1943312886",
+  "https://openalex.org/W1963767359",
+  "https://openalex.org/W1967182879",
+  "https://openalex.org/W1978907431",
+  "https://openalex.org/W1981059111",
+  "https://openalex.org/W1990061029",
+  "https://openalex.org/W1991892223",
+  "https://openalex.org/W2001080578",
+  "https://openalex.org/W2002430844",
+  "https://openalex.org/W2008799232",
+  "https://openalex.org/W2016932226",
+  "https://openalex.org/W2017505214",
+  "https://openalex.org/W2018073722",
+  "https://openalex.org/W2018483371",
+  "https://openalex.org/W2022050125",
+  "https://openalex.org/W2024694589",
+  "https://openalex.org/W2027355243",
+  "https://openalex.org/W2055943083",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2070143714",
+  "https://openalex.org/W2075002587",
+  "https://openalex.org/W2085593764",
+  "https://openalex.org/W2091598784",
+  "https://openalex.org/W2091982107",
+  "https://openalex.org/W2092835732",
+  "https://openalex.org/W2093140805",
+  "https://openalex.org/W2094208470",
+  "https://openalex.org/W2096375861",
+  "https://openalex.org/W2101012698",
+  "https://openalex.org/W2105370162",
+  "https://openalex.org/W2109103067",
+  "https://openalex.org/W2111084117",
+  "https://openalex.org/W2114415375",
+  "https://openalex.org/W2115945055",
+  "https://openalex.org/W2117674199",
+  "https://openalex.org/W2120416704",
+  "https://openalex.org/W2122643824",
+  "https://openalex.org/W2127368758",
+  "https://openalex.org/W2129395157",
+  "https://openalex.org/W2133961260",
+  "https://openalex.org/W2136904455",
+  "https://openalex.org/W2139311641",
+  "https://openalex.org/W2139800451",
+  "https://openalex.org/W2141486460",
+  "https://openalex.org/W2151466613",
+  "https://openalex.org/W2151510338",
+  "https://openalex.org/W2152002783",
+  "https://openalex.org/W2152504140",
+  "https://openalex.org/W2158267265",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W2244795693",
+  "https://openalex.org/W2612690410",
+  "https://openalex.org/W2787421237",
+  "https://openalex.org/W2990765244",
+  "https://openalex.org/W3022015666",
+  "https://openalex.org/W3121235808",
+  "https://openalex.org/W3121366019",
+  "https://openalex.org/W3121527271",
+  "https://openalex.org/W3121597866",
+  "https://openalex.org/W3121611500",
+  "https://openalex.org/W3121770562",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3122395910",
+  "https://openalex.org/W3123396550",
+  "https://openalex.org/W3124616546",
+  "https://openalex.org/W3124738144",
+  "https://openalex.org/W3124909431",
+  "https://openalex.org/W3125221859",
+  "https://openalex.org/W3125357055",
+  "https://openalex.org/W3125855424",
+  "https://openalex.org/W3125916957",
+  "https://openalex.org/W3125999389",
+  "https://openalex.org/W3146254775",
+  "https://openalex.org/W3148029266",
+  "https://openalex.org/W4230979006",
+  "https://openalex.org/W4246157496"
+ ],
+ "title": "Measuring the Efficiency of an FCC Spectrum Auction"
+}

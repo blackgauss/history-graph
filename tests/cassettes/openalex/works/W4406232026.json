@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 117,
+ "counts_by_year": [
+  {
+   "cited_by_count": 56,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 58,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2024
+  }
+ ],
+ "doi": "https://doi.org/10.1016/j.lindif.2024.102601",
+ "id": "https://openalex.org/W4406232026",
+ "publication_year": 2025,
+ "title": "Taking the next step with generative artificial intelligence: The transformative role of multimodal large language models in science education"
+}

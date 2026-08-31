@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 188,
+ "doi": "https://doi.org/10.1145/203330.203336",
+ "id": "https://openalex.org/W2339121806",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1590438054",
+  "https://openalex.org/W1593793857",
+  "https://openalex.org/W1601455886",
+  "https://openalex.org/W1801686351",
+  "https://openalex.org/W1834893312",
+  "https://openalex.org/W1980452149",
+  "https://openalex.org/W1999432334",
+  "https://openalex.org/W2029232921",
+  "https://openalex.org/W2083366515",
+  "https://openalex.org/W2114307208",
+  "https://openalex.org/W2143075689",
+  "https://openalex.org/W2159080219"
+ ],
+ "title": "Bayesian networks"
+}

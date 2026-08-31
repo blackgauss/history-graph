@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 127,
+ "counts_by_year": [
+  {
+   "cited_by_count": 29,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 66,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3604915.3610639",
+ "id": "https://openalex.org/W4386729952",
+ "publication_year": 2023,
+ "title": "Leveraging Large Language Models for Sequential Recommendation"
+}

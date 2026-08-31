@@ -1,0 +1,70 @@
+{
+ "cited_by_count": 2373,
+ "counts_by_year": [
+  {
+   "cited_by_count": 65,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 110,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 137,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 144,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 126,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 320,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 356,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 245,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 186,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 152,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 103,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 118,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 83,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 65,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 30,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1093/biomet/25.3-4.285",
+ "id": "https://openalex.org/W2039522160",
+ "publication_year": 1933,
+ "referenced_works": [],
+ "title": "ON THE LIKELIHOOD THAT ONE UNKNOWN PROBABILITY EXCEEDS ANOTHER IN VIEW OF THE EVIDENCE OF TWO SAMPLES"
+}

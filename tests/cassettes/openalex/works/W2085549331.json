@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1109/tc.1981.1675865",
+ "id": "https://openalex.org/W2085549331",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1602082415",
+  "https://openalex.org/W1973606728",
+  "https://openalex.org/W1985393424",
+  "https://openalex.org/W1988535214",
+  "https://openalex.org/W2000251590",
+  "https://openalex.org/W2023730383",
+  "https://openalex.org/W2038627227",
+  "https://openalex.org/W2054765133",
+  "https://openalex.org/W2064798025",
+  "https://openalex.org/W2133231077",
+  "https://openalex.org/W2152019064",
+  "https://openalex.org/W2164346938",
+  "https://openalex.org/W3138083660",
+  "https://openalex.org/W6643682709",
+  "https://openalex.org/W6650485489"
+ ],
+ "title": "On the Design of 4-Valued Digital Systems"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 45,
+ "doi": null,
+ "id": "https://openalex.org/W1507065364",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W13289598",
+  "https://openalex.org/W114802202",
+  "https://openalex.org/W1524408330",
+  "https://openalex.org/W1526749820",
+  "https://openalex.org/W2017127020",
+  "https://openalex.org/W2104670598",
+  "https://openalex.org/W2165372647",
+  "https://openalex.org/W2266946488",
+  "https://openalex.org/W2404266688"
+ ],
+ "title": "Trap escaping strategies in discrete Lagrangian methods for solving hard satisfiability and maximum satisfiability problems"
+}

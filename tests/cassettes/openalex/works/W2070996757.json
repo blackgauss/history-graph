@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 943,
+ "doi": "https://doi.org/10.1145/1553374.1553516",
+ "id": "https://openalex.org/W2070996757",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1502916507",
+  "https://openalex.org/W1573820523",
+  "https://openalex.org/W1605569224",
+  "https://openalex.org/W1865797552",
+  "https://openalex.org/W2010531033",
+  "https://openalex.org/W2037757210",
+  "https://openalex.org/W2120354757",
+  "https://openalex.org/W2130484710",
+  "https://openalex.org/W2144902422",
+  "https://openalex.org/W2341535507",
+  "https://openalex.org/W2597289420",
+  "https://openalex.org/W2990138404",
+  "https://openalex.org/W6629956336",
+  "https://openalex.org/W6634225129",
+  "https://openalex.org/W6678296315",
+  "https://openalex.org/W6681302627",
+  "https://openalex.org/W6703949738"
+ ],
+ "title": "Feature hashing for large scale multitask learning"
+}

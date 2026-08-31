@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 6,
+ "doi": "https://doi.org/10.1007/978-3-030-69827-0_4",
+ "id": "https://openalex.org/W3202117077",
+ "publication_year": 2021,
+ "referenced_works": [
+  "https://openalex.org/W1994616650",
+  "https://openalex.org/W2048971218",
+  "https://openalex.org/W2056635176",
+  "https://openalex.org/W2084840427",
+  "https://openalex.org/W2147388619",
+  "https://openalex.org/W2296814610",
+  "https://openalex.org/W2317020560",
+  "https://openalex.org/W2779378862",
+  "https://openalex.org/W2970586971",
+  "https://openalex.org/W6627109152",
+  "https://openalex.org/W6662789159",
+  "https://openalex.org/W6697660247",
+  "https://openalex.org/W6699232141"
+ ],
+ "title": "Maximum Likelihood Inference"
+}

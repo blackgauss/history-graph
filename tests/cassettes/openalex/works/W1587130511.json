@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 16,
+ "doi": "https://doi.org/10.1007/11840817_8",
+ "id": "https://openalex.org/W1587130511",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1581242383",
+  "https://openalex.org/W1584535387",
+  "https://openalex.org/W1604264128",
+  "https://openalex.org/W1899504021",
+  "https://openalex.org/W2002011878",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2069143585",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2123497521",
+  "https://openalex.org/W2124776405",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3121926921",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4236355931",
+  "https://openalex.org/W4242446209",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Learning Long Term Dependencies with Recurrent Neural Networks"
+}

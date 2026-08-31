@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 67,
+ "doi": "https://doi.org/10.1007/978-3-540-48061-7_18",
+ "id": "https://openalex.org/W2173377264",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W193712352",
+  "https://openalex.org/W203183837",
+  "https://openalex.org/W610977968",
+  "https://openalex.org/W1544139368",
+  "https://openalex.org/W1553701556",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1582971263",
+  "https://openalex.org/W2149095532",
+  "https://openalex.org/W2506703326"
+ ],
+ "title": "Approximate Reducts and Association Rules"
+}

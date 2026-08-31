@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 418,
+ "counts_by_year": [
+  {
+   "cited_by_count": 169,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 204,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1007/s11280-024-01291-2",
+ "id": "https://openalex.org/W4401834466",
+ "publication_year": 2024,
+ "title": "A survey on large language models for recommendation"
+}

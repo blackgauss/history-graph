@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 264,
+ "doi": "https://doi.org/10.1109/21.155944",
+ "id": "https://openalex.org/W2057853719",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1526055535",
+  "https://openalex.org/W1701316778",
+  "https://openalex.org/W1902150074",
+  "https://openalex.org/W1991848143",
+  "https://openalex.org/W1994530392",
+  "https://openalex.org/W2023383366",
+  "https://openalex.org/W2120972216",
+  "https://openalex.org/W2180280002",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3036512766",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Noise injection into inputs in back-propagation learning"
+}

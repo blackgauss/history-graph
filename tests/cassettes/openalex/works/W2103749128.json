@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 629,
+ "doi": "https://doi.org/10.1109/sfcs.1988.21923",
+ "id": "https://openalex.org/W2103749128",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W393299573",
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W2019121884",
+  "https://openalex.org/W2025012990",
+  "https://openalex.org/W2047370658",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2114935567",
+  "https://openalex.org/W2153210245",
+  "https://openalex.org/W2491106353",
+  "https://openalex.org/W2742022539",
+  "https://openalex.org/W4398252740"
+ ],
+ "title": "The influence of variables on Boolean functions"
+}

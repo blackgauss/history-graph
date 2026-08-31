@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 506,
+ "doi": "https://doi.org/10.1145/219717.219768",
+ "id": "https://openalex.org/W2042385018",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W98436501",
+  "https://openalex.org/W113462466",
+  "https://openalex.org/W1511887321",
+  "https://openalex.org/W1549964779",
+  "https://openalex.org/W1567276288",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1966602182",
+  "https://openalex.org/W2008906462",
+  "https://openalex.org/W2012112187",
+  "https://openalex.org/W2050206309",
+  "https://openalex.org/W2054740631",
+  "https://openalex.org/W2067521239",
+  "https://openalex.org/W2092224884",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2162061564",
+  "https://openalex.org/W2400138769",
+  "https://openalex.org/W2429052957",
+  "https://openalex.org/W2485559788",
+  "https://openalex.org/W2988864014",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W6718043217",
+  "https://openalex.org/W6843735874"
+ ],
+ "title": "Applications of machine learning and rule induction"
+}

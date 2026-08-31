@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 35,
+ "doi": "https://doi.org/10.1016/0042-6989(90)90042-j",
+ "id": "https://openalex.org/W2000704732",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1964415410",
+  "https://openalex.org/W1966025074",
+  "https://openalex.org/W1971113940",
+  "https://openalex.org/W1971286002",
+  "https://openalex.org/W1978344158",
+  "https://openalex.org/W1981058926",
+  "https://openalex.org/W1986536262",
+  "https://openalex.org/W2012336235",
+  "https://openalex.org/W2033118251",
+  "https://openalex.org/W2047468804",
+  "https://openalex.org/W2066389828",
+  "https://openalex.org/W2067722023",
+  "https://openalex.org/W2072563225",
+  "https://openalex.org/W2078361127",
+  "https://openalex.org/W2087973092",
+  "https://openalex.org/W2092859515",
+  "https://openalex.org/W2111918544",
+  "https://openalex.org/W2113094073",
+  "https://openalex.org/W2146700459",
+  "https://openalex.org/W2161415346",
+  "https://openalex.org/W4249254455",
+  "https://openalex.org/W6643225957",
+  "https://openalex.org/W6667825805"
+ ],
+ "title": "Spatial-filter selection in large-scale spatial-interval discrimination"
+}

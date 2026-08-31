@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 172,
+ "doi": "https://doi.org/10.1145/322123.322137",
+ "id": "https://openalex.org/W1988192943",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1996325171",
+  "https://openalex.org/W2002724351",
+  "https://openalex.org/W2008770192",
+  "https://openalex.org/W2009683816",
+  "https://openalex.org/W2036915776",
+  "https://openalex.org/W2039744511",
+  "https://openalex.org/W2095939327",
+  "https://openalex.org/W3181441684",
+  "https://openalex.org/W6601337798"
+ ],
+ "title": "A Practical Decision Procedure for Arithmetic with Function Symbols"
+}

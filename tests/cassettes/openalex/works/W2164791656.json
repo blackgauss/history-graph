@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 179,
+ "doi": "https://doi.org/10.1007/978-1-4615-3148-7_12",
+ "id": "https://openalex.org/W2164791656",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W65738273",
+  "https://openalex.org/W108464071",
+  "https://openalex.org/W179029813",
+  "https://openalex.org/W1587362683",
+  "https://openalex.org/W1603140471",
+  "https://openalex.org/W1980501707",
+  "https://openalex.org/W1984036775",
+  "https://openalex.org/W1991848143",
+  "https://openalex.org/W2039708501",
+  "https://openalex.org/W2040881053",
+  "https://openalex.org/W2069468863",
+  "https://openalex.org/W2095252241",
+  "https://openalex.org/W2137983211",
+  "https://openalex.org/W2160060889",
+  "https://openalex.org/W2397807156",
+  "https://openalex.org/W2729722559",
+  "https://openalex.org/W3022351671",
+  "https://openalex.org/W4243787453",
+  "https://openalex.org/W4381551149",
+  "https://openalex.org/W6662101812"
+ ],
+ "title": "Clustering Properties of Hierarchical Self-Organizing Maps"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 135,
+ "doi": "https://doi.org/10.1109/tit.1961.1057615",
+ "id": "https://openalex.org/W2126590220",
+ "publication_year": 1961,
+ "referenced_works": [
+  "https://openalex.org/W288256330",
+  "https://openalex.org/W1480469437",
+  "https://openalex.org/W1509016759",
+  "https://openalex.org/W1992649154",
+  "https://openalex.org/W1995875735",
+  "https://openalex.org/W2009683816",
+  "https://openalex.org/W2027875058",
+  "https://openalex.org/W2060108852",
+  "https://openalex.org/W2061796125",
+  "https://openalex.org/W2126711987",
+  "https://openalex.org/W2127470768",
+  "https://openalex.org/W2169476932",
+  "https://openalex.org/W2596773272",
+  "https://openalex.org/W3174910057",
+  "https://openalex.org/W4242994599",
+  "https://openalex.org/W6797722509"
+ ],
+ "title": "Minimum-redundancy coding for the discrete noiseless channel"
+}

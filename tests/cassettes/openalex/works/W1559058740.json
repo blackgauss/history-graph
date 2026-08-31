@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.1007/3-540-59119-2_189",
+ "id": "https://openalex.org/W1559058740",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1546328101",
+  "https://openalex.org/W1649899421",
+  "https://openalex.org/W1822440022",
+  "https://openalex.org/W1947582668",
+  "https://openalex.org/W1964826896",
+  "https://openalex.org/W1991581432",
+  "https://openalex.org/W1995002436",
+  "https://openalex.org/W1995742741",
+  "https://openalex.org/W2007202662",
+  "https://openalex.org/W2019671617",
+  "https://openalex.org/W2024415066",
+  "https://openalex.org/W2041064634",
+  "https://openalex.org/W2052502893",
+  "https://openalex.org/W2062567923",
+  "https://openalex.org/W2068124818",
+  "https://openalex.org/W2068589781",
+  "https://openalex.org/W2079207658",
+  "https://openalex.org/W2084544490",
+  "https://openalex.org/W2133671888",
+  "https://openalex.org/W4214871172",
+  "https://openalex.org/W4235840289",
+  "https://openalex.org/W4237551483",
+  "https://openalex.org/W4250375092",
+  "https://openalex.org/W6641217840"
+ ],
+ "title": "Bounding VC-dimension for neural networks: Progress and prospects"
+}

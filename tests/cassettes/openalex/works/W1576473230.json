@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1007/978-3-540-77105-0_17",
+ "id": "https://openalex.org/W1576473230",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W30680763",
+  "https://openalex.org/W1512817317",
+  "https://openalex.org/W2032215954",
+  "https://openalex.org/W2085192478",
+  "https://openalex.org/W2088532256",
+  "https://openalex.org/W2146096504",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4231144620"
+ ],
+ "title": "Equilibrium Analysis of Dynamic Bidding in Sponsored Search Auctions"
+}

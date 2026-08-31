@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 465,
+ "doi": "https://doi.org/10.1016/s0898-1221(99)90253-5",
+ "id": "https://openalex.org/W2150218618",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1496450597",
+  "https://openalex.org/W1538192045",
+  "https://openalex.org/W1965552673",
+  "https://openalex.org/W2090761873",
+  "https://openalex.org/W2126185296",
+  "https://openalex.org/W2159080219"
+ ],
+ "title": "Graphical models for machine learning and digital communication"
+}

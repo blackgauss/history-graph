@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 205,
+ "doi": "https://doi.org/10.1109/mex.1987.4307093",
+ "id": "https://openalex.org/W1985624473",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W2050547330",
+  "https://openalex.org/W2096059947",
+  "https://openalex.org/W2128420091",
+  "https://openalex.org/W2149706766",
+  "https://openalex.org/W2180885055",
+  "https://openalex.org/W3015981925",
+  "https://openalex.org/W4233691971",
+  "https://openalex.org/W4236137412",
+  "https://openalex.org/W4236190405",
+  "https://openalex.org/W4248308907"
+ ],
+ "title": "Assessing Credit Card Applications Using Machine Learning"
+}

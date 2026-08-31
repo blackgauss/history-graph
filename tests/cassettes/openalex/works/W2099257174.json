@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 338,
+ "doi": null,
+ "id": "https://openalex.org/W2099257174",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W16046748",
+  "https://openalex.org/W655338911",
+  "https://openalex.org/W1547547196",
+  "https://openalex.org/W1594216983",
+  "https://openalex.org/W1961801230",
+  "https://openalex.org/W1996021349",
+  "https://openalex.org/W2024538816",
+  "https://openalex.org/W2036317923",
+  "https://openalex.org/W2048060899",
+  "https://openalex.org/W2097924526",
+  "https://openalex.org/W2105594594",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2115046692",
+  "https://openalex.org/W2131387845",
+  "https://openalex.org/W2147800946",
+  "https://openalex.org/W2151457493",
+  "https://openalex.org/W2160371091",
+  "https://openalex.org/W2161523118",
+  "https://openalex.org/W2171850596",
+  "https://openalex.org/W2532851845",
+  "https://openalex.org/W2586915103",
+  "https://openalex.org/W2766736793"
+ ],
+ "title": "Hierarchical Recurrent Neural Networks for Long-Term Dependencies"
+}

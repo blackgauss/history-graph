@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 6,
+ "doi": null,
+ "id": "https://openalex.org/W2100600029",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1500123554",
+  "https://openalex.org/W1537401867",
+  "https://openalex.org/W1589263972",
+  "https://openalex.org/W2083210058"
+ ],
+ "title": "Some algorithms to decide the equivalence of recursive types"
+}

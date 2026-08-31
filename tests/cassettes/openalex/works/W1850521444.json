@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1007/11548669_21",
+ "id": "https://openalex.org/W1850521444",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W167589803",
+  "https://openalex.org/W1527997375",
+  "https://openalex.org/W1553701556",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1624898925",
+  "https://openalex.org/W1686047507",
+  "https://openalex.org/W1923495615",
+  "https://openalex.org/W1987703212",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2086876270",
+  "https://openalex.org/W2133462743",
+  "https://openalex.org/W2166878838",
+  "https://openalex.org/W2168523997",
+  "https://openalex.org/W2479999086",
+  "https://openalex.org/W2483571705",
+  "https://openalex.org/W2491671861",
+  "https://openalex.org/W3022113361",
+  "https://openalex.org/W4232953319",
+  "https://openalex.org/W4233751862"
+ ],
+ "title": "Finding Rough Set Reducts with SAT"
+}

@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1109/icde.1987.7272434",
+ "id": "https://openalex.org/W2097737823",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W129231342",
+  "https://openalex.org/W1549051457"
+ ],
+ "title": "Using 2-way semijoins in distributed query processing"
+}

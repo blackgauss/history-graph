@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1162/neco.1992.4.5.703",
+ "id": "https://openalex.org/W1968205992",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1534007243",
+  "https://openalex.org/W1586016889",
+  "https://openalex.org/W1966240450",
+  "https://openalex.org/W1976022939",
+  "https://openalex.org/W2028744261",
+  "https://openalex.org/W2033544006",
+  "https://openalex.org/W2057529293",
+  "https://openalex.org/W2076551955",
+  "https://openalex.org/W2128084896",
+  "https://openalex.org/W3036781194"
+ ],
+ "title": "On the Information Storage Capacity of Local Learning Rules"
+}

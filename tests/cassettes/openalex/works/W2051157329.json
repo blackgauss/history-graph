@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1145/1500774.1500854",
+ "id": "https://openalex.org/W2051157329",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W39404219",
+  "https://openalex.org/W165358723",
+  "https://openalex.org/W199139817",
+  "https://openalex.org/W1496691081",
+  "https://openalex.org/W1581551991",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1983959468",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2035629491",
+  "https://openalex.org/W2072733814",
+  "https://openalex.org/W2084011265",
+  "https://openalex.org/W2111607006",
+  "https://openalex.org/W2132692154",
+  "https://openalex.org/W2169012378"
+ ],
+ "title": "Performance analysis of database join processors"
+}

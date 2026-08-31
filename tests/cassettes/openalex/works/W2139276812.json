@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 195,
+ "doi": "https://doi.org/10.1145/304181.304581",
+ "id": "https://openalex.org/W2139276812",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W2020584928",
+  "https://openalex.org/W2161463763",
+  "https://openalex.org/W2171903035",
+  "https://openalex.org/W2199389590",
+  "https://openalex.org/W4241185933"
+ ],
+ "title": "The Aqua approximate query answering system"
+}

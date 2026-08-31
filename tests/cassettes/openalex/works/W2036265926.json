@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 6201,
+ "doi": "https://doi.org/10.1145/800157.805047",
+ "id": "https://openalex.org/W2036265926",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W1817451992",
+  "https://openalex.org/W1981324778",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2079275582",
+  "https://openalex.org/W2154878346"
+ ],
+ "title": "The complexity of theorem-proving procedures"
+}

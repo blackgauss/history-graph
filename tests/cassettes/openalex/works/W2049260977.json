@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 79,
+ "doi": "https://doi.org/10.1145/1282100.1282130",
+ "id": "https://openalex.org/W2049260977",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W295630282",
+  "https://openalex.org/W2088532256",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W2135060498",
+  "https://openalex.org/W2141230344",
+  "https://openalex.org/W2611147814",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W6604037028",
+  "https://openalex.org/W6812656446"
+ ],
+ "title": "Vindictive bidding in keyword auctions"
+}

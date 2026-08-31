@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 163,
+ "doi": "https://doi.org/10.2307/2526953",
+ "id": "https://openalex.org/W1967182879",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1547358889",
+  "https://openalex.org/W1592507902",
+  "https://openalex.org/W2017137572",
+  "https://openalex.org/W2033834012",
+  "https://openalex.org/W2056099894",
+  "https://openalex.org/W2112352537",
+  "https://openalex.org/W2126015733",
+  "https://openalex.org/W2796291475"
+ ],
+ "title": "Piecewise Pseudo-Maximum Likelihood Estimation in Empirical Models of Auctions"
+}

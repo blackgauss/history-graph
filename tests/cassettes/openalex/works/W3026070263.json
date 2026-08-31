@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1016/b978-0-444-89488-5.50084-1",
+ "id": "https://openalex.org/W3026070263",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1603140471",
+  "https://openalex.org/W1984036775",
+  "https://openalex.org/W1991848143",
+  "https://openalex.org/W2039708501",
+  "https://openalex.org/W2069468863",
+  "https://openalex.org/W2095252241",
+  "https://openalex.org/W2160060889"
+ ],
+ "title": "On Clustering Properties of Hierarchical Self-Organizing Maps"
+}

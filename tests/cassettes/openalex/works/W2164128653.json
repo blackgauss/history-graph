@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 483,
+ "doi": null,
+ "id": "https://openalex.org/W2164128653",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1497257515",
+  "https://openalex.org/W1515932031",
+  "https://openalex.org/W1578006587",
+  "https://openalex.org/W1684311429",
+  "https://openalex.org/W1826010084",
+  "https://openalex.org/W1997020216",
+  "https://openalex.org/W1999497459",
+  "https://openalex.org/W2020765652",
+  "https://openalex.org/W2022049964",
+  "https://openalex.org/W2028928922",
+  "https://openalex.org/W2118828104",
+  "https://openalex.org/W2132461362",
+  "https://openalex.org/W2143714986",
+  "https://openalex.org/W2145943173",
+  "https://openalex.org/W2149576945",
+  "https://openalex.org/W2158049821",
+  "https://openalex.org/W2294047952"
+ ],
+ "title": "Scalable Distributed Stream Processing"
+}

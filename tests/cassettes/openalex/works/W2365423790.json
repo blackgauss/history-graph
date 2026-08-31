@@ -1,0 +1,299 @@
+{
+ "abstract_inverted_index": {
+  "County": [
+   3
+  ],
+  "In": [
+   0
+  ],
+  "Jiangxi": [
+   5
+  ],
+  "Laws": [
+   12
+  ],
+  "Province": [
+   6
+  ],
+  "activity": [
+   10,
+   31,
+   73
+  ],
+  "all": [
+   25
+  ],
+  "also": [
+   74
+  ],
+  "an": [
+   9
+  ],
+  "and": [
+   17,
+   37,
+   49,
+   56,
+   60,
+   68,
+   79,
+   83
+  ],
+  "at": [
+   20
+  ],
+  "awareness": [
+   48
+  ],
+  "basic": [
+   22,
+   66
+  ],
+  "cadre's": [
+   47
+  ],
+  "common": [
+   76
+  ],
+  "conflicts": [
+   18
+  ],
+  "countryside": [
+   27
+  ],
+  "county.This": [
+   30
+  ],
+  "effecting": [
+   61
+  ],
+  "era,enhances": [
+   45
+  ],
+  "expectations": [
+   36
+  ],
+  "farmhouse,services": [
+   14
+  ],
+  "fighting": [
+   59
+  ],
+  "for": [
+   39
+  ],
+  "giving": [
+   52
+  ],
+  "has": [
+   7
+  ],
+  "in": [
+   24,
+   42
+  ],
+  "increases": [
+   75
+  ],
+  "into": [
+   13
+  ],
+  "launched": [
+   8
+  ],
+  "laws.": [
+   85
+  ],
+  "level": [
+   50
+  ],
+  "meets": [
+   32
+  ],
+  "new": [
+   35,
+   44
+  ],
+  "of": [
+   4,
+   11,
+   28,
+   51,
+   63,
+   81
+  ],
+  "people's": [
+   34,
+   77
+  ],
+  "polictical": [
+   40
+  ],
+  "power": [
+   62
+  ],
+  "promotes": [
+   57
+  ],
+  "recent": [
+   1
+  ],
+  "requirements": [
+   38
+  ],
+  "resolved": [
+   19
+  ],
+  "same": [
+   71
+  ],
+  "self-consciousness": [
+   80
+  ],
+  "service": [
+   53
+  ],
+  "studying,observing": [
+   82
+  ],
+  "the": [
+   21,
+   26,
+   29,
+   33,
+   43,
+   46,
+   58,
+   64,
+   70
+  ],
+  "time,the": [
+   72
+  ],
+  "to": [
+   15,
+   54
+  ],
+  "tounships.At": [
+   69
+  ],
+  "two": [
+   65
+  ],
+  "units——villages": [
+   67
+  ],
+  "using": [
+   84
+  ],
+  "villagers": [
+   16,
+   55
+  ],
+  "work": [
+   41
+  ],
+  "years,ZIxi": [
+   2
+  ],
+  "zeal": [
+   78
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Politics and Law Committee of Fuzhou City of Jiangxi Province,Fuzhou 344000,China)"
+    }
+   ],
+   "author": {
+    "display_name": "Jin Wan",
+    "id": "https://openalex.org/A5100942651",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Politics and Law Committee of Fuzhou City of Jiangxi Province,Fuzhou 344000,China)"
+   ],
+   "raw_author_name": "Jin Wan"
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W2365423790",
+ "ids": {
+  "mag": "2365423790",
+  "openalex": "https://openalex.org/W2365423790"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "mag:2365423790",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://en.cnki.com.cn/Article_en/CJFDTOTAL-FZSZ201003010.htm",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Journal of East China Institute of Technology",
+  "raw_type": null,
+  "source": {
+   "display_name": "Journal of East China Institute of Technology",
+   "host_organization": "https://openalex.org/P4324263168",
+   "host_organization_lineage": [
+    "https://openalex.org/P4324263168"
+   ],
+   "host_organization_lineage_names": [
+    "Nanjing University of Science and Technology"
+   ],
+   "host_organization_name": "Nanjing University of Science and Technology",
+   "id": "https://openalex.org/S2764589100",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "journal"
+  },
+  "version": null
+ },
+ "publication_year": 2010,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2372751477",
+  "https://openalex.org/W2374398931",
+  "https://openalex.org/W2393335051",
+  "https://openalex.org/W2381906283",
+  "https://openalex.org/W2378368957",
+  "https://openalex.org/W2391841579",
+  "https://openalex.org/W2348974814",
+  "https://openalex.org/W2361697280",
+  "https://openalex.org/W2377174255",
+  "https://openalex.org/W2380294969",
+  "https://openalex.org/W2351188480",
+  "https://openalex.org/W2352533482",
+  "https://openalex.org/W2363467315",
+  "https://openalex.org/W2373377945",
+  "https://openalex.org/W2362351432",
+  "https://openalex.org/W2354513331",
+  "https://openalex.org/W2357146373",
+  "https://openalex.org/W2348406104",
+  "https://openalex.org/W2388890555",
+  "https://openalex.org/W2353702971"
+ ],
+ "title": "The Construction of Harmonious and Safe New Countryside——Investigation and Thoughts on the Activity of \"Laws into Farmhouse,Services to Villagers and Corflicts Resolved at the Basic Level\"",
+ "type": "article"
+}

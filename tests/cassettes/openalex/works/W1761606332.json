@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 42,
+ "doi": "https://doi.org/10.48550/arxiv.1201.3382",
+ "id": "https://openalex.org/W1761606332",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W189596042",
+  "https://openalex.org/W1511986666",
+  "https://openalex.org/W1746680969",
+  "https://openalex.org/W1813659000",
+  "https://openalex.org/W1999974018",
+  "https://openalex.org/W2020719522",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2104163628",
+  "https://openalex.org/W2105464873",
+  "https://openalex.org/W2106869737",
+  "https://openalex.org/W2118858186",
+  "https://openalex.org/W2122922389",
+  "https://openalex.org/W2130984546",
+  "https://openalex.org/W2138311613",
+  "https://openalex.org/W2141200610",
+  "https://openalex.org/W2155676512",
+  "https://openalex.org/W2160142299",
+  "https://openalex.org/W2172172255",
+  "https://openalex.org/W2184852195",
+  "https://openalex.org/W2530114498",
+  "https://openalex.org/W2567948266",
+  "https://openalex.org/W3118608800"
+ ],
+ "title": "Spike-and-Slab Sparse Coding for Unsupervised Feature Discovery"
+}

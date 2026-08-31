@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 563,
+ "doi": "https://doi.org/10.1145/322276.322287",
+ "id": "https://openalex.org/W2103658959",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1973458874",
+  "https://openalex.org/W2009990213",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2052763589",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "On the complexity of integer programming"
+}

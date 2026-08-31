@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 616,
+ "doi": "https://doi.org/10.1109/2.769447",
+ "id": "https://openalex.org/W2154498027",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W43327620",
+  "https://openalex.org/W1977658425",
+  "https://openalex.org/W2001450038",
+  "https://openalex.org/W2037055884",
+  "https://openalex.org/W2061312249",
+  "https://openalex.org/W2100386417",
+  "https://openalex.org/W2126263514",
+  "https://openalex.org/W2147164982",
+  "https://openalex.org/W2151395351",
+  "https://openalex.org/W2168190036",
+  "https://openalex.org/W2169882007"
+ ],
+ "title": "Digital libraries and autonomous citation indexing"
+}

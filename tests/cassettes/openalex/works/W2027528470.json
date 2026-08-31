@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 1212,
+ "doi": "https://doi.org/10.1145/73007.73010",
+ "id": "https://openalex.org/W2027528470",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W582401037",
+  "https://openalex.org/W1525451859",
+  "https://openalex.org/W1996360405",
+  "https://openalex.org/W2001132147",
+  "https://openalex.org/W2051609577",
+  "https://openalex.org/W2055735365",
+  "https://openalex.org/W2077300005",
+  "https://openalex.org/W2085759780",
+  "https://openalex.org/W2087115651",
+  "https://openalex.org/W2095693260",
+  "https://openalex.org/W2107324709",
+  "https://openalex.org/W2108104892",
+  "https://openalex.org/W2117362057",
+  "https://openalex.org/W2119931124",
+  "https://openalex.org/W2120849698",
+  "https://openalex.org/W2156186849",
+  "https://openalex.org/W2162725776",
+  "https://openalex.org/W2164284862",
+  "https://openalex.org/W2611398525"
+ ],
+ "title": "A hard-core predicate for all one-way functions"
+}

@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 286,
+ "doi": "https://doi.org/10.1214/aos/1176350495",
+ "id": "https://openalex.org/W1973885534",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W1982997797",
+  "https://openalex.org/W1989768104",
+  "https://openalex.org/W2009551863",
+  "https://openalex.org/W2019132817",
+  "https://openalex.org/W2029845452",
+  "https://openalex.org/W2034878116",
+  "https://openalex.org/W2062606053",
+  "https://openalex.org/W3125634603"
+ ],
+ "title": "Adaptive Treatment Allocation and the Multi-Armed Bandit Problem"
+}

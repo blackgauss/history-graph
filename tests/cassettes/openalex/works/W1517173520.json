@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 981,
+ "doi": null,
+ "id": "https://openalex.org/W1517173520",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W50233445",
+  "https://openalex.org/W1529349649",
+  "https://openalex.org/W1536217426",
+  "https://openalex.org/W1569068921",
+  "https://openalex.org/W1593428110",
+  "https://openalex.org/W1613651675",
+  "https://openalex.org/W2016300863",
+  "https://openalex.org/W2046213250",
+  "https://openalex.org/W2137865376",
+  "https://openalex.org/W2145785237",
+  "https://openalex.org/W2157144873",
+  "https://openalex.org/W3202227343"
+ ],
+ "title": "Symbolic model checking: an approach to the state explosion problem"
+}

@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 3635,
+ "doi": null,
+ "id": "https://openalex.org/W2154579312",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W56903235",
+  "https://openalex.org/W169539560",
+  "https://openalex.org/W1965770722",
+  "https://openalex.org/W2058841211",
+  "https://openalex.org/W2091987367",
+  "https://openalex.org/W2114766824",
+  "https://openalex.org/W2147800946",
+  "https://openalex.org/W2153988646",
+  "https://openalex.org/W2157475639",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3144276250"
+ ],
+ "title": "Handwritten Digit Recognition with a Back-Propagation Network"
+}

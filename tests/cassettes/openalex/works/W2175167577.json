@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 141,
+ "doi": "https://doi.org/10.1007/bf01192527",
+ "id": "https://openalex.org/W2175167577",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W281465961",
+  "https://openalex.org/W1551614270",
+  "https://openalex.org/W1563039933",
+  "https://openalex.org/W1968769959",
+  "https://openalex.org/W1980223785",
+  "https://openalex.org/W1997315904",
+  "https://openalex.org/W2002501531",
+  "https://openalex.org/W2006787007",
+  "https://openalex.org/W2017418472",
+  "https://openalex.org/W2023834316",
+  "https://openalex.org/W2057661677",
+  "https://openalex.org/W2070486524",
+  "https://openalex.org/W2089188009",
+  "https://openalex.org/W2140469501",
+  "https://openalex.org/W2174446922",
+  "https://openalex.org/W2340787257",
+  "https://openalex.org/W4389332575"
+ ],
+ "title": "On rank vs. communication complexity"
+}

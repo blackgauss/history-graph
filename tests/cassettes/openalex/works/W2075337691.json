@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 32,
+ "doi": "https://doi.org/10.1017/s0956796899003524",
+ "id": "https://openalex.org/W2075337691",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1487717359",
+  "https://openalex.org/W1488538795",
+  "https://openalex.org/W1494407580",
+  "https://openalex.org/W1678934127",
+  "https://openalex.org/W1795577507",
+  "https://openalex.org/W1930495812",
+  "https://openalex.org/W1979324125",
+  "https://openalex.org/W1983271240",
+  "https://openalex.org/W1988983596",
+  "https://openalex.org/W1990370351",
+  "https://openalex.org/W2010737695",
+  "https://openalex.org/W2027959102",
+  "https://openalex.org/W2030752324",
+  "https://openalex.org/W2044758536",
+  "https://openalex.org/W2055224523",
+  "https://openalex.org/W2086742209",
+  "https://openalex.org/W2126650211",
+  "https://openalex.org/W2134699386",
+  "https://openalex.org/W4206013133",
+  "https://openalex.org/W4210568629",
+  "https://openalex.org/W4211036707",
+  "https://openalex.org/W6814866840"
+ ],
+ "title": "Lambda terms for natural deduction, sequent calculus and cut elimination"
+}

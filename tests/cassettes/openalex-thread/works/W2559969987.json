@@ -1,0 +1,535 @@
+{
+ "abstract_inverted_index": {
+  "\r\nThis": [
+   134
+  ],
+  "APIs.": [
+   194
+  ],
+  "Abstract—": [
+   0
+  ],
+  "All": [
+   174
+  ],
+  "By": [
+   93,
+   143,
+   160
+  ],
+  "Drive": [
+   34,
+   70,
+   193
+  ],
+  "Google": [
+   22,
+   33,
+   192
+  ],
+  "Most": [
+   86
+  ],
+  "Nowadays,": [
+   1
+  ],
+  "Problem": [
+   105
+  ],
+  "There": [
+   14
+  ],
+  "To": [
+   122
+  ],
+  "a": [
+   28,
+   129
+  ],
+  "accessed": [
+   101
+  ],
+  "all": [
+   45,
+   82
+  ],
+  "altering": [
+   156
+  ],
+  "always": [
+   168
+  ],
+  "among": [
+   44
+  ],
+  "and": [
+   10,
+   62,
+   176,
+   185
+  ],
+  "answer": [
+   76
+  ],
+  "anytime": [
+   103
+  ],
+  "anywhere.": [
+   104
+  ],
+  "are": [
+   15
+  ],
+  "as": [
+   180
+  ],
+  "based": [
+   190
+  ],
+  "be": [
+   100,
+   127,
+   155,
+   188
+  ],
+  "both": [
+   165
+  ],
+  "capacity": [
+   30
+  ],
+  "collaborative": [
+   66
+  ],
+  "compare,": [
+   181
+  ],
+  "comparison": [
+   146
+  ],
+  "competitive": [
+   43
+  ],
+  "competitors,": [
+   47
+  ],
+  "could": [
+   99,
+   126
+  ],
+  "created": [
+   74
+  ],
+  "current": [
+   78
+  ],
+  "data": [
+   98
+  ],
+  "date": [
+   145,
+   153
+  ],
+  "deliver": [
+   24
+  ],
+  "device.": [
+   92,
+   121
+  ],
+  "devices": [
+   6
+  ],
+  "document": [
+   58
+  ],
+  "documents": [
+   64
+  ],
+  "done": [
+   189
+  ],
+  "download,": [
+   183
+  ],
+  "drive": [
+   23
+  ],
+  "each": [
+   117,
+   120
+  ],
+  "edit": [
+   55,
+   56
+  ],
+  "feature": [
+   49
+  ],
+  "feature.": [
+   132
+  ],
+  "features": [
+   38
+  ],
+  "file": [
+   118,
+   130,
+   141,
+   148
+  ],
+  "file.": [
+   159,
+   173
+  ],
+  "focus": [
+   137
+  ],
+  "for": [
+   65
+  ],
+  "get": [
+   112
+  ],
+  "happens": [
+   107
+  ],
+  "have": [
+   35,
+   169
+  ],
+  "implementation": [
+   161
+  ],
+  "is": [
+   50,
+   73,
+   108
+  ],
+  "large": [
+   29
+  ],
+  "latest": [
+   114,
+   151,
+   171
+  ],
+  "lifestyle": [
+   79
+  ],
+  "lots": [
+   36
+  ],
+  "make": [
+   40,
+   52
+  ],
+  "many": [
+   17
+  ],
+  "may": [
+   54
+  ],
+  "method": [
+   164
+  ],
+  "method,": [
+   147
+  ],
+  "mobile": [
+   5
+  ],
+  "modification": [
+   152
+  ],
+  "more": [
+   89
+  ],
+  "most": [
+   2
+  ],
+  "of": [
+   37,
+   80,
+   116,
+   162
+  ],
+  "offering": [
+   19
+  ],
+  "older": [
+   158
+  ],
+  "on": [
+   59,
+   119,
+   138,
+   191
+  ],
+  "one": [
+   91
+  ],
+  "online": [
+   20,
+   25,
+   71,
+   95,
+   102
+  ],
+  "other": [
+   177
+  ],
+  "others.\r\nGoogle": [
+   69
+  ],
+  "over": [
+   83
+  ],
+  "overcome": [
+   123
+  ],
+  "people": [
+   3,
+   81,
+   87,
+   109
+  ],
+  "perform": [
+   8
+  ],
+  "problems": [
+   125
+  ],
+  "processes": [
+   178
+  ],
+  "really": [
+   42
+  ],
+  "research": [
+   135
+  ],
+  "services": [
+   26
+  ],
+  "share": [
+   63
+  ],
+  "share,": [
+   184
+  ],
+  "site": [
+   61
+  ],
+  "sites": [
+   18
+  ],
+  "so": [
+   16
+  ],
+  "storage": [
+   72,
+   166
+  ],
+  "storage,": [
+   96
+  ],
+  "storage.": [
+   21
+  ],
+  "such": [
+   179
+  ],
+  "synchronization": [
+   131,
+   175
+  ],
+  "synchronization.": [
+   142
+  ],
+  "tasks": [
+   9
+  ],
+  "than": [
+   90
+  ],
+  "that": [
+   39,
+   48,
+   106
+  ],
+  "the": [
+   51,
+   57,
+   77,
+   84,
+   97,
+   113,
+   150,
+   157,
+   170
+  ],
+  "their": [
+   46,
+   60
+  ],
+  "them": [
+   41
+  ],
+  "these": [
+   124
+  ],
+  "this": [
+   163
+  ],
+  "to": [
+   7,
+   75,
+   111
+  ],
+  "today.": [
+   32
+  ],
+  "two": [
+   139
+  ],
+  "update": [
+   186
+  ],
+  "updated": [
+   172
+  ],
+  "upload,": [
+   182
+  ],
+  "use": [
+   4,
+   88,
+   128
+  ],
+  "user": [
+   53
+  ],
+  "using": [
+   94,
+   144
+  ],
+  "version": [
+   115
+  ],
+  "want": [
+   110
+  ],
+  "way": [
+   140
+  ],
+  "will": [
+   136,
+   154,
+   167,
+   187
+  ],
+  "with": [
+   27,
+   68,
+   149
+  ],
+  "work": [
+   67
+  ],
+  "work.": [
+   13
+  ],
+  "world.": [
+   85
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Agustinus Noertjahyana",
+    "id": "https://openalex.org/A5022090208",
+    "orcid": "https://orcid.org/0000-0001-6084-1731"
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Agustinus Noertjahyana",
+   "raw_orcid": "https://orcid.org/0000-0001-6084-1731"
+  },
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Justinus Andjarwirawan",
+    "id": "https://openalex.org/A5005322906",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Justinus Andjarwirawan",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W2559969987",
+ "ids": {
+  "mag": "2559969987",
+  "openalex": "https://openalex.org/W2559969987"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "mag:2559969987",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://repository.petra.ac.id/17299/",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": null,
+  "raw_type": null,
+  "source": null,
+  "version": null
+ },
+ "publication_year": 2013,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W3167968971",
+  "https://openalex.org/W2083373852",
+  "https://openalex.org/W145977783",
+  "https://openalex.org/W2947491069",
+  "https://openalex.org/W2141994149",
+  "https://openalex.org/W1940258751",
+  "https://openalex.org/W2512356790",
+  "https://openalex.org/W2477823044",
+  "https://openalex.org/W124228852",
+  "https://openalex.org/W316625447",
+  "https://openalex.org/W55727014",
+  "https://openalex.org/W2266409163",
+  "https://openalex.org/W2338829182",
+  "https://openalex.org/W2103767692",
+  "https://openalex.org/W2971618996",
+  "https://openalex.org/W2774682319",
+  "https://openalex.org/W1547806338",
+  "https://openalex.org/W2547185897",
+  "https://openalex.org/W3095269098",
+  "https://openalex.org/W2044178658"
+ ],
+ "title": "File Synchronization using API Google Drive on Android Operating System",
+ "type": "article"
+}

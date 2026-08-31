@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 104,
+ "doi": "https://doi.org/10.1137/0312001",
+ "id": "https://openalex.org/W1975243497",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W16425594",
+  "https://openalex.org/W35147865",
+  "https://openalex.org/W2000362285",
+  "https://openalex.org/W2006752005",
+  "https://openalex.org/W2011307039",
+  "https://openalex.org/W2034280776",
+  "https://openalex.org/W2043515542",
+  "https://openalex.org/W2070267857",
+  "https://openalex.org/W2072698828",
+  "https://openalex.org/W2082148691",
+  "https://openalex.org/W2152887332"
+ ],
+ "title": "Controllability of Nonlinear Systems on Compact Manifolds"
+}

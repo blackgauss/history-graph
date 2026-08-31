@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 33,
+ "doi": "https://doi.org/10.1109/37.16751",
+ "id": "https://openalex.org/W1968472222",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W136063145",
+  "https://openalex.org/W1537232717",
+  "https://openalex.org/W2000374946",
+  "https://openalex.org/W2344678653",
+  "https://openalex.org/W6650253302"
+ ],
+ "title": "Simulator for dynamical systems using graphics and equations for modeling"
+}

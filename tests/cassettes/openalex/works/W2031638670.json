@@ -1,0 +1,35 @@
+{
+ "cited_by_count": 5,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2014
+  }
+ ],
+ "doi": "https://doi.org/10.1016/j.tcs.2008.05.020",
+ "id": "https://openalex.org/W2031638670",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1512817317",
+  "https://openalex.org/W1548462700",
+  "https://openalex.org/W1550761040",
+  "https://openalex.org/W1576473230",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2015324401",
+  "https://openalex.org/W2071373606",
+  "https://openalex.org/W2077335881",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2124709316",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W2146096504",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4231144620",
+  "https://openalex.org/W6632839288"
+ ],
+ "title": "Arbitrage opportunities across sponsored search markets"
+}

@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 377,
+ "doi": "https://doi.org/10.1109/iccad.1996.569607",
+ "id": "https://openalex.org/W4229840182",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W13716531",
+  "https://openalex.org/W1494460786",
+  "https://openalex.org/W1556434751",
+  "https://openalex.org/W1976140238",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2038118137",
+  "https://openalex.org/W2048051309",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2109821587",
+  "https://openalex.org/W2115571162",
+  "https://openalex.org/W2120599220",
+  "https://openalex.org/W2121217029",
+  "https://openalex.org/W2135613306",
+  "https://openalex.org/W2161273503",
+  "https://openalex.org/W2170826919",
+  "https://openalex.org/W2913258176",
+  "https://openalex.org/W4302458519",
+  "https://openalex.org/W6684722583"
+ ],
+ "title": "GRASP-A new search algorithm for satisfiability"
+}

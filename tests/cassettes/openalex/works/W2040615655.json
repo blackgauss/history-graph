@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 2178,
+ "doi": "https://doi.org/10.1080/01621459.1983.10477973",
+ "id": "https://openalex.org/W2040615655",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W1976927254",
+  "https://openalex.org/W1981251392",
+  "https://openalex.org/W1989898472",
+  "https://openalex.org/W1992068214",
+  "https://openalex.org/W2030254416",
+  "https://openalex.org/W2041321210",
+  "https://openalex.org/W2063261057",
+  "https://openalex.org/W2079100340",
+  "https://openalex.org/W2090578816",
+  "https://openalex.org/W2112081648",
+  "https://openalex.org/W2117897510",
+  "https://openalex.org/W2124181495",
+  "https://openalex.org/W3026721701",
+  "https://openalex.org/W4238049555",
+  "https://openalex.org/W4238306122",
+  "https://openalex.org/W4241607140"
+ ],
+ "title": "Estimating the Error Rate of a Prediction Rule: Improvement on Cross-Validation"
+}

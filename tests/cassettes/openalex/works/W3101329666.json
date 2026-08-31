@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 20,
+ "doi": null,
+ "id": "https://openalex.org/W3101329666",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W188939100",
+  "https://openalex.org/W639289183",
+  "https://openalex.org/W1487623217",
+  "https://openalex.org/W1557411105",
+  "https://openalex.org/W2029859729",
+  "https://openalex.org/W2035402840",
+  "https://openalex.org/W2070053775",
+  "https://openalex.org/W2090678138",
+  "https://openalex.org/W2097755092",
+  "https://openalex.org/W2103528061",
+  "https://openalex.org/W2123301539",
+  "https://openalex.org/W2123540893",
+  "https://openalex.org/W2157902765",
+  "https://openalex.org/W2742022539",
+  "https://openalex.org/W2950902318",
+  "https://openalex.org/W2950904196",
+  "https://openalex.org/W4230547894",
+  "https://openalex.org/W4394671673"
+ ],
+ "title": "Balanced Boolean functions that can be evaluated so that every input bit is unlikely to be read"
+}

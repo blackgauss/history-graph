@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 679,
+ "doi": "https://doi.org/10.1109/tit.1984.1056949",
+ "id": "https://openalex.org/W2154271831",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W2111086843",
+  "https://openalex.org/W2150276672",
+  "https://openalex.org/W2161517294",
+  "https://openalex.org/W3119166924",
+  "https://openalex.org/W6788090781"
+ ],
+ "title": "Correlation-immunity of nonlinear combining functions for cryptographic applications (Corresp.)"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 273,
+ "doi": "https://doi.org/10.1016/j.tcs.2005.07.003",
+ "id": "https://openalex.org/W2084294613",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1497571013",
+  "https://openalex.org/W1510368738",
+  "https://openalex.org/W1601517679",
+  "https://openalex.org/W1834186039",
+  "https://openalex.org/W1836483134",
+  "https://openalex.org/W1999997889",
+  "https://openalex.org/W2044095368",
+  "https://openalex.org/W2044632231",
+  "https://openalex.org/W2048051309",
+  "https://openalex.org/W2061438988",
+  "https://openalex.org/W2098244894",
+  "https://openalex.org/W2114633883",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2151463894",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W4212792638",
+  "https://openalex.org/W4229840182",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6665773200"
+ ],
+ "title": "An interpolating theorem prover"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 252,
+ "doi": "https://doi.org/10.1109/tsmc.1987.289329",
+ "id": "https://openalex.org/W1969166509",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W2338806",
+  "https://openalex.org/W627721362",
+  "https://openalex.org/W1889834115",
+  "https://openalex.org/W1969759198",
+  "https://openalex.org/W1991663098",
+  "https://openalex.org/W2008091006",
+  "https://openalex.org/W2065758324",
+  "https://openalex.org/W2084134149",
+  "https://openalex.org/W2090547656",
+  "https://openalex.org/W2135625884",
+  "https://openalex.org/W2143182795",
+  "https://openalex.org/W2243063492",
+  "https://openalex.org/W2292333414",
+  "https://openalex.org/W2312898970",
+  "https://openalex.org/W2775398489",
+  "https://openalex.org/W4232762653",
+  "https://openalex.org/W6690375369"
+ ],
+ "title": "Building and Understanding Adaptive Systems: A Statistical/Numerical Approach to Factory Automation and Brain Research"
+}

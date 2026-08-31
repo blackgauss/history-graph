@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 113,
+ "doi": "https://doi.org/10.1016/s0076-5392(08)60497-x",
+ "id": "https://openalex.org/W162622153",
+ "publication_year": 1970,
+ "referenced_works": [
+  "https://openalex.org/W278863830",
+  "https://openalex.org/W283036238",
+  "https://openalex.org/W2022335668",
+  "https://openalex.org/W2037855648",
+  "https://openalex.org/W2065973527",
+  "https://openalex.org/W2076286416",
+  "https://openalex.org/W2077026564",
+  "https://openalex.org/W2081129923",
+  "https://openalex.org/W2120216197",
+  "https://openalex.org/W2134672787",
+  "https://openalex.org/W2749994996",
+  "https://openalex.org/W2775483185",
+  "https://openalex.org/W2796074999",
+  "https://openalex.org/W2802301832",
+  "https://openalex.org/W3015967271",
+  "https://openalex.org/W3144869768",
+  "https://openalex.org/W4242244085",
+  "https://openalex.org/W4251372675",
+  "https://openalex.org/W4299719616",
+  "https://openalex.org/W6610310597"
+ ],
+ "title": "8 Reinforcement-Learning Control and Pattern Recognition Systems"
+}

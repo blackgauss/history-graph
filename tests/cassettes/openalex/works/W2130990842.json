@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 86,
+ "doi": "https://doi.org/10.1145/1569901.1569976",
+ "id": "https://openalex.org/W2130990842",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1555368087",
+  "https://openalex.org/W1970789124",
+  "https://openalex.org/W2112036188",
+  "https://openalex.org/W2132181343",
+  "https://openalex.org/W2142508340",
+  "https://openalex.org/W2157701998",
+  "https://openalex.org/W2166160300",
+  "https://openalex.org/W2172968643"
+ ],
+ "title": "Efficient natural evolution strategies"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 130,
+ "doi": "https://doi.org/10.1103/physreva.56.76",
+ "id": "https://openalex.org/W1993813188",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1572877829",
+  "https://openalex.org/W1631860252",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2005250833",
+  "https://openalex.org/W2055598707",
+  "https://openalex.org/W2060887031",
+  "https://openalex.org/W2063592138",
+  "https://openalex.org/W2069711632",
+  "https://openalex.org/W2088324731",
+  "https://openalex.org/W2091331782",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W2121513425",
+  "https://openalex.org/W2131690084",
+  "https://openalex.org/W2763302490",
+  "https://openalex.org/W3100206575"
+ ],
+ "title": "Efficient computations of encodings for quantum error correction"
+}

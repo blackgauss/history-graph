@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 12,
+ "doi": "https://doi.org/10.2307/2273149",
+ "id": "https://openalex.org/W2103403562",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W567983113",
+  "https://openalex.org/W1864285868",
+  "https://openalex.org/W2003467926",
+  "https://openalex.org/W2029816444",
+  "https://openalex.org/W2150899916",
+  "https://openalex.org/W2167003332",
+  "https://openalex.org/W3046397786",
+  "https://openalex.org/W4249116257"
+ ],
+ "title": "On definition trees of ordinal recursive functionals: Reduction of the recursion orders by means of type level raising"
+}

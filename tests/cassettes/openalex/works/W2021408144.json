@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 105,
+ "doi": "https://doi.org/10.1109/t-aiee.1950.5060149",
+ "id": "https://openalex.org/W2021408144",
+ "publication_year": 1950,
+ "referenced_works": [
+  "https://openalex.org/W1583639636",
+  "https://openalex.org/W1988201357",
+  "https://openalex.org/W2038265211",
+  "https://openalex.org/W2287007264",
+  "https://openalex.org/W2532065386"
+ ],
+ "title": "A Frequency Response Method for Analyzing and Synthesizing Contactor Servomechanisms"
+}

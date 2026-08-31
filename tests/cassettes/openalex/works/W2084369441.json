@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 60,
+ "doi": "https://doi.org/10.1137/100785429",
+ "id": "https://openalex.org/W2084369441",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W1985538939",
+  "https://openalex.org/W1997855358",
+  "https://openalex.org/W2009813398",
+  "https://openalex.org/W2012496360",
+  "https://openalex.org/W2016987856",
+  "https://openalex.org/W2017095216",
+  "https://openalex.org/W2042194938",
+  "https://openalex.org/W2055194501",
+  "https://openalex.org/W2064334110",
+  "https://openalex.org/W2076599430",
+  "https://openalex.org/W2088390444",
+  "https://openalex.org/W2095546965",
+  "https://openalex.org/W2099718824",
+  "https://openalex.org/W2108852611",
+  "https://openalex.org/W2111385661",
+  "https://openalex.org/W2146453677",
+  "https://openalex.org/W2154224414",
+  "https://openalex.org/W2166793106",
+  "https://openalex.org/W2914377170",
+  "https://openalex.org/W2914539165",
+  "https://openalex.org/W3004537778",
+  "https://openalex.org/W3083751883"
+ ],
+ "title": "Testing Fourier Dimensionality and Sparsity"
+}

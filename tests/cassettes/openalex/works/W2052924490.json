@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 95,
+ "doi": "https://doi.org/10.14778/1920841.1920907",
+ "id": "https://openalex.org/W2052924490",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1261868982",
+  "https://openalex.org/W1502450072",
+  "https://openalex.org/W1964517503",
+  "https://openalex.org/W1978115992",
+  "https://openalex.org/W1987358714",
+  "https://openalex.org/W2008317524",
+  "https://openalex.org/W2054584570",
+  "https://openalex.org/W2063663576",
+  "https://openalex.org/W2106245372",
+  "https://openalex.org/W2107212030",
+  "https://openalex.org/W2110020044",
+  "https://openalex.org/W2111586962",
+  "https://openalex.org/W2121763550",
+  "https://openalex.org/W2135315786",
+  "https://openalex.org/W2148258946",
+  "https://openalex.org/W2148998558",
+  "https://openalex.org/W2150013559",
+  "https://openalex.org/W2153704625",
+  "https://openalex.org/W2171707251",
+  "https://openalex.org/W2182688186",
+  "https://openalex.org/W2212047990",
+  "https://openalex.org/W4241435959",
+  "https://openalex.org/W4255671299",
+  "https://openalex.org/W6686169942"
+ ],
+ "title": "Towards elastic transactional cloud storage with range query support"
+}

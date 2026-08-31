@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 341,
+ "doi": "https://doi.org/10.1145/1374376.1374475",
+ "id": "https://openalex.org/W2115519224",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W46877293",
+  "https://openalex.org/W1521084402",
+  "https://openalex.org/W1570963478",
+  "https://openalex.org/W1575658237",
+  "https://openalex.org/W1595409123",
+  "https://openalex.org/W1608015248",
+  "https://openalex.org/W1965270141",
+  "https://openalex.org/W2004001705",
+  "https://openalex.org/W2010189695",
+  "https://openalex.org/W2012731843",
+  "https://openalex.org/W2012933624",
+  "https://openalex.org/W2052664405",
+  "https://openalex.org/W2058000074",
+  "https://openalex.org/W2058879737",
+  "https://openalex.org/W2077902449",
+  "https://openalex.org/W2097487180",
+  "https://openalex.org/W2120745256",
+  "https://openalex.org/W2158807713",
+  "https://openalex.org/W2168405694",
+  "https://openalex.org/W4246270964",
+  "https://openalex.org/W6601920203",
+  "https://openalex.org/W6678178185"
+ ],
+ "title": "Multi-armed bandits in metric spaces"
+}

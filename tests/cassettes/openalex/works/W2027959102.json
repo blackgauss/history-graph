@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 24,
+ "doi": "https://doi.org/10.1016/1385-7258(87)90012-6",
+ "id": "https://openalex.org/W2027959102",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W1608607427",
+  "https://openalex.org/W2022062784",
+  "https://openalex.org/W2144503258",
+  "https://openalex.org/W2313175711",
+  "https://openalex.org/W6636376067",
+  "https://openalex.org/W6681370965"
+ ],
+ "title": "Exactly estimating functionals and strong normalization"
+}

@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1145/2229012.2229084",
+ "id": "https://openalex.org/W2041264641",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W1496637232",
+  "https://openalex.org/W1974169835",
+  "https://openalex.org/W1980175786",
+  "https://openalex.org/W1980340461",
+  "https://openalex.org/W2012634103",
+  "https://openalex.org/W2019762987",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2053175687",
+  "https://openalex.org/W2062373125",
+  "https://openalex.org/W2066298059",
+  "https://openalex.org/W2075543862",
+  "https://openalex.org/W2089886229",
+  "https://openalex.org/W2118681568",
+  "https://openalex.org/W2126170153",
+  "https://openalex.org/W2131101582",
+  "https://openalex.org/W2134729426",
+  "https://openalex.org/W2138043622",
+  "https://openalex.org/W2142495422",
+  "https://openalex.org/W2163989148",
+  "https://openalex.org/W2949610674",
+  "https://openalex.org/W3104057238",
+  "https://openalex.org/W3124738144",
+  "https://openalex.org/W3145413957"
+ ],
+ "title": "Single-call mechanisms"
+}

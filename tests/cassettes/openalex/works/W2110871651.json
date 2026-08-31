@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 410,
+ "doi": "https://doi.org/10.1145/1374376.1374414",
+ "id": "https://openalex.org/W2110871651",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W346787442",
+  "https://openalex.org/W1524356573",
+  "https://openalex.org/W1571037334",
+  "https://openalex.org/W1576805635",
+  "https://openalex.org/W1975810219",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W1999032440",
+  "https://openalex.org/W2004804919",
+  "https://openalex.org/W2014086530",
+  "https://openalex.org/W2070208264",
+  "https://openalex.org/W2073903404",
+  "https://openalex.org/W2095933180",
+  "https://openalex.org/W2099677042",
+  "https://openalex.org/W2120358419",
+  "https://openalex.org/W2127141092",
+  "https://openalex.org/W2131433282",
+  "https://openalex.org/W2133263321",
+  "https://openalex.org/W2137118456",
+  "https://openalex.org/W2137373403",
+  "https://openalex.org/W2143410554",
+  "https://openalex.org/W2149577432",
+  "https://openalex.org/W2165732281",
+  "https://openalex.org/W2951239126"
+ ],
+ "title": "Optimal algorithms and inapproximability results for every CSP?"
+}

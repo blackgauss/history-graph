@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 62,
+ "doi": "https://doi.org/10.1145/1348599.1348603",
+ "id": "https://openalex.org/W2009892466",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W129312031",
+  "https://openalex.org/W133666617",
+  "https://openalex.org/W1670263352",
+  "https://openalex.org/W1874294240",
+  "https://openalex.org/W1967766192",
+  "https://openalex.org/W1984349431",
+  "https://openalex.org/W1985514943",
+  "https://openalex.org/W2006969979",
+  "https://openalex.org/W2047221353",
+  "https://openalex.org/W2055955951",
+  "https://openalex.org/W2058200372",
+  "https://openalex.org/W2062270497",
+  "https://openalex.org/W2073448073",
+  "https://openalex.org/W2078861931",
+  "https://openalex.org/W2081580037",
+  "https://openalex.org/W2101105183",
+  "https://openalex.org/W2122288895",
+  "https://openalex.org/W2156577800",
+  "https://openalex.org/W2162355876",
+  "https://openalex.org/W2998215494",
+  "https://openalex.org/W3211848854",
+  "https://openalex.org/W4245107743"
+ ],
+ "title": "A noisy-channel approach to contextual advertising"
+}

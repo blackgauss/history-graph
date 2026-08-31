@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 18,
+ "doi": "https://doi.org/10.1145/602259.602275",
+ "id": "https://openalex.org/W1995023909",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W76115061",
+  "https://openalex.org/W1503711371",
+  "https://openalex.org/W1825667316",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W1982279067",
+  "https://openalex.org/W1987597980",
+  "https://openalex.org/W2084873722",
+  "https://openalex.org/W2087966340",
+  "https://openalex.org/W2092177011",
+  "https://openalex.org/W2092276439",
+  "https://openalex.org/W2161694911",
+  "https://openalex.org/W2296380339",
+  "https://openalex.org/W2901608006",
+  "https://openalex.org/W3189934495"
+ ],
+ "title": "A multikey hashing scheme using predicate trees"
+}

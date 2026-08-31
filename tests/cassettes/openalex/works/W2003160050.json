@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 1063,
+ "doi": "https://doi.org/10.1137/0205048",
+ "id": "https://openalex.org/W2003160050",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W100926944",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2063292248",
+  "https://openalex.org/W2150815458",
+  "https://openalex.org/W2157529519",
+  "https://openalex.org/W2322463788",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W4236842166"
+ ],
+ "title": "On the Complexity of Timetable and Multicommodity Flow Problems"
+}

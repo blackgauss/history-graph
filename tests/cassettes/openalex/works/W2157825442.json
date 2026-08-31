@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 22091,
+ "doi": "https://doi.org/10.1148/radiology.143.1.7063747",
+ "id": "https://openalex.org/W2157825442",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W1784695092",
+  "https://openalex.org/W1968114652",
+  "https://openalex.org/W1990534247",
+  "https://openalex.org/W1992978619",
+  "https://openalex.org/W2000056517",
+  "https://openalex.org/W2003777351",
+  "https://openalex.org/W2014966825",
+  "https://openalex.org/W2049172236",
+  "https://openalex.org/W2060136512",
+  "https://openalex.org/W2092034098"
+ ],
+ "title": "The meaning and use of the area under a receiver operating characteristic (ROC) curve."
+}

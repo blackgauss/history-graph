@@ -1,0 +1,599 @@
+{
+ "abstract_inverted_index": {
+  "Data": [
+   17
+  ],
+  "Google": [
+   109
+  ],
+  "Google.": [
+   69
+  ],
+  "Hadoop": [
+   114,
+   131,
+   182,
+   186
+  ],
+  "Here": [
+   54
+  ],
+  "Map": [
+   79
+  ],
+  "MapReduce": [
+   59,
+   83,
+   102,
+   129,
+   178
+  ],
+  "Our": [
+   126
+  ],
+  "Reduce.": [
+   81
+  ],
+  "The": [
+   37,
+   82,
+   185
+  ],
+  "This": [
+   70,
+   101,
+   155,
+   170
+  ],
+  "With": [
+   0
+  ],
+  "a": [
+   23
+  ],
+  "aimed": [
+   134
+  ],
+  "amount": [
+   27
+  ],
+  "an": [
+   9,
+   64,
+   116
+  ],
+  "and": [
+   25,
+   80,
+   89,
+   98,
+   110,
+   130,
+   138,
+   150,
+   159,
+   180,
+   196
+  ],
+  "application.": [
+   184
+  ],
+  "applied,": [
+   63
+  ],
+  "are": [
+   19,
+   164
+  ],
+  "arising": [
+   40
+  ],
+  "as": [
+   30
+  ],
+  "associated": [
+   65
+  ],
+  "at": [
+   135,
+   152
+  ],
+  "automatically": [
+   85
+  ],
+  "basics": [
+   176
+  ],
+  "big": [
+   38,
+   94,
+   162,
+   194
+  ],
+  "by": [
+   68
+  ],
+  "can": [
+   188
+  ],
+  "channels.": [
+   36
+  ],
+  "clusters": [
+   123
+  ],
+  "commodities.": [
+   125
+  ],
+  "complex": [
+   91
+  ],
+  "computation": [
+   75,
+   88,
+   120
+  ],
+  "computing": [
+   5
+  ],
+  "concern": [
+   39
+  ],
+  "data": [
+   44,
+   95,
+   163,
+   195
+  ],
+  "data,": [
+   29
+  ],
+  "data.": [
+   16
+  ],
+  "decision": [
+   51
+  ],
+  "development": [
+   3
+  ],
+  "discussing": [
+   136
+  ],
+  "distribution,": [
+   96
+  ],
+  "drastic": [
+   2
+  ],
+  "effective": [
+   167
+  ],
+  "ever-increasing": [
+   10,
+   26
+  ],
+  "every": [
+   148
+  ],
+  "fast.": [
+   199
+  ],
+  "fault": [
+   99
+  ],
+  "for": [
+   42,
+   49
+  ],
+  "formation": [
+   107
+  ],
+  "framework": [
+   132
+  ],
+  "functions;": [
+   78
+  ],
+  "growth": [
+   14
+  ],
+  "handle": [
+   90
+  ],
+  "handling": [
+   119,
+   192
+  ],
+  "has": [
+   115
+  ],
+  "here": [
+   41
+  ],
+  "identical": [
+   153
+  ],
+  "implementation": [
+   66,
+   103
+  ],
+  "implication": [
+   127
+  ],
+  "in": [
+   12,
+   55
+  ],
+  "including": [
+   93
+  ],
+  "introduced": [
+   67
+  ],
+  "involves": [
+   73
+  ],
+  "is": [
+   8,
+   45,
+   62,
+   133
+  ],
+  "large": [
+   24,
+   122,
+   157
+  ],
+  "large-scale": [
+   43
+  ],
+  "libraries": [
+   84
+  ],
+  "loads": [
+   97
+  ],
+  "machine": [
+   149
+  ],
+  "machines": [
+   145
+  ],
+  "maintained": [
+   165
+  ],
+  "making": [
+   52
+  ],
+  "manipulation": [
+   160
+  ],
+  "mechanism,": [
+   113
+  ],
+  "model": [
+   61,
+   72
+  ],
+  "more": [
+   34
+  ],
+  "now": [
+   32
+  ],
+  "objective": [
+   117
+  ],
+  "of": [
+   4,
+   15,
+   28,
+   76,
+   108,
+   118,
+   121,
+   124,
+   128,
+   140,
+   144,
+   161,
+   177,
+   193
+  ],
+  "open-source": [
+   112,
+   181
+  ],
+  "orientations.": [
+   169
+  ],
+  "overwhelmed": [
+   20
+  ],
+  "parallel": [
+   146
+  ],
+  "parallelize": [
+   86
+  ],
+  "petabytes": [
+   139
+  ],
+  "process": [
+   151
+  ],
+  "process.": [
+   53
+  ],
+  "processing": [
+   35,
+   158
+  ],
+  "programming": [
+   60,
+   71,
+   179
+  ],
+  "provide": [
+   47
+  ],
+  "requires": [
+   33
+  ],
+  "respond": [
+   197
+  ],
+  "result": [
+   168
+  ],
+  "scientists": [
+   18
+  ],
+  "show": [
+   173
+  ],
+  "source": [
+   106
+  ],
+  "speed": [
+   189
+  ],
+  "storage": [
+   141
+  ],
+  "structure": [
+   183
+  ],
+  "study": [
+   171
+  ],
+  "study,": [
+   57
+  ],
+  "such": [
+   22
+  ],
+  "support": [
+   48
+  ],
+  "system": [
+   187
+  ],
+  "tasks": [
+   92
+  ],
+  "technologies,": [
+   6
+  ],
+  "terabytes": [
+   137
+  ],
+  "the": [
+   1,
+   13,
+   50,
+   58,
+   74,
+   87,
+   105,
+   111,
+   175,
+   191
+  ],
+  "there": [
+   7
+  ],
+  "this": [
+   31,
+   56
+  ],
+  "thousands": [
+   143
+  ],
+  "times.": [
+   154
+  ],
+  "to": [
+   46,
+   147
+  ],
+  "tolerance.": [
+   100
+  ],
+  "trend": [
+   11
+  ],
+  "two": [
+   77
+  ],
+  "up": [
+   174,
+   190
+  ],
+  "very": [
+   198
+  ],
+  "way,": [
+   156
+  ],
+  "will": [
+   172
+  ],
+  "with": [
+   21,
+   104,
+   142,
+   166
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Abdiaziz Omar Hassan",
+    "id": "https://openalex.org/A5103115012",
+    "orcid": "https://orcid.org/0000-0002-9231-7755"
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Abdiaziz Omar Hassan",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Abdulkadir Abdulahi Hasan",
+    "id": "https://openalex.org/A5044894588",
+    "orcid": "https://orcid.org/0000-0001-7865-2189"
+   },
+   "author_position": "last",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Abdulkadir Abdulahi Hasan",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.11648/j.aas.20210603.11",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.11648/j.aas.20210603.11",
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "pdf_url": "https://article.sciencepublishinggroup.com/pdf/10.11648.j.aas.20210603.11.pdf",
+  "raw_source_name": "Advances in Applied Sciences",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Advances in Applied Sciences",
+   "host_organization": "https://openalex.org/P4310319272",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319272"
+   ],
+   "host_organization_lineage_names": [
+    "Science Publishing Group"
+   ],
+   "host_organization_name": "Science Publishing Group",
+   "id": "https://openalex.org/S4210195162",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "2575-1514",
+    "2575-2065"
+   ],
+   "issn_l": "2575-1514",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 5,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  }
+ ],
+ "doi": "https://doi.org/10.11648/j.aas.20210603.11",
+ "funders": [],
+ "id": "https://openalex.org/W3197931669",
+ "ids": {
+  "doi": "https://doi.org/10.11648/j.aas.20210603.11",
+  "mag": "3197931669",
+  "openalex": "https://openalex.org/W3197931669"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": true,
+  "oa_status": "diamond",
+  "oa_url": "https://article.sciencepublishinggroup.com/pdf/10.11648.j.aas.20210603.11.pdf"
+ },
+ "primary_location": {
+  "id": "doi:10.11648/j.aas.20210603.11",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.11648/j.aas.20210603.11",
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "pdf_url": "https://article.sciencepublishinggroup.com/pdf/10.11648.j.aas.20210603.11.pdf",
+  "raw_source_name": "Advances in Applied Sciences",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Advances in Applied Sciences",
+   "host_organization": "https://openalex.org/P4310319272",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319272"
+   ],
+   "host_organization_lineage_names": [
+    "Science Publishing Group"
+   ],
+   "host_organization_name": "Science Publishing Group",
+   "id": "https://openalex.org/S4210195162",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "2575-1514",
+    "2575-2065"
+   ],
+   "issn_l": "2575-1514",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2021,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2214057790",
+  "https://openalex.org/W2931267163",
+  "https://openalex.org/W2907938324",
+  "https://openalex.org/W2047678416",
+  "https://openalex.org/W2911684380",
+  "https://openalex.org/W2185866686",
+  "https://openalex.org/W1968081657",
+  "https://openalex.org/W2370417646",
+  "https://openalex.org/W3197931669",
+  "https://openalex.org/W2361160328"
+ ],
+ "title": "Simplified Data Processing for Large Cluster: A MapReduce and Hadoop Based Study",
+ "type": "article"
+}

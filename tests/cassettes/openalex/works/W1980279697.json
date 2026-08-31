@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 406,
+ "doi": "https://doi.org/10.1109/18.6037",
+ "id": "https://openalex.org/W1980279697",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W2058219874",
+  "https://openalex.org/W2106372992",
+  "https://openalex.org/W2154271831",
+  "https://openalex.org/W2161517294",
+  "https://openalex.org/W2163771680",
+  "https://openalex.org/W2312235895"
+ ],
+ "title": "A spectral characterization of correlation-immune combining functions"
+}

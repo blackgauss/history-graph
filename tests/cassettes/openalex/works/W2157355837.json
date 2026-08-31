@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 1183,
+ "doi": "https://doi.org/10.1145/1629175.1629198",
+ "id": "https://openalex.org/W2157355837",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W2098935637",
+  "https://openalex.org/W2114303224",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2119714163",
+  "https://openalex.org/W2122465391",
+  "https://openalex.org/W2125775320",
+  "https://openalex.org/W2624304035",
+  "https://openalex.org/W4238584892"
+ ],
+ "title": "MapReduce"
+}

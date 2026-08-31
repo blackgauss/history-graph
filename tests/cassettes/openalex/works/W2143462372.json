@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 1288,
+ "doi": "https://doi.org/10.1145/322217.322232",
+ "id": "https://openalex.org/W2143462372",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W319391157",
+  "https://openalex.org/W1533538517",
+  "https://openalex.org/W1985005492",
+  "https://openalex.org/W2081272455",
+  "https://openalex.org/W2752061190",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W2752908210",
+  "https://openalex.org/W3010672433",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6611022535",
+  "https://openalex.org/W6631841456",
+  "https://openalex.org/W6633749307",
+  "https://openalex.org/W6774566318"
+ ],
+ "title": "Parallel Prefix Computation"
+}

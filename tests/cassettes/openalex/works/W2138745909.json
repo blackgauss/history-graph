@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 4658,
+ "doi": "https://doi.org/10.1109/64.539013",
+ "id": "https://openalex.org/W2138745909",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W74651328",
+  "https://openalex.org/W1513282898",
+  "https://openalex.org/W1520252399",
+  "https://openalex.org/W1523293200",
+  "https://openalex.org/W1547515408",
+  "https://openalex.org/W1553696291",
+  "https://openalex.org/W1601529450",
+  "https://openalex.org/W1602329118",
+  "https://openalex.org/W1610836425",
+  "https://openalex.org/W1980520950",
+  "https://openalex.org/W2063279427",
+  "https://openalex.org/W2127715392",
+  "https://openalex.org/W2797383284",
+  "https://openalex.org/W2800394774",
+  "https://openalex.org/W2998778915",
+  "https://openalex.org/W3017143921",
+  "https://openalex.org/W3162744413",
+  "https://openalex.org/W4245351484",
+  "https://openalex.org/W6631217308",
+  "https://openalex.org/W6632725091",
+  "https://openalex.org/W6633402183",
+  "https://openalex.org/W6636079593",
+  "https://openalex.org/W6795176475"
+ ],
+ "title": "Data mining and knowledge discovery: making sense out of data"
+}

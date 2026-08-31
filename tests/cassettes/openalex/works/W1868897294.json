@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 75,
+ "doi": "https://doi.org/10.1109/sfcs.2005.57",
+ "id": "https://openalex.org/W1868897294",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W148978393",
+  "https://openalex.org/W183224012",
+  "https://openalex.org/W346787442",
+  "https://openalex.org/W1571037334",
+  "https://openalex.org/W1691008300",
+  "https://openalex.org/W1970259241",
+  "https://openalex.org/W1970670479",
+  "https://openalex.org/W1990811538",
+  "https://openalex.org/W2005090831",
+  "https://openalex.org/W2019578639",
+  "https://openalex.org/W2072858942",
+  "https://openalex.org/W2087789723",
+  "https://openalex.org/W2099677042",
+  "https://openalex.org/W2120358419",
+  "https://openalex.org/W2122914790",
+  "https://openalex.org/W2125703559",
+  "https://openalex.org/W2148352980",
+  "https://openalex.org/W2167681887",
+  "https://openalex.org/W2295665070",
+  "https://openalex.org/W2914959486",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6606110323",
+  "https://openalex.org/W6607393628",
+  "https://openalex.org/W6637551211"
+ ],
+ "title": "On Non-Approximability for Quadratic Programs"
+}

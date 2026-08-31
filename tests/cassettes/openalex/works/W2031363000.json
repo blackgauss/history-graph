@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 219,
+ "doi": "https://doi.org/10.1073/pnas.86.18.7265",
+ "id": "https://openalex.org/W2031363000",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1516329115",
+  "https://openalex.org/W1526180724",
+  "https://openalex.org/W1530011340",
+  "https://openalex.org/W1837967720",
+  "https://openalex.org/W1864836097",
+  "https://openalex.org/W1932061758",
+  "https://openalex.org/W1975700187",
+  "https://openalex.org/W1986081427",
+  "https://openalex.org/W2002593203",
+  "https://openalex.org/W2005598371",
+  "https://openalex.org/W2022036926",
+  "https://openalex.org/W2057213277",
+  "https://openalex.org/W2061888043",
+  "https://openalex.org/W2079173805",
+  "https://openalex.org/W2079948225",
+  "https://openalex.org/W2085319761",
+  "https://openalex.org/W2409387507",
+  "https://openalex.org/W2615909362"
+ ],
+ "title": "Reentrant signaling among simulated neuronal groups leads to coherency in their oscillatory activity."
+}

@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 37,
+ "doi": "https://doi.org/10.1145/331403.331404",
+ "id": "https://openalex.org/W2105831293",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1529442972",
+  "https://openalex.org/W1986903447",
+  "https://openalex.org/W1995503011",
+  "https://openalex.org/W2007563768",
+  "https://openalex.org/W2067970404",
+  "https://openalex.org/W2069888879",
+  "https://openalex.org/W2074449313",
+  "https://openalex.org/W2083305840",
+  "https://openalex.org/W2103793663",
+  "https://openalex.org/W2123829975",
+  "https://openalex.org/W2136127899",
+  "https://openalex.org/W4206419526",
+  "https://openalex.org/W4229717802",
+  "https://openalex.org/W4244980072",
+  "https://openalex.org/W4365787967"
+ ],
+ "title": "Economics and search"
+}

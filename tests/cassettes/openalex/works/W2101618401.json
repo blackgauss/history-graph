@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 44,
+ "doi": null,
+ "id": "https://openalex.org/W2101618401",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W117096852",
+  "https://openalex.org/W121088383",
+  "https://openalex.org/W1509703770",
+  "https://openalex.org/W1512416947",
+  "https://openalex.org/W1558897762",
+  "https://openalex.org/W1990948551",
+  "https://openalex.org/W2001109406",
+  "https://openalex.org/W2007431958",
+  "https://openalex.org/W2010267345",
+  "https://openalex.org/W2014744906",
+  "https://openalex.org/W2042149309",
+  "https://openalex.org/W2042492924",
+  "https://openalex.org/W2061079066",
+  "https://openalex.org/W2078206416",
+  "https://openalex.org/W2101927907",
+  "https://openalex.org/W2107725879",
+  "https://openalex.org/W2118373646",
+  "https://openalex.org/W2128084896",
+  "https://openalex.org/W2141394518",
+  "https://openalex.org/W2144862731",
+  "https://openalex.org/W2161868780"
+ ],
+ "title": "Implications of Recursive Distributed Representations"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 79,
+ "doi": "https://doi.org/10.1007/978-3-540-27813-9_40",
+ "id": "https://openalex.org/W1838348862",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1494254596",
+  "https://openalex.org/W1531082202",
+  "https://openalex.org/W1532000439",
+  "https://openalex.org/W1534850143",
+  "https://openalex.org/W1553731663",
+  "https://openalex.org/W1582571943",
+  "https://openalex.org/W1592502301",
+  "https://openalex.org/W1601517679",
+  "https://openalex.org/W1834186039",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W2092019763",
+  "https://openalex.org/W2100126165",
+  "https://openalex.org/W2118154221",
+  "https://openalex.org/W2162284942",
+  "https://openalex.org/W2165775376",
+  "https://openalex.org/W4242057943",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "The UCLID Decision Procedure"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 129,
+ "doi": "https://doi.org/10.1090/s0025-5718-1959-0107376-8",
+ "id": "https://openalex.org/W2106017103",
+ "publication_year": 1959,
+ "referenced_works": [
+  "https://openalex.org/W2091735588",
+  "https://openalex.org/W2095095223",
+  "https://openalex.org/W2119844726",
+  "https://openalex.org/W2124122727",
+  "https://openalex.org/W2341171179",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Functional approximations and dynamic programming"
+}

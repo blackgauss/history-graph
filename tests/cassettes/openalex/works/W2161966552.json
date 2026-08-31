@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 361,
+ "doi": null,
+ "id": "https://openalex.org/W2161966552",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1491843047",
+  "https://openalex.org/W1513468570",
+  "https://openalex.org/W1515851193",
+  "https://openalex.org/W1542941925",
+  "https://openalex.org/W1554015367",
+  "https://openalex.org/W1603308216",
+  "https://openalex.org/W1629423284",
+  "https://openalex.org/W1863227302",
+  "https://openalex.org/W1968136409",
+  "https://openalex.org/W1979865129",
+  "https://openalex.org/W2028357975",
+  "https://openalex.org/W2048226872",
+  "https://openalex.org/W2107726111",
+  "https://openalex.org/W2121863487",
+  "https://openalex.org/W2156268532",
+  "https://openalex.org/W2174806087",
+  "https://openalex.org/W3023407077",
+  "https://openalex.org/W3124659111"
+ ],
+ "title": "R-MAX: a general polynomial time algorithm for near-optimal reinforcement learning"
+}

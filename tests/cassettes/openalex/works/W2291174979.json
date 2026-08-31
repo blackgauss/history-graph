@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 26,
+ "doi": "https://doi.org/10.1016/b978-1-55860-200-7.50071-4",
+ "id": "https://openalex.org/W2291174979",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W186192193",
+  "https://openalex.org/W1497256448",
+  "https://openalex.org/W1535810436",
+  "https://openalex.org/W1607045920",
+  "https://openalex.org/W1984314602",
+  "https://openalex.org/W2119796132",
+  "https://openalex.org/W2579555219",
+  "https://openalex.org/W2784022806",
+  "https://openalex.org/W4253110186",
+  "https://openalex.org/W6632223199",
+  "https://openalex.org/W6636555072",
+  "https://openalex.org/W6747855118",
+  "https://openalex.org/W6990948204"
+ ],
+ "title": "Incremental Development of Complex Behaviors through Automatic Construction of Sensory-motor Hierarchies"
+}

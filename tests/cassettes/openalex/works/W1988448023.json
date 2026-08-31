@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 56,
+ "doi": "https://doi.org/10.1103/physreva.62.022304",
+ "id": "https://openalex.org/W1988448023",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1619888535",
+  "https://openalex.org/W1784120331",
+  "https://openalex.org/W1963656723",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W1980856895",
+  "https://openalex.org/W1996143597",
+  "https://openalex.org/W1996519437",
+  "https://openalex.org/W2031890195",
+  "https://openalex.org/W2044573796",
+  "https://openalex.org/W2049524748",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2062505117",
+  "https://openalex.org/W2063981333",
+  "https://openalex.org/W2067120233",
+  "https://openalex.org/W2084941651",
+  "https://openalex.org/W2086068613",
+  "https://openalex.org/W2100715286",
+  "https://openalex.org/W2109741106",
+  "https://openalex.org/W2148123045",
+  "https://openalex.org/W2262539039",
+  "https://openalex.org/W3151817671",
+  "https://openalex.org/W4293039876"
+ ],
+ "title": "NMR quantum computation with indirectly coupled gates"
+}

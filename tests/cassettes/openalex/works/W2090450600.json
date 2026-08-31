@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 162,
+ "doi": "https://doi.org/10.1080/01621459.1983.10477942",
+ "id": "https://openalex.org/W2090450600",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W1965555277",
+  "https://openalex.org/W1983350937",
+  "https://openalex.org/W1988788528",
+  "https://openalex.org/W1992129502",
+  "https://openalex.org/W1996968427",
+  "https://openalex.org/W1998613841",
+  "https://openalex.org/W2101298354",
+  "https://openalex.org/W2118924197",
+  "https://openalex.org/W2905062728",
+  "https://openalex.org/W3200361168",
+  "https://openalex.org/W3203685841",
+  "https://openalex.org/W4206495155",
+  "https://openalex.org/W4234731922",
+  "https://openalex.org/W4235503503"
+ ],
+ "title": "A Predictive View of the Detection and Characterization of Influential Observations in Regression Analysis"
+}

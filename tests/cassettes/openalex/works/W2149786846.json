@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 152,
+ "doi": "https://doi.org/10.1016/s0014-2921(00)00057-x",
+ "id": "https://openalex.org/W2149786846",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W2002095701",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2033550085",
+  "https://openalex.org/W2035239570",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W4251083239",
+  "https://openalex.org/W6834590392"
+ ],
+ "title": "Auctions, development, and privatization: Efficient auctions with liquidity-constrained buyers"
+}

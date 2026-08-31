@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.5555/800129.804221",
+ "id": "https://openalex.org/W2074816618",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W94921875",
+  "https://openalex.org/W127812686",
+  "https://openalex.org/W1481658262",
+  "https://openalex.org/W1502955189",
+  "https://openalex.org/W1661783106",
+  "https://openalex.org/W1677852443",
+  "https://openalex.org/W1937706874",
+  "https://openalex.org/W1993225874",
+  "https://openalex.org/W2031011305",
+  "https://openalex.org/W2073286344",
+  "https://openalex.org/W2093303289",
+  "https://openalex.org/W2174635824",
+  "https://openalex.org/W2314816493",
+  "https://openalex.org/W2319549361",
+  "https://openalex.org/W2995422080",
+  "https://openalex.org/W3182208082"
+ ],
+ "title": "Fault secure multiple-valued logic networks"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 19499,
+ "doi": "https://doi.org/10.1073/pnas.79.8.2554",
+ "id": "https://openalex.org/W2128084896",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W1504026171",
+  "https://openalex.org/W1594524188",
+  "https://openalex.org/W1995708070",
+  "https://openalex.org/W2006327398",
+  "https://openalex.org/W2008949495",
+  "https://openalex.org/W2010618115",
+  "https://openalex.org/W2055791246",
+  "https://openalex.org/W2056603317",
+  "https://openalex.org/W2057529293",
+  "https://openalex.org/W2078955281",
+  "https://openalex.org/W2086789740",
+  "https://openalex.org/W2137052769",
+  "https://openalex.org/W2155051950",
+  "https://openalex.org/W2159550387",
+  "https://openalex.org/W2167531287",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Neural networks and physical systems with emergent collective computational abilities."
+}

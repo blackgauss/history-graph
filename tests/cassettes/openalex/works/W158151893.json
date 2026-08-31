@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1007/978-3-7091-7533-0_62",
+ "id": "https://openalex.org/W158151893",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W12419631",
+  "https://openalex.org/W319779626",
+  "https://openalex.org/W1520935121",
+  "https://openalex.org/W1525245490",
+  "https://openalex.org/W1552665365",
+  "https://openalex.org/W1652032257",
+  "https://openalex.org/W2165727492",
+  "https://openalex.org/W2397253692",
+  "https://openalex.org/W2587573685",
+  "https://openalex.org/W3167624617",
+  "https://openalex.org/W4231563569",
+  "https://openalex.org/W7010478067"
+ ],
+ "title": "Evolving Recurrent Dynamical Networks for Robot Control"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 143,
+ "doi": "https://doi.org/10.21437/interspeech.2014-483",
+ "id": "https://openalex.org/W2406392101",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W1499864241",
+  "https://openalex.org/W1552802452",
+  "https://openalex.org/W1983072039",
+  "https://openalex.org/W1993177724",
+  "https://openalex.org/W2005708641",
+  "https://openalex.org/W2036028057",
+  "https://openalex.org/W2038262612",
+  "https://openalex.org/W2056119007",
+  "https://openalex.org/W2091409162",
+  "https://openalex.org/W2116261113",
+  "https://openalex.org/W2116612257",
+  "https://openalex.org/W2121564724",
+  "https://openalex.org/W2125168896",
+  "https://openalex.org/W2137310491",
+  "https://openalex.org/W2168231600",
+  "https://openalex.org/W2172287020",
+  "https://openalex.org/W2293634267",
+  "https://openalex.org/W2296748324",
+  "https://openalex.org/W2340176088",
+  "https://openalex.org/W2408021097",
+  "https://openalex.org/W3088136735"
+ ],
+ "title": "Automatic language identification using long short-term memory recurrent neural networks"
+}

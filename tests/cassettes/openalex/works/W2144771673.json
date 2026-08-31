@@ -1,0 +1,128 @@
+{
+ "cited_by_count": 268,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1016/b978-155860869-6/50026-3",
+ "id": "https://openalex.org/W2144771673",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W95089647",
+  "https://openalex.org/W150801922",
+  "https://openalex.org/W159696915",
+  "https://openalex.org/W176053229",
+  "https://openalex.org/W1038880137",
+  "https://openalex.org/W1489645136",
+  "https://openalex.org/W1493149182",
+  "https://openalex.org/W1521528587",
+  "https://openalex.org/W1556601737",
+  "https://openalex.org/W1574235692",
+  "https://openalex.org/W1637025029",
+  "https://openalex.org/W1684311429",
+  "https://openalex.org/W1749554492",
+  "https://openalex.org/W1967087829",
+  "https://openalex.org/W1971405342",
+  "https://openalex.org/W1971652947",
+  "https://openalex.org/W1993863827",
+  "https://openalex.org/W1999276015",
+  "https://openalex.org/W2002110561",
+  "https://openalex.org/W2004110412",
+  "https://openalex.org/W2004154913",
+  "https://openalex.org/W2012568697",
+  "https://openalex.org/W2044534358",
+  "https://openalex.org/W2066417879",
+  "https://openalex.org/W2081189989",
+  "https://openalex.org/W2099397891",
+  "https://openalex.org/W2109149785",
+  "https://openalex.org/W2111967617",
+  "https://openalex.org/W2116502002",
+  "https://openalex.org/W2118828104",
+  "https://openalex.org/W2120754641",
+  "https://openalex.org/W2132461362",
+  "https://openalex.org/W2132520482",
+  "https://openalex.org/W2135499008",
+  "https://openalex.org/W2137139964",
+  "https://openalex.org/W2141174150",
+  "https://openalex.org/W2141255973",
+  "https://openalex.org/W2169593628",
+  "https://openalex.org/W2203361072",
+  "https://openalex.org/W4235950841",
+  "https://openalex.org/W4239368013",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6603855625",
+  "https://openalex.org/W6606504451",
+  "https://openalex.org/W6607119070",
+  "https://openalex.org/W6629332843",
+  "https://openalex.org/W6631288422",
+  "https://openalex.org/W6633324141",
+  "https://openalex.org/W6636611074",
+  "https://openalex.org/W6637492368",
+  "https://openalex.org/W6637798150",
+  "https://openalex.org/W6641918736",
+  "https://openalex.org/W6643118656",
+  "https://openalex.org/W6643371881",
+  "https://openalex.org/W6648683107",
+  "https://openalex.org/W6650784929",
+  "https://openalex.org/W6651501198",
+  "https://openalex.org/W6661533297",
+  "https://openalex.org/W6666675269",
+  "https://openalex.org/W6670855801",
+  "https://openalex.org/W6674628458",
+  "https://openalex.org/W6676390144",
+  "https://openalex.org/W6677535925",
+  "https://openalex.org/W6677863234",
+  "https://openalex.org/W6680002338",
+  "https://openalex.org/W6681016396",
+  "https://openalex.org/W6681041171",
+  "https://openalex.org/W6685095342",
+  "https://openalex.org/W6921919537"
+ ],
+ "title": "Streaming Queries over Streaming Data"
+}

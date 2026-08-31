@@ -1,0 +1,41 @@
+{
+ "cited_by_count": 327,
+ "counts_by_year": [
+  {
+   "cited_by_count": 16,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 73,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2019
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3292500.3330984",
+ "id": "https://openalex.org/W2951645301",
+ "publication_year": 2019,
+ "title": "Hierarchical Gating Networks for Sequential Recommendation"
+}

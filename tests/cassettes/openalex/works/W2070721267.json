@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1145/2187980.2188085",
+ "id": "https://openalex.org/W2070721267",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W2059507684",
+  "https://openalex.org/W2162979096",
+  "https://openalex.org/W3122305203"
+ ],
+ "title": "Fast and cost-efficient bid estimation for contextual ads"
+}

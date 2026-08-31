@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 6348,
+ "doi": "https://doi.org/10.1109/jrproc.1952.273898",
+ "id": "https://openalex.org/W2060108852",
+ "publication_year": 1952,
+ "referenced_works": [
+  "https://openalex.org/W1509016759",
+  "https://openalex.org/W1995875735",
+  "https://openalex.org/W2264297261",
+  "https://openalex.org/W2993383518"
+ ],
+ "title": "A Method for the Construction of Minimum-Redundancy Codes"
+}

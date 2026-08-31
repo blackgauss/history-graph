@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 291,
+ "doi": "https://doi.org/10.1126/science.270.5242.1633",
+ "id": "https://openalex.org/W2107050628",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1480539485",
+  "https://openalex.org/W1967045838",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W1993248778",
+  "https://openalex.org/W2017920704",
+  "https://openalex.org/W2032207635",
+  "https://openalex.org/W2045664183",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2071090470",
+  "https://openalex.org/W2089610453",
+  "https://openalex.org/W2126916397",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2163440371",
+  "https://openalex.org/W2168676717",
+  "https://openalex.org/W2179025976",
+  "https://openalex.org/W2748837517",
+  "https://openalex.org/W2798333393",
+  "https://openalex.org/W4240221988"
+ ],
+ "title": "Quantum Computers, Factoring, and Decoherence"
+}

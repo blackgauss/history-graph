@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 319,
+ "doi": "https://doi.org/10.1007/bf02612354",
+ "id": "https://openalex.org/W2006293258",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W160765491",
+  "https://openalex.org/W237901802",
+  "https://openalex.org/W1044267164",
+  "https://openalex.org/W1513772636",
+  "https://openalex.org/W1516286204",
+  "https://openalex.org/W1680189815",
+  "https://openalex.org/W1844342971",
+  "https://openalex.org/W1980985059",
+  "https://openalex.org/W1992428442",
+  "https://openalex.org/W2005982472",
+  "https://openalex.org/W2013415302",
+  "https://openalex.org/W2031823362",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2072322181",
+  "https://openalex.org/W2090526848",
+  "https://openalex.org/W2125690626",
+  "https://openalex.org/W2167925113",
+  "https://openalex.org/W2250294758",
+  "https://openalex.org/W2400759987",
+  "https://openalex.org/W4242462359",
+  "https://openalex.org/W4248205010"
+ ],
+ "title": "Roof duality, complementation and persistency in quadratic 0–1 optimization"
+}

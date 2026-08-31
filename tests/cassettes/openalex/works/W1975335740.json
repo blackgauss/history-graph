@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 723,
+ "doi": "https://doi.org/10.1145/157485.164890",
+ "id": "https://openalex.org/W1975335740",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1518386595",
+  "https://openalex.org/W1994143452",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2082001401",
+  "https://openalex.org/W2109449313",
+  "https://openalex.org/W2113033572",
+  "https://openalex.org/W2133491672",
+  "https://openalex.org/W2136724706",
+  "https://openalex.org/W2150119568",
+  "https://openalex.org/W2154030608",
+  "https://openalex.org/W2168881618"
+ ],
+ "title": "Zero-suppressed BDDs for set manipulation in combinatorial problems"
+}

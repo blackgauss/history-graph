@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 5920,
+ "doi": "https://doi.org/10.1023/a:1013689704352",
+ "id": "https://openalex.org/W2168405694",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W146031494",
+  "https://openalex.org/W1497256448",
+  "https://openalex.org/W1515851193",
+  "https://openalex.org/W1659842140",
+  "https://openalex.org/W1963488305",
+  "https://openalex.org/W1970097186",
+  "https://openalex.org/W1977823770",
+  "https://openalex.org/W1983962754",
+  "https://openalex.org/W2000080679",
+  "https://openalex.org/W2009551863",
+  "https://openalex.org/W2010029425",
+  "https://openalex.org/W2121863487",
+  "https://openalex.org/W2167325442",
+  "https://openalex.org/W2317700292",
+  "https://openalex.org/W4214717370",
+  "https://openalex.org/W4242941051",
+  "https://openalex.org/W4246270964",
+  "https://openalex.org/W4254113915",
+  "https://openalex.org/W4292025355",
+  "https://openalex.org/W6677916085"
+ ],
+ "title": "Finite-time Analysis of the Multiarmed Bandit Problem"
+}

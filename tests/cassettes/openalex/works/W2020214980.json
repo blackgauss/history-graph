@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 1307,
+ "doi": "https://doi.org/10.1214/aos/1176345513",
+ "id": "https://openalex.org/W2020214980",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W131309915",
+  "https://openalex.org/W1592680957",
+  "https://openalex.org/W1975386608",
+  "https://openalex.org/W1983350937",
+  "https://openalex.org/W1998613841",
+  "https://openalex.org/W2048997388",
+  "https://openalex.org/W2118924197",
+  "https://openalex.org/W2133501628",
+  "https://openalex.org/W2800289289",
+  "https://openalex.org/W2801490189",
+  "https://openalex.org/W2905062728",
+  "https://openalex.org/W3199011839"
+ ],
+ "title": "Logistic Regression Diagnostics"
+}

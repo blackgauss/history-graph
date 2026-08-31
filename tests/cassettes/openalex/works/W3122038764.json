@@ -1,0 +1,133 @@
+{
+ "cited_by_count": 86,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1016/j.ijindorg.2013.04.003",
+ "id": "https://openalex.org/W3122038764",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W174744101",
+  "https://openalex.org/W1491138414",
+  "https://openalex.org/W1500691954",
+  "https://openalex.org/W1516531249",
+  "https://openalex.org/W1528949297",
+  "https://openalex.org/W1584918192",
+  "https://openalex.org/W1974876572",
+  "https://openalex.org/W1975118206",
+  "https://openalex.org/W2002264611",
+  "https://openalex.org/W2008975493",
+  "https://openalex.org/W2009257687",
+  "https://openalex.org/W2040452369",
+  "https://openalex.org/W2044558565",
+  "https://openalex.org/W2052663211",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2083498820",
+  "https://openalex.org/W2085225290",
+  "https://openalex.org/W2090747968",
+  "https://openalex.org/W2101782430",
+  "https://openalex.org/W2108155849",
+  "https://openalex.org/W2111364868",
+  "https://openalex.org/W2115965330",
+  "https://openalex.org/W2129489707",
+  "https://openalex.org/W2129998937",
+  "https://openalex.org/W2133198311",
+  "https://openalex.org/W2135060498",
+  "https://openalex.org/W2141629583",
+  "https://openalex.org/W2144333449",
+  "https://openalex.org/W2145855115",
+  "https://openalex.org/W2147982124",
+  "https://openalex.org/W2154327930",
+  "https://openalex.org/W2157829758",
+  "https://openalex.org/W2162394870",
+  "https://openalex.org/W2172137090",
+  "https://openalex.org/W2352841130",
+  "https://openalex.org/W2747201710",
+  "https://openalex.org/W2892331156",
+  "https://openalex.org/W3021909905",
+  "https://openalex.org/W3022626386",
+  "https://openalex.org/W3105433983",
+  "https://openalex.org/W3121736001",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3122347109",
+  "https://openalex.org/W3123545160",
+  "https://openalex.org/W3123656730",
+  "https://openalex.org/W3123865676",
+  "https://openalex.org/W3124299361",
+  "https://openalex.org/W3124772166",
+  "https://openalex.org/W3124882196",
+  "https://openalex.org/W3125188253",
+  "https://openalex.org/W3125195850",
+  "https://openalex.org/W3125498024",
+  "https://openalex.org/W3125965983",
+  "https://openalex.org/W4210588155",
+  "https://openalex.org/W4231144620",
+  "https://openalex.org/W4241516811",
+  "https://openalex.org/W4256152628",
+  "https://openalex.org/W6663450361",
+  "https://openalex.org/W6667169455",
+  "https://openalex.org/W6672859929",
+  "https://openalex.org/W6705755394",
+  "https://openalex.org/W7061509391"
+ ],
+ "title": "Search engines: Left side quality versus right side profits"
+}

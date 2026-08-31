@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 201,
+ "doi": null,
+ "id": "https://openalex.org/W2147834490",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W85350352",
+  "https://openalex.org/W116380033",
+  "https://openalex.org/W1524761913",
+  "https://openalex.org/W1535147726",
+  "https://openalex.org/W1588282782",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1595468493",
+  "https://openalex.org/W1605695115",
+  "https://openalex.org/W1696243063",
+  "https://openalex.org/W1833977909",
+  "https://openalex.org/W2048448061",
+  "https://openalex.org/W2058732827",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2146935111",
+  "https://openalex.org/W2167793421",
+  "https://openalex.org/W2170913656",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Exploiting the Cost (In)sensitivity of Decision Tree Splitting Criteria"
+}

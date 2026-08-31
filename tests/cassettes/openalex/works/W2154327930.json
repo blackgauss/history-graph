@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 87,
+ "doi": "https://doi.org/10.1016/j.geb.2008.12.003",
+ "id": "https://openalex.org/W2154327930",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1558004581",
+  "https://openalex.org/W1969028417",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2048923988",
+  "https://openalex.org/W2068115726",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2085901354",
+  "https://openalex.org/W2096375861",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2143529993",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W2337763294",
+  "https://openalex.org/W2612690410",
+  "https://openalex.org/W2914071838",
+  "https://openalex.org/W3121235808",
+  "https://openalex.org/W3122206366",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3123388428",
+  "https://openalex.org/W3124144364",
+  "https://openalex.org/W4205960197",
+  "https://openalex.org/W4235234911",
+  "https://openalex.org/W4251083239",
+  "https://openalex.org/W6633380777",
+  "https://openalex.org/W6812656446"
+ ],
+ "title": "Simplified mechanisms with an application to sponsored-search auctions"
+}

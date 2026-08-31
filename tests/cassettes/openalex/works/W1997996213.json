@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 657,
+ "doi": "https://doi.org/10.1109/tcom.1977.1093711",
+ "id": "https://openalex.org/W1997996213",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1579344322",
+  "https://openalex.org/W1986215185",
+  "https://openalex.org/W2006122291",
+  "https://openalex.org/W2021136283",
+  "https://openalex.org/W2121756644",
+  "https://openalex.org/W2129239342",
+  "https://openalex.org/W2155681385",
+  "https://openalex.org/W3014789883",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A Minimum Delay Routing Algorithm Using Distributed Computation"
+}

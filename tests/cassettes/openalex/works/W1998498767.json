@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 2238,
+ "doi": "https://doi.org/10.1090/s0002-9904-1952-09620-8",
+ "id": "https://openalex.org/W1998498767",
+ "publication_year": 1952,
+ "referenced_works": [
+  "https://openalex.org/W1970581595",
+  "https://openalex.org/W1974868643",
+  "https://openalex.org/W1976120633",
+  "https://openalex.org/W1977959532",
+  "https://openalex.org/W1994616650",
+  "https://openalex.org/W2023139942",
+  "https://openalex.org/W2046495522",
+  "https://openalex.org/W2315011438"
+ ],
+ "title": "Some aspects of the sequential design of experiments"
+}

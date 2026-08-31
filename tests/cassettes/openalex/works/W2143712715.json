@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 218,
+ "doi": "https://doi.org/10.1017/9781316471609.007",
+ "id": "https://openalex.org/W2143712715",
+ "publication_year": 2017,
+ "referenced_works": [
+  "https://openalex.org/W1549789182",
+  "https://openalex.org/W1856263053",
+  "https://openalex.org/W1925608425",
+  "https://openalex.org/W1954834360",
+  "https://openalex.org/W2055943083",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2057067174",
+  "https://openalex.org/W2063145239",
+  "https://openalex.org/W2072238833",
+  "https://openalex.org/W2102636809",
+  "https://openalex.org/W2112959886",
+  "https://openalex.org/W2116814789",
+  "https://openalex.org/W2128196408",
+  "https://openalex.org/W2131767916",
+  "https://openalex.org/W2150880868",
+  "https://openalex.org/W2169269659",
+  "https://openalex.org/W2612690410",
+  "https://openalex.org/W3022015666",
+  "https://openalex.org/W3123111994"
+ ],
+ "title": "The Clock-Proxy Auction: A Practical Combinatorial Auction Design"
+}

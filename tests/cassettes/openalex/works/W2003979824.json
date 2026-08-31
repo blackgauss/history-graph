@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 382,
+ "doi": "https://doi.org/10.1016/0166-218x(84)90081-7",
+ "id": "https://openalex.org/W2003979824",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1554451661",
+  "https://openalex.org/W2003160050",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2055569927",
+  "https://openalex.org/W2063292248",
+  "https://openalex.org/W6659573362"
+ ],
+ "title": "A simplified NP-complete satisfiability problem"
+}

@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 298,
+ "doi": "https://doi.org/10.1109/icip.2013.6738831",
+ "id": "https://openalex.org/W2092985495",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W73247952",
+  "https://openalex.org/W1534665966",
+  "https://openalex.org/W1601963269",
+  "https://openalex.org/W1752712236",
+  "https://openalex.org/W1968995181",
+  "https://openalex.org/W1969013163",
+  "https://openalex.org/W2067443156",
+  "https://openalex.org/W2101926813",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2117876524",
+  "https://openalex.org/W2132424367",
+  "https://openalex.org/W2141125852",
+  "https://openalex.org/W2148461049",
+  "https://openalex.org/W2156163116",
+  "https://openalex.org/W2163605009",
+  "https://openalex.org/W2167510172",
+  "https://openalex.org/W2168231600",
+  "https://openalex.org/W2618530766",
+  "https://openalex.org/W3118608800",
+  "https://openalex.org/W6631860765",
+  "https://openalex.org/W6681813608",
+  "https://openalex.org/W6684191040",
+  "https://openalex.org/W6684372118",
+  "https://openalex.org/W6684859321"
+ ],
+ "title": "Fast image scanning with deep max-pooling convolutional neural networks"
+}

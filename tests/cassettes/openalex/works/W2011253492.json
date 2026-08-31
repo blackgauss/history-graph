@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 158,
+ "doi": "https://doi.org/10.1007/bf01399316",
+ "id": "https://openalex.org/W2011253492",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W73538446",
+  "https://openalex.org/W1484494266",
+  "https://openalex.org/W1549376673",
+  "https://openalex.org/W1601677479",
+  "https://openalex.org/W1635457335",
+  "https://openalex.org/W1653619892",
+  "https://openalex.org/W1966539012",
+  "https://openalex.org/W1993009357",
+  "https://openalex.org/W1993247264",
+  "https://openalex.org/W2003385023",
+  "https://openalex.org/W2005724054",
+  "https://openalex.org/W2035079355",
+  "https://openalex.org/W2043382734",
+  "https://openalex.org/W2044751500",
+  "https://openalex.org/W2054171867",
+  "https://openalex.org/W2061054410",
+  "https://openalex.org/W2062294426",
+  "https://openalex.org/W2069828243",
+  "https://openalex.org/W2082003847",
+  "https://openalex.org/W2151317657",
+  "https://openalex.org/W2484118837",
+  "https://openalex.org/W3089552053",
+  "https://openalex.org/W3141890267",
+  "https://openalex.org/W4298334204"
+ ],
+ "title": "Partitioned variable metric updates for large structured optimization problems"
+}

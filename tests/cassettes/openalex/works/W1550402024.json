@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 167,
+ "doi": "https://doi.org/10.1016/s0004-3702(83)80007-1",
+ "id": "https://openalex.org/W1550402024",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W163267091",
+  "https://openalex.org/W1969377401",
+  "https://openalex.org/W1980584633",
+  "https://openalex.org/W1995067748",
+  "https://openalex.org/W2015528568",
+  "https://openalex.org/W2016042296",
+  "https://openalex.org/W2024182184",
+  "https://openalex.org/W2037712946",
+  "https://openalex.org/W2046440749",
+  "https://openalex.org/W2055978814",
+  "https://openalex.org/W3151530276",
+  "https://openalex.org/W6606647836",
+  "https://openalex.org/W6649034745",
+  "https://openalex.org/W6654201315"
+ ],
+ "title": "Search rearrangement backtracking and polynomial average time"
+}

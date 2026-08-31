@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 296,
+ "doi": "https://doi.org/10.1145/2422.322411",
+ "id": "https://openalex.org/W2030670832",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W149859832",
+  "https://openalex.org/W1511590542",
+  "https://openalex.org/W1986022261",
+  "https://openalex.org/W1988192943",
+  "https://openalex.org/W2000346568",
+  "https://openalex.org/W2007748565",
+  "https://openalex.org/W2016944512",
+  "https://openalex.org/W2036915776",
+  "https://openalex.org/W2153131284",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2561675875"
+ ],
+ "title": "Deciding Combinations of Theories"
+}

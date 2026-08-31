@@ -1,0 +1,79 @@
+{
+ "cited_by_count": 500,
+ "counts_by_year": [
+  {
+   "cited_by_count": 7,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.2307/1913320",
+ "id": "https://openalex.org/W2094208470",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1480349311",
+  "https://openalex.org/W1519025159",
+  "https://openalex.org/W1974033091",
+  "https://openalex.org/W2014519439",
+  "https://openalex.org/W2068115726",
+  "https://openalex.org/W2076851875",
+  "https://openalex.org/W2222512263",
+  "https://openalex.org/W3121235808"
+ ],
+ "title": "Job Matching with Heterogeneous Firms and Workers"
+}

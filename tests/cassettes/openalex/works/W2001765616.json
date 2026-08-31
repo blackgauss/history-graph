@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 107,
+ "doi": "https://doi.org/10.1016/s0196-8858(02)00023-4",
+ "id": "https://openalex.org/W2001765616",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W645616100",
+  "https://openalex.org/W1586124026",
+  "https://openalex.org/W1816357711",
+  "https://openalex.org/W1987065717",
+  "https://openalex.org/W2005090831",
+  "https://openalex.org/W2018029507",
+  "https://openalex.org/W2042433727",
+  "https://openalex.org/W2043278166",
+  "https://openalex.org/W2044440398",
+  "https://openalex.org/W2054586673",
+  "https://openalex.org/W2073310493",
+  "https://openalex.org/W2074734756",
+  "https://openalex.org/W2081254453",
+  "https://openalex.org/W2103749128",
+  "https://openalex.org/W2169207476",
+  "https://openalex.org/W2404894606",
+  "https://openalex.org/W3023888380",
+  "https://openalex.org/W4232648056",
+  "https://openalex.org/W6637522886",
+  "https://openalex.org/W6668715427",
+  "https://openalex.org/W6675597036"
+ ],
+ "title": "A Fourier-theoretic perspective on the Condorcet paradox and Arrow's theorem"
+}

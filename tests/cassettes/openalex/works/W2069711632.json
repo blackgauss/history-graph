@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 1277,
+ "doi": "https://doi.org/10.1103/physreva.54.1862",
+ "id": "https://openalex.org/W2069711632",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2114207424"
+ ],
+ "title": "Class of quantum error-correcting codes saturating the quantum Hamming bound"
+}

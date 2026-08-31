@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 436,
+ "doi": "https://doi.org/10.1090/s0002-9939-96-03732-x",
+ "id": "https://openalex.org/W1529556207",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1978526953",
+  "https://openalex.org/W1994823074",
+  "https://openalex.org/W2019121884",
+  "https://openalex.org/W2043682435",
+  "https://openalex.org/W2063966194",
+  "https://openalex.org/W2068871408",
+  "https://openalex.org/W2080479164",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2100856114",
+  "https://openalex.org/W2103749128",
+  "https://openalex.org/W2120980679",
+  "https://openalex.org/W2165293955",
+  "https://openalex.org/W2742022539",
+  "https://openalex.org/W2905110430",
+  "https://openalex.org/W2912057363",
+  "https://openalex.org/W3142570770",
+  "https://openalex.org/W4253814861"
+ ],
+ "title": "Every monotone graph property has a sharp threshold"
+}

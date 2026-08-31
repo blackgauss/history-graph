@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 262,
+ "doi": "https://doi.org/10.1109/72.80212",
+ "id": "https://openalex.org/W2112783345",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W65738273",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1534474912",
+  "https://openalex.org/W1535810436",
+  "https://openalex.org/W1553103569",
+  "https://openalex.org/W1594399642",
+  "https://openalex.org/W1855300422",
+  "https://openalex.org/W1938785624",
+  "https://openalex.org/W1983459530",
+  "https://openalex.org/W1997508571",
+  "https://openalex.org/W2034177094",
+  "https://openalex.org/W2040739363",
+  "https://openalex.org/W2050808954",
+  "https://openalex.org/W2099035050",
+  "https://openalex.org/W2150499794",
+  "https://openalex.org/W2150711054",
+  "https://openalex.org/W2159403624",
+  "https://openalex.org/W2174523513",
+  "https://openalex.org/W4241653134",
+  "https://openalex.org/W6632223199",
+  "https://openalex.org/W6638881831"
+ ],
+ "title": "Three-dimensional neural net for learning visuomotor coordination of a robot arm"
+}

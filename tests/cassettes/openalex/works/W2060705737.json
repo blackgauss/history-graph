@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1002/j.1538-7305.1959.tb01595.x",
+ "id": "https://openalex.org/W2060705737",
+ "publication_year": 1959,
+ "referenced_works": [
+  "https://openalex.org/W1995875735",
+  "https://openalex.org/W2009683816",
+  "https://openalex.org/W2117476053",
+  "https://openalex.org/W2121417875",
+  "https://openalex.org/W2222445509",
+  "https://openalex.org/W2342204193",
+  "https://openalex.org/W3129170862",
+  "https://openalex.org/W6645048466",
+  "https://openalex.org/W6648982606",
+  "https://openalex.org/W6678303524"
+ ],
+ "title": "Error-Correcting Codes-A Linear Programming Approach"
+}

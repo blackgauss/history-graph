@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 274,
+ "doi": "https://doi.org/10.1080/00401706.1966.10490322",
+ "id": "https://openalex.org/W2092369573",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W1984597404",
+  "https://openalex.org/W2004874474",
+  "https://openalex.org/W2025610145",
+  "https://openalex.org/W2028592060",
+  "https://openalex.org/W2035879195",
+  "https://openalex.org/W2096340072",
+  "https://openalex.org/W2168496028",
+  "https://openalex.org/W2237440835",
+  "https://openalex.org/W2612831123",
+  "https://openalex.org/W2808075006",
+  "https://openalex.org/W3167891112",
+  "https://openalex.org/W4235302477",
+  "https://openalex.org/W4242186041",
+  "https://openalex.org/W4252928681",
+  "https://openalex.org/W7071355587"
+ ],
+ "title": "Selection of Variables for Fitting Equations to Data"
+}

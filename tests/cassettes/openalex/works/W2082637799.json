@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 87,
+ "doi": "https://doi.org/10.2307/1970776",
+ "id": "https://openalex.org/W2082637799",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1967629533",
+  "https://openalex.org/W1971553070",
+  "https://openalex.org/W2006726677",
+  "https://openalex.org/W2037416374",
+  "https://openalex.org/W2042499838",
+  "https://openalex.org/W2051601785",
+  "https://openalex.org/W2053099695",
+  "https://openalex.org/W2057392475",
+  "https://openalex.org/W2060192729",
+  "https://openalex.org/W2150979852"
+ ],
+ "title": "Interpolation and Embedding in the Recursively Enumerable Degrees"
+}

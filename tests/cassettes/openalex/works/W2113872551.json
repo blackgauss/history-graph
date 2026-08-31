@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 46,
+ "doi": "https://doi.org/10.1109/ijcnn.2003.1224004",
+ "id": "https://openalex.org/W2113872551",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1591607137",
+  "https://openalex.org/W1601963269",
+  "https://openalex.org/W1888714701",
+  "https://openalex.org/W1902027874",
+  "https://openalex.org/W1996355918",
+  "https://openalex.org/W2090861223",
+  "https://openalex.org/W2105934661",
+  "https://openalex.org/W2126375903",
+  "https://openalex.org/W2131924685",
+  "https://openalex.org/W2135029798",
+  "https://openalex.org/W2137569887",
+  "https://openalex.org/W2146444479",
+  "https://openalex.org/W2148154194",
+  "https://openalex.org/W2163715362",
+  "https://openalex.org/W2206678091",
+  "https://openalex.org/W2912889105",
+  "https://openalex.org/W3143596294",
+  "https://openalex.org/W4240035482",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6636119296",
+  "https://openalex.org/W6679223688",
+  "https://openalex.org/W6679615192",
+  "https://openalex.org/W6680012447",
+  "https://openalex.org/W6687988569"
+ ],
+ "title": "Discovering hierarchical speech features using convolutional non-negative matrix factorization"
+}

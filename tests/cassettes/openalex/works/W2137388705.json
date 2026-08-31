@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1109/ijcnn.1998.685873",
+ "id": "https://openalex.org/W2137388705",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1979622972",
+  "https://openalex.org/W1983304525",
+  "https://openalex.org/W2026880489",
+  "https://openalex.org/W2027091505",
+  "https://openalex.org/W2056908494",
+  "https://openalex.org/W2072068598",
+  "https://openalex.org/W2096579040",
+  "https://openalex.org/W2103894137",
+  "https://openalex.org/W2131115343",
+  "https://openalex.org/W2150134853",
+  "https://openalex.org/W2151162785",
+  "https://openalex.org/W4212774754",
+  "https://openalex.org/W6675664414"
+ ],
+ "title": "Neural abstraction pyramid: a hierarchical image understanding architecture"
+}

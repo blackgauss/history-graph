@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 116,
+ "doi": "https://doi.org/10.1007/978-3-540-45069-6_34",
+ "id": "https://openalex.org/W1490156001",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W69024957",
+  "https://openalex.org/W1482537125",
+  "https://openalex.org/W1498734916",
+  "https://openalex.org/W1511155470",
+  "https://openalex.org/W1542298067",
+  "https://openalex.org/W1553731663",
+  "https://openalex.org/W1568333198",
+  "https://openalex.org/W1585027776",
+  "https://openalex.org/W1589982562",
+  "https://openalex.org/W1592502301",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W1991477862",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2044560939",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2096307462",
+  "https://openalex.org/W2130175237",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2153131284",
+  "https://openalex.org/W2156327719",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2950805470",
+  "https://openalex.org/W3045969830"
+ ],
+ "title": "Theorem Proving Using Lazy Proof Explication"
+}

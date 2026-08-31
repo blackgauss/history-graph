@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 9095,
+ "doi": "https://doi.org/10.1007/bf00992698",
+ "id": "https://openalex.org/W32403112",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W569156507",
+  "https://openalex.org/W1491843047",
+  "https://openalex.org/W1500245617",
+  "https://openalex.org/W1569296262",
+  "https://openalex.org/W1586172133",
+  "https://openalex.org/W1640646391",
+  "https://openalex.org/W2015667537",
+  "https://openalex.org/W2035446426",
+  "https://openalex.org/W2141559645",
+  "https://openalex.org/W2235056388",
+  "https://openalex.org/W2914112863",
+  "https://openalex.org/W3011120880",
+  "https://openalex.org/W4298300677",
+  "https://openalex.org/W7038606143"
+ ],
+ "title": "Q-learning"
+}

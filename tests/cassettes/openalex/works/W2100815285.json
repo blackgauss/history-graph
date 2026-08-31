@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 366,
+ "doi": "https://doi.org/10.1109/mcs.2003.1188769",
+ "id": "https://openalex.org/W2100815285",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W615358897",
+  "https://openalex.org/W1525594931",
+  "https://openalex.org/W1527571715",
+  "https://openalex.org/W1980917857",
+  "https://openalex.org/W1993882146",
+  "https://openalex.org/W2000617549",
+  "https://openalex.org/W2034269086",
+  "https://openalex.org/W2138711734",
+  "https://openalex.org/W2484302483",
+  "https://openalex.org/W2555025123",
+  "https://openalex.org/W2796933306",
+  "https://openalex.org/W2798512981",
+  "https://openalex.org/W4241544542",
+  "https://openalex.org/W4246010700",
+  "https://openalex.org/W4249979160",
+  "https://openalex.org/W6730131079"
+ ],
+ "title": "Future directions in control in an information-rich world"
+}

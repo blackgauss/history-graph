@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 2960,
+ "doi": "https://doi.org/10.1023/a:1007607513941",
+ "id": "https://openalex.org/W1605688901",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W133122663",
+  "https://openalex.org/W1562197959",
+  "https://openalex.org/W1597165973",
+  "https://openalex.org/W1850527962",
+  "https://openalex.org/W1905709030",
+  "https://openalex.org/W1966280301",
+  "https://openalex.org/W2042614373",
+  "https://openalex.org/W2073738917",
+  "https://openalex.org/W2081869978",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2152761983",
+  "https://openalex.org/W2167277498",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W2976840617",
+  "https://openalex.org/W2982720039",
+  "https://openalex.org/W4242746271",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6633883679",
+  "https://openalex.org/W6635600641",
+  "https://openalex.org/W6639048329",
+  "https://openalex.org/W6676769703",
+  "https://openalex.org/W6808111085",
+  "https://openalex.org/W6989699103"
+ ],
+ "title": "An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization"
+}

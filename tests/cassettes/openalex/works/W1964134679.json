@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.1090/s0002-9947-1974-0469729-2",
+ "id": "https://openalex.org/W1964134679",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W1984887166",
+  "https://openalex.org/W2000487993",
+  "https://openalex.org/W2024373817",
+  "https://openalex.org/W2025420511",
+  "https://openalex.org/W2037662783",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2047937662",
+  "https://openalex.org/W2050457719",
+  "https://openalex.org/W2053099695",
+  "https://openalex.org/W2055051664",
+  "https://openalex.org/W2062249564",
+  "https://openalex.org/W2093546192",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W2108899379",
+  "https://openalex.org/W2333124185",
+  "https://openalex.org/W4232819959",
+  "https://openalex.org/W4238574054",
+  "https://openalex.org/W4248952979",
+  "https://openalex.org/W4252462250"
+ ],
+ "title": "Deficiency sets and bounded information reducibilities"
+}

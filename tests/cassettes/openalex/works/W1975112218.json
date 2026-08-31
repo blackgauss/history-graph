@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 232,
+ "doi": "https://doi.org/10.1147/rd.462.0235",
+ "id": "https://openalex.org/W1975112218",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W79727023",
+  "https://openalex.org/W1483311388",
+  "https://openalex.org/W1965044833",
+  "https://openalex.org/W1979066974",
+  "https://openalex.org/W2028737205",
+  "https://openalex.org/W2099760741",
+  "https://openalex.org/W2126810113",
+  "https://openalex.org/W2132729131",
+  "https://openalex.org/W2133800303",
+  "https://openalex.org/W2139164850",
+  "https://openalex.org/W2141137685",
+  "https://openalex.org/W2145633302",
+  "https://openalex.org/W2156259175",
+  "https://openalex.org/W2162932423",
+  "https://openalex.org/W2164189299",
+  "https://openalex.org/W2170861454",
+  "https://openalex.org/W2171172878",
+  "https://openalex.org/W2294398660",
+  "https://openalex.org/W2491447123",
+  "https://openalex.org/W2532139375",
+  "https://openalex.org/W2534732202",
+  "https://openalex.org/W2536803352",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Power-constrained CMOS scaling limits"
+}

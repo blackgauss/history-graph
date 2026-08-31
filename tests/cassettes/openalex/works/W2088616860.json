@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 85,
+ "doi": "https://doi.org/10.1145/276698.276870",
+ "id": "https://openalex.org/W2088616860",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W73004332",
+  "https://openalex.org/W1600826028",
+  "https://openalex.org/W1627230931",
+  "https://openalex.org/W1963913579",
+  "https://openalex.org/W2000931246",
+  "https://openalex.org/W2018251959",
+  "https://openalex.org/W2051580875",
+  "https://openalex.org/W2054387247",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2061496873",
+  "https://openalex.org/W2075335084",
+  "https://openalex.org/W2097113315",
+  "https://openalex.org/W2126420408",
+  "https://openalex.org/W2132489129",
+  "https://openalex.org/W2138778293",
+  "https://openalex.org/W2155218845"
+ ],
+ "title": "On the complexity of unsatisfiability proofs for random k-CNF formulas"
+}

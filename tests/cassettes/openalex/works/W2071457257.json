@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 226,
+ "doi": "https://doi.org/10.1145/502874.502880",
+ "id": "https://openalex.org/W2071457257",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1501891810",
+  "https://openalex.org/W1512248102",
+  "https://openalex.org/W1525140360",
+  "https://openalex.org/W1983156473",
+  "https://openalex.org/W2047373611",
+  "https://openalex.org/W2048115385",
+  "https://openalex.org/W2063068243",
+  "https://openalex.org/W2085014646",
+  "https://openalex.org/W2113757735",
+  "https://openalex.org/W2115847338",
+  "https://openalex.org/W2118172707",
+  "https://openalex.org/W2134112335",
+  "https://openalex.org/W2166822586",
+  "https://openalex.org/W2172307690"
+ ],
+ "title": "Efficient compilation of lazy evaluation"
+}

@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 1,
+ "doi": "https://doi.org/10.9746/sicetr1965.12.209",
+ "id": "https://openalex.org/W2323717509",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W2024511625",
+  "https://openalex.org/W2055823751",
+  "https://openalex.org/W2150913357"
+ ],
+ "title": "Sequential GMDH Algorithm and Its Application to River Flow Prediction"
+}

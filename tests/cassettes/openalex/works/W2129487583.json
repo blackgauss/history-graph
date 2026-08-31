@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 596,
+ "doi": "https://doi.org/10.1007/978-3-540-73368-3_52",
+ "id": "https://openalex.org/W2129487583",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1489527380",
+  "https://openalex.org/W1515278398",
+  "https://openalex.org/W1518705996",
+  "https://openalex.org/W1531082202",
+  "https://openalex.org/W1838348862",
+  "https://openalex.org/W1919297764",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W2036085256",
+  "https://openalex.org/W2125967324",
+  "https://openalex.org/W2131875129",
+  "https://openalex.org/W2132897303",
+  "https://openalex.org/W2144415589",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2170145744",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W2752885492",
+  "https://openalex.org/W3145128584",
+  "https://openalex.org/W4241234198",
+  "https://openalex.org/W4256157283"
+ ],
+ "title": "A Decision Procedure for Bit-Vectors and Arrays"
+}

@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 44,
+ "doi": null,
+ "id": "https://openalex.org/W166545893",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1506440764",
+  "https://openalex.org/W1549789182",
+  "https://openalex.org/W1985726524",
+  "https://openalex.org/W1987768043",
+  "https://openalex.org/W1996669457",
+  "https://openalex.org/W2012019472",
+  "https://openalex.org/W2012176843",
+  "https://openalex.org/W2027302359",
+  "https://openalex.org/W2052475340",
+  "https://openalex.org/W2055943083",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2088277553",
+  "https://openalex.org/W2091627599",
+  "https://openalex.org/W2096423350",
+  "https://openalex.org/W2105370162",
+  "https://openalex.org/W2112374372",
+  "https://openalex.org/W2116814789",
+  "https://openalex.org/W2120836335",
+  "https://openalex.org/W2151510338",
+  "https://openalex.org/W2158267265",
+  "https://openalex.org/W2164277089",
+  "https://openalex.org/W3122313051"
+ ],
+ "title": "The Ascending Auction Paradox"
+}

@@ -1,0 +1,81 @@
+{
+ "cited_by_count": 414,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 30,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 70,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 61,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1807167.1807273",
+ "id": "https://openalex.org/W2043099794",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1582870960",
+  "https://openalex.org/W1997020216",
+  "https://openalex.org/W2015372451",
+  "https://openalex.org/W2023195086",
+  "https://openalex.org/W2078528123",
+  "https://openalex.org/W2098935637",
+  "https://openalex.org/W2114303224",
+  "https://openalex.org/W2119400430",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2154894831",
+  "https://openalex.org/W2158237121",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W4238584892",
+  "https://openalex.org/W4238594802"
+ ],
+ "title": "A comparison of join algorithms for log processing in MaPreduce"
+}

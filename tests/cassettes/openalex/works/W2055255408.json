@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 61,
+ "doi": "https://doi.org/10.1145/500080.500089",
+ "id": "https://openalex.org/W2055255408",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W1976258582",
+  "https://openalex.org/W2106922914",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2232207765",
+  "https://openalex.org/W2752853835"
+ ],
+ "title": "Computing joins of relations"
+}

@@ -1,0 +1,45 @@
+{
+ "cited_by_count": 3085,
+ "counts_by_year": [
+  {
+   "cited_by_count": 211,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 487,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 664,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 692,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 437,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 352,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 171,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 64,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2018
+  }
+ ],
+ "doi": "https://doi.org/10.1002/widm.1249",
+ "id": "https://openalex.org/W2789758093",
+ "publication_year": 2018,
+ "title": "Ensemble learning: A survey"
+}

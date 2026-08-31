@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 13,
+ "doi": "https://doi.org/10.1016/b978-1-55860-213-7.50029-8",
+ "id": "https://openalex.org/W4235948240",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W177913229",
+  "https://openalex.org/W1973429478",
+  "https://openalex.org/W2010029425",
+  "https://openalex.org/W2143101939",
+  "https://openalex.org/W2171850596",
+  "https://openalex.org/W3003340012",
+  "https://openalex.org/W4212971335",
+  "https://openalex.org/W4242701883",
+  "https://openalex.org/W4252112222",
+  "https://openalex.org/W4253828197",
+  "https://openalex.org/W6681198050"
+ ],
+ "title": "Polynomial Learnability of Probabilistic Concepts with Respect to the Kullback-Leibler Divergence"
+}

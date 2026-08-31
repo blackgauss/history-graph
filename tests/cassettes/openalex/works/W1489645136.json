@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 242,
+ "doi": null,
+ "id": "https://openalex.org/W1489645136",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W140006867",
+  "https://openalex.org/W637078684",
+  "https://openalex.org/W1485595209",
+  "https://openalex.org/W1531251462",
+  "https://openalex.org/W1588228609",
+  "https://openalex.org/W1604345466",
+  "https://openalex.org/W2116502002",
+  "https://openalex.org/W3094133439"
+ ],
+ "title": "TREAT: a better match algorithm for AI production systems"
+}

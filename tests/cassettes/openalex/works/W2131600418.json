@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 1492,
+ "doi": "https://doi.org/10.1145/203330.203343",
+ "id": "https://openalex.org/W2131600418",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1966678908",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2103626435",
+  "https://openalex.org/W2137983211",
+  "https://openalex.org/W2157305236",
+  "https://openalex.org/W3198350258",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Temporal difference learning and TD-Gammon"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Stefano Russo",
+    "id": "https://openalex.org/A5002197803",
+    "orcid": "https://orcid.org/0000-0002-8747-3446"
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Stefano Russo",
+   "raw_orcid": "https://orcid.org/0000-0002-8747-3446"
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W278082305",
+ "ids": {
+  "mag": "278082305",
+  "openalex": "https://openalex.org/W278082305"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "mag:278082305",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://www.federica.unina.it/ingegneria/sistemi-distribuiti/afs-andrew-file-system/",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": null,
+  "raw_type": null,
+  "source": null,
+  "version": null
+ },
+ "publication_year": 2011,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W64032218",
+  "https://openalex.org/W2579941881",
+  "https://openalex.org/W3202080937",
+  "https://openalex.org/W2757134602"
+ ],
+ "title": "AFS (Andrew File System) e GFS (Google File System)",
+ "type": "article"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 10861,
+ "doi": "https://doi.org/10.1103/physrevlett.67.661",
+ "id": "https://openalex.org/W2051051926",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1986407511",
+  "https://openalex.org/W2014306526",
+  "https://openalex.org/W2028815089",
+  "https://openalex.org/W2052140519",
+  "https://openalex.org/W2079749988",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2109394932",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2336770924"
+ ],
+ "title": "Quantum cryptography based on Bell’s theorem"
+}

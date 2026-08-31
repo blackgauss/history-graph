@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 2178,
+ "doi": "https://doi.org/10.1145/582095.582099",
+ "id": "https://openalex.org/W2153329411",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W2013012235",
+  "https://openalex.org/W2054336229",
+  "https://openalex.org/W2072799435",
+  "https://openalex.org/W2077207253",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2119285119",
+  "https://openalex.org/W2124971684",
+  "https://openalex.org/W2133384222",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2169012378"
+ ],
+ "title": "Access path selection in a relational database management system"
+}

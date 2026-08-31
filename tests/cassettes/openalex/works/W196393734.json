@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 118,
+ "doi": null,
+ "id": "https://openalex.org/W196393734",
+ "publication_year": 1969,
+ "referenced_works": [
+  "https://openalex.org/W1977384182",
+  "https://openalex.org/W2002947720",
+  "https://openalex.org/W2020794409",
+  "https://openalex.org/W2048229624",
+  "https://openalex.org/W2097038024",
+  "https://openalex.org/W2100738443"
+ ],
+ "title": "PROW: a step toward automatic program writing"
+}

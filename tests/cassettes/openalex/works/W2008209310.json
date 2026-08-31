@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 22,
+ "doi": "https://doi.org/10.1137/0111063",
+ "id": "https://openalex.org/W2008209310",
+ "publication_year": 1963,
+ "referenced_works": [
+  "https://openalex.org/W2069808690",
+  "https://openalex.org/W2563226530"
+ ],
+ "title": "An All-Integer Programming Algorithm with Parabolic Constraints"
+}

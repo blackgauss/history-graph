@@ -1,0 +1,516 @@
+{
+ "abstract_inverted_index": {
+  "&": [
+   27
+  ],
+  ",": [
+   13,
+   19
+  ],
+  "12": [
+   45
+  ],
+  "2,957citation60,150DownloadsMetricsTotal": [
+   42
+  ],
+  "2003": [
+   36
+  ],
+  "2003Publication": [
+   40
+  ],
+  "29–43https://doi.org/10.1145/1165389.945450Online:19": [
+   38
+  ],
+  "37Issue": [
+   34
+  ],
+  "5December": [
+   35
+  ],
+  "6": [
+   47
+  ],
+  "ACM": [
+   29
+  ],
+  "Access": [
+   106
+  ],
+  "Alert": [
+   53
+  ],
+  "Alert!Please": [
+   90
+  ],
+  "AlertsNew": [
+   51,
+   88
+  ],
+  "Authors": [
+   25
+  ],
+  "Authors:": [
+   7
+  ],
+  "BinderCreate": [
+   100
+  ],
+  "BinderNameCancelCreateExport": [
+   103
+  ],
+  "BinderSave": [
+   98
+  ],
+  "Citation": [
+   50,
+   52,
+   89
+  ],
+  "CitationPublisher": [
+   104
+  ],
+  "Citations2,957Total": [
+   43
+  ],
+  "Claims": [
+   28
+  ],
+  "Downloads60,150Last": [
+   44
+  ],
+  "Get": [
+   49
+  ],
+  "Ghemawat": [
+   9
+  ],
+  "Gobioff": [
+   15
+  ],
+  "Google": [
+   4,
+   10,
+   16,
+   22
+  ],
+  "GoogleView": [
+   11,
+   17,
+   23
+  ],
+  "History": [
+   41
+  ],
+  "Howard": [
+   14
+  ],
+  "Info": [
+   26
+  ],
+  "Leung": [
+   21
+  ],
+  "Months3,038Last": [
+   46
+  ],
+  "New": [
+   102
+  ],
+  "October": [
+   39
+  ],
+  "Operating": [
+   31
+  ],
+  "Profile": [
+   12,
+   18,
+   24
+  ],
+  "ReviewVolume": [
+   33
+  ],
+  "SIGOPS": [
+   30
+  ],
+  "Sanjay": [
+   8
+  ],
+  "Save": [
+   96
+  ],
+  "Share": [
+   1
+  ],
+  "Shun-Tak": [
+   20
+  ],
+  "SiteGet": [
+   105
+  ],
+  "Systems": [
+   32
+  ],
+  "The": [
+   3
+  ],
+  "a": [
+   69,
+   101
+  ],
+  "account": [
+   95
+  ],
+  "added": [
+   59
+  ],
+  "added!This": [
+   54
+  ],
+  "alert": [
+   55,
+   80
+  ],
+  "and": [
+   60
+  ],
+  "article": [
+   0
+  ],
+  "be": [
+   62,
+   66
+  ],
+  "been": [
+   57,
+   76
+  ],
+  "below.Manage": [
+   86
+  ],
+  "button": [
+   85
+  ],
+  "chosen": [
+   74
+  ],
+  "cited.To": [
+   77
+  ],
+  "click": [
+   82
+  ],
+  "file": [
+   5
+  ],
+  "has": [
+   56,
+   75
+  ],
+  "have": [
+   73
+  ],
+  "in": [
+   92
+  ],
+  "log": [
+   91
+  ],
+  "manage": [
+   78
+  ],
+  "my": [
+   87
+  ],
+  "notified": [
+   67
+  ],
+  "on": [
+   2,
+   83
+  ],
+  "pp": [
+   37
+  ],
+  "preferences,": [
+   81
+  ],
+  "record": [
+   70
+  ],
+  "sent": [
+   63
+  ],
+  "successfully": [
+   58
+  ],
+  "system": [
+   6
+  ],
+  "that": [
+   71
+  ],
+  "the": [
+   84
+  ],
+  "to": [
+   93,
+   97,
+   99
+  ],
+  "to:You": [
+   64
+  ],
+  "weeks280": [
+   48
+  ],
+  "whenever": [
+   68
+  ],
+  "will": [
+   61,
+   65
+  ],
+  "you": [
+   72
+  ],
+  "your": [
+   79,
+   94
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ],
+     "raw_affiliation_string": "Google"
+    }
+   ],
+   "author": {
+    "display_name": "Sanjay Ghemawat",
+    "id": "https://openalex.org/A5012998255",
+    "orcid": "https://orcid.org/0009-0005-6843-3093"
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Google (United States)",
+     "id": "https://openalex.org/I1291425158",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ],
+     "ror": "https://ror.org/00njsd438",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Google"
+   ],
+   "raw_author_name": "Sanjay Ghemawat",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ],
+     "raw_affiliation_string": "Google"
+    }
+   ],
+   "author": {
+    "display_name": "Howard Gobioff",
+    "id": "https://openalex.org/A5031384489",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Google (United States)",
+     "id": "https://openalex.org/I1291425158",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ],
+     "ror": "https://ror.org/00njsd438",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Google"
+   ],
+   "raw_author_name": "Howard Gobioff",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ],
+     "raw_affiliation_string": "Google"
+    }
+   ],
+   "author": {
+    "display_name": "Shun-Tak A. Leung",
+    "id": "https://openalex.org/A5049326989",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Google (United States)",
+     "id": "https://openalex.org/I1291425158",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ],
+     "ror": "https://ror.org/00njsd438",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Google"
+   ],
+   "raw_author_name": "Shun-Tak Leung",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 1391,
+ "counts_by_year": [
+  {
+   "cited_by_count": 42,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 63,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 67,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 71,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 80,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 75,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 99,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 70,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 61,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 92,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 91,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/945445.945450",
+ "funders": [],
+ "id": "https://openalex.org/W4238584892",
+ "ids": {
+  "doi": "https://doi.org/10.1145/945445.945450",
+  "openalex": "https://openalex.org/W4238584892"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1145/945445.945450",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1145/945445.945450",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Proceedings of the nineteenth ACM symposium on Operating systems principles",
+  "raw_type": "proceedings-article",
+  "source": null,
+  "version": "publishedVersion"
+ },
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W2005373714",
+  "https://openalex.org/W2088221489",
+  "https://openalex.org/W2115457697",
+  "https://openalex.org/W2131645490",
+  "https://openalex.org/W2133338501",
+  "https://openalex.org/W2149609142",
+  "https://openalex.org/W4230805115",
+  "https://openalex.org/W4232342695",
+  "https://openalex.org/W4248578633"
+ ],
+ "related_works": [
+  "https://openalex.org/W4391375266",
+  "https://openalex.org/W2899084033",
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W2390279801",
+  "https://openalex.org/W4391913857",
+  "https://openalex.org/W2358668433",
+  "https://openalex.org/W4396701345",
+  "https://openalex.org/W2376932109",
+  "https://openalex.org/W2001405890",
+  "https://openalex.org/W4396696052"
+ ],
+ "title": "The Google file system",
+ "type": "conference-paper"
+}

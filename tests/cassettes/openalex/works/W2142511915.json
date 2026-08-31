@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 317,
+ "doi": "https://doi.org/10.1002/ett.4460060507",
+ "id": "https://openalex.org/W2142511915",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W63990713",
+  "https://openalex.org/W1511161134",
+  "https://openalex.org/W1567885833",
+  "https://openalex.org/W2045407304",
+  "https://openalex.org/W2079808112",
+  "https://openalex.org/W2097117337",
+  "https://openalex.org/W2119411189",
+  "https://openalex.org/W2121606987",
+  "https://openalex.org/W2125838338",
+  "https://openalex.org/W2126519187",
+  "https://openalex.org/W2128765501",
+  "https://openalex.org/W2133068391",
+  "https://openalex.org/W2137347071",
+  "https://openalex.org/W2142384583",
+  "https://openalex.org/W4234345682",
+  "https://openalex.org/W4245256025",
+  "https://openalex.org/W4298236575"
+ ],
+ "title": "Codes and iterative decoding on general graphs"
+}

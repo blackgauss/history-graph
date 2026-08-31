@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 8,
+ "doi": null,
+ "id": "https://openalex.org/W1523957573",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1483135265",
+  "https://openalex.org/W1515445264",
+  "https://openalex.org/W1542798451",
+  "https://openalex.org/W1598873931",
+  "https://openalex.org/W1601142477",
+  "https://openalex.org/W1985510377",
+  "https://openalex.org/W2041729459",
+  "https://openalex.org/W2076002110",
+  "https://openalex.org/W2082693041",
+  "https://openalex.org/W2100406636",
+  "https://openalex.org/W2212819718",
+  "https://openalex.org/W2538246427"
+ ],
+ "title": "Decision Tree Construction for Data Mining on Cluster of Shared-Memory Multiprocessors"
+}

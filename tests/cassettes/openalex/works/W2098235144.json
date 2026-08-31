@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 12,
+ "doi": "https://doi.org/10.1109/71.250104",
+ "id": "https://openalex.org/W2098235144",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1975577269",
+  "https://openalex.org/W2063663576",
+  "https://openalex.org/W2078528123",
+  "https://openalex.org/W2080427212",
+  "https://openalex.org/W2109149785",
+  "https://openalex.org/W2128912667",
+  "https://openalex.org/W2160175950",
+  "https://openalex.org/W2162891361",
+  "https://openalex.org/W2163738478",
+  "https://openalex.org/W2171922437",
+  "https://openalex.org/W2175085668",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W2296226841",
+  "https://openalex.org/W2492484076",
+  "https://openalex.org/W4230687991",
+  "https://openalex.org/W4238594802",
+  "https://openalex.org/W4245035583",
+  "https://openalex.org/W4251246352",
+  "https://openalex.org/W6633089140",
+  "https://openalex.org/W6679046037",
+  "https://openalex.org/W6687965037",
+  "https://openalex.org/W6697321046"
+ ],
+ "title": "Control versus data flow in parallel database machines"
+}

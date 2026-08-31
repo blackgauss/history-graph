@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 68,
+ "doi": "https://doi.org/10.1007/978-3-642-81955-1_13",
+ "id": "https://openalex.org/W1596213861",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W171867237",
+  "https://openalex.org/W400273796",
+  "https://openalex.org/W1579379232",
+  "https://openalex.org/W1972956465",
+  "https://openalex.org/W2020794409",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2109964311",
+  "https://openalex.org/W2136701715"
+ ],
+ "title": "Semantic Trees in Automatic Theorem-Proving"
+}

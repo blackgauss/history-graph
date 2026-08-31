@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1109/icde.1988.105473",
+ "id": "https://openalex.org/W2110605895",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W147240463",
+  "https://openalex.org/W1748095660",
+  "https://openalex.org/W1992035209",
+  "https://openalex.org/W1995082172",
+  "https://openalex.org/W2020646533",
+  "https://openalex.org/W2022179164",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2094959028",
+  "https://openalex.org/W2117226423",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W2295596515",
+  "https://openalex.org/W2313659359",
+  "https://openalex.org/W2800778781",
+  "https://openalex.org/W2954829587",
+  "https://openalex.org/W2956015669",
+  "https://openalex.org/W4252571323",
+  "https://openalex.org/W6605949649",
+  "https://openalex.org/W6637593805",
+  "https://openalex.org/W6674338165",
+  "https://openalex.org/W6765188853"
+ ],
+ "title": "Scheduling of page fetches in join operations using B/sub c/-trees"
+}

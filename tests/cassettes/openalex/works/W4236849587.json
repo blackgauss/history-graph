@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 38,
+ "doi": "https://doi.org/10.1109/cdc.1995.478954",
+ "id": "https://openalex.org/W4236849587",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W32403112",
+  "https://openalex.org/W1545148916",
+  "https://openalex.org/W2040766536",
+  "https://openalex.org/W2084335986",
+  "https://openalex.org/W2103626435",
+  "https://openalex.org/W2149148771",
+  "https://openalex.org/W2165131254",
+  "https://openalex.org/W2416509206",
+  "https://openalex.org/W3041202696",
+  "https://openalex.org/W4212774754",
+  "https://openalex.org/W4233696721",
+  "https://openalex.org/W4236849587",
+  "https://openalex.org/W4247446124"
+ ],
+ "title": "Feature-based methods for large scale dynamic programming"
+}

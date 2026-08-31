@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 108,
+ "doi": "https://doi.org/10.1109/icassp.2010.5495651",
+ "id": "https://openalex.org/W2064082346",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W155708904",
+  "https://openalex.org/W1562289873",
+  "https://openalex.org/W1932968309",
+  "https://openalex.org/W2014641584",
+  "https://openalex.org/W2077804127",
+  "https://openalex.org/W2099866409",
+  "https://openalex.org/W2100474170",
+  "https://openalex.org/W2110871230",
+  "https://openalex.org/W2116064496",
+  "https://openalex.org/W2124914669",
+  "https://openalex.org/W2131700150",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2158164339",
+  "https://openalex.org/W2161893161",
+  "https://openalex.org/W6633713915",
+  "https://openalex.org/W6678801095",
+  "https://openalex.org/W6683128514",
+  "https://openalex.org/W6683819664"
+ ],
+ "title": "Phone recognition using Restricted Boltzmann Machines"
+}

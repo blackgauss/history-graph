@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 22,
+ "doi": "https://doi.org/10.1145/1013367.1013480",
+ "id": "https://openalex.org/W1987510339",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1854214752",
+  "https://openalex.org/W2010994761",
+  "https://openalex.org/W2078982362",
+  "https://openalex.org/W2175110005",
+  "https://openalex.org/W2237678354",
+  "https://openalex.org/W2398953749",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "The effect of the back button in a random walk"
+}

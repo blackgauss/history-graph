@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 114,
+ "doi": "https://doi.org/10.1145/375663.375694",
+ "id": "https://openalex.org/W2078907037",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1604468148",
+  "https://openalex.org/W1784244685",
+  "https://openalex.org/W1978463110",
+  "https://openalex.org/W1990313671",
+  "https://openalex.org/W1998244781",
+  "https://openalex.org/W2018986192",
+  "https://openalex.org/W2020584928",
+  "https://openalex.org/W2045604576",
+  "https://openalex.org/W2079656678",
+  "https://openalex.org/W2110557355",
+  "https://openalex.org/W2114076791",
+  "https://openalex.org/W2114372843",
+  "https://openalex.org/W2117348908",
+  "https://openalex.org/W2119885577",
+  "https://openalex.org/W2169982181",
+  "https://openalex.org/W2199389590",
+  "https://openalex.org/W2296677182",
+  "https://openalex.org/W2503643158",
+  "https://openalex.org/W2798909945",
+  "https://openalex.org/W4234667859",
+  "https://openalex.org/W4237172715",
+  "https://openalex.org/W4240908132",
+  "https://openalex.org/W4241185933",
+  "https://openalex.org/W4250212406"
+ ],
+ "title": "A robust, optimization-based approach for approximate answering of aggregate queries"
+}

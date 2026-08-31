@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 416,
+ "doi": "https://doi.org/10.1287/opre.36.4.532",
+ "id": "https://openalex.org/W2038979284",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W1576267150",
+  "https://openalex.org/W1591710988",
+  "https://openalex.org/W1965399019",
+  "https://openalex.org/W2019597565",
+  "https://openalex.org/W2052388668",
+  "https://openalex.org/W2104394958",
+  "https://openalex.org/W2751862591"
+ ],
+ "title": "Optimality of Zero-Inventory Policies for Unreliable Manufacturing Systems"
+}

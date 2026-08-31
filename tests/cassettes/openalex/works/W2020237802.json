@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 260,
+ "doi": null,
+ "id": "https://openalex.org/W2020237802",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W52490583",
+  "https://openalex.org/W565003248",
+  "https://openalex.org/W1483480983",
+  "https://openalex.org/W1504154695",
+  "https://openalex.org/W1522427141",
+  "https://openalex.org/W1539972817",
+  "https://openalex.org/W1965647483",
+  "https://openalex.org/W1967907280",
+  "https://openalex.org/W2004436106",
+  "https://openalex.org/W2010652031",
+  "https://openalex.org/W2038542535",
+  "https://openalex.org/W2071550620",
+  "https://openalex.org/W2078146868",
+  "https://openalex.org/W2078875869",
+  "https://openalex.org/W2114461971",
+  "https://openalex.org/W2131915922",
+  "https://openalex.org/W2796724690",
+  "https://openalex.org/W2796837256"
+ ],
+ "title": "Automatic Combination of Multiple Ranked Retrieval Systems"
+}

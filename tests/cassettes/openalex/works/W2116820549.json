@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 246,
+ "doi": "https://doi.org/10.1145/323627.323636",
+ "id": "https://openalex.org/W2116820549",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W82467714",
+  "https://openalex.org/W1491113550",
+  "https://openalex.org/W1977097393",
+  "https://openalex.org/W1977773183",
+  "https://openalex.org/W1993505169",
+  "https://openalex.org/W1996715632",
+  "https://openalex.org/W2009712165",
+  "https://openalex.org/W2020014766",
+  "https://openalex.org/W2020181081",
+  "https://openalex.org/W2022185456",
+  "https://openalex.org/W2023304911",
+  "https://openalex.org/W2024016608",
+  "https://openalex.org/W2070343246",
+  "https://openalex.org/W2081409107",
+  "https://openalex.org/W2106035061",
+  "https://openalex.org/W2106887953",
+  "https://openalex.org/W2133994361",
+  "https://openalex.org/W2156076209",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W3160136729",
+  "https://openalex.org/W4236096494",
+  "https://openalex.org/W4237100034",
+  "https://openalex.org/W4240129317",
+  "https://openalex.org/W4250700209"
+ ],
+ "title": "Replication and fault-tolerance in the ISIS system"
+}

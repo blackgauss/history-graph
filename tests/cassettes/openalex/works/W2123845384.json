@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 7573,
+ "doi": "https://doi.org/10.1145/362686.362692",
+ "id": "https://openalex.org/W2123845384",
+ "publication_year": 1970,
+ "referenced_works": [
+  "https://openalex.org/W1992985195",
+  "https://openalex.org/W2003248512",
+  "https://openalex.org/W2049823433",
+  "https://openalex.org/W2073578568",
+  "https://openalex.org/W4231509999"
+ ],
+ "title": "Space/time trade-offs in hash coding with allowable errors"
+}

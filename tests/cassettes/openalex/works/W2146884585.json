@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 101,
+ "doi": "https://doi.org/10.1145/93597.98739",
+ "id": "https://openalex.org/W2146884585",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W163398301",
+  "https://openalex.org/W1585853635",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2040892657",
+  "https://openalex.org/W2046269252",
+  "https://openalex.org/W2082625705",
+  "https://openalex.org/W2102116440",
+  "https://openalex.org/W2126043109",
+  "https://openalex.org/W2134350535",
+  "https://openalex.org/W2146884585",
+  "https://openalex.org/W2147869465",
+  "https://openalex.org/W2153524094",
+  "https://openalex.org/W2155166680",
+  "https://openalex.org/W2159886933",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W2205031991",
+  "https://openalex.org/W2295596515",
+  "https://openalex.org/W4232987149",
+  "https://openalex.org/W4248080722",
+  "https://openalex.org/W4249719514"
+ ],
+ "title": "A performance evaluation of pointer-based joins"
+}

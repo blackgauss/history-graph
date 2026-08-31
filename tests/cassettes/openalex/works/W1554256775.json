@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1007/11499107_29",
+ "id": "https://openalex.org/W1554256775",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1481600050",
+  "https://openalex.org/W1489350935",
+  "https://openalex.org/W1496518193",
+  "https://openalex.org/W1553278548",
+  "https://openalex.org/W1570891932",
+  "https://openalex.org/W1571893670",
+  "https://openalex.org/W1597057550",
+  "https://openalex.org/W1601935780",
+  "https://openalex.org/W1606555018",
+  "https://openalex.org/W2011992362",
+  "https://openalex.org/W2031823362"
+ ],
+ "title": "Quantifier Rewriting and Equivalence Models for Quantified Horn Formulas"
+}

@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 73,
+ "doi": "https://doi.org/10.5555/1109557.1109660",
+ "id": "https://openalex.org/W1965270141",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1575658237",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W1998498767",
+  "https://openalex.org/W2014482607",
+  "https://openalex.org/W2077902449",
+  "https://openalex.org/W2093825590",
+  "https://openalex.org/W2098339418",
+  "https://openalex.org/W2116067849",
+  "https://openalex.org/W2148825261",
+  "https://openalex.org/W2169401877",
+  "https://openalex.org/W2611627047"
+ ],
+ "title": "Robbing the bandit: less regret in online geometric optimization against an adaptive adversary"
+}

@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 3550,
+ "doi": "https://doi.org/10.1016/s0005-1098(03)00056-6",
+ "id": "https://openalex.org/W2213594914",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W571886266",
+  "https://openalex.org/W1797739565",
+  "https://openalex.org/W2120390835",
+  "https://openalex.org/W4292069080"
+ ],
+ "title": "Predictive control with constraints"
+}

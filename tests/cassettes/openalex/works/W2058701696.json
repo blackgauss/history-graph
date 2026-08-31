@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 246,
+ "doi": "https://doi.org/10.1137/s0097539796302452",
+ "id": "https://openalex.org/W2058701696",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W1979260239",
+  "https://openalex.org/W2047832257",
+  "https://openalex.org/W2049471987",
+  "https://openalex.org/W2054388650",
+  "https://openalex.org/W2073618294",
+  "https://openalex.org/W2075488055",
+  "https://openalex.org/W2077132176",
+  "https://openalex.org/W2088324731",
+  "https://openalex.org/W2089334469",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W2131690084",
+  "https://openalex.org/W2157754228",
+  "https://openalex.org/W2163440371",
+  "https://openalex.org/W2168676717",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W3003414507",
+  "https://openalex.org/W4249266103"
+ ],
+ "title": "Stabilization of Quantum Computations by Symmetrization"
+}

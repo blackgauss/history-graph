@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 48,
+ "doi": null,
+ "id": "https://openalex.org/W133803560",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1485342741",
+  "https://openalex.org/W1502623940",
+  "https://openalex.org/W1518890634",
+  "https://openalex.org/W1543921836",
+  "https://openalex.org/W1545155892",
+  "https://openalex.org/W1935402982",
+  "https://openalex.org/W2008750849",
+  "https://openalex.org/W2018919141",
+  "https://openalex.org/W2034747525",
+  "https://openalex.org/W2034952484",
+  "https://openalex.org/W2035370167",
+  "https://openalex.org/W2049717788",
+  "https://openalex.org/W2099404265",
+  "https://openalex.org/W2107800601",
+  "https://openalex.org/W2108060598",
+  "https://openalex.org/W2121763550",
+  "https://openalex.org/W2142994777",
+  "https://openalex.org/W2143278699",
+  "https://openalex.org/W2143411260",
+  "https://openalex.org/W2150940215",
+  "https://openalex.org/W2158049821",
+  "https://openalex.org/W2163059190",
+  "https://openalex.org/W2167898414",
+  "https://openalex.org/W2624304035"
+ ],
+ "title": "A Scalable Data Platform for a Large Number of Small Applications."
+}

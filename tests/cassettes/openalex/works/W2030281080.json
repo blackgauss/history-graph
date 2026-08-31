@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 57,
+ "doi": "https://doi.org/10.1023/b:elec.0000045974.88926.88",
+ "id": "https://openalex.org/W2030281080",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1509805685",
+  "https://openalex.org/W1518016665",
+  "https://openalex.org/W1550461340",
+  "https://openalex.org/W1565914110",
+  "https://openalex.org/W1972566533",
+  "https://openalex.org/W1997116158",
+  "https://openalex.org/W2026807222",
+  "https://openalex.org/W2053397099",
+  "https://openalex.org/W2054658115",
+  "https://openalex.org/W2060234492",
+  "https://openalex.org/W2091716952",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2127470768",
+  "https://openalex.org/W2137728971",
+  "https://openalex.org/W2317700292",
+  "https://openalex.org/W2425056032",
+  "https://openalex.org/W2587926013",
+  "https://openalex.org/W2751862591",
+  "https://openalex.org/W2800782238",
+  "https://openalex.org/W2950457025",
+  "https://openalex.org/W4246270964",
+  "https://openalex.org/W6724046077"
+ ],
+ "title": "Improvements to the Linear Programming Based Scheduling of Web Advertisements"
+}

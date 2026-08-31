@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 62,
+ "doi": null,
+ "id": "https://openalex.org/W1978732816",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W119554023",
+  "https://openalex.org/W1486613786",
+  "https://openalex.org/W1534497489",
+  "https://openalex.org/W1650993530",
+  "https://openalex.org/W1854868231",
+  "https://openalex.org/W1963913579",
+  "https://openalex.org/W1971378428",
+  "https://openalex.org/W1985250014",
+  "https://openalex.org/W2000931246",
+  "https://openalex.org/W2008065986",
+  "https://openalex.org/W2017170340",
+  "https://openalex.org/W2022695609",
+  "https://openalex.org/W2040287193",
+  "https://openalex.org/W2051580875",
+  "https://openalex.org/W2054387247",
+  "https://openalex.org/W2055911890",
+  "https://openalex.org/W2068871408",
+  "https://openalex.org/W2078137578",
+  "https://openalex.org/W2125490292",
+  "https://openalex.org/W2131459042",
+  "https://openalex.org/W2138778293",
+  "https://openalex.org/W2151140339",
+  "https://openalex.org/W2751862591"
+ ],
+ "title": "Typical Random 3-SAT Formulae and the Satisfiability Threshold"
+}

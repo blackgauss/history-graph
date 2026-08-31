@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 42,
+ "doi": "https://doi.org/10.1016/s0049-237x(08)71508-8",
+ "id": "https://openalex.org/W2191957727",
+ "publication_year": 1967,
+ "referenced_works": [
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2797656628",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W4241435086",
+  "https://openalex.org/W4245875350",
+  "https://openalex.org/W6904822238"
+ ],
+ "title": "Some Problems of Definability in Recursive Function Theory"
+}

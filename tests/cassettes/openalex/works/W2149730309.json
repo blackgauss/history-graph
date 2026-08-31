@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 18,
+ "doi": "https://doi.org/10.1002/sim.4780050515",
+ "id": "https://openalex.org/W2149730309",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W48332454",
+  "https://openalex.org/W1481350172",
+  "https://openalex.org/W1969874171",
+  "https://openalex.org/W1974415596",
+  "https://openalex.org/W1991274612",
+  "https://openalex.org/W1997939811",
+  "https://openalex.org/W2090480664",
+  "https://openalex.org/W2095323816",
+  "https://openalex.org/W2098057602",
+  "https://openalex.org/W2104001464",
+  "https://openalex.org/W2117790997",
+  "https://openalex.org/W2169582216",
+  "https://openalex.org/W2395251538",
+  "https://openalex.org/W2460735397",
+  "https://openalex.org/W2795831070",
+  "https://openalex.org/W2796521512",
+  "https://openalex.org/W2796765386",
+  "https://openalex.org/W4249566049",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Selection of variables using ‘independence bayes’ in computer‐aided diagnosis of upper gastrointestinal bleeding"
+}

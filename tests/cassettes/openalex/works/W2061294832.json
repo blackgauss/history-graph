@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 33,
+ "doi": "https://doi.org/10.1016/0022-247x(76)90209-2",
+ "id": "https://openalex.org/W2061294832",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W658381347",
+  "https://openalex.org/W1997696513",
+  "https://openalex.org/W2002971752",
+  "https://openalex.org/W2010992311",
+  "https://openalex.org/W2017048780",
+  "https://openalex.org/W2025752438",
+  "https://openalex.org/W2045727885",
+  "https://openalex.org/W2062533874",
+  "https://openalex.org/W2076231474",
+  "https://openalex.org/W2087340623",
+  "https://openalex.org/W2116334708",
+  "https://openalex.org/W2144181355",
+  "https://openalex.org/W2724723616",
+  "https://openalex.org/W2758591527",
+  "https://openalex.org/W3021591933",
+  "https://openalex.org/W3108043981",
+  "https://openalex.org/W3120572878",
+  "https://openalex.org/W3143000496",
+  "https://openalex.org/W4298300677",
+  "https://openalex.org/W6649837222",
+  "https://openalex.org/W6653130353"
+ ],
+ "title": "Splines and efficiency in dynamic programming"
+}

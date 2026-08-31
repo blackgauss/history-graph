@@ -1,0 +1,10 @@
+{
+ "cited_by_count": 305,
+ "doi": null,
+ "id": "https://openalex.org/W2335925837",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W2799061466"
+ ],
+ "title": "An experimental comparison of three methods for constructing ensembles of decision trees: Bagging, Boosting, and Randomization"
+}

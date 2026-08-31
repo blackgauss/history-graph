@@ -1,0 +1,114 @@
+{
+ "cited_by_count": 906,
+ "counts_by_year": [
+  {
+   "cited_by_count": 22,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 49,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 41,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 49,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1257/aer.91.3.542",
+ "id": "https://openalex.org/W2043634452",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W170486074",
+  "https://openalex.org/W192974490",
+  "https://openalex.org/W1500740180",
+  "https://openalex.org/W1504538367",
+  "https://openalex.org/W1516090621",
+  "https://openalex.org/W1526512085",
+  "https://openalex.org/W1552947278",
+  "https://openalex.org/W1567268738",
+  "https://openalex.org/W1918706071",
+  "https://openalex.org/W1965092854",
+  "https://openalex.org/W1983306461",
+  "https://openalex.org/W1987677418",
+  "https://openalex.org/W1991756871",
+  "https://openalex.org/W1993729355",
+  "https://openalex.org/W2000602453",
+  "https://openalex.org/W2002609306",
+  "https://openalex.org/W2012176843",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2033555993",
+  "https://openalex.org/W2038280165",
+  "https://openalex.org/W2044296607",
+  "https://openalex.org/W2050904362",
+  "https://openalex.org/W2058495110",
+  "https://openalex.org/W2060399289",
+  "https://openalex.org/W2060965809",
+  "https://openalex.org/W2083174134",
+  "https://openalex.org/W2089257687",
+  "https://openalex.org/W2090100275",
+  "https://openalex.org/W2105173236",
+  "https://openalex.org/W2133344657",
+  "https://openalex.org/W2136598966",
+  "https://openalex.org/W2149243684",
+  "https://openalex.org/W2158457469",
+  "https://openalex.org/W2160747366",
+  "https://openalex.org/W2994061995",
+  "https://openalex.org/W3021754561",
+  "https://openalex.org/W3049570326",
+  "https://openalex.org/W3121702597",
+  "https://openalex.org/W3124098532",
+  "https://openalex.org/W3126036091",
+  "https://openalex.org/W4237446404",
+  "https://openalex.org/W4238817359",
+  "https://openalex.org/W4251781751"
+ ],
+ "title": "The Optimal Allocation of Prizes in Contests"
+}

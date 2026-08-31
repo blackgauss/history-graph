@@ -1,0 +1,37 @@
+{
+ "cited_by_count": 4348,
+ "counts_by_year": [
+  {
+   "cited_by_count": 608,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 1135,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 981,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 767,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 483,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 315,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 59,
+   "year": 2020
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3397271.3401063",
+ "id": "https://openalex.org/W3045200674",
+ "publication_year": 2020,
+ "title": "LightGCN"
+}

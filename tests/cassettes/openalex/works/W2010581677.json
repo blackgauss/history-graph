@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 529,
+ "doi": "https://doi.org/10.1109/pgec.1967.264666",
+ "id": "https://openalex.org/W2010581677",
+ "publication_year": 1967,
+ "referenced_works": [
+  "https://openalex.org/W2041273609",
+  "https://openalex.org/W2065973527",
+  "https://openalex.org/W2079724156",
+  "https://openalex.org/W2160133692",
+  "https://openalex.org/W2161278885",
+  "https://openalex.org/W2322002063",
+  "https://openalex.org/W4237630008"
+ ],
+ "title": "A Theory of Adaptive Pattern Classifiers"
+}

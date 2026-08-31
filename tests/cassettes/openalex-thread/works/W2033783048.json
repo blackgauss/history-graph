@@ -1,0 +1,455 @@
+{
+ "abstract_inverted_index": {
+  "(GIS)": [
+   4
+  ],
+  "(KML)": [
+   21
+  ],
+  "Because": [
+   48
+  ],
+  "Earth,": [
+   32
+  ],
+  "Google": [
+   31,
+   33,
+   36,
+   82
+  ],
+  "In": [
+   67
+  ],
+  "KML": [
+   90,
+   108
+  ],
+  "KML.": [
+   47,
+   80
+  ],
+  "Keyhole": [
+   18
+  ],
+  "Language": [
+   20
+  ],
+  "Maps": [
+   37,
+   83
+  ],
+  "Maps,": [
+   34
+  ],
+  "Markup": [
+   19
+  ],
+  "Mobile.": [
+   39
+  ],
+  "Real-time": [
+   0
+  ],
+  "Some": [
+   40
+  ],
+  "This": [
+   125
+  ],
+  "Utilization": [
+   105
+  ],
+  "When": [
+   81
+  ],
+  "a": [
+   51,
+   75,
+   86,
+   98
+  ],
+  "activities": [
+   113
+  ],
+  "and": [
+   15,
+   35,
+   64,
+   93,
+   117,
+   138
+  ],
+  "application": [
+   12
+  ],
+  "are": [
+   42,
+   58,
+   95
+  ],
+  "available": [
+   142
+  ],
+  "be": [
+   73
+  ],
+  "coded": [
+   103
+  ],
+  "data": [
+   109,
+   141
+  ],
+  "database": [
+   131
+  ],
+  "display": [
+   27
+  ],
+  "drawn": [
+   96
+  ],
+  "each": [
+   68
+  ],
+  "element,": [
+   69
+  ],
+  "elements": [
+   94
+  ],
+  "elements.": [
+   66
+  ],
+  "engineering": [
+   118
+  ],
+  "features": [
+   63,
+   92
+  ],
+  "field": [
+   137
+  ],
+  "file.": [
+   104
+  ],
+  "files": [
+   132
+  ],
+  "for": [
+   11,
+   38,
+   44,
+   110
+  ],
+  "format": [
+   24
+  ],
+  "generate": [
+   61
+  ],
+  "generating": [
+   85
+  ],
+  "geographic": [
+   1,
+   62
+  ],
+  "geospatial": [
+   28
+  ],
+  "how": [
+   129
+  ],
+  "in": [
+   13,
+   30,
+   74,
+   122,
+   133,
+   145
+  ],
+  "information": [
+   2
+  ],
+  "investigated": [
+   121
+  ],
+  "is": [
+   6,
+   22,
+   50,
+   84,
+   120
+  ],
+  "key": [
+   54
+  ],
+  "land": [
+   115
+  ],
+  "language,": [
+   53
+  ],
+  "linear": [
+   99
+  ],
+  "making": [
+   139
+  ],
+  "map": [
+   65,
+   87
+  ],
+  "mapping": [
+   5,
+   16,
+   112
+  ],
+  "mark-up": [
+   52
+  ],
+  "must": [
+   72
+  ],
+  "of": [
+   106
+  ],
+  "office": [
+   135
+  ],
+  "on": [
+   114
+  ],
+  "online": [
+   9
+  ],
+  "optional": [
+   43
+  ],
+  "or": [
+   56,
+   136
+  ],
+  "order": [
+   77
+  ],
+  "points": [
+   29
+  ],
+  "possible": [
+   7
+  ],
+  "producing": [
+   130
+  ],
+  "programming": [
+   45
+  ],
+  "progression": [
+   100
+  ],
+  "projects": [
+   119
+  ],
+  "projects.": [
+   17
+  ],
+  "real-time": [
+   111
+  ],
+  "real-time.": [
+   146
+  ],
+  "research": [
+   126
+  ],
+  "research.": [
+   124
+  ],
+  "show": [
+   128
+  ],
+  "specific": [
+   76
+  ],
+  "suppliers": [
+   10
+  ],
+  "surveying": [
+   14,
+   116
+  ],
+  "systems": [
+   3
+  ],
+  "tags": [
+   41,
+   57,
+   71
+  ],
+  "the": [
+   23,
+   70,
+   79,
+   89,
+   91,
+   102,
+   134,
+   140
+  ],
+  "this": [
+   49,
+   107,
+   123
+  ],
+  "through": [
+   101
+  ],
+  "to": [
+   26,
+   60,
+   143
+  ],
+  "used": [
+   25,
+   59
+  ],
+  "users": [
+   144
+  ],
+  "will": [
+   127
+  ],
+  "with": [
+   8,
+   46
+  ],
+  "within": [
+   78,
+   88,
+   97
+  ],
+  "words": [
+   55
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I96749437"
+     ],
+     "raw_affiliation_string": "Texas A&amp; M University Corpus Christi, Corpus Christi, TX"
+    }
+   ],
+   "author": {
+    "display_name": "Stacey Lyle",
+    "id": "https://openalex.org/A5111482015",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Texas A&M University – Corpus Christi",
+     "id": "https://openalex.org/I96749437",
+     "lineage": [
+      "https://openalex.org/I96749437"
+     ],
+     "ror": "https://ror.org/01mrfdz82",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Texas A&amp; M University Corpus Christi, Corpus Christi, TX"
+   ],
+   "raw_author_name": "Stacey D. Lyle",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Utech, Houston, TX"
+    }
+   ],
+   "author": {
+    "display_name": "Nathan Eby",
+    "id": "https://openalex.org/A5037760347",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Utech, Houston, TX"
+   ],
+   "raw_author_name": "Nathan Eby",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 1,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2017
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1823854.1823889",
+ "funders": [],
+ "id": "https://openalex.org/W2033783048",
+ "ids": {
+  "doi": "https://doi.org/10.1145/1823854.1823889",
+  "mag": "2033783048",
+  "openalex": "https://openalex.org/W2033783048"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1145/1823854.1823889",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1145/1823854.1823889",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Proceedings of the 1st International Conference and Exhibition on Computing for Geospatial Research &amp; Application",
+  "raw_type": "proceedings-article",
+  "source": null,
+  "version": "publishedVersion"
+ },
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W634710820",
+  "https://openalex.org/W2512173100"
+ ],
+ "related_works": [
+  "https://openalex.org/W2361566382",
+  "https://openalex.org/W2114233742",
+  "https://openalex.org/W1562347873",
+  "https://openalex.org/W4247263692",
+  "https://openalex.org/W1899898439",
+  "https://openalex.org/W3155483442",
+  "https://openalex.org/W4214818710",
+  "https://openalex.org/W4296970743",
+  "https://openalex.org/W4205665237",
+  "https://openalex.org/W2365031108"
+ ],
+ "title": "Conversion of cadastral data to KML file type for use in Google Earth and Google Maps for Mobile as a land information system",
+ "type": "conference-paper"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 890,
+ "doi": "https://doi.org/10.1145/2213977.2214056",
+ "id": "https://openalex.org/W2038073775",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W332497656",
+  "https://openalex.org/W1561337879",
+  "https://openalex.org/W1565043606",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1977699786",
+  "https://openalex.org/W1979740015",
+  "https://openalex.org/W1996440503",
+  "https://openalex.org/W2016341899",
+  "https://openalex.org/W2023600080",
+  "https://openalex.org/W2023724794",
+  "https://openalex.org/W2033190478",
+  "https://openalex.org/W2035476608",
+  "https://openalex.org/W2047505657",
+  "https://openalex.org/W2092480746",
+  "https://openalex.org/W2093764562",
+  "https://openalex.org/W2153063335",
+  "https://openalex.org/W2165928982",
+  "https://openalex.org/W2295021037",
+  "https://openalex.org/W3099443264",
+  "https://openalex.org/W6611411637"
+ ],
+ "title": "Multiplying matrices faster than coppersmith-winograd"
+}

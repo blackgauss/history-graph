@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 44,
+ "doi": "https://doi.org/10.1016/0022-0531(91)90142-q",
+ "id": "https://openalex.org/W2117779765",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W594022834",
+  "https://openalex.org/W1535811560",
+  "https://openalex.org/W1594563152",
+  "https://openalex.org/W1908291764",
+  "https://openalex.org/W1969795839",
+  "https://openalex.org/W1975245318",
+  "https://openalex.org/W1992542071",
+  "https://openalex.org/W1995118028",
+  "https://openalex.org/W2022649148",
+  "https://openalex.org/W2030385040",
+  "https://openalex.org/W2038210926",
+  "https://openalex.org/W2065465163",
+  "https://openalex.org/W2072960660",
+  "https://openalex.org/W2087530244",
+  "https://openalex.org/W2100817802",
+  "https://openalex.org/W2123085942",
+  "https://openalex.org/W2135186667",
+  "https://openalex.org/W2143895421",
+  "https://openalex.org/W3022335643",
+  "https://openalex.org/W3126081580",
+  "https://openalex.org/W7046011713"
+ ],
+ "title": "Efficient allocation with continuous quantities"
+}

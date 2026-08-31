@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 42,
+ "doi": "https://doi.org/10.3233/fun-2001-48105",
+ "id": "https://openalex.org/W2105989285",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W15790343",
+  "https://openalex.org/W31538239",
+  "https://openalex.org/W69407335",
+  "https://openalex.org/W1504694836",
+  "https://openalex.org/W1513366687",
+  "https://openalex.org/W1527997375",
+  "https://openalex.org/W1542708781",
+  "https://openalex.org/W1553701556",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1586066135",
+  "https://openalex.org/W1597910678",
+  "https://openalex.org/W1678889691",
+  "https://openalex.org/W2032427901",
+  "https://openalex.org/W2109293916",
+  "https://openalex.org/W2156794869",
+  "https://openalex.org/W2228981282",
+  "https://openalex.org/W2506703326"
+ ],
+ "title": "On Efficient Handling of Continuous Attributes in Large Data Bases"
+}

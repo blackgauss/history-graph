@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 129,
+ "doi": null,
+ "id": "https://openalex.org/W2117348908",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1964857063",
+  "https://openalex.org/W1993482412",
+  "https://openalex.org/W1998244781",
+  "https://openalex.org/W2020584928",
+  "https://openalex.org/W2045604576",
+  "https://openalex.org/W2054170837",
+  "https://openalex.org/W2068289711",
+  "https://openalex.org/W2111033547",
+  "https://openalex.org/W2114372843",
+  "https://openalex.org/W2119885577",
+  "https://openalex.org/W2139276812",
+  "https://openalex.org/W2147232895",
+  "https://openalex.org/W2157637666",
+  "https://openalex.org/W2296677182"
+ ],
+ "title": "ICICLES: Self-Tuning Samples for Approximate Query Answering"
+}

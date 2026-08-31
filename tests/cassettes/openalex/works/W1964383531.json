@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 30,
+ "doi": "https://doi.org/10.1093/logcom/3.6.643",
+ "id": "https://openalex.org/W1964383531",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1535026268",
+  "https://openalex.org/W1581247796",
+  "https://openalex.org/W1970227944",
+  "https://openalex.org/W1973312452",
+  "https://openalex.org/W1976958863",
+  "https://openalex.org/W1980550545",
+  "https://openalex.org/W2019376542",
+  "https://openalex.org/W2054969282",
+  "https://openalex.org/W2080040385",
+  "https://openalex.org/W2085670481",
+  "https://openalex.org/W2090790829",
+  "https://openalex.org/W2119240423",
+  "https://openalex.org/W2123812977",
+  "https://openalex.org/W2149906577",
+  "https://openalex.org/W2154273644",
+  "https://openalex.org/W2166822586",
+  "https://openalex.org/W2167371195",
+  "https://openalex.org/W2167904762",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Principal Type Schemes for the Strict Type Assignment System"
+}

@@ -1,0 +1,89 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Charles A. Baylis",
+    "id": "https://openalex.org/A5019405043",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Charles A. Baylis",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": "https://doi.org/10.2307/2269093",
+ "funders": [],
+ "id": "https://openalex.org/W2328890948",
+ "ids": {
+  "doi": "https://doi.org/10.2307/2269093",
+  "mag": "2328890948",
+  "openalex": "https://openalex.org/W2328890948"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.2307/2269093",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.2307/2269093",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Journal of Symbolic Logic",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Journal of Symbolic Logic",
+   "host_organization": "https://openalex.org/P4310311721",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310311721",
+    "https://openalex.org/P4310311702"
+   ],
+   "host_organization_lineage_names": [
+    "Cambridge University Press",
+    "University of Cambridge"
+   ],
+   "host_organization_name": "Cambridge University Press",
+   "id": "https://openalex.org/S177675236",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0022-4812",
+    "1943-5886"
+   ],
+   "issn_l": "0022-4812",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 1939,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W2899084033",
+  "https://openalex.org/W2539674285",
+  "https://openalex.org/W1998322187",
+  "https://openalex.org/W1038122923",
+  "https://openalex.org/W2952514781",
+  "https://openalex.org/W3019210376",
+  "https://openalex.org/W2391145594",
+  "https://openalex.org/W2326572623",
+  "https://openalex.org/W1559320887"
+ ],
+ "title": "Claude E. Shannon. A symbolic analysis of relay and switching circuits. Transactions of the American Institute of Electrical Engineers, vol. 57 (1938), pp. 713–723.",
+ "type": "article"
+}

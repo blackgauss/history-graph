@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 248,
+ "doi": "https://doi.org/10.1145/1066157.1066193",
+ "id": "https://openalex.org/W2165207129",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W21469624",
+  "https://openalex.org/W44987379",
+  "https://openalex.org/W1544423111",
+  "https://openalex.org/W2001474264",
+  "https://openalex.org/W2052464302",
+  "https://openalex.org/W2099395665",
+  "https://openalex.org/W2101717554",
+  "https://openalex.org/W2103201239",
+  "https://openalex.org/W2135216003",
+  "https://openalex.org/W2138745909",
+  "https://openalex.org/W2144261930",
+  "https://openalex.org/W2149576945",
+  "https://openalex.org/W2151968644",
+  "https://openalex.org/W2155960838",
+  "https://openalex.org/W2279022598"
+ ],
+ "title": "Semantics and evaluation techniques for window aggregates in data streams"
+}

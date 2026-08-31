@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 42,
+ "doi": "https://doi.org/10.1109/12.24307",
+ "id": "https://openalex.org/W2085338088",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W65285716",
+  "https://openalex.org/W109509553",
+  "https://openalex.org/W220925779",
+  "https://openalex.org/W1515334074",
+  "https://openalex.org/W1567895907",
+  "https://openalex.org/W1976858625",
+  "https://openalex.org/W2023839151",
+  "https://openalex.org/W2025082736",
+  "https://openalex.org/W2054806536",
+  "https://openalex.org/W2061588824",
+  "https://openalex.org/W2072293288",
+  "https://openalex.org/W2089827328",
+  "https://openalex.org/W2171889623",
+  "https://openalex.org/W2178308234",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W4298411207",
+  "https://openalex.org/W6604389932",
+  "https://openalex.org/W6633893890",
+  "https://openalex.org/W6687965037"
+ ],
+ "title": "Database operations in a cube-connected multicomputer system"
+}

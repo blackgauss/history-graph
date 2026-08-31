@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 25,
+ "doi": "https://doi.org/10.1016/s1474-6670(17)61312-0",
+ "id": "https://openalex.org/W1577633406",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1484155879",
+  "https://openalex.org/W1973519334",
+  "https://openalex.org/W2014556244",
+  "https://openalex.org/W2015009070",
+  "https://openalex.org/W2059556843",
+  "https://openalex.org/W2060739390",
+  "https://openalex.org/W2147873335",
+  "https://openalex.org/W2148401037",
+  "https://openalex.org/W2170071902",
+  "https://openalex.org/W2215123059",
+  "https://openalex.org/W4206928837",
+  "https://openalex.org/W6629029193",
+  "https://openalex.org/W6807190441"
+ ],
+ "title": "Experiences with Self-Tuning Control in the Process Industry"
+}

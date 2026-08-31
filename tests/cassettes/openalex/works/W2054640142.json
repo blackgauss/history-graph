@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 2776,
+ "doi": "https://doi.org/10.1214/aos/1176345632",
+ "id": "https://openalex.org/W2054640142",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W572162744",
+  "https://openalex.org/W1584444527",
+  "https://openalex.org/W1983732017",
+  "https://openalex.org/W2000812844",
+  "https://openalex.org/W2004757960",
+  "https://openalex.org/W2013116218",
+  "https://openalex.org/W2036786210",
+  "https://openalex.org/W2060619704",
+  "https://openalex.org/W2061461017",
+  "https://openalex.org/W2065992798",
+  "https://openalex.org/W2072857774",
+  "https://openalex.org/W2073837511",
+  "https://openalex.org/W2077788215",
+  "https://openalex.org/W2091811126",
+  "https://openalex.org/W2092151549",
+  "https://openalex.org/W2143082178",
+  "https://openalex.org/W2153190668"
+ ],
+ "title": "Estimation of the Mean of a Multivariate Normal Distribution"
+}

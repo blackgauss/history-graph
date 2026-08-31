@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 59,
+ "doi": "https://doi.org/10.1007/11554844_6",
+ "id": "https://openalex.org/W1539768714",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W296121516",
+  "https://openalex.org/W1557334747",
+  "https://openalex.org/W1564247335",
+  "https://openalex.org/W1568053384",
+  "https://openalex.org/W1582955288",
+  "https://openalex.org/W1604757612",
+  "https://openalex.org/W1635782815",
+  "https://openalex.org/W2085720604",
+  "https://openalex.org/W2090403712",
+  "https://openalex.org/W2113364245",
+  "https://openalex.org/W2118230874",
+  "https://openalex.org/W2129736452",
+  "https://openalex.org/W2135328823",
+  "https://openalex.org/W2153887189",
+  "https://openalex.org/W2481417520",
+  "https://openalex.org/W2481605850",
+  "https://openalex.org/W2487347133",
+  "https://openalex.org/W2501123439",
+  "https://openalex.org/W4243816321",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Feature-Oriented Re-engineering of Legacy Systems into Product Line Assets – a Case Study"
+}

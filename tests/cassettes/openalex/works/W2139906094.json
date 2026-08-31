@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 100,
+ "doi": "https://doi.org/10.1145/996566.996710",
+ "id": "https://openalex.org/W2139906094",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1503170978",
+  "https://openalex.org/W1517173520",
+  "https://openalex.org/W1518705996",
+  "https://openalex.org/W1525293204",
+  "https://openalex.org/W1978107969",
+  "https://openalex.org/W1989970914",
+  "https://openalex.org/W2005030466",
+  "https://openalex.org/W2015211698",
+  "https://openalex.org/W2042019051",
+  "https://openalex.org/W2044560939",
+  "https://openalex.org/W2070658982",
+  "https://openalex.org/W2096307462",
+  "https://openalex.org/W2108795363",
+  "https://openalex.org/W2110123236",
+  "https://openalex.org/W2158505527",
+  "https://openalex.org/W4300021588"
+ ],
+ "title": "AMUSE"
+}

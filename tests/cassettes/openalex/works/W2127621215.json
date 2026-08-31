@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 146,
+ "doi": null,
+ "id": "https://openalex.org/W2127621215",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1607012257",
+  "https://openalex.org/W1996585089",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2028629011",
+  "https://openalex.org/W2102489567",
+  "https://openalex.org/W2114471683",
+  "https://openalex.org/W2116424792",
+  "https://openalex.org/W2143503258",
+  "https://openalex.org/W2156084351",
+  "https://openalex.org/W2158969192",
+  "https://openalex.org/W2162811812",
+  "https://openalex.org/W2168648327",
+  "https://openalex.org/W2766736793"
+ ],
+ "title": "A Fast Stochastic Error-Descent Algorithm for Supervised Learning and Optimization"
+}

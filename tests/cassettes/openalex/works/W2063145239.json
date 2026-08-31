@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 278,
+ "doi": "https://doi.org/10.1073/pnas.1633736100",
+ "id": "https://openalex.org/W2063145239",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1028472450",
+  "https://openalex.org/W1494834929",
+  "https://openalex.org/W2022719012",
+  "https://openalex.org/W2105631488",
+  "https://openalex.org/W2161924782",
+  "https://openalex.org/W2163675995",
+  "https://openalex.org/W2165033961",
+  "https://openalex.org/W4238477212",
+  "https://openalex.org/W4245751240"
+ ],
+ "title": "Combinatorial auction design"
+}

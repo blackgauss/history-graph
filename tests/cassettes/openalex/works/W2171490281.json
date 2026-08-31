@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 67,
+ "doi": "https://doi.org/10.1162/neco.1990.2.2.173",
+ "id": "https://openalex.org/W2171490281",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W2087103619",
+  "https://openalex.org/W2122925692",
+  "https://openalex.org/W2150863395",
+  "https://openalex.org/W2165746994",
+  "https://openalex.org/W2764508228"
+ ],
+ "title": "Analysis of Linsker's Simulations of Hebbian Rules"
+}

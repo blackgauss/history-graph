@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 234,
+ "doi": "https://doi.org/10.1007/3-540-36181-2",
+ "id": "https://openalex.org/W164569299",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1503029920",
+  "https://openalex.org/W1504106430",
+  "https://openalex.org/W1544844504",
+  "https://openalex.org/W1553873652",
+  "https://openalex.org/W1561090320",
+  "https://openalex.org/W1566031736",
+  "https://openalex.org/W1575586526",
+  "https://openalex.org/W1581382664"
+ ],
+ "title": "Biologically Motivated Computer Vision"
+}

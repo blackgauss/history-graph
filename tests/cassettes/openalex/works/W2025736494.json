@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1137/s0097539798340205",
+ "id": "https://openalex.org/W2025736494",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1600159612",
+  "https://openalex.org/W1906607213",
+  "https://openalex.org/W1973472581",
+  "https://openalex.org/W1991813962",
+  "https://openalex.org/W2013737143",
+  "https://openalex.org/W2018347014",
+  "https://openalex.org/W2024693023",
+  "https://openalex.org/W2043552663",
+  "https://openalex.org/W2057512592",
+  "https://openalex.org/W2058510050",
+  "https://openalex.org/W2081777693",
+  "https://openalex.org/W2154987710",
+  "https://openalex.org/W2170220350",
+  "https://openalex.org/W2171665075",
+  "https://openalex.org/W2945702705",
+  "https://openalex.org/W3022136271"
+ ],
+ "title": "Precision-Sensitive Euclidean Shortest Path in 3-Space"
+}

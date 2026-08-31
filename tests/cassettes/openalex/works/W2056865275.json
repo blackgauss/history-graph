@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 39,
+ "doi": "https://doi.org/10.1109/pgec.1965.263958",
+ "id": "https://openalex.org/W2056865275",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W1694128183",
+  "https://openalex.org/W2025494402",
+  "https://openalex.org/W2061055380",
+  "https://openalex.org/W2065758324",
+  "https://openalex.org/W2079873320",
+  "https://openalex.org/W2094016610",
+  "https://openalex.org/W2113364322",
+  "https://openalex.org/W2320984269",
+  "https://openalex.org/W2544549009"
+ ],
+ "title": "Lower Bounds of the Number of Threshold Functions and a Maximum Weight"
+}

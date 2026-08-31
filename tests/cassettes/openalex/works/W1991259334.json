@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 30,
+ "doi": "https://doi.org/10.1088/0305-4470/26/9/016",
+ "id": "https://openalex.org/W1991259334",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1971361630",
+  "https://openalex.org/W1975172782",
+  "https://openalex.org/W1984793731",
+  "https://openalex.org/W1990124919",
+  "https://openalex.org/W1999007984",
+  "https://openalex.org/W2004759812",
+  "https://openalex.org/W2022124343",
+  "https://openalex.org/W2028923186",
+  "https://openalex.org/W2029538739",
+  "https://openalex.org/W2060263093",
+  "https://openalex.org/W2066424095",
+  "https://openalex.org/W2068558570",
+  "https://openalex.org/W2068753946",
+  "https://openalex.org/W2069920705",
+  "https://openalex.org/W2090614046",
+  "https://openalex.org/W2091233543",
+  "https://openalex.org/W2133671888",
+  "https://openalex.org/W2150872430",
+  "https://openalex.org/W2154952480",
+  "https://openalex.org/W2157790340",
+  "https://openalex.org/W2165758113",
+  "https://openalex.org/W2912633461",
+  "https://openalex.org/W4238284510",
+  "https://openalex.org/W4238893454"
+ ],
+ "title": "Vapnik-Chervonenkis bounds for generalization"
+}

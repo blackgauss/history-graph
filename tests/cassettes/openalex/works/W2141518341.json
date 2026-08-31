@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 99,
+ "doi": "https://doi.org/10.1007/3-540-61863-5_42",
+ "id": "https://openalex.org/W2141518341",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W81828477",
+  "https://openalex.org/W1537900672",
+  "https://openalex.org/W1565236324",
+  "https://openalex.org/W1797345057",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W1996824494",
+  "https://openalex.org/W1999138184",
+  "https://openalex.org/W2037689320",
+  "https://openalex.org/W2071726659",
+  "https://openalex.org/W2118742339",
+  "https://openalex.org/W2119831128",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2134980541",
+  "https://openalex.org/W2150262694",
+  "https://openalex.org/W2520858206",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W4212883601",
+  "https://openalex.org/W4234955777",
+  "https://openalex.org/W6648725293"
+ ],
+ "title": "Boosting first-order learning"
+}

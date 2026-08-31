@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 2268,
+ "doi": "https://doi.org/10.1137/s0097539701398375",
+ "id": "https://openalex.org/W2077902449",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W649943522",
+  "https://openalex.org/W1977823770",
+  "https://openalex.org/W1978260564",
+  "https://openalex.org/W1979675141",
+  "https://openalex.org/W1979865129",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W1998498767",
+  "https://openalex.org/W2009551863",
+  "https://openalex.org/W2071573426",
+  "https://openalex.org/W2093825590",
+  "https://openalex.org/W2099111195",
+  "https://openalex.org/W2106887613",
+  "https://openalex.org/W2126776273",
+  "https://openalex.org/W2135730283",
+  "https://openalex.org/W2168281471",
+  "https://openalex.org/W2317700292",
+  "https://openalex.org/W2611627047",
+  "https://openalex.org/W3124659111",
+  "https://openalex.org/W4254113915"
+ ],
+ "title": "The Nonstochastic Multiarmed Bandit Problem"
+}

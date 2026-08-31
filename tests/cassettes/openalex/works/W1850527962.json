@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 253,
+ "doi": null,
+ "id": "https://openalex.org/W1850527962",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W28412257",
+  "https://openalex.org/W122801842",
+  "https://openalex.org/W1494780677",
+  "https://openalex.org/W1966280301",
+  "https://openalex.org/W1993387039",
+  "https://openalex.org/W1995945562",
+  "https://openalex.org/W2027902935",
+  "https://openalex.org/W2104364170",
+  "https://openalex.org/W2110593694",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2128073546",
+  "https://openalex.org/W2135293965",
+  "https://openalex.org/W2150866911",
+  "https://openalex.org/W2158441306",
+  "https://openalex.org/W2164544703",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W2914369697"
+ ],
+ "title": "An empirical evaluation of bagging and boosting"
+}

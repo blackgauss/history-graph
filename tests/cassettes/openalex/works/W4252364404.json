@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 1235,
+ "doi": "https://doi.org/10.1145/360248.360253",
+ "id": "https://openalex.org/W4252364404",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W1975079087",
+  "https://openalex.org/W1990487726",
+  "https://openalex.org/W2079863985",
+  "https://openalex.org/W2130959398",
+  "https://openalex.org/W2131624837",
+  "https://openalex.org/W2150847784",
+  "https://openalex.org/W2156952264",
+  "https://openalex.org/W2174359540",
+  "https://openalex.org/W4241902139",
+  "https://openalex.org/W4250828389"
+ ],
+ "title": "Ethernet"
+}

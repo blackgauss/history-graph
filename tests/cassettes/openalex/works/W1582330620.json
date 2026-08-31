@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1007/978-3-540-74621-8_6",
+ "id": "https://openalex.org/W1582330620",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W144074862",
+  "https://openalex.org/W204808196",
+  "https://openalex.org/W1486852605",
+  "https://openalex.org/W1497011154",
+  "https://openalex.org/W1521083034",
+  "https://openalex.org/W1534850143",
+  "https://openalex.org/W1556566737",
+  "https://openalex.org/W1574646631",
+  "https://openalex.org/W1586167239",
+  "https://openalex.org/W1594381772",
+  "https://openalex.org/W1598006012",
+  "https://openalex.org/W1845985101",
+  "https://openalex.org/W2059513841",
+  "https://openalex.org/W2132148988",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2155512447",
+  "https://openalex.org/W2163103684",
+  "https://openalex.org/W2168950896",
+  "https://openalex.org/W4234528212"
+ ],
+ "title": "A Compressing Translation from Propositional Resolution to Natural Deduction"
+}

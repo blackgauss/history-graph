@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 1806,
+ "doi": "https://doi.org/10.1103/physrevlett.80.1121",
+ "id": "https://openalex.org/W2113730801",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1609875153",
+  "https://openalex.org/W1978553093",
+  "https://openalex.org/W1983855082",
+  "https://openalex.org/W2043733984",
+  "https://openalex.org/W2045140905",
+  "https://openalex.org/W2061240324",
+  "https://openalex.org/W2075441930",
+  "https://openalex.org/W2081319595",
+  "https://openalex.org/W2089334469",
+  "https://openalex.org/W2115181017",
+  "https://openalex.org/W3003414507",
+  "https://openalex.org/W4250197263"
+ ],
+ "title": "Experimental Realization of Teleporting an Unknown Pure Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels"
+}

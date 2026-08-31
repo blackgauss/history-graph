@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 519,
+ "doi": "https://doi.org/10.2307/1913415",
+ "id": "https://openalex.org/W1988576875",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W1525537225",
+  "https://openalex.org/W1980030032",
+  "https://openalex.org/W1983562450",
+  "https://openalex.org/W2109341366",
+  "https://openalex.org/W2124194695"
+ ],
+ "title": "Congestion Tolls for Poisson Queuing Processes"
+}

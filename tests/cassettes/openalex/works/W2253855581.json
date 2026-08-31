@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 58,
+ "doi": "https://doi.org/10.21136/cmj.1960.100396",
+ "id": "https://openalex.org/W2253855581",
+ "publication_year": 1960,
+ "referenced_works": [
+  "https://openalex.org/W1527117384",
+  "https://openalex.org/W1972711404",
+  "https://openalex.org/W1979761486",
+  "https://openalex.org/W1987530685",
+  "https://openalex.org/W1994616650",
+  "https://openalex.org/W1996235804",
+  "https://openalex.org/W2047663898",
+  "https://openalex.org/W4235366561",
+  "https://openalex.org/W4242186041"
+ ],
+ "title": "Stochastic approximation methods"
+}

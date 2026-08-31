@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 240,
+ "doi": null,
+ "id": "https://openalex.org/W2099968818",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1504694836",
+  "https://openalex.org/W1507034068",
+  "https://openalex.org/W1553313034",
+  "https://openalex.org/W1562197959",
+  "https://openalex.org/W1850527962",
+  "https://openalex.org/W1966280301",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2008772536",
+  "https://openalex.org/W2033040247",
+  "https://openalex.org/W2081869978",
+  "https://openalex.org/W2097477220",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2119821739",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2152761983",
+  "https://openalex.org/W2172195373",
+  "https://openalex.org/W2266946488",
+  "https://openalex.org/W2982720039"
+ ],
+ "title": "Boosting in the limit: maximizing the margin of learned ensembles"
+}

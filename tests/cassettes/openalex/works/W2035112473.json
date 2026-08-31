@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 823,
+ "doi": "https://doi.org/10.1103/physreva.54.147",
+ "id": "https://openalex.org/W2035112473",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W94149014",
+  "https://openalex.org/W1981663184",
+  "https://openalex.org/W1992769799",
+  "https://openalex.org/W1999450843",
+  "https://openalex.org/W2020123688",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2061073612",
+  "https://openalex.org/W2064109805",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2083368929",
+  "https://openalex.org/W2095533469",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2752061190",
+  "https://openalex.org/W2753176400",
+  "https://openalex.org/W4233798822",
+  "https://openalex.org/W4241387086",
+  "https://openalex.org/W4249958171",
+  "https://openalex.org/W4253477627"
+ ],
+ "title": "Quantum networks for elementary arithmetic operations"
+}

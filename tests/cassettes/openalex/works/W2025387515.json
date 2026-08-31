@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 105,
+ "doi": "https://doi.org/10.1145/1807167.1807290",
+ "id": "https://openalex.org/W2025387515",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1515932031",
+  "https://openalex.org/W1576853379",
+  "https://openalex.org/W1646696449",
+  "https://openalex.org/W1831560769",
+  "https://openalex.org/W1863536549",
+  "https://openalex.org/W1997020216",
+  "https://openalex.org/W2052464302",
+  "https://openalex.org/W2062735494",
+  "https://openalex.org/W2103201239",
+  "https://openalex.org/W2104954161",
+  "https://openalex.org/W2115503987",
+  "https://openalex.org/W2117734592",
+  "https://openalex.org/W2122465391",
+  "https://openalex.org/W2141742398",
+  "https://openalex.org/W2150206209",
+  "https://openalex.org/W2151575925",
+  "https://openalex.org/W2156212081",
+  "https://openalex.org/W2161569281",
+  "https://openalex.org/W2914354916"
+ ],
+ "title": "Continuous analytics over discontinuous streams"
+}

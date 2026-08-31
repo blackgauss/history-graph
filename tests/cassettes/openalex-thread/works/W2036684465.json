@@ -1,0 +1,452 @@
+{
+ "abstract_inverted_index": {
+  "Any": [
+   23
+  ],
+  "File": [
+   41
+  ],
+  "GFS": [
+   51
+  ],
+  "Google": [
+   40
+  ],
+  "In": [
+   0,
+   70
+  ],
+  "Instrumenting": [
+   46
+  ],
+  "System": [
+   42
+  ],
+  "The": [
+   39
+  ],
+  "a": [
+   47
+  ],
+  "access": [
+   78
+  ],
+  "addition,": [
+   71
+  ],
+  "allows": [
+   76
+  ],
+  "an": [
+   7
+  ],
+  "and": [
+   29,
+   57,
+   68,
+   79
+  ],
+  "appending": [
+   53
+  ],
+  "as": [
+   35
+  ],
+  "been": [
+   6
+  ],
+  "checkpoints": [
+   58
+  ],
+  "chunk": [
+   74
+  ],
+  "critical": [
+   66
+  ],
+  "data,": [
+   54
+  ],
+  "data.": [
+   83
+  ],
+  "degree": [
+   15
+  ],
+  "distributed": [
+   10,
+   20
+  ],
+  "duplication": [
+   72
+  ],
+  "exemplify": [
+   13
+  ],
+  "exposure": [
+   8
+  ],
+  "failures.": [
+   69
+  ],
+  "faster": [
+   77
+  ],
+  "features.": [
+   45
+  ],
+  "feel": [
+   30
+  ],
+  "file": [
+   21
+  ],
+  "files": [
+   33
+  ],
+  "handling": [
+   65
+  ],
+  "has": [
+   5
+  ],
+  "help": [
+   63
+  ],
+  "implements": [
+   43
+  ],
+  "in": [
+   60,
+   64
+  ],
+  "just": [
+   34
+  ],
+  "like": [
+   26
+  ],
+  "local": [
+   37
+  ],
+  "look": [
+   28
+  ],
+  "master/slave": [
+   48
+  ],
+  "of": [
+   16,
+   31,
+   73,
+   81
+  ],
+  "ones.": [
+   38
+  ],
+  "pattern,": [
+   49
+  ],
+  "predominantly": [
+   18
+  ],
+  "provides": [
+   52
+  ],
+  "recent": [
+   2
+  ],
+  "remote": [
+   32
+  ],
+  "requested": [
+   82
+  ],
+  "retrieval": [
+   80
+  ],
+  "servers": [
+   75
+  ],
+  "situations": [
+   67
+  ],
+  "snapshots": [
+   56
+  ],
+  "some": [
+   14
+  ],
+  "such": [
+   44
+  ],
+  "systems": [
+   11
+  ],
+  "systems.": [
+   22
+  ],
+  "taking": [
+   55
+  ],
+  "that": [
+   12
+  ],
+  "the": [
+   1,
+   27,
+   36,
+   50
+  ],
+  "there": [
+   4
+  ],
+  "through": [
+   19
+  ],
+  "times,": [
+   3
+  ],
+  "to": [
+   9
+  ],
+  "transparency": [
+   17
+  ],
+  "user": [
+   24
+  ],
+  "various": [
+   61
+  ],
+  "ways": [
+   62
+  ],
+  "which": [
+   59
+  ],
+  "would": [
+   25
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210088227"
+     ],
+     "raw_affiliation_string": "MIT College of Engineering Paud Road, Kothrud Pune-411038"
+    }
+   ],
+   "author": {
+    "display_name": "Aditya Kamath",
+    "id": "https://openalex.org/A5032532281",
+    "orcid": "https://orcid.org/0000-0002-1424-8248"
+   },
+   "author_position": "first",
+   "countries": [
+    "IN"
+   ],
+   "institutions": [
+    {
+     "country_code": "IN",
+     "display_name": "MIT World Peace University",
+     "id": "https://openalex.org/I4210088227",
+     "lineage": [
+      "https://openalex.org/I4210088227"
+     ],
+     "ror": "https://ror.org/004ymxd45",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "MIT College of Engineering Paud Road, Kothrud Pune-411038"
+   ],
+   "raw_author_name": "Aditya Kamath",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210088227"
+     ],
+     "raw_affiliation_string": "MIT College of Engineering Paud Road, Kothrud Pune-411038"
+    }
+   ],
+   "author": {
+    "display_name": "Archit Jaiswal",
+    "id": "https://openalex.org/A5042666368",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "IN"
+   ],
+   "institutions": [
+    {
+     "country_code": "IN",
+     "display_name": "MIT World Peace University",
+     "id": "https://openalex.org/I4210088227",
+     "lineage": [
+      "https://openalex.org/I4210088227"
+     ],
+     "ror": "https://ror.org/004ymxd45",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "MIT College of Engineering Paud Road, Kothrud Pune-411038"
+   ],
+   "raw_author_name": "Archit Jaiswal",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210088227"
+     ],
+     "raw_affiliation_string": "MIT College of Engineering Paud Road, Kothrud Pune-411038"
+    }
+   ],
+   "author": {
+    "display_name": "Kranti Dive",
+    "id": "https://openalex.org/A5084570612",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [
+    "IN"
+   ],
+   "institutions": [
+    {
+     "country_code": "IN",
+     "display_name": "MIT World Peace University",
+     "id": "https://openalex.org/I4210088227",
+     "lineage": [
+      "https://openalex.org/I4210088227"
+     ],
+     "ror": "https://ror.org/004ymxd45",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "MIT College of Engineering Paud Road, Kothrud Pune-411038"
+   ],
+   "raw_author_name": "Kranti Dive",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.5120/18100-9165",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.5120/18100-9165",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://doi.org/10.5120/18100-9165",
+  "raw_source_name": "International Journal of Computer Applications",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal of Computer Applications",
+   "host_organization": "https://openalex.org/P4322545532",
+   "host_organization_lineage": [
+    "https://openalex.org/P4322545532"
+   ],
+   "host_organization_lineage_names": [
+    "Foundation of Computer Science"
+   ],
+   "host_organization_name": "Foundation of Computer Science",
+   "id": "https://openalex.org/S4210206007",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0975-8887"
+   ],
+   "issn_l": "0975-8887",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 1,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2018
+  }
+ ],
+ "doi": "https://doi.org/10.5120/18100-9165",
+ "funders": [],
+ "id": "https://openalex.org/W2036684465",
+ "ids": {
+  "doi": "https://doi.org/10.5120/18100-9165",
+  "mag": "2036684465",
+  "openalex": "https://openalex.org/W2036684465"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": true,
+  "oa_status": "bronze",
+  "oa_url": "https://doi.org/10.5120/18100-9165"
+ },
+ "primary_location": {
+  "id": "doi:10.5120/18100-9165",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.5120/18100-9165",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://doi.org/10.5120/18100-9165",
+  "raw_source_name": "International Journal of Computer Applications",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal of Computer Applications",
+   "host_organization": "https://openalex.org/P4322545532",
+   "host_organization_lineage": [
+    "https://openalex.org/P4322545532"
+   ],
+   "host_organization_lineage_names": [
+    "Foundation of Computer Science"
+   ],
+   "host_organization_name": "Foundation of Computer Science",
+   "id": "https://openalex.org/S4210206007",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0975-8887"
+   ],
+   "issn_l": "0975-8887",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W1833248575",
+  "https://openalex.org/W1868801145",
+  "https://openalex.org/W4254517728"
+ ],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W4213212078",
+  "https://openalex.org/W372519479",
+  "https://openalex.org/W2356683864",
+  "https://openalex.org/W2418025259",
+  "https://openalex.org/W2112788825",
+  "https://openalex.org/W2187227032",
+  "https://openalex.org/W1963735073",
+  "https://openalex.org/W4234077872",
+  "https://openalex.org/W835181104"
+ ],
+ "title": "From Idea to Reality: Google File System",
+ "type": "article"
+}

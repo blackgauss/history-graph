@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 231,
+ "doi": "https://doi.org/10.1016/s0304-3975(01)00174-8",
+ "id": "https://openalex.org/W2171680292",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W18803657",
+  "https://openalex.org/W649378622",
+  "https://openalex.org/W1480235131",
+  "https://openalex.org/W1491766353",
+  "https://openalex.org/W1500660230",
+  "https://openalex.org/W1508239681",
+  "https://openalex.org/W1564428908",
+  "https://openalex.org/W1667614912",
+  "https://openalex.org/W1820801893",
+  "https://openalex.org/W1920638964",
+  "https://openalex.org/W1990313671",
+  "https://openalex.org/W2001013631",
+  "https://openalex.org/W2014111643",
+  "https://openalex.org/W2036350017",
+  "https://openalex.org/W2066749637",
+  "https://openalex.org/W2087662271",
+  "https://openalex.org/W2121766240",
+  "https://openalex.org/W2126442135",
+  "https://openalex.org/W2134514766",
+  "https://openalex.org/W2221611244",
+  "https://openalex.org/W2947000318",
+  "https://openalex.org/W6637229586",
+  "https://openalex.org/W6689005351"
+ ],
+ "title": "A deterministic (2−2/(k+1))n algorithm for k-SAT based on local search"
+}

@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 32,
+ "doi": "https://doi.org/10.1007/978-94-009-0349-4_6",
+ "id": "https://openalex.org/W1505196509",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W155638654",
+  "https://openalex.org/W1480465948",
+  "https://openalex.org/W1484865830",
+  "https://openalex.org/W1526479036",
+  "https://openalex.org/W1532192677",
+  "https://openalex.org/W1536234924",
+  "https://openalex.org/W1577485093",
+  "https://openalex.org/W1966865798",
+  "https://openalex.org/W1968229471",
+  "https://openalex.org/W1988192943",
+  "https://openalex.org/W2015373596",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2049352524",
+  "https://openalex.org/W2072380992",
+  "https://openalex.org/W2082569732",
+  "https://openalex.org/W2098442984",
+  "https://openalex.org/W2130175237",
+  "https://openalex.org/W2164778826"
+ ],
+ "title": "Cooperation of Decision Procedures for the Satisfiability Problem"
+}

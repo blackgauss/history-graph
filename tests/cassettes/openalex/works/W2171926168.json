@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 248,
+ "doi": "https://doi.org/10.1145/355921.355933",
+ "id": "https://openalex.org/W2171926168",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1968098332",
+  "https://openalex.org/W1995103089",
+  "https://openalex.org/W2010647796",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2035079355",
+  "https://openalex.org/W2086518770",
+  "https://openalex.org/W2122565324",
+  "https://openalex.org/W3141890267"
+ ],
+ "title": "Remark on “Algorithm 500: Minimization of Unconstrained Multivariate Functions [E4]”"
+}

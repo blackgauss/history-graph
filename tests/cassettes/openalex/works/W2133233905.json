@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 445,
+ "doi": null,
+ "id": "https://openalex.org/W2133233905",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W785074037",
+  "https://openalex.org/W1836839941",
+  "https://openalex.org/W2030021468",
+  "https://openalex.org/W2069239883",
+  "https://openalex.org/W2103127776",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2113030042",
+  "https://openalex.org/W2117354270",
+  "https://openalex.org/W2119994910",
+  "https://openalex.org/W2134557905",
+  "https://openalex.org/W2143617397",
+  "https://openalex.org/W2150722309",
+  "https://openalex.org/W2914484425"
+ ],
+ "title": "Off-Road Obstacle Avoidance through End-to-End Learning"
+}

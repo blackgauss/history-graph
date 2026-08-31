@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 6,
+ "doi": null,
+ "id": "https://openalex.org/W131244226",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W99358099",
+  "https://openalex.org/W146458024",
+  "https://openalex.org/W153142211",
+  "https://openalex.org/W2010883554",
+  "https://openalex.org/W2068847249",
+  "https://openalex.org/W2099213660",
+  "https://openalex.org/W2155470936",
+  "https://openalex.org/W2526528275",
+  "https://openalex.org/W2693637499",
+  "https://openalex.org/W2914821813"
+ ],
+ "title": "FireWorks: A Formal Transformation-Based Model-Driven Approach to Features in Product Lines"
+}

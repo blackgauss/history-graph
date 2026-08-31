@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 413,
+ "doi": "https://doi.org/10.1080/09540098908915647",
+ "id": "https://openalex.org/W2042481239",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W193605690",
+  "https://openalex.org/W569156507",
+  "https://openalex.org/W1573503290",
+  "https://openalex.org/W1902150074",
+  "https://openalex.org/W2006646352",
+  "https://openalex.org/W2013825190",
+  "https://openalex.org/W2039708501",
+  "https://openalex.org/W2089929903",
+  "https://openalex.org/W2120972216",
+  "https://openalex.org/W2480866454",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3121926921",
+  "https://openalex.org/W3146803896",
+  "https://openalex.org/W3151426673",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4253020087",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Dynamic Node Creation in Backpropagation Networks"
+}

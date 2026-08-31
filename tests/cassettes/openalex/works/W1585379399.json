@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1007/3-540-48660-7_35",
+ "id": "https://openalex.org/W1585379399",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W82633235",
+  "https://openalex.org/W1489239494",
+  "https://openalex.org/W1494902711",
+  "https://openalex.org/W1499911527",
+  "https://openalex.org/W1508912476",
+  "https://openalex.org/W1514356467",
+  "https://openalex.org/W1532176935",
+  "https://openalex.org/W1543931510",
+  "https://openalex.org/W1553941590",
+  "https://openalex.org/W1605860778",
+  "https://openalex.org/W2053892987",
+  "https://openalex.org/W2091307959",
+  "https://openalex.org/W2109488209",
+  "https://openalex.org/W2126755595",
+  "https://openalex.org/W6629853914"
+ ],
+ "title": "K : A Theorem Prover for K"
+}

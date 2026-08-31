@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 333,
+ "doi": null,
+ "id": "https://openalex.org/W19621276",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1526055535",
+  "https://openalex.org/W1561661527",
+  "https://openalex.org/W1660445216",
+  "https://openalex.org/W2160699933",
+  "https://openalex.org/W2413579311"
+ ],
+ "title": "Improving the convergence of back-propagation learning with second-order methods"
+}

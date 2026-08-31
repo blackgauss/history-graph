@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 114,
+ "doi": "https://doi.org/10.1093/imanum/17.3.343",
+ "id": "https://openalex.org/W2155978565",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W382810004",
+  "https://openalex.org/W1573470183",
+  "https://openalex.org/W1630643170",
+  "https://openalex.org/W1978461111",
+  "https://openalex.org/W2008032518",
+  "https://openalex.org/W2009053871",
+  "https://openalex.org/W2012144921",
+  "https://openalex.org/W2027828864",
+  "https://openalex.org/W2052150479",
+  "https://openalex.org/W2074797641",
+  "https://openalex.org/W2083206954",
+  "https://openalex.org/W2094260500",
+  "https://openalex.org/W2133735280",
+  "https://openalex.org/W2319308948",
+  "https://openalex.org/W3106701803"
+ ],
+ "title": "Fast evaluation of radial basis functions: methods for two-dimensional polyharmonic splines"
+}

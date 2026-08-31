@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 399,
+ "doi": "https://doi.org/10.1080/03605308308820301",
+ "id": "https://openalex.org/W1983345526",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W13444159",
+  "https://openalex.org/W26814562",
+  "https://openalex.org/W1488877410",
+  "https://openalex.org/W1513091520",
+  "https://openalex.org/W1523471994",
+  "https://openalex.org/W1567262822",
+  "https://openalex.org/W1947441800",
+  "https://openalex.org/W1976822482",
+  "https://openalex.org/W1984858448",
+  "https://openalex.org/W2000242689",
+  "https://openalex.org/W2001561931",
+  "https://openalex.org/W2018387453",
+  "https://openalex.org/W2028121921",
+  "https://openalex.org/W2040431045",
+  "https://openalex.org/W2057462050",
+  "https://openalex.org/W2067986422",
+  "https://openalex.org/W2140220302",
+  "https://openalex.org/W2331776598",
+  "https://openalex.org/W2341171179",
+  "https://openalex.org/W2572622165",
+  "https://openalex.org/W2749408143",
+  "https://openalex.org/W4241244056",
+  "https://openalex.org/W4251665813",
+  "https://openalex.org/W4302609762"
+ ],
+ "title": "Optimal control of diffusion processes and hamilton–jacobi–bellman equations part 2 : viscosity solutions and uniqueness"
+}

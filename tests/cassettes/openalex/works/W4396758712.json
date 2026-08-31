@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 211,
+ "counts_by_year": [
+  {
+   "cited_by_count": 73,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 117,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 21,
+   "year": 2024
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3589334.3645458",
+ "id": "https://openalex.org/W4396758712",
+ "publication_year": 2024,
+ "title": "Representation Learning with Large Language Models for Recommendation"
+}

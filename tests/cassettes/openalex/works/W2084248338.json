@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 53,
+ "doi": "https://doi.org/10.1145/582250.582277",
+ "id": "https://openalex.org/W2084248338",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W611488082",
+  "https://openalex.org/W1524668325",
+  "https://openalex.org/W2044202775",
+  "https://openalex.org/W2075035440",
+  "https://openalex.org/W2094711531",
+  "https://openalex.org/W2153485419",
+  "https://openalex.org/W2181107873",
+  "https://openalex.org/W2676755577",
+  "https://openalex.org/W4237180522",
+  "https://openalex.org/W4251170398",
+  "https://openalex.org/W6631393269",
+  "https://openalex.org/W6682848798"
+ ],
+ "title": "A methodology for interpreting tree queries into optimal semi-join expressions"
+}

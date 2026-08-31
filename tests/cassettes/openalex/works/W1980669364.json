@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 192,
+ "doi": "https://doi.org/10.1103/physrevlett.81.5442",
+ "id": "https://openalex.org/W1980669364",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W2002372750",
+  "https://openalex.org/W2006290558",
+  "https://openalex.org/W2084652510",
+  "https://openalex.org/W2086290259",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W2109741106",
+  "https://openalex.org/W2137005141",
+  "https://openalex.org/W3023478445",
+  "https://openalex.org/W3111297213",
+  "https://openalex.org/W4241387086"
+ ],
+ "title": "Limit on the Speed of Quantum Computation in Determining Parity"
+}

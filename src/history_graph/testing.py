@@ -64,11 +64,149 @@ class Cassette:
         path.write_bytes(content)
         return {"body_file": rel}
 
+    @property
+    def work_store(self) -> WorkStore:
+        if not hasattr(self, "_work_store"):
+            self._work_store = WorkStore(self.path.parent / self.path.stem / "works")
+        return self._work_store
+
+    def store_works(self, content: bytes, request: httpx.Request | None = None) -> None:
+        """Upsert result records; tombstone ids a by-id answer omitted."""
+        try:
+            payload = json.loads(content)
+        except ValueError:
+            return
+        results = payload.get("results") if isinstance(payload, dict) else None
+        if isinstance(results, list):
+            for record in results:
+                if isinstance(record, dict) and record.get("id", "").startswith("https://openalex.org/"):
+                    self.work_store.upsert(record)
+            meta = payload.get("meta") or {}
+            if request is not None and meta.get("next") in (None, False):
+                filt = dict(request.url.params).get("filter", "")
+                kind, _, raw = filt.partition(":")
+                one = filt.count(":") == 1 and "+" not in filt
+                wanted = raw.split("|") if one and kind.replace("_", "") == "openalexid" else []
+                got = {
+                    str(r.get("id", "")).rsplit("/", 1)[-1]
+                    for r in results if isinstance(r, dict)
+                }
+                if wanted and len(got) <= len(wanted):
+                    for wid in wanted:
+                        if wid not in got:
+                            self.work_store.mark_dead(wid)
+
     def transport(self, *, recorder: httpx.Client | None = None) -> httpx.BaseTransport:
         """Replay by default; pass a live ``recorder`` client to record fresh."""
         if recorder is not None:
             return _Recorder(recorder, self)
         return _Replayer(self)
+
+
+class WorkStore:
+    """Per-work content-addressed records: batch shape stops mattering.
+
+    Cassettes keyed on full batch URLs drift whenever chunking or select
+    fields change; the store keys on the work itself and synthesizes any
+    ``/works?filter=openalex_id:...`` / ``doi:...`` response from it.
+    """
+
+    def __init__(self, root: Path) -> None:
+        self.root = root
+        self._index_file = root / "_doi-index.json"
+        self._index: dict[str, str] | None = None
+
+    def _load_index(self) -> dict[str, str]:
+        if self._index is None:
+            if self._index_file.exists():
+                self._index = json.loads(self._index_file.read_text(encoding="utf-8"))
+            else:
+                self._index = {}
+        return self._index
+
+    def path_for(self, work_id: str) -> Path:
+        safe = "".join(c for c in work_id if c.isalnum() or c in "-_")
+        return self.root / f"{safe}.json"
+
+    def get(self, work_id: str) -> dict[str, Any] | None:
+        f = self.path_for(work_id)
+        if f.exists():
+            return json.loads(f.read_text(encoding="utf-8"))
+        if self.path_for(work_id).with_suffix(".dead.json").exists():
+            return {"id": f"https://openalex.org/{work_id}", "_dead": True}
+        return None
+
+    def mark_dead(self, work_id: str) -> None:
+        """Absent from a by-id response for that exact id (404-shaped absence)."""
+        root = self.root
+        root.mkdir(parents=True, exist_ok=True)
+        if self.get(work_id) is None:
+            self.path_for(work_id).with_suffix(".dead.json").write_text("{}\n", encoding="utf-8")
+
+    def get_by_doi(self, doi: str) -> dict[str, Any] | None:
+        idx = self._load_index()
+        work_id = idx.get(str(doi).lower())
+        return self.get(work_id) if work_id else None
+
+    def upsert(self, record: dict[str, Any]) -> None:
+        work_id = str(record.get("id", "")).split("/")[-1]
+        if not work_id:
+            return
+        merged = {**(self.get(work_id) or {}), **record}
+        self.root.mkdir(parents=True, exist_ok=True)
+        self.path_for(work_id).write_text(
+            json.dumps(merged, indent=1, sort_keys=True, ensure_ascii=False) + "\n",
+            encoding="utf-8",
+        )
+        doi = str(merged.get("doi") or "").removeprefix("https://doi.org/").lower()
+        idx = self._load_index()
+        if doi and idx.get(doi) != work_id:
+            idx[doi] = work_id
+            self._index_file.write_text(json.dumps(idx, indent=1, sort_keys=True), encoding="utf-8")
+
+
+def _synthesize_works(store: WorkStore, request: httpx.Request) -> httpx.Response | None:
+    """Serve /works?filter=openalex_id:...|... or doi:... entirely from the store."""
+
+    if request.url.host != "api.openalex.org" or request.url.path != "/works":
+        return None
+    q = dict(request.url.params)
+    filt = q.get("filter", "")
+    if filt.count(":") != 1 or "+" in filt:
+        return None
+    kind, _, raw = filt.partition(":")
+    kind = kind.replace("_", "")
+    if kind not in ("openalexid", "doi"):
+        return None
+    results, handled = [], True
+    for value in raw.split("|"):
+        rec = (
+            store.get(value.rsplit("/", 1)[-1])
+            if kind == "openalexid"
+            else store.get_by_doi(value)
+        )
+        if rec is None:
+            handled = False  # genuinely unknown work: fall through to generic
+            break
+        if rec.get("_dead"):
+            continue  # by-id responses legitimately omit dead records
+        results.append(rec)
+    if not handled:
+        return None
+    select = q.get("select")
+    if select:
+        fields = set(select.split(","))
+        results = [{k: r[k] for k in fields if k in r} for r in results]
+    payload = json.dumps(
+        {"meta": {"count": len(results), "next_url": None, "next": None}, "results": results},
+        sort_keys=True,
+    )
+    return httpx.Response(
+        200,
+        headers={"content-type": "application/json"},
+        content=payload.encode("utf-8"),
+        request=request,
+    )
 
 
 class _Replayer(httpx.BaseTransport):
@@ -77,6 +215,9 @@ class _Replayer(httpx.BaseTransport):
 
     def handle_request(self, request: httpx.Request) -> httpx.Response:
         key = request_key(request)
+        served = _synthesize_works(self._cassette.work_store, request)
+        if served is not None:
+            return served
         try:
             entry = self._cassette._load()[key]
         except KeyError as exc:
@@ -122,6 +263,7 @@ class _Recorder(httpx.BaseTransport):
             "headers": headers,
             **self._cassette.store_body(key, saved.content),
         }
+        self._cassette.store_works(saved.content, request=request)
         self.save()
         return response
 

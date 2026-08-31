@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 14842,
+ "doi": "https://doi.org/10.1145/170035.170072",
+ "id": "https://openalex.org/W2166559705",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W68135340",
+  "https://openalex.org/W1487801850",
+  "https://openalex.org/W1556507321",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1601529450",
+  "https://openalex.org/W1988757393",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2100406636",
+  "https://openalex.org/W2110473729",
+  "https://openalex.org/W2149706766",
+  "https://openalex.org/W2323746689",
+  "https://openalex.org/W2913793034",
+  "https://openalex.org/W2998778915",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W4238893454",
+  "https://openalex.org/W4250426676"
+ ],
+ "title": "Mining association rules between sets of items in large databases"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 76,
+ "doi": "https://doi.org/10.1016/j.dss.2005.10.012",
+ "id": "https://openalex.org/W1999457273",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1496301024",
+  "https://openalex.org/W1571702474",
+  "https://openalex.org/W1582758179",
+  "https://openalex.org/W1591765456",
+  "https://openalex.org/W2004027994",
+  "https://openalex.org/W2005816389",
+  "https://openalex.org/W2021163855",
+  "https://openalex.org/W2036742981",
+  "https://openalex.org/W2053910446",
+  "https://openalex.org/W2154575518",
+  "https://openalex.org/W3125094476",
+  "https://openalex.org/W4251484745",
+  "https://openalex.org/W6629764790",
+  "https://openalex.org/W6634271776",
+  "https://openalex.org/W6683102026"
+ ],
+ "title": "Designing online auctions with past performance information"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 166,
+ "doi": "https://doi.org/10.1145/219717.219771",
+ "id": "https://openalex.org/W2046490255",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W69291052",
+  "https://openalex.org/W1514468887",
+  "https://openalex.org/W1565236324",
+  "https://openalex.org/W1965254321",
+  "https://openalex.org/W1972263871",
+  "https://openalex.org/W1987902506",
+  "https://openalex.org/W1999138184",
+  "https://openalex.org/W2013191079",
+  "https://openalex.org/W2017398555",
+  "https://openalex.org/W2042385018",
+  "https://openalex.org/W2051589410",
+  "https://openalex.org/W2056562706",
+  "https://openalex.org/W2113186809",
+  "https://openalex.org/W2162061564",
+  "https://openalex.org/W2181250948",
+  "https://openalex.org/W2509938422",
+  "https://openalex.org/W2520858206",
+  "https://openalex.org/W6602814085",
+  "https://openalex.org/W6633906613",
+  "https://openalex.org/W6666083373"
+ ],
+ "title": "Applications of inductive logic programming"
+}

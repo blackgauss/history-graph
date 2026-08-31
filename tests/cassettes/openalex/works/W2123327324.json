@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 80,
+ "doi": "https://doi.org/10.1007/978-3-540-87481-2_16",
+ "id": "https://openalex.org/W2123327324",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W32403112",
+  "https://openalex.org/W1176136657",
+  "https://openalex.org/W1515851193",
+  "https://openalex.org/W1524715972",
+  "https://openalex.org/W1557517019",
+  "https://openalex.org/W1594871463",
+  "https://openalex.org/W1601974704",
+  "https://openalex.org/W1662842982",
+  "https://openalex.org/W1981276685",
+  "https://openalex.org/W2107726111",
+  "https://openalex.org/W2114537044",
+  "https://openalex.org/W2119717200",
+  "https://openalex.org/W2121863487",
+  "https://openalex.org/W2127107099",
+  "https://openalex.org/W2128452997",
+  "https://openalex.org/W2132940773",
+  "https://openalex.org/W2136719210",
+  "https://openalex.org/W2155027007",
+  "https://openalex.org/W2169015875",
+  "https://openalex.org/W4214717370"
+ ],
+ "title": "State-Dependent Exploration for Policy Gradient Methods"
+}

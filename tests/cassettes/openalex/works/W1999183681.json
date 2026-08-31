@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 491,
+ "doi": "https://doi.org/10.1145/175247.175257",
+ "id": "https://openalex.org/W1999183681",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W177455989",
+  "https://openalex.org/W193258744",
+  "https://openalex.org/W1604131117",
+  "https://openalex.org/W1979460201",
+  "https://openalex.org/W2044184083",
+  "https://openalex.org/W2046221837",
+  "https://openalex.org/W2065121037",
+  "https://openalex.org/W2083888914",
+  "https://openalex.org/W2116424792",
+  "https://openalex.org/W2123036476",
+  "https://openalex.org/W2130537522",
+  "https://openalex.org/W2161708586",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3148194443",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4300402905",
+  "https://openalex.org/W6665326141"
+ ],
+ "title": "Neural networks"
+}

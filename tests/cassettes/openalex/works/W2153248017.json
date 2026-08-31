@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1145/66926.66935",
+ "id": "https://openalex.org/W2153248017",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W106296827",
+  "https://openalex.org/W1482752581",
+  "https://openalex.org/W1492839292",
+  "https://openalex.org/W1518416096",
+  "https://openalex.org/W1548843970",
+  "https://openalex.org/W1550382542",
+  "https://openalex.org/W1801618125",
+  "https://openalex.org/W1977805686",
+  "https://openalex.org/W1986644012",
+  "https://openalex.org/W1988096559",
+  "https://openalex.org/W2001026508",
+  "https://openalex.org/W2002949243",
+  "https://openalex.org/W2042019709",
+  "https://openalex.org/W2060849841",
+  "https://openalex.org/W2062901726",
+  "https://openalex.org/W2072627547",
+  "https://openalex.org/W2074303093",
+  "https://openalex.org/W2143407114",
+  "https://openalex.org/W2912840598",
+  "https://openalex.org/W2914626248",
+  "https://openalex.org/W6632734540",
+  "https://openalex.org/W6668983074",
+  "https://openalex.org/W6681114421"
+ ],
+ "title": "Extending a relational database with deferred referential integrity checking and intelligent joins"
+}

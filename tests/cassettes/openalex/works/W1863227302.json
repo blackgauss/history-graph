@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 560,
+ "doi": "https://doi.org/10.1109/ijcnn.1991.170605",
+ "id": "https://openalex.org/W1863227302",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W172298727",
+  "https://openalex.org/W1573503290",
+  "https://openalex.org/W1802763366",
+  "https://openalex.org/W1969166509",
+  "https://openalex.org/W1987150989",
+  "https://openalex.org/W2091565802",
+  "https://openalex.org/W2115121720",
+  "https://openalex.org/W2419990545",
+  "https://openalex.org/W3011120880",
+  "https://openalex.org/W3121926921",
+  "https://openalex.org/W3148194443",
+  "https://openalex.org/W4212774754",
+  "https://openalex.org/W6638210930",
+  "https://openalex.org/W6717789189"
+ ],
+ "title": "Curious model-building control systems"
+}

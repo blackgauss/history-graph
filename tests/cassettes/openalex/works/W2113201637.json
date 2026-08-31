@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 1205,
+ "doi": "https://doi.org/10.1007/11554844_3",
+ "id": "https://openalex.org/W2113201637",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1500250067",
+  "https://openalex.org/W1509367797",
+  "https://openalex.org/W1518705996",
+  "https://openalex.org/W1560222722",
+  "https://openalex.org/W1571440521",
+  "https://openalex.org/W1608654004",
+  "https://openalex.org/W1889333569",
+  "https://openalex.org/W1995689188",
+  "https://openalex.org/W2023546887",
+  "https://openalex.org/W2044987604",
+  "https://openalex.org/W2061659496",
+  "https://openalex.org/W2067838808",
+  "https://openalex.org/W2099213660",
+  "https://openalex.org/W2115703981",
+  "https://openalex.org/W2124212956",
+  "https://openalex.org/W2153301577",
+  "https://openalex.org/W2170276232",
+  "https://openalex.org/W2487347133",
+  "https://openalex.org/W2752885492",
+  "https://openalex.org/W3145128584",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Feature Models, Grammars, and Propositional Formulas"
+}

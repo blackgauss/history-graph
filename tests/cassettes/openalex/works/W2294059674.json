@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 603,
+ "doi": null,
+ "id": "https://openalex.org/W2294059674",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W189596042",
+  "https://openalex.org/W1492459858",
+  "https://openalex.org/W1544983288",
+  "https://openalex.org/W1606347560",
+  "https://openalex.org/W1832069583",
+  "https://openalex.org/W1904365287",
+  "https://openalex.org/W1907282891",
+  "https://openalex.org/W2036958054",
+  "https://openalex.org/W2097332485",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2116456623",
+  "https://openalex.org/W2132424367",
+  "https://openalex.org/W2139622435",
+  "https://openalex.org/W2142513626",
+  "https://openalex.org/W2156387975",
+  "https://openalex.org/W2166093887",
+  "https://openalex.org/W2183112036",
+  "https://openalex.org/W2335728318",
+  "https://openalex.org/W2546302380",
+  "https://openalex.org/W2618530766",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W2950182411",
+  "https://openalex.org/W3118608800"
+ ],
+ "title": "Maxout Networks"
+}

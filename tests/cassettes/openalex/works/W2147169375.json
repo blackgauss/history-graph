@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 5080,
+ "doi": "https://doi.org/10.1145/800186.810616",
+ "id": "https://openalex.org/W2147169375",
+ "publication_year": 1968,
+ "referenced_works": [
+  "https://openalex.org/W2044722668",
+  "https://openalex.org/W2071557330",
+  "https://openalex.org/W2328510092"
+ ],
+ "title": "A two-dimensional interpolation function for irregularly-spaced data"
+}

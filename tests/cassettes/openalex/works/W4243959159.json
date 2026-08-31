@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 98,
+ "doi": "https://doi.org/10.1162/154247604323015472",
+ "id": "https://openalex.org/W4243959159",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1507108129",
+  "https://openalex.org/W1971000569",
+  "https://openalex.org/W2008975493",
+  "https://openalex.org/W2031865970",
+  "https://openalex.org/W2123085942",
+  "https://openalex.org/W2154859236",
+  "https://openalex.org/W2157518489",
+  "https://openalex.org/W2160640936",
+  "https://openalex.org/W2167922736",
+  "https://openalex.org/W4236500838",
+  "https://openalex.org/W4256443428",
+  "https://openalex.org/W4256445081"
+ ],
+ "title": "Competing Auctions"
+}

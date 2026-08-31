@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 17,
+ "doi": "https://doi.org/10.1162/neco.1996.8.3.625",
+ "id": "https://openalex.org/W2005494669",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1964826896",
+  "https://openalex.org/W1995002436",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2019671617",
+  "https://openalex.org/W2031417520",
+  "https://openalex.org/W2084544490",
+  "https://openalex.org/W2101356642",
+  "https://openalex.org/W2154952480",
+  "https://openalex.org/W2165758113",
+  "https://openalex.org/W2244745839",
+  "https://openalex.org/W4238893454"
+ ],
+ "title": "The VC Dimension and Pseudodimension of Two-Layer Neural Networks with Discrete Inputs"
+}

@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 73,
+ "doi": "https://doi.org/10.6083/ht24wj648",
+ "id": "https://openalex.org/W2156913264",
+ "publication_year": 2018,
+ "referenced_works": [
+  "https://openalex.org/W308480622",
+  "https://openalex.org/W2006735760",
+  "https://openalex.org/W2061317273",
+  "https://openalex.org/W2114766824",
+  "https://openalex.org/W2134273960",
+  "https://openalex.org/W2147299889",
+  "https://openalex.org/W2148694408",
+  "https://openalex.org/W2156150815"
+ ],
+ "title": "Fast pruning using principal components"
+}

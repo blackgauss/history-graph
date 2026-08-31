@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 47,
+ "doi": "https://doi.org/10.1145/2124295.2124355",
+ "id": "https://openalex.org/W2146422856",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W189514790",
+  "https://openalex.org/W1973296628",
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W1993320088",
+  "https://openalex.org/W2012852390",
+  "https://openalex.org/W2042748373",
+  "https://openalex.org/W2053323136",
+  "https://openalex.org/W2069002575",
+  "https://openalex.org/W2073880140",
+  "https://openalex.org/W2086260211",
+  "https://openalex.org/W2089933214",
+  "https://openalex.org/W2090883204",
+  "https://openalex.org/W2092701055",
+  "https://openalex.org/W2096254678",
+  "https://openalex.org/W2107126505",
+  "https://openalex.org/W2112374041",
+  "https://openalex.org/W2120166550",
+  "https://openalex.org/W2123110149",
+  "https://openalex.org/W2159973364",
+  "https://openalex.org/W2162979096",
+  "https://openalex.org/W2197919320",
+  "https://openalex.org/W2338406834",
+  "https://openalex.org/W3124857404",
+  "https://openalex.org/W4230624213"
+ ],
+ "title": "Relational click prediction for sponsored search"
+}

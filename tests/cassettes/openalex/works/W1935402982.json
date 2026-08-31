@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 202,
+ "doi": null,
+ "id": "https://openalex.org/W1935402982",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1483586365",
+  "https://openalex.org/W1485782945",
+  "https://openalex.org/W1496566662",
+  "https://openalex.org/W1498542267",
+  "https://openalex.org/W1503768109",
+  "https://openalex.org/W1526535164",
+  "https://openalex.org/W1545155892",
+  "https://openalex.org/W1549404527",
+  "https://openalex.org/W1555114514",
+  "https://openalex.org/W1648820737",
+  "https://openalex.org/W1858528634",
+  "https://openalex.org/W1973115038",
+  "https://openalex.org/W1996952974",
+  "https://openalex.org/W2018464987",
+  "https://openalex.org/W2059581035",
+  "https://openalex.org/W2077671984",
+  "https://openalex.org/W2096674994",
+  "https://openalex.org/W2111586962",
+  "https://openalex.org/W2117917070",
+  "https://openalex.org/W2156320870",
+  "https://openalex.org/W2168354847",
+  "https://openalex.org/W3004616691"
+ ],
+ "title": "Ganymed: Scalable Replication for Transactional Web Applications"
+}

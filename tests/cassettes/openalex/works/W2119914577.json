@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 178,
+ "doi": "https://doi.org/10.1145/1250910.1250917",
+ "id": "https://openalex.org/W2119914577",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1769120835",
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W2000869424",
+  "https://openalex.org/W2005314985",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2038263585",
+  "https://openalex.org/W2052494364",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2117340018",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W2142094448",
+  "https://openalex.org/W2143996311",
+  "https://openalex.org/W2201228956",
+  "https://openalex.org/W2250285668",
+  "https://openalex.org/W2911302472",
+  "https://openalex.org/W3122305203"
+ ],
+ "title": "Budget optimization in search-based advertising auctions"
+}

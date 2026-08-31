@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 1785,
+ "doi": "https://doi.org/10.1016/0167-6911(94)00050-6",
+ "id": "https://openalex.org/W2165626406",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1501965140",
+  "https://openalex.org/W2017493230",
+  "https://openalex.org/W2026572362",
+  "https://openalex.org/W2036826525",
+  "https://openalex.org/W2071740464",
+  "https://openalex.org/W2135410088",
+  "https://openalex.org/W2151136609",
+  "https://openalex.org/W2175888577",
+  "https://openalex.org/W6629998067",
+  "https://openalex.org/W6682197247"
+ ],
+ "title": "On characterizations of the input-to-state stability property"
+}

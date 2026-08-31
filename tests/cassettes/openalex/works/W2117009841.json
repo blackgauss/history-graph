@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.1109/tc.1980.1675616",
+ "id": "https://openalex.org/W2117009841",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W127812686",
+  "https://openalex.org/W1502955189",
+  "https://openalex.org/W1768867300",
+  "https://openalex.org/W1893762694",
+  "https://openalex.org/W1937706874",
+  "https://openalex.org/W1970377859",
+  "https://openalex.org/W2022995217",
+  "https://openalex.org/W2074816618",
+  "https://openalex.org/W2085128571",
+  "https://openalex.org/W2093303289",
+  "https://openalex.org/W2096225874",
+  "https://openalex.org/W2152019064",
+  "https://openalex.org/W2156443685",
+  "https://openalex.org/W2174635824",
+  "https://openalex.org/W6605095531"
+ ],
+ "title": "Multivalued I2L Circuits for TSC Checkers"
+}

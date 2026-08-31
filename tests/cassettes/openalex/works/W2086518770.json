@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 72,
+ "doi": "https://doi.org/10.1090/s0025-5718-1978-0483452-7",
+ "id": "https://openalex.org/W2086518770",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W220758854",
+  "https://openalex.org/W1485207068",
+  "https://openalex.org/W1579664581",
+  "https://openalex.org/W1966539012",
+  "https://openalex.org/W2003385023",
+  "https://openalex.org/W2018238589",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2042803051",
+  "https://openalex.org/W2062294426",
+  "https://openalex.org/W2135959058",
+  "https://openalex.org/W3089552053",
+  "https://openalex.org/W4235085014",
+  "https://openalex.org/W4252957538",
+  "https://openalex.org/W6634665210"
+ ],
+ "title": "Some numerical results using a sparse matrix updating formula in unconstrained optimization"
+}

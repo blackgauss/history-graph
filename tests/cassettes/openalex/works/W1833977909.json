@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 1853,
+ "doi": "https://doi.org/10.1613/jair.279",
+ "id": "https://openalex.org/W1833977909",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1492170170",
+  "https://openalex.org/W1539741229",
+  "https://openalex.org/W1585743408",
+  "https://openalex.org/W1597910678",
+  "https://openalex.org/W1619226191",
+  "https://openalex.org/W1678889691",
+  "https://openalex.org/W1983661866",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2032427901",
+  "https://openalex.org/W2074584355",
+  "https://openalex.org/W2106596127",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2132166479",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W4247767684",
+  "https://openalex.org/W4249215961",
+  "https://openalex.org/W6636628491",
+  "https://openalex.org/W6669176017",
+  "https://openalex.org/W6808111085"
+ ],
+ "title": "Improved Use of Continuous Attributes in C4.5"
+}

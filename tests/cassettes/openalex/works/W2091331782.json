@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 840,
+ "doi": "https://doi.org/10.1103/physrevlett.78.405",
+ "id": "https://openalex.org/W2091331782",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1493654001",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2005250833",
+  "https://openalex.org/W2042474962",
+  "https://openalex.org/W2060887031",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2069711632",
+  "https://openalex.org/W2088324731",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W2131690084",
+  "https://openalex.org/W2133866430"
+ ],
+ "title": "Quantum Error Correction and Orthogonal Geometry"
+}

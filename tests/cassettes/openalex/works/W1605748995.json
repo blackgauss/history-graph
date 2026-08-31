@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1007/11817963_13",
+ "id": "https://openalex.org/W1605748995",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1480636508",
+  "https://openalex.org/W1531082202",
+  "https://openalex.org/W1593288312",
+  "https://openalex.org/W1747583082",
+  "https://openalex.org/W1749917042",
+  "https://openalex.org/W1760807336",
+  "https://openalex.org/W1836483134",
+  "https://openalex.org/W1992792191",
+  "https://openalex.org/W2027164550",
+  "https://openalex.org/W2053580308",
+  "https://openalex.org/W2087771409",
+  "https://openalex.org/W2107470986",
+  "https://openalex.org/W2111379929",
+  "https://openalex.org/W2126900870",
+  "https://openalex.org/W2139906094",
+  "https://openalex.org/W2158505527",
+  "https://openalex.org/W2332368292"
+ ],
+ "title": "Deriving Small Unsatisfiable Cores with Dominators"
+}

@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 2025,
+ "doi": "https://doi.org/10.1145/321043.321046",
+ "id": "https://openalex.org/W2049287714",
+ "publication_year": 1960,
+ "referenced_works": [
+  "https://openalex.org/W2009683816",
+  "https://openalex.org/W2086863198",
+  "https://openalex.org/W6672132388"
+ ],
+ "title": "Integer Programming Formulation of Traveling Salesman Problems"
+}

@@ -1,0 +1,45 @@
+{
+ "cited_by_count": 1752,
+ "counts_by_year": [
+  {
+   "cited_by_count": 245,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 365,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 361,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 260,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 221,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 160,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 100,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2018
+  }
+ ],
+ "doi": "https://doi.org/10.1093/bioinformatics/bty593",
+ "id": "https://openalex.org/W2785947426",
+ "publication_year": 2018,
+ "title": "DeepDTA: deep drug–target binding affinity prediction"
+}

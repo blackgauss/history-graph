@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1088/0953-8984/12/13/306",
+ "id": "https://openalex.org/W1973055353",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1509182036",
+  "https://openalex.org/W2044573796",
+  "https://openalex.org/W2067884665",
+  "https://openalex.org/W2151856336"
+ ],
+ "title": "Dynamics of nuclear spin measurement in a mesoscopic solid-state quantum computer"
+}

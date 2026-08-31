@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 933,
+ "doi": null,
+ "id": "https://openalex.org/W1532688806",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W90673796",
+  "https://openalex.org/W1484113995",
+  "https://openalex.org/W1491973539",
+  "https://openalex.org/W1524146404",
+  "https://openalex.org/W1539216098",
+  "https://openalex.org/W1549519846",
+  "https://openalex.org/W1555477527",
+  "https://openalex.org/W1594871463",
+  "https://openalex.org/W1601974704",
+  "https://openalex.org/W2049543502",
+  "https://openalex.org/W2096132608",
+  "https://openalex.org/W2138089556",
+  "https://openalex.org/W2149476049",
+  "https://openalex.org/W2154727088",
+  "https://openalex.org/W2161521419",
+  "https://openalex.org/W2168359464",
+  "https://openalex.org/W2169294731"
+ ],
+ "title": "Point-based value iteration: an anytime algorithm for POMDPs"
+}

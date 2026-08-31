@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 532,
+ "doi": "https://doi.org/10.1016/0022-247x(65)90125-3",
+ "id": "https://openalex.org/W2073840571",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W1566493102",
+  "https://openalex.org/W1975659026",
+  "https://openalex.org/W1983575666",
+  "https://openalex.org/W2018232674",
+  "https://openalex.org/W2032433450",
+  "https://openalex.org/W2053619330",
+  "https://openalex.org/W2063653858",
+  "https://openalex.org/W2065514225",
+  "https://openalex.org/W2066843228",
+  "https://openalex.org/W2312856063",
+  "https://openalex.org/W2562324301",
+  "https://openalex.org/W4213363274",
+  "https://openalex.org/W6633899791",
+  "https://openalex.org/W6646003685",
+  "https://openalex.org/W6667290923"
+ ],
+ "title": "Topology of series-parallel networks"
+}

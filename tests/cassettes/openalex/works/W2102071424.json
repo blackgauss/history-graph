@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 216,
+ "doi": "https://doi.org/10.1109/9.85060",
+ "id": "https://openalex.org/W2102071424",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1966412410",
+  "https://openalex.org/W1980818995",
+  "https://openalex.org/W1998319784",
+  "https://openalex.org/W2000352206",
+  "https://openalex.org/W2021813906",
+  "https://openalex.org/W2032687014",
+  "https://openalex.org/W2043265117",
+  "https://openalex.org/W2047794510",
+  "https://openalex.org/W2048287263",
+  "https://openalex.org/W2077457431",
+  "https://openalex.org/W2089667489",
+  "https://openalex.org/W2090040967",
+  "https://openalex.org/W2098837707",
+  "https://openalex.org/W2135622428",
+  "https://openalex.org/W2154831602",
+  "https://openalex.org/W2162725061",
+  "https://openalex.org/W2179312776",
+  "https://openalex.org/W2266709005",
+  "https://openalex.org/W4247116511"
+ ],
+ "title": "The AAstrom-Wittenmark self-tuning regulator revisited and ELS-based adaptive trackers"
+}

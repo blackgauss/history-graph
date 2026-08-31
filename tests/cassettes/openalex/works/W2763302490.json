@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 1637,
+ "doi": "https://doi.org/10.1103/physreva.55.900",
+ "id": "https://openalex.org/W2763302490",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W1966533239",
+  "https://openalex.org/W1985989979",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2003992904",
+  "https://openalex.org/W2005250833",
+  "https://openalex.org/W2042474962",
+  "https://openalex.org/W2049471987",
+  "https://openalex.org/W2060887031",
+  "https://openalex.org/W2088324731",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2095529659",
+  "https://openalex.org/W2107050628",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W3037517441",
+  "https://openalex.org/W4230665353",
+  "https://openalex.org/W4231127907",
+  "https://openalex.org/W4253006813"
+ ],
+ "title": "Theory of quantum error-correcting codes"
+}

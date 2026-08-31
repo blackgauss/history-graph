@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 327,
+ "doi": "https://doi.org/10.1109/cdc.1989.70114",
+ "id": "https://openalex.org/W1907796993",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1996773027",
+  "https://openalex.org/W2010526455",
+  "https://openalex.org/W2010868328",
+  "https://openalex.org/W2070118467",
+  "https://openalex.org/W2087480365",
+  "https://openalex.org/W2153795254",
+  "https://openalex.org/W3150413596",
+  "https://openalex.org/W3198350258",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Neural networks for control and system identification"
+}

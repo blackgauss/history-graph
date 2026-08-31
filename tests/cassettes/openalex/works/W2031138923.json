@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 47,
+ "doi": "https://doi.org/10.5555/62597.62611",
+ "id": "https://openalex.org/W2031138923",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W947590608",
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1495330698",
+  "https://openalex.org/W1566351760",
+  "https://openalex.org/W1571185487",
+  "https://openalex.org/W1598078886",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W2000025733",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2058155782",
+  "https://openalex.org/W2066866933",
+  "https://openalex.org/W2154425471",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W2170207233",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W2251518947"
+ ],
+ "title": "Effect of skew on join performance in parallel architectures"
+}

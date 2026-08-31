@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 1832,
+ "doi": "https://doi.org/10.1109/tc.1978.1675141",
+ "id": "https://openalex.org/W1994143452",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1842403939",
+  "https://openalex.org/W1983881446",
+  "https://openalex.org/W1993225874",
+  "https://openalex.org/W1995997000",
+  "https://openalex.org/W1999667176",
+  "https://openalex.org/W2148972210",
+  "https://openalex.org/W2170668119",
+  "https://openalex.org/W2568036717",
+  "https://openalex.org/W2799349239"
+ ],
+ "title": "Binary Decision Diagrams"
+}

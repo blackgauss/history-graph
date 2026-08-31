@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 927,
+ "counts_by_year": [
+  {
+   "cited_by_count": 308,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 453,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 142,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tpami.2024.3367329",
+ "id": "https://openalex.org/W4392173735",
+ "publication_year": 2024,
+ "title": "A Comprehensive Survey of Continual Learning: Theory, Method and Application"
+}

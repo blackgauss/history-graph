@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 28,
+ "doi": null,
+ "id": "https://openalex.org/W2161921398",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1507691781",
+  "https://openalex.org/W1572149849",
+  "https://openalex.org/W2071906671",
+  "https://openalex.org/W2082345008",
+  "https://openalex.org/W2110485445"
+ ],
+ "title": "Recurrent Neural Networks Can Learn to Implement Symbol-Sensitive Counting"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 224,
+ "doi": "https://doi.org/10.1109/2.928624",
+ "id": "https://openalex.org/W2133718097",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1484413656",
+  "https://openalex.org/W1506285740",
+  "https://openalex.org/W1515666387",
+  "https://openalex.org/W1536481811",
+  "https://openalex.org/W1580734344",
+  "https://openalex.org/W2021890516",
+  "https://openalex.org/W2101342918",
+  "https://openalex.org/W2137808089",
+  "https://openalex.org/W2151499461",
+  "https://openalex.org/W2912915949",
+  "https://openalex.org/W4232342695",
+  "https://openalex.org/W4243700854",
+  "https://openalex.org/W4251060966",
+  "https://openalex.org/W6628750762"
+ ],
+ "title": "Active disks for large-scale data processing"
+}

@@ -1,0 +1,460 @@
+{
+ "abstract_inverted_index": {
+  "86.4%": [
+   13
+  ],
+  "Among": [
+   0
+  ],
+  "By": [
+   73
+  ],
+  "Countermeasures": [
+   112
+  ],
+  "N": [
+   11
+  ],
+  "Party": [
+   23,
+   43,
+   139
+  ],
+  "Some": [
+   40
+  ],
+  "The": [
+   25
+  ],
+  "When": [
+   123
+  ],
+  "a": [
+   103
+  ],
+  "about": [
+   138
+  ],
+  "abusing": [
+   54
+  ],
+  "also": [
+   22,
+   136
+  ],
+  "analyzing": [
+   74
+  ],
+  "and": [
+   5,
+   36,
+   66,
+   69,
+   105,
+   120,
+   141,
+   143
+  ],
+  "anti-corruption": [
+   86
+  ],
+  "anti-corruption,": [
+   133
+  ],
+  "are": [
+   16,
+   21,
+   45
+  ],
+  "attention": [
+   59
+  ],
+  "begin": [
+   114
+  ],
+  "behaviors,": [
+   92
+  ],
+  "by": [
+   7,
+   18,
+   53
+  ],
+  "cadres": [
+   9,
+   19
+  ],
+  "cadres,": [
+   142
+  ],
+  "care": [
+   137
+  ],
+  "cases": [
+   2
+  ],
+  "cases,": [
+   79
+  ],
+  "committed": [
+   17
+  ],
+  "conducts,": [
+   65
+  ],
+  "consummating": [
+   118
+  ],
+  "county,": [
+   12
+  ],
+  "decision": [
+   107
+  ],
+  "dereliction": [
+   29
+  ],
+  "disciplines": [
+   6
+  ],
+  "duties,": [
+   97
+  ],
+  "duty,": [
+   31
+  ],
+  "economics,": [
+   32
+  ],
+  "education,": [
+   117
+  ],
+  "enforcing": [
+   121
+  ],
+  "exist": [
+   88
+  ],
+  "family": [
+   33
+  ],
+  "for": [
+   129
+  ],
+  "force": [
+   126
+  ],
+  "forest": [
+   38
+  ],
+  "fulfilling": [
+   96
+  ],
+  "great": [
+   85
+  ],
+  "help": [
+   144
+  ],
+  "hundreds": [
+   77
+  ],
+  "ignorant": [
+   46
+  ],
+  "important": [
+   110
+  ],
+  "in": [
+   10,
+   89,
+   102
+  ],
+  "include": [
+   28
+  ],
+  "increasing": [
+   124
+  ],
+  "indiscriminately": [
+   37
+  ],
+  "individual": [
+   91
+  ],
+  "issues.": [
+   111
+  ],
+  "law,": [
+   49
+  ],
+  "laws": [
+   4
+  ],
+  "laws.": [
+   72
+  ],
+  "logging.": [
+   39
+  ],
+  "mainly": [
+   27
+  ],
+  "make": [
+   51
+  ],
+  "making": [
+   108
+  ],
+  "management,": [
+   35
+  ],
+  "members": [
+   44,
+   140
+  ],
+  "members.": [
+   24
+  ],
+  "money": [
+   52
+  ],
+  "no": [
+   58
+  ],
+  "of": [
+   14,
+   30,
+   41,
+   47,
+   63,
+   78,
+   95,
+   100,
+   109,
+   127,
+   132
+  ],
+  "openly": [
+   68
+  ],
+  "order": [
+   62
+  ],
+  "out": [
+   83
+  ],
+  "paper": [
+   81
+  ],
+  "pay": [
+   57
+  ],
+  "planning": [
+   34
+  ],
+  "points": [
+   82
+  ],
+  "power,": [
+   55
+  ],
+  "practical": [
+   148
+  ],
+  "problems.": [
+   149
+  ],
+  "process": [
+   94
+  ],
+  "publicity": [
+   99
+  ],
+  "punishment": [
+   128
+  ],
+  "purpose": [
+   131
+  ],
+  "recent": [
+   76
+  ],
+  "risks": [
+   87
+  ],
+  "rural": [
+   8
+  ],
+  "should": [
+   113,
+   135
+  ],
+  "solve": [
+   146
+  ],
+  "some": [
+   50,
+   56,
+   67,
+   147
+  ],
+  "strengthening": [
+   116
+  ],
+  "supervision.": [
+   122
+  ],
+  "systems": [
+   119
+  ],
+  "tasks": [
+   101
+  ],
+  "that": [
+   84
+  ],
+  "the": [
+   1,
+   48,
+   61,
+   75,
+   80,
+   90,
+   93,
+   98,
+   106,
+   125,
+   130
+  ],
+  "their": [
+   64
+  ],
+  "them": [
+   15,
+   145
+  ],
+  "those": [
+   42
+  ],
+  "to": [
+   60
+  ],
+  "types": [
+   26
+  ],
+  "village,": [
+   104
+  ],
+  "violate": [
+   71
+  ],
+  "violating": [
+   3
+  ],
+  "wantonly": [
+   70
+  ],
+  "we": [
+   134
+  ],
+  "who": [
+   20
+  ],
+  "with": [
+   115
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Commission for Discipline Inspection, Water Conservancy Bureau in Lianshui County, Lianshui 223400, Jiangsu, China)"
+    }
+   ],
+   "author": {
+    "display_name": "Bie Tonglei",
+    "id": "https://openalex.org/A5053296971",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Commission for Discipline Inspection, Water Conservancy Bureau in Lianshui County, Lianshui 223400, Jiangsu, China)"
+   ],
+   "raw_author_name": "Bie Tonglei"
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W2370546771",
+ "ids": {
+  "mag": "2370546771",
+  "openalex": "https://openalex.org/W2370546771"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "mag:2370546771",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://en.cnki.com.cn/Article_en/CJFDTOTAL-LZWH201202004.htm",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Anti-corruption and Integrity Culture Studies",
+  "raw_type": null,
+  "source": {
+   "display_name": "Anti-corruption and Integrity Culture Studies",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S2764446835",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "journal"
+  },
+  "version": null
+ },
+ "publication_year": 2012,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W3178140142",
+  "https://openalex.org/W2290997377",
+  "https://openalex.org/W1561274903",
+  "https://openalex.org/W2387816363",
+  "https://openalex.org/W2021071897",
+  "https://openalex.org/W1979616558",
+  "https://openalex.org/W2352920993",
+  "https://openalex.org/W2186760004",
+  "https://openalex.org/W2751294223",
+  "https://openalex.org/W993860817",
+  "https://openalex.org/W2898774194",
+  "https://openalex.org/W2351884247",
+  "https://openalex.org/W2893630476",
+  "https://openalex.org/W100740537",
+  "https://openalex.org/W2314063121",
+  "https://openalex.org/W1559549370",
+  "https://openalex.org/W2999079422",
+  "https://openalex.org/W3040381034",
+  "https://openalex.org/W2789269136",
+  "https://openalex.org/W2184648111"
+ ],
+ "title": "Investigation and Thought of the Violation of Laws and Disciplines by Rural Cadres Who Are Party Members in N County",
+ "type": "article"
+}

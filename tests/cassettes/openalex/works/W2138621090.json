@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 5286,
+ "doi": "https://doi.org/10.1109/cvpr.2006.100",
+ "id": "https://openalex.org/W2138621090",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W2001141328",
+  "https://openalex.org/W2017588182",
+  "https://openalex.org/W2053186076",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2121947440",
+  "https://openalex.org/W2127589108",
+  "https://openalex.org/W2134557905",
+  "https://openalex.org/W2137889427",
+  "https://openalex.org/W2140095548",
+  "https://openalex.org/W2148694408",
+  "https://openalex.org/W2150627493",
+  "https://openalex.org/W2153934661",
+  "https://openalex.org/W2156718197",
+  "https://openalex.org/W2156838815",
+  "https://openalex.org/W2157364932",
+  "https://openalex.org/W2165874743",
+  "https://openalex.org/W2171590421",
+  "https://openalex.org/W2261963636",
+  "https://openalex.org/W2504108613",
+  "https://openalex.org/W4292023222",
+  "https://openalex.org/W6663752885",
+  "https://openalex.org/W6682755970",
+  "https://openalex.org/W6684578312"
+ ],
+ "title": "Dimensionality Reduction by Learning an Invariant Mapping"
+}

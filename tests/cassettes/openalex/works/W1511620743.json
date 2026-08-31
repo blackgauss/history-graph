@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.1007/978-1-4613-1679-4_15",
+ "id": "https://openalex.org/W1511620743",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W100815569",
+  "https://openalex.org/W1581872756",
+  "https://openalex.org/W1666015432",
+  "https://openalex.org/W1967575124",
+  "https://openalex.org/W1967852903",
+  "https://openalex.org/W1992476191",
+  "https://openalex.org/W2004592841",
+  "https://openalex.org/W2055869266",
+  "https://openalex.org/W2061796574",
+  "https://openalex.org/W2068822255",
+  "https://openalex.org/W2077864660",
+  "https://openalex.org/W2085319748",
+  "https://openalex.org/W2087297393",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2140732224",
+  "https://openalex.org/W2141389982",
+  "https://openalex.org/W2563076245",
+  "https://openalex.org/W6607340106",
+  "https://openalex.org/W6671946243",
+  "https://openalex.org/W6680874277"
+ ],
+ "title": "A Network Algorithm for Relational Database Operations"
+}

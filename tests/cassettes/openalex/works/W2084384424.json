@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 432,
+ "doi": "https://doi.org/10.1145/375827.375835",
+ "id": "https://openalex.org/W2084384424",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W38318608",
+  "https://openalex.org/W194598513",
+  "https://openalex.org/W1902951782",
+  "https://openalex.org/W1940223960",
+  "https://openalex.org/W1988083342",
+  "https://openalex.org/W1996660205",
+  "https://openalex.org/W2047237020",
+  "https://openalex.org/W2054013713",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2062912795",
+  "https://openalex.org/W2067642391",
+  "https://openalex.org/W2069767473",
+  "https://openalex.org/W2077054189",
+  "https://openalex.org/W2088616860",
+  "https://openalex.org/W2097113315",
+  "https://openalex.org/W2098022011",
+  "https://openalex.org/W2122055721",
+  "https://openalex.org/W2126420408",
+  "https://openalex.org/W2132489129",
+  "https://openalex.org/W2133527541",
+  "https://openalex.org/W2134961930",
+  "https://openalex.org/W2294221698",
+  "https://openalex.org/W2498145201",
+  "https://openalex.org/W3022335368"
+ ],
+ "title": "Short proofs are narrow—resolution made simple"
+}

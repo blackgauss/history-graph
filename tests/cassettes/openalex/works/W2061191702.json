@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 4250,
+ "doi": "https://doi.org/10.1109/jrproc.1962.288235",
+ "id": "https://openalex.org/W2061191702",
+ "publication_year": 1962,
+ "referenced_works": [
+  "https://openalex.org/W1981818370",
+  "https://openalex.org/W1985940938",
+  "https://openalex.org/W2009375605",
+  "https://openalex.org/W2014789568",
+  "https://openalex.org/W2042777606",
+  "https://openalex.org/W2048392241",
+  "https://openalex.org/W2080810586",
+  "https://openalex.org/W2088888190",
+  "https://openalex.org/W2143619350",
+  "https://openalex.org/W2166535261",
+  "https://openalex.org/W2314983361",
+  "https://openalex.org/W4248374382"
+ ],
+ "title": "An Active Pulse Transmission Line Simulating Nerve Axon"
+}

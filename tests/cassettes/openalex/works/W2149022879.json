@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 6,
+ "doi": "https://doi.org/10.1017/s002248120005146x",
+ "id": "https://openalex.org/W2149022879",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W1600977794",
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W2004108503",
+  "https://openalex.org/W2040864319",
+  "https://openalex.org/W2044540217",
+  "https://openalex.org/W2048301386",
+  "https://openalex.org/W2048588931",
+  "https://openalex.org/W2169781225",
+  "https://openalex.org/W2554842236"
+ ],
+ "title": "Congruence relations, filters, ideals, and definability in lattices of α-recursively enumerable sets"
+}

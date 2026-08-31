@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 90,
+ "doi": "https://doi.org/10.1109/ssdm.2003.1214967",
+ "id": "https://openalex.org/W2152198818",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1493149182",
+  "https://openalex.org/W1500547548",
+  "https://openalex.org/W1531918044",
+  "https://openalex.org/W1556601737",
+  "https://openalex.org/W1572028520",
+  "https://openalex.org/W1598443221",
+  "https://openalex.org/W1761167196",
+  "https://openalex.org/W1974239329",
+  "https://openalex.org/W1999276015",
+  "https://openalex.org/W2081189989",
+  "https://openalex.org/W2132461362",
+  "https://openalex.org/W2132520482",
+  "https://openalex.org/W2132837277",
+  "https://openalex.org/W2135499008",
+  "https://openalex.org/W2140894225",
+  "https://openalex.org/W2144771673",
+  "https://openalex.org/W2155856891",
+  "https://openalex.org/W2203361072",
+  "https://openalex.org/W4233762723",
+  "https://openalex.org/W4236652406",
+  "https://openalex.org/W6629856530",
+  "https://openalex.org/W6634286002",
+  "https://openalex.org/W6637685275",
+  "https://openalex.org/W6686224502"
+ ],
+ "title": "Stream window join: tracking moving objects in sensor-network databases"
+}

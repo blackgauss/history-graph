@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 17,
+ "doi": "https://doi.org/10.1137/0313066",
+ "id": "https://openalex.org/W4243167106",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W183133782",
+  "https://openalex.org/W1668826802",
+  "https://openalex.org/W2000243721",
+  "https://openalex.org/W2005200870",
+  "https://openalex.org/W2032741283",
+  "https://openalex.org/W2035925506",
+  "https://openalex.org/W2059922898",
+  "https://openalex.org/W2083731191",
+  "https://openalex.org/W2094649962",
+  "https://openalex.org/W2134953444",
+  "https://openalex.org/W2140275726",
+  "https://openalex.org/W2158303775",
+  "https://openalex.org/W2321957512",
+  "https://openalex.org/W2588049725",
+  "https://openalex.org/W4229619282"
+ ],
+ "title": "On the Solutions of a Stochastic Control System. II"
+}

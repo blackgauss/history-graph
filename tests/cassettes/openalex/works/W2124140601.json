@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 88,
+ "doi": null,
+ "id": "https://openalex.org/W2124140601",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1551269584",
+  "https://openalex.org/W1969048569",
+  "https://openalex.org/W1978259121",
+  "https://openalex.org/W2006262045",
+  "https://openalex.org/W2027197817",
+  "https://openalex.org/W2039957107",
+  "https://openalex.org/W2124541940",
+  "https://openalex.org/W2125993116",
+  "https://openalex.org/W2139432235",
+  "https://openalex.org/W2142334564",
+  "https://openalex.org/W2142623206",
+  "https://openalex.org/W2148825261",
+  "https://openalex.org/W2150940164",
+  "https://openalex.org/W2164078599",
+  "https://openalex.org/W2164301055",
+  "https://openalex.org/W2249513973",
+  "https://openalex.org/W2798766386",
+  "https://openalex.org/W3098834468",
+  "https://openalex.org/W3141595720"
+ ],
+ "title": "Efficient Learning using Forward-Backward Splitting"
+}

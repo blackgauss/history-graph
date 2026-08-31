@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 727,
+ "doi": "https://doi.org/10.1007/bf01425510",
+ "id": "https://openalex.org/W1990770240",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W343025875",
+  "https://openalex.org/W644216143",
+  "https://openalex.org/W1560614273",
+  "https://openalex.org/W1997204748",
+  "https://openalex.org/W2003364078",
+  "https://openalex.org/W2026500428",
+  "https://openalex.org/W2056638576",
+  "https://openalex.org/W2075060093",
+  "https://openalex.org/W2081924675",
+  "https://openalex.org/W2091490647",
+  "https://openalex.org/W2229665403",
+  "https://openalex.org/W2317890084",
+  "https://openalex.org/W2551251242",
+  "https://openalex.org/W3175461480",
+  "https://openalex.org/W4238476036",
+  "https://openalex.org/W4249414648",
+  "https://openalex.org/W4298389050"
+ ],
+ "title": "The Brunn-Minkowski inequality in Gauss space"
+}

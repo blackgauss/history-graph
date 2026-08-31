@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 69,
+ "doi": "https://doi.org/10.1145/248052.248062",
+ "id": "https://openalex.org/W2019491460",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1483609491",
+  "https://openalex.org/W1499194182",
+  "https://openalex.org/W1500583441",
+  "https://openalex.org/W1540747954",
+  "https://openalex.org/W1542316307",
+  "https://openalex.org/W1583345979",
+  "https://openalex.org/W1985349143",
+  "https://openalex.org/W1986474696",
+  "https://openalex.org/W2014699577",
+  "https://openalex.org/W2024645712",
+  "https://openalex.org/W2035362408",
+  "https://openalex.org/W2044052675",
+  "https://openalex.org/W2048185351",
+  "https://openalex.org/W2053719188",
+  "https://openalex.org/W2070941848",
+  "https://openalex.org/W2077982907",
+  "https://openalex.org/W2081584511",
+  "https://openalex.org/W2096095354",
+  "https://openalex.org/W2125323031",
+  "https://openalex.org/W2145159430",
+  "https://openalex.org/W2148383895",
+  "https://openalex.org/W2152465173",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W6682378898"
+ ],
+ "title": "Efficient message ordering in dynamic networks"
+}

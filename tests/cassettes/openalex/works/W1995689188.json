@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 422,
+ "doi": "https://doi.org/10.1002/spip.225",
+ "id": "https://openalex.org/W1995689188",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1500250067",
+  "https://openalex.org/W1501652040",
+  "https://openalex.org/W1530679938",
+  "https://openalex.org/W1531088406",
+  "https://openalex.org/W1549677228",
+  "https://openalex.org/W1556604985",
+  "https://openalex.org/W1570173564",
+  "https://openalex.org/W1571440521",
+  "https://openalex.org/W1635782815",
+  "https://openalex.org/W2002237220",
+  "https://openalex.org/W2010035000",
+  "https://openalex.org/W2044987604",
+  "https://openalex.org/W2048859977",
+  "https://openalex.org/W2065046873",
+  "https://openalex.org/W2067838808",
+  "https://openalex.org/W2116844130",
+  "https://openalex.org/W2142874510",
+  "https://openalex.org/W2152647834",
+  "https://openalex.org/W2162366870",
+  "https://openalex.org/W2325155247",
+  "https://openalex.org/W2622540447"
+ ],
+ "title": "Staged configuration through specialization and multilevel configuration of feature models"
+}

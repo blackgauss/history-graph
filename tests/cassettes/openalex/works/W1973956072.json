@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 82,
+ "doi": "https://doi.org/10.1109/pgec.1965.264050",
+ "id": "https://openalex.org/W1973956072",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W204403641",
+  "https://openalex.org/W2011237910",
+  "https://openalex.org/W2021320381",
+  "https://openalex.org/W2078241308",
+  "https://openalex.org/W2093198163",
+  "https://openalex.org/W2120645153",
+  "https://openalex.org/W2128142314",
+  "https://openalex.org/W2131498282",
+  "https://openalex.org/W2136445449",
+  "https://openalex.org/W2171490878",
+  "https://openalex.org/W2319160178",
+  "https://openalex.org/W2332863838",
+  "https://openalex.org/W2588845998",
+  "https://openalex.org/W4234345682",
+  "https://openalex.org/W4236842166",
+  "https://openalex.org/W6608330209"
+ ],
+ "title": "Logical Design of Ternary Switching Circuits"
+}

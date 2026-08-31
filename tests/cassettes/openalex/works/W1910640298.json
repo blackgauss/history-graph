@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 26,
+ "doi": "https://doi.org/10.1007/978-3-642-17572-5_24",
+ "id": "https://openalex.org/W1910640298",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1550636318",
+  "https://openalex.org/W1556389580",
+  "https://openalex.org/W1634866831",
+  "https://openalex.org/W2086260211",
+  "https://openalex.org/W2100922150",
+  "https://openalex.org/W2123110149",
+  "https://openalex.org/W2126394879",
+  "https://openalex.org/W2131101582",
+  "https://openalex.org/W2138043622",
+  "https://openalex.org/W2142971854",
+  "https://openalex.org/W2155530593",
+  "https://openalex.org/W2168405694",
+  "https://openalex.org/W2171110693",
+  "https://openalex.org/W2496227153",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3184235973",
+  "https://openalex.org/W4231144620"
+ ],
+ "title": "Value of Learning in Sponsored Search Auctions"
+}

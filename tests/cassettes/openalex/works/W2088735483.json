@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 1164,
+ "doi": "https://doi.org/10.1016/0304-3975(75)90017-1",
+ "id": "https://openalex.org/W2088735483",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W566283481",
+  "https://openalex.org/W1598263475",
+  "https://openalex.org/W1996974731",
+  "https://openalex.org/W2001469185",
+  "https://openalex.org/W2041945455",
+  "https://openalex.org/W2043416466",
+  "https://openalex.org/W2070683379",
+  "https://openalex.org/W2109798037",
+  "https://openalex.org/W2113757735",
+  "https://openalex.org/W2141568518",
+  "https://openalex.org/W2152944474",
+  "https://openalex.org/W6635988242",
+  "https://openalex.org/W6661556235",
+  "https://openalex.org/W6681090851",
+  "https://openalex.org/W6682858692"
+ ],
+ "title": "Call-by-name, call-by-value and the λ-calculus"
+}

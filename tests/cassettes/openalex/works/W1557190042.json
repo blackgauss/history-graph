@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 826,
+ "doi": "https://doi.org/10.1038/35002528",
+ "id": "https://openalex.org/W1557190042",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1571300791",
+  "https://openalex.org/W1619888535",
+  "https://openalex.org/W1639600422",
+  "https://openalex.org/W1973210806",
+  "https://openalex.org/W1995412269",
+  "https://openalex.org/W1996519437",
+  "https://openalex.org/W2005062298",
+  "https://openalex.org/W2018240271",
+  "https://openalex.org/W2020123688",
+  "https://openalex.org/W2027926771",
+  "https://openalex.org/W2031890195",
+  "https://openalex.org/W2054388650",
+  "https://openalex.org/W2065717634",
+  "https://openalex.org/W2067120233",
+  "https://openalex.org/W2069496398",
+  "https://openalex.org/W2086068613",
+  "https://openalex.org/W2096551755",
+  "https://openalex.org/W2097780038",
+  "https://openalex.org/W2137147061",
+  "https://openalex.org/W2157750135",
+  "https://openalex.org/W3099429533",
+  "https://openalex.org/W3101518480",
+  "https://openalex.org/W3105668720",
+  "https://openalex.org/W4241688803"
+ ],
+ "title": "Geometric quantum computation using nuclear magnetic resonance"
+}

@@ -1,0 +1,37 @@
+{
+ "cited_by_count": 682,
+ "counts_by_year": [
+  {
+   "cited_by_count": 159,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 241,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 157,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 85,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2020
+  }
+ ],
+ "doi": "https://doi.org/10.1109/sp40001.2021.00019",
+ "id": "https://openalex.org/W3154155772",
+ "publication_year": 2021,
+ "title": "Machine Unlearning"
+}

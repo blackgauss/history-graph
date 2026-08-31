@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 23,
+ "doi": "https://doi.org/10.48550/arxiv.cs/0605036",
+ "id": "https://openalex.org/W1669430462",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1486927610",
+  "https://openalex.org/W1530635668",
+  "https://openalex.org/W1576520375",
+  "https://openalex.org/W1606857374",
+  "https://openalex.org/W2047221353",
+  "https://openalex.org/W2061503185",
+  "https://openalex.org/W2134131174",
+  "https://openalex.org/W2151592910",
+  "https://openalex.org/W2152314154",
+  "https://openalex.org/W2171541062",
+  "https://openalex.org/W2988119488",
+  "https://openalex.org/W3101685505",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Evaluating the Robustness of Learning from Implicit Feedback"
+}

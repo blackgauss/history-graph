@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 159,
+ "doi": null,
+ "id": "https://openalex.org/W306273264",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W23753253",
+  "https://openalex.org/W41699526",
+  "https://openalex.org/W42494769",
+  "https://openalex.org/W1535695253",
+  "https://openalex.org/W1554977156",
+  "https://openalex.org/W1560572523",
+  "https://openalex.org/W1560808444",
+  "https://openalex.org/W1649645444",
+  "https://openalex.org/W2019686077",
+  "https://openalex.org/W2023546887",
+  "https://openalex.org/W2041248759",
+  "https://openalex.org/W2076631615",
+  "https://openalex.org/W2099213660",
+  "https://openalex.org/W2113435553",
+  "https://openalex.org/W2114152285",
+  "https://openalex.org/W2167500728",
+  "https://openalex.org/W2481417520",
+  "https://openalex.org/W2496223582",
+  "https://openalex.org/W2615076667",
+  "https://openalex.org/W2744418173"
+ ],
+ "title": "Managing Variability in Software Product Lines"
+}

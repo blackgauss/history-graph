@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 100,
+ "doi": "https://doi.org/10.1137/060669309",
+ "id": "https://openalex.org/W2029370139",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1529556207",
+  "https://openalex.org/W1969880832",
+  "https://openalex.org/W1986296546",
+  "https://openalex.org/W1989370476",
+  "https://openalex.org/W2008470071",
+  "https://openalex.org/W2011717937",
+  "https://openalex.org/W2029286977",
+  "https://openalex.org/W2042194938",
+  "https://openalex.org/W2043842763",
+  "https://openalex.org/W2070902649",
+  "https://openalex.org/W2088390444",
+  "https://openalex.org/W2100654536",
+  "https://openalex.org/W2117362057",
+  "https://openalex.org/W2168115971",
+  "https://openalex.org/W2619938522",
+  "https://openalex.org/W3148810677",
+  "https://openalex.org/W4238893454"
+ ],
+ "title": "Learning Monotone Decision Trees in Polynomial Time"
+}

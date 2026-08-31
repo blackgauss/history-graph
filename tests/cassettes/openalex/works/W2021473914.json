@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 321,
+ "doi": "https://doi.org/10.1007/978-3-642-81955-1_32",
+ "id": "https://openalex.org/W2021473914",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W821177344",
+  "https://openalex.org/W1516333022",
+  "https://openalex.org/W1531901718",
+  "https://openalex.org/W1764055246",
+  "https://openalex.org/W1969483458",
+  "https://openalex.org/W1972956465",
+  "https://openalex.org/W2002684144",
+  "https://openalex.org/W2003287551",
+  "https://openalex.org/W2010405422",
+  "https://openalex.org/W2025360553",
+  "https://openalex.org/W2042551813",
+  "https://openalex.org/W2171376204"
+ ],
+ "title": "Linear Resolution with Selection Function"
+}

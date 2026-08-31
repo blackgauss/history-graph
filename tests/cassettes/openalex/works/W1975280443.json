@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 38,
+ "doi": "https://doi.org/10.1305/ndjfl/1040067315",
+ "id": "https://openalex.org/W1975280443",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W88544524",
+  "https://openalex.org/W126630044",
+  "https://openalex.org/W139832361",
+  "https://openalex.org/W1970227944",
+  "https://openalex.org/W1970328256",
+  "https://openalex.org/W1976958863",
+  "https://openalex.org/W2044758536",
+  "https://openalex.org/W2056253254",
+  "https://openalex.org/W2119240423",
+  "https://openalex.org/W2149837936",
+  "https://openalex.org/W2167904762",
+  "https://openalex.org/W6603650506",
+  "https://openalex.org/W6858163320"
+ ],
+ "title": "Strong Normalization and Typability with Intersection Types"
+}

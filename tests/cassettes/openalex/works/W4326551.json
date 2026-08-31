@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 277,
+ "doi": null,
+ "id": "https://openalex.org/W4326551",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W10056579",
+  "https://openalex.org/W56050749",
+  "https://openalex.org/W112178115",
+  "https://openalex.org/W164718692",
+  "https://openalex.org/W793524323",
+  "https://openalex.org/W1485106825",
+  "https://openalex.org/W1548099010",
+  "https://openalex.org/W1564687331",
+  "https://openalex.org/W1578830675",
+  "https://openalex.org/W1579008505",
+  "https://openalex.org/W1964878205",
+  "https://openalex.org/W1992581985",
+  "https://openalex.org/W2000012982",
+  "https://openalex.org/W2024182184",
+  "https://openalex.org/W2045295066",
+  "https://openalex.org/W2061734130",
+  "https://openalex.org/W2068852367",
+  "https://openalex.org/W2083883919",
+  "https://openalex.org/W2103981148",
+  "https://openalex.org/W2110601370",
+  "https://openalex.org/W2128084896",
+  "https://openalex.org/W2135432705",
+  "https://openalex.org/W2153638045",
+  "https://openalex.org/W2167036627"
+ ],
+ "title": "Solving large-scale constraint satisfaction and scheduling problems using a heuristic repair method"
+}

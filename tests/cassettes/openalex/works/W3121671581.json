@@ -1,0 +1,86 @@
+{
+ "cited_by_count": 18,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1016/j.ijindorg.2006.09.004",
+ "id": "https://openalex.org/W3121671581",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W15184999",
+  "https://openalex.org/W1524292010",
+  "https://openalex.org/W1540044861",
+  "https://openalex.org/W1601370282",
+  "https://openalex.org/W1971654460",
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W1985941884",
+  "https://openalex.org/W2004238298",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2033385857",
+  "https://openalex.org/W2046585608",
+  "https://openalex.org/W2056154750",
+  "https://openalex.org/W2060762444",
+  "https://openalex.org/W2074233882",
+  "https://openalex.org/W2082546553",
+  "https://openalex.org/W2105173236",
+  "https://openalex.org/W2125097230",
+  "https://openalex.org/W2153706601",
+  "https://openalex.org/W2163515292",
+  "https://openalex.org/W2242188312",
+  "https://openalex.org/W2531522074",
+  "https://openalex.org/W2914480565",
+  "https://openalex.org/W3121297161",
+  "https://openalex.org/W3121388720",
+  "https://openalex.org/W3123111994",
+  "https://openalex.org/W3123359822",
+  "https://openalex.org/W3124714076",
+  "https://openalex.org/W3125838077",
+  "https://openalex.org/W3125980928",
+  "https://openalex.org/W4229788426",
+  "https://openalex.org/W4243959159",
+  "https://openalex.org/W4251484745",
+  "https://openalex.org/W6600617321",
+  "https://openalex.org/W6631506936",
+  "https://openalex.org/W6664387783",
+  "https://openalex.org/W6677870778",
+  "https://openalex.org/W6679037933",
+  "https://openalex.org/W6682593722",
+  "https://openalex.org/W6789102320"
+ ],
+ "title": "Who pays when auction rules are bent?"
+}

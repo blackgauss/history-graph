@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 149,
+ "counts_by_year": [
+  {
+   "cited_by_count": 24,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 77,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3603620",
+ "id": "https://openalex.org/W4379652910",
+ "publication_year": 2023,
+ "title": "Machine Unlearning: A Survey"
+}

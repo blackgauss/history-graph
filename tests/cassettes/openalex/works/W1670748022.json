@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 905,
+ "doi": "https://doi.org/10.1007/3-540-45744-5_59",
+ "id": "https://openalex.org/W1670748022",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W26772505",
+  "https://openalex.org/W311418300",
+  "https://openalex.org/W1515947275",
+  "https://openalex.org/W1526542325",
+  "https://openalex.org/W1543879878",
+  "https://openalex.org/W1556434751",
+  "https://openalex.org/W1603243195",
+  "https://openalex.org/W1637478387",
+  "https://openalex.org/W1838807299",
+  "https://openalex.org/W1982030536",
+  "https://openalex.org/W2008889752",
+  "https://openalex.org/W2038118137",
+  "https://openalex.org/W2126755595",
+  "https://openalex.org/W2132353952",
+  "https://openalex.org/W2133630909",
+  "https://openalex.org/W2153718287",
+  "https://openalex.org/W2159682108",
+  "https://openalex.org/W2185223006",
+  "https://openalex.org/W2256378333",
+  "https://openalex.org/W2951205490",
+  "https://openalex.org/W6682410884"
+ ],
+ "title": "RACER System Description"
+}

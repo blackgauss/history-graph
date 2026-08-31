@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 115,
+ "doi": "https://doi.org/10.1023/a:1007558615313",
+ "id": "https://openalex.org/W1861517257",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W29489373",
+  "https://openalex.org/W110902330",
+  "https://openalex.org/W183625566",
+  "https://openalex.org/W1567331820",
+  "https://openalex.org/W2006650224",
+  "https://openalex.org/W2019747837",
+  "https://openalex.org/W2045656233",
+  "https://openalex.org/W2111051539",
+  "https://openalex.org/W2117812871",
+  "https://openalex.org/W2126163471",
+  "https://openalex.org/W2132957691",
+  "https://openalex.org/W2165357419",
+  "https://openalex.org/W4242741434",
+  "https://openalex.org/W4247690662",
+  "https://openalex.org/W6655012490",
+  "https://openalex.org/W6678846543",
+  "https://openalex.org/W6679162469"
+ ],
+ "title": "Choice of Basis for Laplace Approximation"
+}

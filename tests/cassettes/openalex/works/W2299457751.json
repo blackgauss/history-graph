@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 67,
+ "doi": null,
+ "id": "https://openalex.org/W2299457751",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W2169610",
+  "https://openalex.org/W1508165687",
+  "https://openalex.org/W1542886316",
+  "https://openalex.org/W1588401315",
+  "https://openalex.org/W1597379537",
+  "https://openalex.org/W1602492977",
+  "https://openalex.org/W1676820704",
+  "https://openalex.org/W1714704734",
+  "https://openalex.org/W1813610639",
+  "https://openalex.org/W1970358320",
+  "https://openalex.org/W2019575783",
+  "https://openalex.org/W2025263811",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2094934653",
+  "https://openalex.org/W2147800946",
+  "https://openalex.org/W2148365208",
+  "https://openalex.org/W2148603752",
+  "https://openalex.org/W2167148127",
+  "https://openalex.org/W2170381724",
+  "https://openalex.org/W2296427152"
+ ],
+ "title": "Constraint Classification: A New Approach to Multiclass Classification and Ranking"
+}

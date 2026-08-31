@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 236,
+ "doi": "https://doi.org/10.1145/1242572.1242644",
+ "id": "https://openalex.org/W2117340018",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W203077648",
+  "https://openalex.org/W275157725",
+  "https://openalex.org/W1569931710",
+  "https://openalex.org/W1814297310",
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W1982391628",
+  "https://openalex.org/W2026891055",
+  "https://openalex.org/W2038263585",
+  "https://openalex.org/W2065356639",
+  "https://openalex.org/W2092188472",
+  "https://openalex.org/W2102523945",
+  "https://openalex.org/W2107720986",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W2145468764",
+  "https://openalex.org/W2165807407",
+  "https://openalex.org/W2296243895",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4234277722",
+  "https://openalex.org/W4251654280",
+  "https://openalex.org/W6608213100",
+  "https://openalex.org/W6634149230",
+  "https://openalex.org/W6772397774",
+  "https://openalex.org/W6812656446"
+ ],
+ "title": "Dynamics of bid optimization in online advertisement auctions"
+}

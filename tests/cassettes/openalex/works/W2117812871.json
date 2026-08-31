@@ -1,0 +1,173 @@
+{
+ "cited_by_count": 6512,
+ "counts_by_year": [
+  {
+   "cited_by_count": 29,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 78,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 100,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 110,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 119,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 223,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 255,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 234,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 206,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 177,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 227,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 213,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 210,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 273,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 292,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1017/cbo9780511812651",
+ "id": "https://openalex.org/W2117812871",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W2256202",
+  "https://openalex.org/W25566965",
+  "https://openalex.org/W103934657",
+  "https://openalex.org/W108503560",
+  "https://openalex.org/W183625566",
+  "https://openalex.org/W192975702",
+  "https://openalex.org/W1484813431",
+  "https://openalex.org/W1492170170",
+  "https://openalex.org/W1494413412",
+  "https://openalex.org/W1499132946",
+  "https://openalex.org/W1533986854",
+  "https://openalex.org/W1536929369",
+  "https://openalex.org/W1539097253",
+  "https://openalex.org/W1548400210",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1555244713",
+  "https://openalex.org/W1559058740",
+  "https://openalex.org/W1568229137",
+  "https://openalex.org/W1590476178",
+  "https://openalex.org/W1597910678",
+  "https://openalex.org/W1604826251",
+  "https://openalex.org/W1622484071",
+  "https://openalex.org/W1678889691",
+  "https://openalex.org/W1679913846",
+  "https://openalex.org/W1833977909",
+  "https://openalex.org/W1930624869",
+  "https://openalex.org/W1964168965",
+  "https://openalex.org/W1964826896",
+  "https://openalex.org/W1966280301",
+  "https://openalex.org/W1968814228",
+  "https://openalex.org/W1969223365",
+  "https://openalex.org/W1975438021",
+  "https://openalex.org/W1979675141",
+  "https://openalex.org/W1985624473",
+  "https://openalex.org/W1987037087",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W1990517717",
+  "https://openalex.org/W1991259334",
+  "https://openalex.org/W1999486090",
+  "https://openalex.org/W2002869784",
+  "https://openalex.org/W2003048487",
+  "https://openalex.org/W2005494669",
+  "https://openalex.org/W2006235059",
+  "https://openalex.org/W2008524883",
+  "https://openalex.org/W2014102379",
+  "https://openalex.org/W2035871002",
+  "https://openalex.org/W2041615247",
+  "https://openalex.org/W2042385018",
+  "https://openalex.org/W2046490255",
+  "https://openalex.org/W2050395935",
+  "https://openalex.org/W2050660892",
+  "https://openalex.org/W2056334735",
+  "https://openalex.org/W2056865275",
+  "https://openalex.org/W2061055380",
+  "https://openalex.org/W2061496873",
+  "https://openalex.org/W2068124818",
+  "https://openalex.org/W2070534370",
+  "https://openalex.org/W2074617841",
+  "https://openalex.org/W2078057316",
+  "https://openalex.org/W2080193993",
+  "https://openalex.org/W2084362125",
+  "https://openalex.org/W2088779313",
+  "https://openalex.org/W2091632079",
+  "https://openalex.org/W2093717447",
+  "https://openalex.org/W2097477220",
+  "https://openalex.org/W2104364170",
+  "https://openalex.org/W2107074774",
+  "https://openalex.org/W2109919255",
+  "https://openalex.org/W2110712908",
+  "https://openalex.org/W2111734525",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2113646052",
+  "https://openalex.org/W2113882472",
+  "https://openalex.org/W2119821739",
+  "https://openalex.org/W2119984390",
+  "https://openalex.org/W2123959253",
+  "https://openalex.org/W2128073546",
+  "https://openalex.org/W2132166479",
+  "https://openalex.org/W2135346934",
+  "https://openalex.org/W2142248489",
+  "https://openalex.org/W2143163787",
+  "https://openalex.org/W2143956139",
+  "https://openalex.org/W2147169507",
+  "https://openalex.org/W2147800946",
+  "https://openalex.org/W2153682458",
+  "https://openalex.org/W2155467226",
+  "https://openalex.org/W2156692643",
+  "https://openalex.org/W2156909104",
+  "https://openalex.org/W2163142059",
+  "https://openalex.org/W2163294786",
+  "https://openalex.org/W2164568552",
+  "https://openalex.org/W2166501286",
+  "https://openalex.org/W2169554323",
+  "https://openalex.org/W2244745839",
+  "https://openalex.org/W2339121806",
+  "https://openalex.org/W2747059622",
+  "https://openalex.org/W2912811302",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W3017143921",
+  "https://openalex.org/W3084873685",
+  "https://openalex.org/W3151666377",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Pattern Recognition and Neural Networks"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 511,
+ "doi": "https://doi.org/10.1016/0304-3975(75)90011-0",
+ "id": "https://openalex.org/W2034676877",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W31482196",
+  "https://openalex.org/W1492311822",
+  "https://openalex.org/W1502435372",
+  "https://openalex.org/W1990121424",
+  "https://openalex.org/W1996404651",
+  "https://openalex.org/W2023266231",
+  "https://openalex.org/W2067259733",
+  "https://openalex.org/W2099261111",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2115610240",
+  "https://openalex.org/W2140669384",
+  "https://openalex.org/W2172019237",
+  "https://openalex.org/W4237061074",
+  "https://openalex.org/W4403115368",
+  "https://openalex.org/W6601327317",
+  "https://openalex.org/W6629226837",
+  "https://openalex.org/W6629951546",
+  "https://openalex.org/W6647751682",
+  "https://openalex.org/W6667360198",
+  "https://openalex.org/W6685308758",
+  "https://openalex.org/W6872982773"
+ ],
+ "title": "A unification algorithm for typed λ-calculus"
+}

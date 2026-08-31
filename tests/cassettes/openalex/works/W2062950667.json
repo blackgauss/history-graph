@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 1021,
+ "doi": "https://doi.org/10.1145/130697.130699",
+ "id": "https://openalex.org/W2062950667",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W22089940",
+  "https://openalex.org/W1810875045",
+  "https://openalex.org/W1991450942",
+  "https://openalex.org/W2001780669",
+  "https://openalex.org/W2019376542",
+  "https://openalex.org/W2045255985",
+  "https://openalex.org/W2059895047",
+  "https://openalex.org/W2073578458",
+  "https://openalex.org/W2094945667",
+  "https://openalex.org/W2113547509",
+  "https://openalex.org/W2134112335",
+  "https://openalex.org/W2151384546",
+  "https://openalex.org/W2163976959",
+  "https://openalex.org/W2172307690",
+  "https://openalex.org/W2550953148",
+  "https://openalex.org/W3145454088",
+  "https://openalex.org/W4240899382",
+  "https://openalex.org/W4249075482"
+ ],
+ "title": "Report on the programming language Haskell"
+}

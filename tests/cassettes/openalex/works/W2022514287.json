@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 34,
+ "doi": "https://doi.org/10.1090/s0025-5718-1983-0701639-4",
+ "id": "https://openalex.org/W2022514287",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W160742913",
+  "https://openalex.org/W1972332180",
+  "https://openalex.org/W1974322345",
+  "https://openalex.org/W1988524997",
+  "https://openalex.org/W2123355614",
+  "https://openalex.org/W2158695970",
+  "https://openalex.org/W4239096409",
+  "https://openalex.org/W4245046265"
+ ],
+ "title": "Factoring large numbers with a quadratic sieve"
+}

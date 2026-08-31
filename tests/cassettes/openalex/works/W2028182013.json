@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.2307/2270262",
+ "id": "https://openalex.org/W2028182013",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W1984887166",
+  "https://openalex.org/W2010997439",
+  "https://openalex.org/W2015965037",
+  "https://openalex.org/W2033006711",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2053099695",
+  "https://openalex.org/W2057392475",
+  "https://openalex.org/W2061015796",
+  "https://openalex.org/W2062249564",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W2150311525",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W4241435086",
+  "https://openalex.org/W6682457372"
+ ],
+ "title": "Recursively enumerable sets which are uniform for finite extensions"
+}

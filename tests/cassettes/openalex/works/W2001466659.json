@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 995,
+ "doi": "https://doi.org/10.1007/3-540-46877-3_23",
+ "id": "https://openalex.org/W2001466659",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1484939708",
+  "https://openalex.org/W1504821298",
+  "https://openalex.org/W1508416470",
+  "https://openalex.org/W1516438277",
+  "https://openalex.org/W1553849618",
+  "https://openalex.org/W1599036690",
+  "https://openalex.org/W1599837121",
+  "https://openalex.org/W1985623009",
+  "https://openalex.org/W1997124098",
+  "https://openalex.org/W2007661134",
+  "https://openalex.org/W2015179126",
+  "https://openalex.org/W2020316223",
+  "https://openalex.org/W2051051926",
+  "https://openalex.org/W2052187872",
+  "https://openalex.org/W2075320076",
+  "https://openalex.org/W2079749988",
+  "https://openalex.org/W2103766856",
+  "https://openalex.org/W2110824700",
+  "https://openalex.org/W2134863191",
+  "https://openalex.org/W2315388224",
+  "https://openalex.org/W2336770924",
+  "https://openalex.org/W2611371296",
+  "https://openalex.org/W2987687226",
+  "https://openalex.org/W4248090615"
+ ],
+ "title": "Experimental Quantum Cryptography"
+}

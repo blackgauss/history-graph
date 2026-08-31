@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 13,
+ "doi": "https://doi.org/10.1007/3-540-45813-1_57",
+ "id": "https://openalex.org/W1495202841",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1483135265",
+  "https://openalex.org/W1522162882",
+  "https://openalex.org/W1553696291",
+  "https://openalex.org/W1553701556",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1576962511",
+  "https://openalex.org/W1582971263",
+  "https://openalex.org/W1586066135",
+  "https://openalex.org/W2473999760",
+  "https://openalex.org/W2506703326",
+  "https://openalex.org/W4232953319",
+  "https://openalex.org/W4300910510"
+ ],
+ "title": "Scalable Classification Method Based on Rough Sets"
+}

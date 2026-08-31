@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 370,
+ "doi": "https://doi.org/10.1090/s0894-0347-99-00283-0",
+ "id": "https://openalex.org/W1542602023",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W103499829",
+  "https://openalex.org/W1972038344",
+  "https://openalex.org/W2022820134",
+  "https://openalex.org/W2035093985",
+  "https://openalex.org/W2054543936",
+  "https://openalex.org/W2054889887",
+  "https://openalex.org/W2084165357",
+  "https://openalex.org/W2580283665",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Global wellposedness of defocusing critical nonlinear Schrödinger equation in the radial case"
+}

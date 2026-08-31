@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1007/11499107_22",
+ "id": "https://openalex.org/W1505281405",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W423970876",
+  "https://openalex.org/W1549186681",
+  "https://openalex.org/W1576805635",
+  "https://openalex.org/W1581661059",
+  "https://openalex.org/W1967073510",
+  "https://openalex.org/W1967184028",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W1987579904",
+  "https://openalex.org/W1999032440",
+  "https://openalex.org/W1999613943",
+  "https://openalex.org/W2071727942",
+  "https://openalex.org/W2074116126",
+  "https://openalex.org/W2109039359",
+  "https://openalex.org/W2137373403",
+  "https://openalex.org/W2506277857",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W2949673622",
+  "https://openalex.org/W2962725330",
+  "https://openalex.org/W4245266864"
+ ],
+ "title": "Sums of Squares, Satisfiability and Maximum Satisfiability"
+}

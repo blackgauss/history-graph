@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 65,
+ "doi": "https://doi.org/10.1007/3-540-45757-7_26",
+ "id": "https://openalex.org/W1484352250",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1484352250",
+  "https://openalex.org/W1556434751",
+  "https://openalex.org/W1558528332",
+  "https://openalex.org/W1568333198",
+  "https://openalex.org/W1589982562",
+  "https://openalex.org/W1602383075",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W1948299783",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2063727779",
+  "https://openalex.org/W2067716734",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A DPLL-Based Calculus for Ground Satisfiability Modulo Theories"
+}

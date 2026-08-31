@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 137,
+ "doi": "https://doi.org/10.1109/lics.2001.932480",
+ "id": "https://openalex.org/W2170145744",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W70873142",
+  "https://openalex.org/W1525472576",
+  "https://openalex.org/W1534557881",
+  "https://openalex.org/W1534850143",
+  "https://openalex.org/W1549008998",
+  "https://openalex.org/W1549891365",
+  "https://openalex.org/W2026597794",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2070587922",
+  "https://openalex.org/W2092518806",
+  "https://openalex.org/W2130175237",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W3181441684",
+  "https://openalex.org/W4246163295",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6631954194",
+  "https://openalex.org/W6673934656",
+  "https://openalex.org/W6678605893",
+  "https://openalex.org/W6679666440"
+ ],
+ "title": "A decision procedure for an extensional theory of arrays"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 91,
+ "doi": "https://doi.org/10.1016/b978-1-55860-377-6.50063-3",
+ "id": "https://openalex.org/W2064151144",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W67858951",
+  "https://openalex.org/W120444840",
+  "https://openalex.org/W1513366687",
+  "https://openalex.org/W1520260407",
+  "https://openalex.org/W1597910678",
+  "https://openalex.org/W1676820704",
+  "https://openalex.org/W1678889691",
+  "https://openalex.org/W1864487875",
+  "https://openalex.org/W1983661866",
+  "https://openalex.org/W2054658115",
+  "https://openalex.org/W2070750832",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2998778915",
+  "https://openalex.org/W6602774077",
+  "https://openalex.org/W6637266410",
+  "https://openalex.org/W6668459859"
+ ],
+ "title": "Compression-Based Discretization of Continuous Attributes"
+}

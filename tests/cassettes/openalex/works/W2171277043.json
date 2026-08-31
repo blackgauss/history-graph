@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 4228,
+ "doi": "https://doi.org/10.1162/neco.1989.1.2.281",
+ "id": "https://openalex.org/W2171277043",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W23758216",
+  "https://openalex.org/W66926763",
+  "https://openalex.org/W1524100745",
+  "https://openalex.org/W1992617944",
+  "https://openalex.org/W1995434016",
+  "https://openalex.org/W2007700211",
+  "https://openalex.org/W2024184249",
+  "https://openalex.org/W2026667167",
+  "https://openalex.org/W2034099719",
+  "https://openalex.org/W2048396577",
+  "https://openalex.org/W2072773743",
+  "https://openalex.org/W2084544490",
+  "https://openalex.org/W2092285438",
+  "https://openalex.org/W2101927907",
+  "https://openalex.org/W2107725879",
+  "https://openalex.org/W2127218421",
+  "https://openalex.org/W2127385318",
+  "https://openalex.org/W2143956139",
+  "https://openalex.org/W2152088994",
+  "https://openalex.org/W2265587988"
+ ],
+ "title": "Fast Learning in Networks of Locally-Tuned Processing Units"
+}

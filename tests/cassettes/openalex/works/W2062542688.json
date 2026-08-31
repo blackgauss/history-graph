@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 70,
+ "doi": "https://doi.org/10.1007/bf01609018",
+ "id": "https://openalex.org/W2062542688",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W11974643",
+  "https://openalex.org/W183574720",
+  "https://openalex.org/W1984722404",
+  "https://openalex.org/W2006729027",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2023898586",
+  "https://openalex.org/W2043382734",
+  "https://openalex.org/W2059635037",
+  "https://openalex.org/W2078409719",
+  "https://openalex.org/W2085690530",
+  "https://openalex.org/W2103111465",
+  "https://openalex.org/W2127982942",
+  "https://openalex.org/W2316564661",
+  "https://openalex.org/W6629904337"
+ ],
+ "title": "A combined conjugate-gradient quasi-Newton minimization algorithm"
+}

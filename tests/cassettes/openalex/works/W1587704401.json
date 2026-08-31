@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 741,
+ "doi": "https://doi.org/10.1214/lnms/1215466568",
+ "id": "https://openalex.org/W1587704401",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1506910446",
+  "https://openalex.org/W1873595945",
+  "https://openalex.org/W1978784290",
+  "https://openalex.org/W1983314966",
+  "https://openalex.org/W2078857026",
+  "https://openalex.org/W2130466903"
+ ],
+ "title": "Approximate computation of expectations"
+}

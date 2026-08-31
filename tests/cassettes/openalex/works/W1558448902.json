@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1007/11889205_18",
+ "id": "https://openalex.org/W1558448902",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W13289598",
+  "https://openalex.org/W37101401",
+  "https://openalex.org/W164287990",
+  "https://openalex.org/W1496083386",
+  "https://openalex.org/W1519526968",
+  "https://openalex.org/W1521053613",
+  "https://openalex.org/W1537595897",
+  "https://openalex.org/W1564467016",
+  "https://openalex.org/W1574451223",
+  "https://openalex.org/W1589464585",
+  "https://openalex.org/W1792365433",
+  "https://openalex.org/W1978526866",
+  "https://openalex.org/W2027789671",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2103552898",
+  "https://openalex.org/W2106440199",
+  "https://openalex.org/W2329329248",
+  "https://openalex.org/W2487140311",
+  "https://openalex.org/W2494638445",
+  "https://openalex.org/W2501112583",
+  "https://openalex.org/W4231510479"
+ ],
+ "title": "Adaptive Clause Weight Redistribution"
+}

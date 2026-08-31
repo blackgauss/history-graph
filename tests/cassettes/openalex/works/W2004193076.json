@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 374,
+ "doi": "https://doi.org/10.1080/00029890.1973.11993265",
+ "id": "https://openalex.org/W2004193076",
+ "publication_year": 1973,
+ "referenced_works": [
+  "https://openalex.org/W273804338",
+  "https://openalex.org/W1964691638",
+  "https://openalex.org/W1979411472",
+  "https://openalex.org/W1983561917",
+  "https://openalex.org/W2001149415",
+  "https://openalex.org/W2007089758",
+  "https://openalex.org/W2015738361",
+  "https://openalex.org/W2026914071",
+  "https://openalex.org/W2057182494",
+  "https://openalex.org/W2057527195",
+  "https://openalex.org/W2067907947",
+  "https://openalex.org/W2071093314",
+  "https://openalex.org/W2073267598",
+  "https://openalex.org/W2080936890",
+  "https://openalex.org/W2102743423",
+  "https://openalex.org/W2114804254",
+  "https://openalex.org/W2132733152",
+  "https://openalex.org/W2146755812",
+  "https://openalex.org/W2797656628",
+  "https://openalex.org/W3130727218",
+  "https://openalex.org/W4231758719",
+  "https://openalex.org/W4245511791",
+  "https://openalex.org/W4248850733",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Hilbert's Tenth Problem is Unsolvable"
+}

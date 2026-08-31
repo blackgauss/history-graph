@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 56,
+ "doi": "https://doi.org/10.1162/neco.1993.5.3.473",
+ "id": "https://openalex.org/W2103488878",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W17525587",
+  "https://openalex.org/W1594805276",
+  "https://openalex.org/W1652505363",
+  "https://openalex.org/W1968220402",
+  "https://openalex.org/W2080792322",
+  "https://openalex.org/W2086381679",
+  "https://openalex.org/W2089582861",
+  "https://openalex.org/W2128084896",
+  "https://openalex.org/W2912225506",
+  "https://openalex.org/W3207342693"
+ ],
+ "title": "Robustness in Multilayer Perceptrons"
+}

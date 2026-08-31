@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 80,
+ "doi": "https://doi.org/10.1145/212433.220201",
+ "id": "https://openalex.org/W1999276015",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W22555323",
+  "https://openalex.org/W1503132582",
+  "https://openalex.org/W1515943552",
+  "https://openalex.org/W1523369418",
+  "https://openalex.org/W1550995397",
+  "https://openalex.org/W1579525522",
+  "https://openalex.org/W1589223644",
+  "https://openalex.org/W1846087057",
+  "https://openalex.org/W1968386702",
+  "https://openalex.org/W1969450725",
+  "https://openalex.org/W1974461416",
+  "https://openalex.org/W1991247646",
+  "https://openalex.org/W1993863827",
+  "https://openalex.org/W2012670464",
+  "https://openalex.org/W2067253808",
+  "https://openalex.org/W2104145253",
+  "https://openalex.org/W2108788318",
+  "https://openalex.org/W2116476518",
+  "https://openalex.org/W2126234604",
+  "https://openalex.org/W2131322424",
+  "https://openalex.org/W2159886933",
+  "https://openalex.org/W3022037017",
+  "https://openalex.org/W4205167958"
+ ],
+ "title": "View maintenance issues for the chronicle data model (extended abstract)"
+}

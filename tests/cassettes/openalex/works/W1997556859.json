@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 207,
+ "doi": "https://doi.org/10.1016/0375-9601(95)00930-2",
+ "id": "https://openalex.org/W1997556859",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W598987462",
+  "https://openalex.org/W1965992807",
+  "https://openalex.org/W1978553093",
+  "https://openalex.org/W1986407511",
+  "https://openalex.org/W1991918243",
+  "https://openalex.org/W1992265536",
+  "https://openalex.org/W1994469674",
+  "https://openalex.org/W2000936997",
+  "https://openalex.org/W2023203209",
+  "https://openalex.org/W2024823087",
+  "https://openalex.org/W2026358914",
+  "https://openalex.org/W2028815089",
+  "https://openalex.org/W2055281720",
+  "https://openalex.org/W2059881698",
+  "https://openalex.org/W2062292260",
+  "https://openalex.org/W2064672021",
+  "https://openalex.org/W2065011489",
+  "https://openalex.org/W2085957116",
+  "https://openalex.org/W2090552429",
+  "https://openalex.org/W2095320370",
+  "https://openalex.org/W2135830616"
+ ],
+ "title": "Quantum α-entropy inequalities: independent condition for local realism?"
+}

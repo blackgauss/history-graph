@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 147,
+ "doi": null,
+ "id": "https://openalex.org/W2127385318",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W1662665",
+  "https://openalex.org/W66926763",
+  "https://openalex.org/W1501378290",
+  "https://openalex.org/W1580142630",
+  "https://openalex.org/W1993740947",
+  "https://openalex.org/W2034099719",
+  "https://openalex.org/W2052207834",
+  "https://openalex.org/W2066366061",
+  "https://openalex.org/W2067021215",
+  "https://openalex.org/W2094631910",
+  "https://openalex.org/W2103504761",
+  "https://openalex.org/W2127946960",
+  "https://openalex.org/W2128703518",
+  "https://openalex.org/W2153709524",
+  "https://openalex.org/W2169660454",
+  "https://openalex.org/W2170038280",
+  "https://openalex.org/W2171277043",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Fast Learning in Multi-Resolution Hierarchies"
+}

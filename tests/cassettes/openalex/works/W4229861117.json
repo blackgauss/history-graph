@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 256,
+ "doi": "https://doi.org/10.1016/0004-3702(71)90012-9",
+ "id": "https://openalex.org/W4229861117",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W821177344",
+  "https://openalex.org/W1516333022",
+  "https://openalex.org/W1531901718",
+  "https://openalex.org/W1596213861",
+  "https://openalex.org/W1764055246",
+  "https://openalex.org/W1969483458",
+  "https://openalex.org/W1972956465",
+  "https://openalex.org/W2003287551",
+  "https://openalex.org/W2010405422",
+  "https://openalex.org/W2025360553",
+  "https://openalex.org/W2042551813",
+  "https://openalex.org/W2171376204",
+  "https://openalex.org/W4229861117",
+  "https://openalex.org/W4246237914",
+  "https://openalex.org/W4246345775",
+  "https://openalex.org/W6623191584",
+  "https://openalex.org/W6631564476",
+  "https://openalex.org/W6637815935",
+  "https://openalex.org/W6655916393",
+  "https://openalex.org/W6685560238",
+  "https://openalex.org/W6828076354"
+ ],
+ "title": "Linear resolution with selection function"
+}

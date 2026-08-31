@@ -1,0 +1,97 @@
+{
+ "cited_by_count": 201,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1287/mksc.1090.0517",
+ "id": "https://openalex.org/W2002264611",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W574050040",
+  "https://openalex.org/W1575955166",
+  "https://openalex.org/W1579521610",
+  "https://openalex.org/W1583799429",
+  "https://openalex.org/W1603355869",
+  "https://openalex.org/W1970993955",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2032395673",
+  "https://openalex.org/W2038242546",
+  "https://openalex.org/W2051928882",
+  "https://openalex.org/W2051972124",
+  "https://openalex.org/W2054233350",
+  "https://openalex.org/W2063271080",
+  "https://openalex.org/W2079084267",
+  "https://openalex.org/W2113630189",
+  "https://openalex.org/W2133198311",
+  "https://openalex.org/W2136299514",
+  "https://openalex.org/W2160746267",
+  "https://openalex.org/W2913950235",
+  "https://openalex.org/W2988027144",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3122861272",
+  "https://openalex.org/W3123775849",
+  "https://openalex.org/W3125965983",
+  "https://openalex.org/W4231144620",
+  "https://openalex.org/W4251484745"
+ ],
+ "title": "The Race for Sponsored Links: Bidding Patterns for Search Advertising"
+}

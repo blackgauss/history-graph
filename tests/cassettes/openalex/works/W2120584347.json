@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 5,
+ "doi": null,
+ "id": "https://openalex.org/W2120584347",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1558939704",
+  "https://openalex.org/W2005373714",
+  "https://openalex.org/W2005725110",
+  "https://openalex.org/W2038467333",
+  "https://openalex.org/W2076022311",
+  "https://openalex.org/W2126087831",
+  "https://openalex.org/W2170715240",
+  "https://openalex.org/W2182232381"
+ ],
+ "title": "Scalable Byzantine-Fault-Quantifying Clock Synchronization"
+}

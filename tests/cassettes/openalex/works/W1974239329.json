@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 42,
+ "doi": "https://doi.org/10.1145/273244.273251",
+ "id": "https://openalex.org/W1974239329",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1545117279",
+  "https://openalex.org/W2153329411"
+ ],
+ "title": "PREDATOR"
+}

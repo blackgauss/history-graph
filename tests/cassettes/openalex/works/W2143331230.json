@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 2796,
+ "doi": "https://doi.org/10.1145/1102351.1102363",
+ "id": "https://openalex.org/W2143331230",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W26816478",
+  "https://openalex.org/W1985554184",
+  "https://openalex.org/W2015904350",
+  "https://openalex.org/W2019575783",
+  "https://openalex.org/W2108263314",
+  "https://openalex.org/W2120350143",
+  "https://openalex.org/W2127589108",
+  "https://openalex.org/W2145365639",
+  "https://openalex.org/W2149166361",
+  "https://openalex.org/W2151058089",
+  "https://openalex.org/W2171541062",
+  "https://openalex.org/W2171590421",
+  "https://openalex.org/W2242486065",
+  "https://openalex.org/W2763110165",
+  "https://openalex.org/W2988119488",
+  "https://openalex.org/W3119651796",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Learning to rank using gradient descent"
+}

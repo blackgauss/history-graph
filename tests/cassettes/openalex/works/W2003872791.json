@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 187,
+ "doi": "https://doi.org/10.1063/1.1823026",
+ "id": "https://openalex.org/W2003872791",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W2019168991",
+  "https://openalex.org/W2022829874",
+  "https://openalex.org/W2049650033",
+  "https://openalex.org/W2063782027",
+  "https://openalex.org/W2065610780",
+  "https://openalex.org/W2090673131",
+  "https://openalex.org/W2100903675",
+  "https://openalex.org/W2110408336",
+  "https://openalex.org/W2117164389",
+  "https://openalex.org/W2264913609",
+  "https://openalex.org/W6922067975"
+ ],
+ "title": "The crossbar latch: Logic value storage, restoration, and inversion in crossbar circuits"
+}

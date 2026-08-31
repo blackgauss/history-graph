@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 189,
+ "doi": "https://doi.org/10.1145/971701.50203",
+ "id": "https://openalex.org/W2170918251",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W166430344",
+  "https://openalex.org/W2019426053",
+  "https://openalex.org/W2022681178",
+  "https://openalex.org/W2024060531",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2066623874",
+  "https://openalex.org/W2081579241",
+  "https://openalex.org/W2128193809",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2167679350"
+ ],
+ "title": "Optimization of large join queries"
+}

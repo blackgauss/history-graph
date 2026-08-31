@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 277,
+ "doi": "https://doi.org/10.1145/237814.237860",
+ "id": "https://openalex.org/W2132489129",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1481997196",
+  "https://openalex.org/W1968198053",
+  "https://openalex.org/W2063416709",
+  "https://openalex.org/W2078289947",
+  "https://openalex.org/W2137360584",
+  "https://openalex.org/W2294221698",
+  "https://openalex.org/W2319466955",
+  "https://openalex.org/W2323554188"
+ ],
+ "title": "Using the Groebner basis algorithm to find proofs of unsatisfiability"
+}

@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 776,
+ "counts_by_year": [
+  {
+   "cited_by_count": 111,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 214,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 190,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 172,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 75,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2021
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tpami.2021.3117837",
+ "id": "https://openalex.org/W3204647170",
+ "publication_year": 2021,
+ "title": "Dynamic Neural Networks: A Survey"
+}

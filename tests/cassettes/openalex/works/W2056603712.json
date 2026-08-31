@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 1526,
+ "doi": "https://doi.org/10.1145/355934.355936",
+ "id": "https://openalex.org/W2056603712",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W36779443",
+  "https://openalex.org/W1588470569",
+  "https://openalex.org/W1966884374",
+  "https://openalex.org/W1970255220",
+  "https://openalex.org/W1976464801",
+  "https://openalex.org/W1977822596",
+  "https://openalex.org/W1991625658",
+  "https://openalex.org/W2013394257",
+  "https://openalex.org/W2017659682",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2026258334",
+  "https://openalex.org/W2028484327",
+  "https://openalex.org/W2070473094",
+  "https://openalex.org/W2071377852",
+  "https://openalex.org/W2236623899",
+  "https://openalex.org/W2250944347",
+  "https://openalex.org/W2318609557"
+ ],
+ "title": "Testing Unconstrained Optimization Software"
+}

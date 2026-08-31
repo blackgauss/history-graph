@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 92,
+ "doi": "https://doi.org/10.2307/1970842",
+ "id": "https://openalex.org/W2315181607",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W3231172",
+  "https://openalex.org/W1965251765",
+  "https://openalex.org/W1972685794",
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W2029823283",
+  "https://openalex.org/W2037416374",
+  "https://openalex.org/W2042742137",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2048588931",
+  "https://openalex.org/W2062249564",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W2117832390",
+  "https://openalex.org/W2150311525",
+  "https://openalex.org/W2530006810"
+ ],
+ "title": "Automorphisms of the Lattice of Recursively Enumerable Sets Part I: Maximal Sets"
+}

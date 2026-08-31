@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 66,
+ "doi": "https://doi.org/10.1016/0010-4809(71)90022-x",
+ "id": "https://openalex.org/W2053004029",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W1978228481",
+  "https://openalex.org/W1995914362",
+  "https://openalex.org/W2013525763",
+  "https://openalex.org/W2035308679",
+  "https://openalex.org/W2057159210",
+  "https://openalex.org/W2063127072",
+  "https://openalex.org/W2111280684",
+  "https://openalex.org/W2120822641",
+  "https://openalex.org/W2141913292",
+  "https://openalex.org/W2410460699",
+  "https://openalex.org/W3113812747",
+  "https://openalex.org/W4301757412",
+  "https://openalex.org/W6653826842",
+  "https://openalex.org/W6787775395"
+ ],
+ "title": "A comparison of methods for the automated diagnosis of thyroid dysfunction"
+}

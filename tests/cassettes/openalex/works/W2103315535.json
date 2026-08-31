@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 286,
+ "doi": "https://doi.org/10.1145/1416944.1416947",
+ "id": "https://openalex.org/W2103315535",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W93876286",
+  "https://openalex.org/W1574672204",
+  "https://openalex.org/W1622719107",
+  "https://openalex.org/W2043719859",
+  "https://openalex.org/W2086674381",
+  "https://openalex.org/W2110318426",
+  "https://openalex.org/W2114483406",
+  "https://openalex.org/W2117289367",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2125165932",
+  "https://openalex.org/W2125646999",
+  "https://openalex.org/W2145682438",
+  "https://openalex.org/W2147504831",
+  "https://openalex.org/W2147527217",
+  "https://openalex.org/W2148659804",
+  "https://openalex.org/W2157762234",
+  "https://openalex.org/W2161234420",
+  "https://openalex.org/W2165015993",
+  "https://openalex.org/W2166736779",
+  "https://openalex.org/W2169422590",
+  "https://openalex.org/W2584297916",
+  "https://openalex.org/W2913598742",
+  "https://openalex.org/W4238584892",
+  "https://openalex.org/W4248578633"
+ ],
+ "title": "An analysis of data corruption in the storage stack"
+}

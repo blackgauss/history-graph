@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1201/b10605-12",
+ "id": "https://openalex.org/W2480111516",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W1967542985",
+  "https://openalex.org/W1973500827",
+  "https://openalex.org/W1981076358",
+  "https://openalex.org/W2012873476",
+  "https://openalex.org/W2065093956",
+  "https://openalex.org/W2106772112",
+  "https://openalex.org/W2114467530",
+  "https://openalex.org/W2484079578",
+  "https://openalex.org/W4299520625"
+ ],
+ "title": "Dynamic Matrix Control"
+}

@@ -1,0 +1,79 @@
+{
+ "cited_by_count": 596,
+ "counts_by_year": [
+  {
+   "cited_by_count": 8,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1111/1468-0262.00334",
+ "id": "https://openalex.org/W2055034183",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1507249476",
+  "https://openalex.org/W1549769376",
+  "https://openalex.org/W1570830063",
+  "https://openalex.org/W1965432628",
+  "https://openalex.org/W2029396810",
+  "https://openalex.org/W2052086354",
+  "https://openalex.org/W2071261925",
+  "https://openalex.org/W2889942414"
+ ],
+ "title": "Architecture of Power Markets"
+}

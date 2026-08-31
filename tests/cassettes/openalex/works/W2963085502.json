@@ -1,0 +1,45 @@
+{
+ "cited_by_count": 240,
+ "counts_by_year": [
+  {
+   "cited_by_count": 9,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 41,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 30,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2018
+  }
+ ],
+ "doi": "https://doi.org/10.1109/infcomw.2018.8406973",
+ "id": "https://openalex.org/W2963085502",
+ "publication_year": 2018,
+ "title": "Age-optimal trajectory planning for UAV-assisted data collection"
+}

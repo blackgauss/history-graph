@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 27,
+ "doi": null,
+ "id": "https://openalex.org/W2971913558",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1502609557",
+  "https://openalex.org/W1864907493",
+  "https://openalex.org/W2034328688",
+  "https://openalex.org/W2086161653",
+  "https://openalex.org/W2096691069",
+  "https://openalex.org/W2102116870",
+  "https://openalex.org/W2116343116",
+  "https://openalex.org/W2119799051",
+  "https://openalex.org/W2129666410",
+  "https://openalex.org/W2139427956",
+  "https://openalex.org/W2151103935",
+  "https://openalex.org/W2154346517",
+  "https://openalex.org/W2162108390",
+  "https://openalex.org/W2162915993",
+  "https://openalex.org/W2165715280",
+  "https://openalex.org/W2168682262",
+  "https://openalex.org/W2487225473",
+  "https://openalex.org/W2533739470",
+  "https://openalex.org/W2534411223",
+  "https://openalex.org/W3141200356"
+ ],
+ "title": "Detecting Human Actions in Surveillance Videos."
+}

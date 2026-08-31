@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 59,
+ "doi": null,
+ "id": "https://openalex.org/W1490731164",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W14629651",
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1497748148",
+  "https://openalex.org/W1514983296",
+  "https://openalex.org/W1980991874",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2133384222",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W3198160809"
+ ],
+ "title": "The effect of bucket size tuning in the dynamic hybrid GRACE hash join method"
+}

@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 149,
+ "doi": "https://doi.org/10.1080/01621459.1971.10482348",
+ "id": "https://openalex.org/W2013116218",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W1966485568",
+  "https://openalex.org/W1986098702",
+  "https://openalex.org/W2059944969",
+  "https://openalex.org/W2101170002",
+  "https://openalex.org/W2104041718",
+  "https://openalex.org/W2904579105",
+  "https://openalex.org/W4235107919",
+  "https://openalex.org/W4245405067",
+  "https://openalex.org/W4251566724",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4300059946"
+ ],
+ "title": "Limiting the Risk of Bayes and Empirical Bayes Estimators—Part I: The Bayes Case"
+}

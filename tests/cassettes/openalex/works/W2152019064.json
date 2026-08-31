@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 50,
+ "doi": "https://doi.org/10.1109/jssc.1977.1050939",
+ "id": "https://openalex.org/W2152019064",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W2038627227",
+  "https://openalex.org/W2064360209",
+  "https://openalex.org/W2083376242",
+  "https://openalex.org/W2085128571",
+  "https://openalex.org/W2101400068",
+  "https://openalex.org/W2120316627",
+  "https://openalex.org/W2403194715"
+ ],
+ "title": "Threshold I/sup 2/L and its applications to binary symmetric functions and multivalued logic"
+}

@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 1885,
+ "doi": "https://doi.org/10.1145/1273496.1273596",
+ "id": "https://openalex.org/W2099866409",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W66838807",
+  "https://openalex.org/W205159212",
+  "https://openalex.org/W1612003148",
+  "https://openalex.org/W2070786785",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2109720450",
+  "https://openalex.org/W2116064496",
+  "https://openalex.org/W2119556711",
+  "https://openalex.org/W2122090912",
+  "https://openalex.org/W2124914669",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2147010501",
+  "https://openalex.org/W2147152072",
+  "https://openalex.org/W2158164339",
+  "https://openalex.org/W2165395308"
+ ],
+ "title": "Restricted Boltzmann machines for collaborative filtering"
+}

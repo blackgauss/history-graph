@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 230,
+ "doi": "https://doi.org/10.1016/0304-3975(85)90135-5",
+ "id": "https://openalex.org/W1513579486",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W47204537",
+  "https://openalex.org/W1525064220",
+  "https://openalex.org/W1987091892",
+  "https://openalex.org/W2031973846",
+  "https://openalex.org/W2095405219",
+  "https://openalex.org/W6601922061",
+  "https://openalex.org/W6647069922"
+ ],
+ "title": "Automatic synthesis of typed Λ-programs on term algebras"
+}

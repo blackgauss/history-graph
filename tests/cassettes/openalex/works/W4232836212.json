@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 13238,
+ "doi": "https://doi.org/10.1145/359340.359342",
+ "id": "https://openalex.org/W4232836212",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1964053266",
+  "https://openalex.org/W1970241935",
+  "https://openalex.org/W1981455414",
+  "https://openalex.org/W1991374982",
+  "https://openalex.org/W2047925852",
+  "https://openalex.org/W2057182494",
+  "https://openalex.org/W2071056578",
+  "https://openalex.org/W2145964906",
+  "https://openalex.org/W2156186849",
+  "https://openalex.org/W4238203955",
+  "https://openalex.org/W4244717494",
+  "https://openalex.org/W7066789295"
+ ],
+ "title": "A method for obtaining digital signatures and public-key cryptosystems"
+}

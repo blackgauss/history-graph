@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 409,
+ "counts_by_year": [
+  {
+   "cited_by_count": 24,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 114,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 132,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 105,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2021
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tkde.2022.3145690",
+ "id": "https://openalex.org/W4210334834",
+ "publication_year": 2022,
+ "title": "A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation"
+}

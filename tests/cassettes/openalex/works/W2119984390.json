@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 35,
+ "doi": "https://doi.org/10.1109/isit.1993.748374",
+ "id": "https://openalex.org/W2119984390",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1999120268",
+  "https://openalex.org/W2082967074",
+  "https://openalex.org/W2116190532",
+  "https://openalex.org/W2119047110",
+  "https://openalex.org/W2148381206",
+  "https://openalex.org/W2183235533"
+ ],
+ "title": "Context Tree Weighting : A Sequential Universal Source Coding Procedure for Fsmx Sources"
+}

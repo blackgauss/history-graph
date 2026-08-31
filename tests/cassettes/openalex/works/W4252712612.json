@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 284,
+ "doi": "https://doi.org/10.1162/003355300554755",
+ "id": "https://openalex.org/W4252712612",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1575503998",
+  "https://openalex.org/W1978180733",
+  "https://openalex.org/W2013541602",
+  "https://openalex.org/W2018815533",
+  "https://openalex.org/W2024932067",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2059667581",
+  "https://openalex.org/W2067758411",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2078234023",
+  "https://openalex.org/W2088277553",
+  "https://openalex.org/W2109834199",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2127238399",
+  "https://openalex.org/W4213183334",
+  "https://openalex.org/W4251083239"
+ ],
+ "title": "Efficient Auctions"
+}

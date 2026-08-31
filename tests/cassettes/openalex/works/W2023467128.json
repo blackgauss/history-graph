@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1145/3148.3325",
+ "id": "https://openalex.org/W2023467128",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W39404219",
+  "https://openalex.org/W1489843519",
+  "https://openalex.org/W1748095660",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W2003441663",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2055255408",
+  "https://openalex.org/W2084011265",
+  "https://openalex.org/W2084455637",
+  "https://openalex.org/W2089827476",
+  "https://openalex.org/W2117947144",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W2901608006",
+  "https://openalex.org/W2915063781",
+  "https://openalex.org/W4245684162"
+ ],
+ "title": "Use of graph-theoretic models for optimal relational database accesses to perform join"
+}

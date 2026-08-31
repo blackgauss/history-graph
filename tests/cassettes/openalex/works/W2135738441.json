@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 12,
+ "doi": "https://doi.org/10.1109/69.87961",
+ "id": "https://openalex.org/W2135738441",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1987812171",
+  "https://openalex.org/W2020174888",
+  "https://openalex.org/W2037355631",
+  "https://openalex.org/W2044202775",
+  "https://openalex.org/W2103585798",
+  "https://openalex.org/W2111607006",
+  "https://openalex.org/W2130639598",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2153485419",
+  "https://openalex.org/W4254803681",
+  "https://openalex.org/W6659880046",
+  "https://openalex.org/W6675494989",
+  "https://openalex.org/W6679530139"
+ ],
+ "title": "Algorithms for distributed query processing in broadcast local area networks"
+}

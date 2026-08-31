@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1109/cec.1999.785516",
+ "id": "https://openalex.org/W2145556256",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1494912895",
+  "https://openalex.org/W1535289002",
+  "https://openalex.org/W1588409659",
+  "https://openalex.org/W1653273292",
+  "https://openalex.org/W2038941149",
+  "https://openalex.org/W2072245049",
+  "https://openalex.org/W2072492557",
+  "https://openalex.org/W2116139600",
+  "https://openalex.org/W2134514463",
+  "https://openalex.org/W2167779676",
+  "https://openalex.org/W2546698832",
+  "https://openalex.org/W2556839191",
+  "https://openalex.org/W4231141990",
+  "https://openalex.org/W6635206923",
+  "https://openalex.org/W6677313311",
+  "https://openalex.org/W6729406737",
+  "https://openalex.org/W6730339434"
+ ],
+ "title": "Evolving structure and function of neurocontrollers"
+}

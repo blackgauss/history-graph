@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 183,
+ "doi": "https://doi.org/10.1016/0022-247x(65)90027-2",
+ "id": "https://openalex.org/W1993192904",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W2003812970",
+  "https://openalex.org/W2059944969",
+  "https://openalex.org/W2094227853",
+  "https://openalex.org/W2105934661",
+  "https://openalex.org/W2107677771",
+  "https://openalex.org/W2795495912",
+  "https://openalex.org/W2798461040",
+  "https://openalex.org/W4233782578",
+  "https://openalex.org/W4300354131"
+ ],
+ "title": "Sufficient statistics in the optimum control of stochastic systems"
+}

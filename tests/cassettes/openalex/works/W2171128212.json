@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 48,
+ "doi": "https://doi.org/10.1109/ijcnn.2002.1007449",
+ "id": "https://openalex.org/W2171128212",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W179431999",
+  "https://openalex.org/W1581242383",
+  "https://openalex.org/W2111053603",
+  "https://openalex.org/W2116109611",
+  "https://openalex.org/W2120472140",
+  "https://openalex.org/W2133965177",
+  "https://openalex.org/W2137825550",
+  "https://openalex.org/W2162953669",
+  "https://openalex.org/W2169213281",
+  "https://openalex.org/W4242141715",
+  "https://openalex.org/W6607372224",
+  "https://openalex.org/W6680455300"
+ ],
+ "title": "Adaptive behavior with fixed weights in RNN: an overview"
+}

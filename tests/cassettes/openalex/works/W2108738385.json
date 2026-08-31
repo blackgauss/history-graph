@@ -1,0 +1,87 @@
+{
+ "cited_by_count": 1000,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 36,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 62,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 151,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 131,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 142,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 106,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 103,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 61,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W2108738385",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W1618543586",
+  "https://openalex.org/W1969675113",
+  "https://openalex.org/W2004971231",
+  "https://openalex.org/W2009551863",
+  "https://openalex.org/W2030501831",
+  "https://openalex.org/W2039522160",
+  "https://openalex.org/W2070996757",
+  "https://openalex.org/W2099586447",
+  "https://openalex.org/W2112420033",
+  "https://openalex.org/W2113065326",
+  "https://openalex.org/W2138909795",
+  "https://openalex.org/W2158125716",
+  "https://openalex.org/W2162979096",
+  "https://openalex.org/W2168405694",
+  "https://openalex.org/W2170207925",
+  "https://openalex.org/W2317700292"
+ ],
+ "title": "An Empirical Evaluation of Thompson Sampling"
+}

@@ -1,0 +1,76 @@
+{
+ "cited_by_count": 471,
+ "counts_by_year": [
+  {
+   "cited_by_count": 3,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1515/9781400830138.177",
+ "id": "https://openalex.org/W1985726524",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W638453110",
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1550761040",
+  "https://openalex.org/W1985782116",
+  "https://openalex.org/W1989314580",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2015527784",
+  "https://openalex.org/W2124713638",
+  "https://openalex.org/W2133469585"
+ ],
+ "title": "5 Information Impact and Allocation Rules in Auctions with Affiliated Private Values: A Laboratory Study"
+}

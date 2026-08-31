@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 211,
+ "doi": "https://doi.org/10.1145/383952.383958",
+ "id": "https://openalex.org/W2006997130",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W119481552",
+  "https://openalex.org/W1500117362",
+  "https://openalex.org/W1515852583",
+  "https://openalex.org/W1554385128",
+  "https://openalex.org/W1956559956",
+  "https://openalex.org/W1970885105",
+  "https://openalex.org/W1993467697",
+  "https://openalex.org/W2030431619",
+  "https://openalex.org/W2065472179",
+  "https://openalex.org/W2066667100",
+  "https://openalex.org/W2123127954",
+  "https://openalex.org/W2124379907",
+  "https://openalex.org/W2135050452",
+  "https://openalex.org/W2141897300",
+  "https://openalex.org/W2147152072",
+  "https://openalex.org/W2889395214",
+  "https://openalex.org/W4245383745",
+  "https://openalex.org/W4301891957"
+ ],
+ "title": "Static index pruning for information retrieval systems"
+}

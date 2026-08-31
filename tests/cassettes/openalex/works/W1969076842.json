@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 301,
+ "doi": "https://doi.org/10.1080/01621459.1977.10479910",
+ "id": "https://openalex.org/W1969076842",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W128740895",
+  "https://openalex.org/W1506069954",
+  "https://openalex.org/W1584444527",
+  "https://openalex.org/W1977003570",
+  "https://openalex.org/W1991355442",
+  "https://openalex.org/W2000812844",
+  "https://openalex.org/W2013116218",
+  "https://openalex.org/W2014725748",
+  "https://openalex.org/W2036339392",
+  "https://openalex.org/W2061461017",
+  "https://openalex.org/W2072857774",
+  "https://openalex.org/W2077788215",
+  "https://openalex.org/W2157018930",
+  "https://openalex.org/W2510002191",
+  "https://openalex.org/W2799279840",
+  "https://openalex.org/W2904730752",
+  "https://openalex.org/W4229525807",
+  "https://openalex.org/W4232299673",
+  "https://openalex.org/W4240566771",
+  "https://openalex.org/W4242671927",
+  "https://openalex.org/W4246048519",
+  "https://openalex.org/W4255455317",
+  "https://openalex.org/W4256202811",
+  "https://openalex.org/W6634927326"
+ ],
+ "title": "A Simulation Study of Alternatives to Ordinary Least Squares"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 64,
+ "doi": "https://doi.org/10.1016/0047-259x(79)90055-1",
+ "id": "https://openalex.org/W2131433282",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1979162808",
+  "https://openalex.org/W1998373341",
+  "https://openalex.org/W2001217147",
+  "https://openalex.org/W2006408262",
+  "https://openalex.org/W2026946455",
+  "https://openalex.org/W2037479849",
+  "https://openalex.org/W2042220887",
+  "https://openalex.org/W2049129765",
+  "https://openalex.org/W2049786151",
+  "https://openalex.org/W2054409858",
+  "https://openalex.org/W2058370095",
+  "https://openalex.org/W2073291977",
+  "https://openalex.org/W2142249801",
+  "https://openalex.org/W3146453777",
+  "https://openalex.org/W4242166591",
+  "https://openalex.org/W4247174446",
+  "https://openalex.org/W6649597554",
+  "https://openalex.org/W6656995653",
+  "https://openalex.org/W6792949187"
+ ],
+ "title": "Limit theorems for polylinear forms"
+}

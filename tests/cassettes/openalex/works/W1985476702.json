@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 127,
+ "doi": "https://doi.org/10.1002/rsa.10036",
+ "id": "https://openalex.org/W1985476702",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1562625908",
+  "https://openalex.org/W1571966798",
+  "https://openalex.org/W1592457332",
+  "https://openalex.org/W1599005792",
+  "https://openalex.org/W1970439924",
+  "https://openalex.org/W1970630090",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W2012605254",
+  "https://openalex.org/W2026820987",
+  "https://openalex.org/W2058772615",
+  "https://openalex.org/W2087226760",
+  "https://openalex.org/W2093546055",
+  "https://openalex.org/W2103012681",
+  "https://openalex.org/W2109039359",
+  "https://openalex.org/W2130857672",
+  "https://openalex.org/W2157142525",
+  "https://openalex.org/W2158907148",
+  "https://openalex.org/W2989661724",
+  "https://openalex.org/W4233413206",
+  "https://openalex.org/W4240810995"
+ ],
+ "title": "On the optimality of the random hyperplane rounding technique for MAX CUT"
+}

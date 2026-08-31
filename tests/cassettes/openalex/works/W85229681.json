@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 182,
+ "doi": null,
+ "id": "https://openalex.org/W85229681",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1510806966",
+  "https://openalex.org/W1533169541",
+  "https://openalex.org/W1559109834",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1604329830",
+  "https://openalex.org/W1864487875",
+  "https://openalex.org/W1983661866",
+  "https://openalex.org/W1999120268",
+  "https://openalex.org/W2068782468",
+  "https://openalex.org/W2128420091",
+  "https://openalex.org/W2131024393",
+  "https://openalex.org/W2149706766",
+  "https://openalex.org/W2516920294"
+ ],
+ "title": "MDL-based decision tree pruning"
+}

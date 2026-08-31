@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 1,
+ "doi": "https://doi.org/10.1215/ijm/1336049990",
+ "id": "https://openalex.org/W2024970657",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1855718783",
+  "https://openalex.org/W1975757743",
+  "https://openalex.org/W2015343723",
+  "https://openalex.org/W2022829242",
+  "https://openalex.org/W2023426016",
+  "https://openalex.org/W2065230098",
+  "https://openalex.org/W2155174325",
+  "https://openalex.org/W4234552994"
+ ],
+ "title": "On Hoeffding decomposition in $L_{p}$"
+}

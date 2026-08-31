@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 631,
+ "doi": "https://doi.org/10.1145/1107499.1107504",
+ "id": "https://openalex.org/W2128362607",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W124832240",
+  "https://openalex.org/W1524618384",
+  "https://openalex.org/W1604345466",
+  "https://openalex.org/W1668777023",
+  "https://openalex.org/W1986319134",
+  "https://openalex.org/W2112215401",
+  "https://openalex.org/W2118828104",
+  "https://openalex.org/W2149576945",
+  "https://openalex.org/W2161569281",
+  "https://openalex.org/W2403180956"
+ ],
+ "title": "The 8 requirements of real-time stream processing"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 16,
+ "doi": "https://doi.org/10.1214/lnms/1215465636",
+ "id": "https://openalex.org/W1480068914",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1966391010",
+  "https://openalex.org/W1971830622",
+  "https://openalex.org/W1992068214",
+  "https://openalex.org/W2012311345",
+  "https://openalex.org/W2057298561",
+  "https://openalex.org/W2145535767",
+  "https://openalex.org/W6643295695",
+  "https://openalex.org/W6648413822",
+  "https://openalex.org/W6653496238"
+ ],
+ "title": "An expansion for symmetric statistics and the Efron-Stein inequality"
+}

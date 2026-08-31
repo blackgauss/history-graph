@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 245,
+ "doi": "https://doi.org/10.5860/choice.28-3325",
+ "id": "https://openalex.org/W2134331967",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W85058473",
+  "https://openalex.org/W1573503290",
+  "https://openalex.org/W1969005071",
+  "https://openalex.org/W2002628678",
+  "https://openalex.org/W2008353316",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2020050961",
+  "https://openalex.org/W2042481239",
+  "https://openalex.org/W2086789740",
+  "https://openalex.org/W2109779438",
+  "https://openalex.org/W2128865943",
+  "https://openalex.org/W2129727551",
+  "https://openalex.org/W2295027001",
+  "https://openalex.org/W2766736793"
+ ],
+ "title": "Neural network design and the complexity of learning"
+}

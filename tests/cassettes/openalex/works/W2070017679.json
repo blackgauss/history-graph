@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 90,
+ "doi": "https://doi.org/10.1016/0304-3975(77)90054-8",
+ "id": "https://openalex.org/W2070017679",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1542163612",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2049462023",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2163839813",
+  "https://openalex.org/W2329329248",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W4231510479",
+  "https://openalex.org/W6632090223",
+  "https://openalex.org/W6644040475",
+  "https://openalex.org/W6659573362",
+  "https://openalex.org/W6684241454"
+ ],
+ "title": "On the complexity of regular resolution and the Davis-Putnam procedure"
+}

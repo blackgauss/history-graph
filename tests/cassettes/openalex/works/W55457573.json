@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 32,
+ "doi": "https://doi.org/10.1007/bfb0070847",
+ "id": "https://openalex.org/W55457573",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W142755355",
+  "https://openalex.org/W299670235",
+  "https://openalex.org/W2043702877",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2327680971"
+ ],
+ "title": "On the integrability of Banach space valued Walsh polynomials"
+}

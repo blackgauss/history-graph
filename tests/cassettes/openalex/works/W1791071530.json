@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 12,
+ "doi": "https://doi.org/10.1016/b978-0-444-88650-7.50013-5",
+ "id": "https://openalex.org/W1791071530",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1522592437",
+  "https://openalex.org/W1559536185",
+  "https://openalex.org/W1561981064",
+  "https://openalex.org/W1593793857",
+  "https://openalex.org/W1630331242",
+  "https://openalex.org/W1981277868",
+  "https://openalex.org/W1984567898",
+  "https://openalex.org/W2057565703",
+  "https://openalex.org/W2114307208",
+  "https://openalex.org/W2116479626",
+  "https://openalex.org/W2119775895",
+  "https://openalex.org/W2143075689",
+  "https://openalex.org/W2568353792",
+  "https://openalex.org/W2797328151",
+  "https://openalex.org/W2963421744",
+  "https://openalex.org/W2963533389",
+  "https://openalex.org/W3016843226",
+  "https://openalex.org/W3121818550",
+  "https://openalex.org/W4210715960",
+  "https://openalex.org/W4255783720",
+  "https://openalex.org/W6631284540",
+  "https://openalex.org/W6633251374",
+  "https://openalex.org/W6677233647"
+ ],
+ "title": "A Linear Approximation Method for Probabilistic Inference"
+}

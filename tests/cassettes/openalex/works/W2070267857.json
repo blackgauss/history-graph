@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 809,
+ "doi": "https://doi.org/10.1016/0022-0396(72)90007-1",
+ "id": "https://openalex.org/W2070267857",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W35147865",
+  "https://openalex.org/W599952100",
+  "https://openalex.org/W1533846756",
+  "https://openalex.org/W1595217145",
+  "https://openalex.org/W1997378256",
+  "https://openalex.org/W2006752005",
+  "https://openalex.org/W2011307039",
+  "https://openalex.org/W2034280776",
+  "https://openalex.org/W2041277461",
+  "https://openalex.org/W2043515542",
+  "https://openalex.org/W2058169048",
+  "https://openalex.org/W2059654406",
+  "https://openalex.org/W2087640086",
+  "https://openalex.org/W2144192597",
+  "https://openalex.org/W2600604505",
+  "https://openalex.org/W2726098940",
+  "https://openalex.org/W2986629677",
+  "https://openalex.org/W3048224925",
+  "https://openalex.org/W4206838330",
+  "https://openalex.org/W6601439504",
+  "https://openalex.org/W6769713438"
+ ],
+ "title": "Controllability of nonlinear systems"
+}

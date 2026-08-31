@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 93,
+ "doi": "https://doi.org/10.1287/mksc.12.1.88",
+ "id": "https://openalex.org/W2051928882",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1525737102",
+  "https://openalex.org/W1979602497",
+  "https://openalex.org/W1986598958",
+  "https://openalex.org/W1986753086",
+  "https://openalex.org/W2026309037",
+  "https://openalex.org/W2043319920",
+  "https://openalex.org/W2045597653",
+  "https://openalex.org/W2133447380",
+  "https://openalex.org/W2140361871",
+  "https://openalex.org/W2168876164",
+  "https://openalex.org/W2170163970",
+  "https://openalex.org/W2245693758",
+  "https://openalex.org/W2319938887",
+  "https://openalex.org/W2326714046",
+  "https://openalex.org/W2328772417",
+  "https://openalex.org/W2895270050"
+ ],
+ "title": "Predicting Advertising Pulsing Policies in an Oligopoly: A Model and Empirical Test"
+}

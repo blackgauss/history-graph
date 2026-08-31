@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1093/biomet/59.2.263",
+ "id": "https://openalex.org/W1966429241",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W2016115947",
+  "https://openalex.org/W2046009593",
+  "https://openalex.org/W2083467125",
+  "https://openalex.org/W2327930047",
+  "https://openalex.org/W2403035479",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "On using an estimated regression line in a second sample"
+}

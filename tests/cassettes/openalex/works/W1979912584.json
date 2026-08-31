@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1109/tc.1986.1676716",
+ "id": "https://openalex.org/W1979912584",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W6560884",
+  "https://openalex.org/W1499217199",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1969412696",
+  "https://openalex.org/W2002045271",
+  "https://openalex.org/W2042328301",
+  "https://openalex.org/W2047500902",
+  "https://openalex.org/W2052340273",
+  "https://openalex.org/W2084674736",
+  "https://openalex.org/W2124936054",
+  "https://openalex.org/W2170963144",
+  "https://openalex.org/W2248599287",
+  "https://openalex.org/W4252410319"
+ ],
+ "title": "Performance Analysis of a Database Filter Search Hardware"
+}

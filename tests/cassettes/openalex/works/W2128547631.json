@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 25,
+ "doi": null,
+ "id": "https://openalex.org/W2128547631",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W32516901",
+  "https://openalex.org/W1489119587",
+  "https://openalex.org/W1516111018",
+  "https://openalex.org/W1520448186",
+  "https://openalex.org/W1528056001",
+  "https://openalex.org/W1560512119",
+  "https://openalex.org/W1834893312",
+  "https://openalex.org/W2010629420",
+  "https://openalex.org/W2043719428",
+  "https://openalex.org/W2104163628",
+  "https://openalex.org/W2128765501",
+  "https://openalex.org/W2135764410",
+  "https://openalex.org/W2137969290",
+  "https://openalex.org/W2150218618",
+  "https://openalex.org/W2164635842",
+  "https://openalex.org/W3103862435"
+ ],
+ "title": "Sequentially Fitting ``Inclusive'' Trees for Inference in Noisy-OR Networks"
+}

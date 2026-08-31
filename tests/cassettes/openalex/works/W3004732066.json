@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 2476,
+ "doi": "https://doi.org/10.1007/bf00116037",
+ "id": "https://openalex.org/W3004732066",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1598407864",
+  "https://openalex.org/W1965415591",
+  "https://openalex.org/W1975105490",
+  "https://openalex.org/W2003248189",
+  "https://openalex.org/W2029058452",
+  "https://openalex.org/W2061496873",
+  "https://openalex.org/W2070902649",
+  "https://openalex.org/W2091401625",
+  "https://openalex.org/W2117049614",
+  "https://openalex.org/W2154952480",
+  "https://openalex.org/W2157526632",
+  "https://openalex.org/W4233413206",
+  "https://openalex.org/W4238893454",
+  "https://openalex.org/W4254552816",
+  "https://openalex.org/W6630262043",
+  "https://openalex.org/W6648340472",
+  "https://openalex.org/W6649694516",
+  "https://openalex.org/W6654500204",
+  "https://openalex.org/W6655331052",
+  "https://openalex.org/W6656118190",
+  "https://openalex.org/W6809150796",
+  "https://openalex.org/W6835032760"
+ ],
+ "title": "The strength of weak learnability"
+}

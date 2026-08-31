@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 146,
+ "doi": "https://doi.org/10.3386/w0173",
+ "id": "https://openalex.org/W1592680957",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1984536024",
+  "https://openalex.org/W2029300952",
+  "https://openalex.org/W2518089210",
+  "https://openalex.org/W2895270050",
+  "https://openalex.org/W3125406841",
+  "https://openalex.org/W4231584934",
+  "https://openalex.org/W4235302477",
+  "https://openalex.org/W4301507409",
+  "https://openalex.org/W4301511718",
+  "https://openalex.org/W6641083131",
+  "https://openalex.org/W6646310876",
+  "https://openalex.org/W6657171094",
+  "https://openalex.org/W6726106611",
+  "https://openalex.org/W7055918776"
+ ],
+ "title": "Linear Regression Diagnostics"
+}

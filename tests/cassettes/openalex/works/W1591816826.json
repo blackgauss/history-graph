@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 17,
+ "doi": null,
+ "id": "https://openalex.org/W1591816826",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W161051577",
+  "https://openalex.org/W179611734",
+  "https://openalex.org/W1976936019",
+  "https://openalex.org/W2009428216",
+  "https://openalex.org/W2089138728",
+  "https://openalex.org/W2120510885",
+  "https://openalex.org/W2122238154"
+ ],
+ "title": "Implementing Fault-Tolerant Sensors*"
+}

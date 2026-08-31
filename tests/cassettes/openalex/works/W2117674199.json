@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 68,
+ "doi": "https://doi.org/10.1002/9780470400531.eorms0783",
+ "id": "https://openalex.org/W2117674199",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W166545893",
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1513579710",
+  "https://openalex.org/W1954834360",
+  "https://openalex.org/W1987768043",
+  "https://openalex.org/W2017505214",
+  "https://openalex.org/W2055943083",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2097321768",
+  "https://openalex.org/W2102636809",
+  "https://openalex.org/W2114415375",
+  "https://openalex.org/W2116814789",
+  "https://openalex.org/W2120836335",
+  "https://openalex.org/W2140026596",
+  "https://openalex.org/W2151510338",
+  "https://openalex.org/W2169269659",
+  "https://openalex.org/W3022015666",
+  "https://openalex.org/W4205960197",
+  "https://openalex.org/W4206483639",
+  "https://openalex.org/W6634062234"
+ ],
+ "title": "Simultaneous Ascending Auctions"
+}

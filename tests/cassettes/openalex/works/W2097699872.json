@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 747,
+ "doi": "https://doi.org/10.1145/125826.125848",
+ "id": "https://openalex.org/W2097699872",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W21449722",
+  "https://openalex.org/W1524877046",
+  "https://openalex.org/W1530971713",
+  "https://openalex.org/W1536051636",
+  "https://openalex.org/W1561885927",
+  "https://openalex.org/W1604802992",
+  "https://openalex.org/W1952578545",
+  "https://openalex.org/W1964714157",
+  "https://openalex.org/W1995270665",
+  "https://openalex.org/W2013411613",
+  "https://openalex.org/W2015894008",
+  "https://openalex.org/W2033700683",
+  "https://openalex.org/W2037690395",
+  "https://openalex.org/W2068326054",
+  "https://openalex.org/W2078113878",
+  "https://openalex.org/W2079235644",
+  "https://openalex.org/W2090286414",
+  "https://openalex.org/W2109807142",
+  "https://openalex.org/W2114876342",
+  "https://openalex.org/W2135736783",
+  "https://openalex.org/W2154172505",
+  "https://openalex.org/W2156455047",
+  "https://openalex.org/W2171048544",
+  "https://openalex.org/W2171262795"
+ ],
+ "title": "The Omega test: a fast and practical integer programming algorithm for dependence analysis"
+}

@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 233,
+ "doi": "https://doi.org/10.1016/0166-218x(83)90017-3",
+ "id": "https://openalex.org/W2022695609",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W1511255594",
+  "https://openalex.org/W2016602956",
+  "https://openalex.org/W6654476180"
+ ],
+ "title": "Probabilistic analysis of the Davis Putnam procedure for solving the satisfiability problem"
+}

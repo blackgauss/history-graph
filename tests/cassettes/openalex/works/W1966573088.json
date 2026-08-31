@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 159,
+ "doi": "https://doi.org/10.1145/296399.296431",
+ "id": "https://openalex.org/W1966573088",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1511688816",
+  "https://openalex.org/W1830708738",
+  "https://openalex.org/W1970296212",
+  "https://openalex.org/W1992067978",
+  "https://openalex.org/W2029282358",
+  "https://openalex.org/W2042876290",
+  "https://openalex.org/W2044348081",
+  "https://openalex.org/W2055926406",
+  "https://openalex.org/W2066782398",
+  "https://openalex.org/W2075567828",
+  "https://openalex.org/W2105715355",
+  "https://openalex.org/W2131853665",
+  "https://openalex.org/W2138438526",
+  "https://openalex.org/W2144853876",
+  "https://openalex.org/W2149090780",
+  "https://openalex.org/W2156789777",
+  "https://openalex.org/W2157958003",
+  "https://openalex.org/W2282645074",
+  "https://openalex.org/W2505091987"
+ ],
+ "title": "Balancing interconnect and computation in a reconfigurable computing array (or, why you don't really want 100% LUT utilization)"
+}

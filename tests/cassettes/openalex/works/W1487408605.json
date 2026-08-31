@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 192,
+ "doi": null,
+ "id": "https://openalex.org/W1487408605",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W23603061",
+  "https://openalex.org/W32403112",
+  "https://openalex.org/W131709709",
+  "https://openalex.org/W568057840",
+  "https://openalex.org/W1509685104",
+  "https://openalex.org/W1538075516",
+  "https://openalex.org/W1566007944",
+  "https://openalex.org/W1603307620",
+  "https://openalex.org/W1650504995",
+  "https://openalex.org/W1674439172",
+  "https://openalex.org/W2020294948",
+  "https://openalex.org/W2034725503",
+  "https://openalex.org/W2044375425",
+  "https://openalex.org/W2090761873",
+  "https://openalex.org/W2099873296",
+  "https://openalex.org/W2104743988",
+  "https://openalex.org/W2144620492",
+  "https://openalex.org/W2149476049",
+  "https://openalex.org/W2159080219",
+  "https://openalex.org/W2168395502",
+  "https://openalex.org/W2341171179"
+ ],
+ "title": "Computing optimal policies for partially observable decision processes using compact representations"
+}

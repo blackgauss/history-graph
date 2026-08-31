@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 139,
+ "doi": "https://doi.org/10.1109/focs.1961.24",
+ "id": "https://openalex.org/W2545696445",
+ "publication_year": 1961,
+ "referenced_works": [
+  "https://openalex.org/W2029297058",
+  "https://openalex.org/W2048498012",
+  "https://openalex.org/W2061055380",
+  "https://openalex.org/W2079873320",
+  "https://openalex.org/W2103676795",
+  "https://openalex.org/W6657673188",
+  "https://openalex.org/W6670577401"
+ ],
+ "title": "On the characterization of threshold functions"
+}

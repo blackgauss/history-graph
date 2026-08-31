@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 185,
+ "doi": null,
+ "id": "https://openalex.org/W1484813121",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W111974363",
+  "https://openalex.org/W165358723",
+  "https://openalex.org/W199139817",
+  "https://openalex.org/W1481943057",
+  "https://openalex.org/W1525711345",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1963657448",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W1992113803",
+  "https://openalex.org/W1992984787",
+  "https://openalex.org/W2003441663",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2017495322",
+  "https://openalex.org/W2020191321",
+  "https://openalex.org/W2069334575",
+  "https://openalex.org/W2084455637",
+  "https://openalex.org/W2124170481",
+  "https://openalex.org/W2128703518",
+  "https://openalex.org/W2132692154",
+  "https://openalex.org/W3198160809"
+ ],
+ "title": "Hashing Methods and Relational Algebra Operations"
+}

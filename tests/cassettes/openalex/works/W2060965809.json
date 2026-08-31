@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 277,
+ "doi": "https://doi.org/10.1006/game.1996.0040",
+ "id": "https://openalex.org/W2060965809",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1970448795",
+  "https://openalex.org/W1977974033",
+  "https://openalex.org/W1982375873",
+  "https://openalex.org/W1988488661",
+  "https://openalex.org/W1992808246",
+  "https://openalex.org/W1993729355",
+  "https://openalex.org/W2046692734",
+  "https://openalex.org/W2055618707",
+  "https://openalex.org/W2083100616",
+  "https://openalex.org/W2088971620",
+  "https://openalex.org/W2093074200",
+  "https://openalex.org/W2149980358",
+  "https://openalex.org/W3141151088"
+ ],
+ "title": "Asymmetric All-Pay Auctions with Incomplete Information: The Two-Player Case"
+}

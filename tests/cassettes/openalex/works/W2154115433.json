@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 5,
+ "doi": "https://doi.org/10.48550/arxiv.1209.3913",
+ "id": "https://openalex.org/W2154115433",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W1992479210",
+  "https://openalex.org/W2075854425",
+  "https://openalex.org/W2143149536",
+  "https://openalex.org/W2182688186"
+ ],
+ "title": "Keyspace: A Consistently Replicated, Highly-Available Key-Value Store"
+}

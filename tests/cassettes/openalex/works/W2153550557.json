@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1109/icde.1984.7271268",
+ "id": "https://openalex.org/W2153550557",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W39404219",
+  "https://openalex.org/W118319296",
+  "https://openalex.org/W204496585",
+  "https://openalex.org/W2013936648",
+  "https://openalex.org/W2072733814",
+  "https://openalex.org/W2088602658",
+  "https://openalex.org/W2103219113",
+  "https://openalex.org/W2115822498"
+ ],
+ "title": "Architecture and algorithm for parallel execution of a join operation"
+}

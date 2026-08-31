@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 255,
+ "doi": "https://doi.org/10.1145/3592626.3592641",
+ "id": "https://openalex.org/W1550771877",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W110443600",
+  "https://openalex.org/W1564232286",
+  "https://openalex.org/W2161256997",
+  "https://openalex.org/W6680514838",
+  "https://openalex.org/W6683658976"
+ ],
+ "title": "Multi-Engine Search and Comparison Using the MetaCrawler"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 137,
+ "doi": "https://doi.org/10.21437/interspeech.2014-305",
+ "id": "https://openalex.org/W2293009711",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W811578723",
+  "https://openalex.org/W1499864241",
+  "https://openalex.org/W1574530145",
+  "https://openalex.org/W1978660892",
+  "https://openalex.org/W1987238397",
+  "https://openalex.org/W1993882792",
+  "https://openalex.org/W2005708641",
+  "https://openalex.org/W2035846950",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2120480077",
+  "https://openalex.org/W2131342762",
+  "https://openalex.org/W2147768505",
+  "https://openalex.org/W2160815625",
+  "https://openalex.org/W2168231600",
+  "https://openalex.org/W2293634267",
+  "https://openalex.org/W2296748324",
+  "https://openalex.org/W2394932179",
+  "https://openalex.org/W2397682113",
+  "https://openalex.org/W2403195671",
+  "https://openalex.org/W3028642772",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Sequence discriminative distributed training of long short-term memory recurrent neural networks"
+}

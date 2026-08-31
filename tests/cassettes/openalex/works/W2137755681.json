@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 202,
+ "doi": "https://doi.org/10.1109/tct.1969.1082967",
+ "id": "https://openalex.org/W2137755681",
+ "publication_year": 1969,
+ "referenced_works": [
+  "https://openalex.org/W1582292537",
+  "https://openalex.org/W1992832709",
+  "https://openalex.org/W2060219276",
+  "https://openalex.org/W2067056265",
+  "https://openalex.org/W2070624345",
+  "https://openalex.org/W2100005825"
+ ],
+ "title": "Automated Network Design-The Frequency-Domain Case"
+}

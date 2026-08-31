@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 16,
+ "doi": "https://doi.org/10.1109/icde.1988.105451",
+ "id": "https://openalex.org/W2161653104",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W45231082",
+  "https://openalex.org/W1511252485",
+  "https://openalex.org/W1911170630",
+  "https://openalex.org/W1973291079",
+  "https://openalex.org/W1998911983",
+  "https://openalex.org/W2004628499",
+  "https://openalex.org/W2025896865",
+  "https://openalex.org/W2026102701",
+  "https://openalex.org/W2055468282",
+  "https://openalex.org/W2055938280",
+  "https://openalex.org/W2059844260",
+  "https://openalex.org/W2095562348",
+  "https://openalex.org/W2102116440",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2117300033",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2161653104",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W4248080722",
+  "https://openalex.org/W6630520280"
+ ],
+ "title": "Site assignment for relations and joint operations in the distributed transaction processing environment"
+}

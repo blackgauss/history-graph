@@ -1,0 +1,126 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "I. Grattan‐Guinness",
+    "id": "https://openalex.org/A5079284356",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "I. Grattan-Guinness",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 8,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2015
+  }
+ ],
+ "doi": "https://doi.org/10.1016/b978-044450871-3/50117-0",
+ "funders": [],
+ "id": "https://openalex.org/W1463989783",
+ "ids": {
+  "doi": "https://doi.org/10.1016/b978-044450871-3/50117-0",
+  "mag": "1463989783",
+  "openalex": "https://openalex.org/W1463989783"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1016/b978-044450871-3/50117-0",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1016/b978-044450871-3/50117-0",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Landmark Writings in Western Mathematics 1640-1940",
+  "raw_type": "book-chapter",
+  "source": {
+   "display_name": "Elsevier eBooks",
+   "host_organization": "https://openalex.org/P4310320990",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320990"
+   ],
+   "host_organization_lineage_names": [
+    "Elsevier BV"
+   ],
+   "host_organization_name": "Elsevier BV",
+   "id": "https://openalex.org/S4306463230",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "ebook platform"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W144069452",
+  "https://openalex.org/W357275206",
+  "https://openalex.org/W583363881",
+  "https://openalex.org/W635491005",
+  "https://openalex.org/W1591881750",
+  "https://openalex.org/W1700567462",
+  "https://openalex.org/W2054956787",
+  "https://openalex.org/W2099939444",
+  "https://openalex.org/W2104348591",
+  "https://openalex.org/W2317286377",
+  "https://openalex.org/W2745756257",
+  "https://openalex.org/W4229887127",
+  "https://openalex.org/W4234669123",
+  "https://openalex.org/W4254246700",
+  "https://openalex.org/W6616996318",
+  "https://openalex.org/W6622072040"
+ ],
+ "related_works": [
+  "https://openalex.org/W2028386119",
+  "https://openalex.org/W2188775920",
+  "https://openalex.org/W4388215562",
+  "https://openalex.org/W4243144556",
+  "https://openalex.org/W4239477484",
+  "https://openalex.org/W984956297",
+  "https://openalex.org/W62899720",
+  "https://openalex.org/W19707992",
+  "https://openalex.org/W2018126120",
+  "https://openalex.org/W2025849143"
+ ],
+ "title": "George Boole, An investigation of the laws of thought on which are founded the mathematical theory of logic and probabilities (1854)",
+ "type": "book-chapter"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 113,
+ "doi": "https://doi.org/10.1103/physrevlett.79.953",
+ "id": "https://openalex.org/W2014706286",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1631860252",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2021404493",
+  "https://openalex.org/W2042474962",
+  "https://openalex.org/W2069711632",
+  "https://openalex.org/W2088324731",
+  "https://openalex.org/W2091331782",
+  "https://openalex.org/W2111721896",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W2117002761",
+  "https://openalex.org/W2131690084",
+  "https://openalex.org/W2763302490",
+  "https://openalex.org/W3023649483",
+  "https://openalex.org/W3100206575"
+ ],
+ "title": "A Nonadditive Quantum Code"
+}

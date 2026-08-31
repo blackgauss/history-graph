@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1109/focs.2008.88",
+ "id": "https://openalex.org/W2100254108",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W2033101724",
+  "https://openalex.org/W2108632994",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W2131951207",
+  "https://openalex.org/W2133198311",
+  "https://openalex.org/W2135724610",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4231144620",
+  "https://openalex.org/W6658915424",
+  "https://openalex.org/W6676428850"
+ ],
+ "title": "Theory of Sponsored Search Auctions"
+}

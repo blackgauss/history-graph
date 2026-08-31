@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1023/a:1009915010963",
+ "id": "https://openalex.org/W2149734009",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1578013635",
+  "https://openalex.org/W1981745143",
+  "https://openalex.org/W1987054081",
+  "https://openalex.org/W1997841190",
+  "https://openalex.org/W2000672666",
+  "https://openalex.org/W2018614024",
+  "https://openalex.org/W2024668293",
+  "https://openalex.org/W2058616517",
+  "https://openalex.org/W2072773380",
+  "https://openalex.org/W2147152072",
+  "https://openalex.org/W2147647517",
+  "https://openalex.org/W2165558283",
+  "https://openalex.org/W2798909945",
+  "https://openalex.org/W2914856469"
+ ],
+ "title": "Improved Query Matching Using kd-Trees: A Latent Semantic Indexing Enhancement"
+}

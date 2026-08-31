@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 245,
+ "doi": "https://doi.org/10.1103/physreva.57.3348",
+ "id": "https://openalex.org/W2262539039",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1979260239",
+  "https://openalex.org/W1990780233",
+  "https://openalex.org/W1993813188",
+  "https://openalex.org/W1995412269",
+  "https://openalex.org/W2006181434",
+  "https://openalex.org/W2067120233",
+  "https://openalex.org/W2068871408",
+  "https://openalex.org/W2096551755",
+  "https://openalex.org/W2100715286",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2116858786",
+  "https://openalex.org/W2915036073",
+  "https://openalex.org/W4230665353",
+  "https://openalex.org/W4388229418"
+ ],
+ "title": "Effective pure states for bulk quantum computation"
+}

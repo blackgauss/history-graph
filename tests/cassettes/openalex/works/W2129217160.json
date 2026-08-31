@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 888,
+ "doi": "https://doi.org/10.1109/tc.1972.5008975",
+ "id": "https://openalex.org/W2129217160",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W1970500137",
+  "https://openalex.org/W1982436972",
+  "https://openalex.org/W1993499606",
+  "https://openalex.org/W2010618115",
+  "https://openalex.org/W2020254313",
+  "https://openalex.org/W2021198775",
+  "https://openalex.org/W2027680241",
+  "https://openalex.org/W2063218642",
+  "https://openalex.org/W2068237541",
+  "https://openalex.org/W2082622165",
+  "https://openalex.org/W2165340072",
+  "https://openalex.org/W2197845537",
+  "https://openalex.org/W4240778903",
+  "https://openalex.org/W4246880897"
+ ],
+ "title": "Correlation Matrix Memories"
+}

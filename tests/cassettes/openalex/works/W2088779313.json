@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 245,
+ "doi": "https://doi.org/10.1109/tit.1981.1056403",
+ "id": "https://openalex.org/W2088779313",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1480487340",
+  "https://openalex.org/W1984663202",
+  "https://openalex.org/W1986614083",
+  "https://openalex.org/W2059507684",
+  "https://openalex.org/W2092998534",
+  "https://openalex.org/W2122111042",
+  "https://openalex.org/W2800394774"
+ ],
+ "title": "The optimal distance measure for nearest neighbor classification"
+}

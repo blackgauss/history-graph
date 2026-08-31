@@ -1,0 +1,37 @@
+{
+ "cited_by_count": 176,
+ "counts_by_year": [
+  {
+   "cited_by_count": 17,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2020
+  }
+ ],
+ "doi": "https://doi.org/10.1609/aaai.v34i04.5768",
+ "id": "https://openalex.org/W2997130580",
+ "publication_year": 2020,
+ "title": "Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 45005,
+ "doi": "https://doi.org/10.1126/science.220.4598.671",
+ "id": "https://openalex.org/W2024060531",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W184931548",
+  "https://openalex.org/W1653346942",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W2006648350",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2014068360",
+  "https://openalex.org/W2014952973",
+  "https://openalex.org/W2022179164",
+  "https://openalex.org/W2022494241",
+  "https://openalex.org/W2022820481",
+  "https://openalex.org/W2042986967",
+  "https://openalex.org/W2056760934",
+  "https://openalex.org/W2065813951",
+  "https://openalex.org/W2103507771",
+  "https://openalex.org/W2114552889",
+  "https://openalex.org/W2140203473",
+  "https://openalex.org/W2143037347",
+  "https://openalex.org/W2148673189",
+  "https://openalex.org/W2295732415",
+  "https://openalex.org/W2956015669"
+ ],
+ "title": "Optimization by Simulated Annealing"
+}

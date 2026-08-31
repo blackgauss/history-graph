@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 120,
+ "doi": "https://doi.org/10.1109/ijcnn.1992.227335",
+ "id": "https://openalex.org/W2169791674",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W304861154",
+  "https://openalex.org/W1984205520",
+  "https://openalex.org/W1994530392",
+  "https://openalex.org/W2044422789",
+  "https://openalex.org/W2057653135",
+  "https://openalex.org/W2062870975",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W2112462566",
+  "https://openalex.org/W2121553911",
+  "https://openalex.org/W2132152975",
+  "https://openalex.org/W2138484437",
+  "https://openalex.org/W2167607759",
+  "https://openalex.org/W2482792214",
+  "https://openalex.org/W2895674046",
+  "https://openalex.org/W4254816979"
+ ],
+ "title": "Training recurrent networks using the extended Kalman filter"
+}

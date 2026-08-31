@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 81,
+ "doi": "https://doi.org/10.1007/978-3-540-27810-8_4",
+ "id": "https://openalex.org/W1569146567",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1966025295",
+  "https://openalex.org/W1975442866",
+  "https://openalex.org/W1992734168",
+  "https://openalex.org/W2004045061",
+  "https://openalex.org/W2006434154",
+  "https://openalex.org/W2041211404",
+  "https://openalex.org/W2047031390",
+  "https://openalex.org/W2062373125",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2082691840",
+  "https://openalex.org/W2087770658",
+  "https://openalex.org/W2090011266",
+  "https://openalex.org/W2102201348",
+  "https://openalex.org/W2126722697",
+  "https://openalex.org/W2140353857",
+  "https://openalex.org/W2162034888",
+  "https://openalex.org/W2163675995",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W2753693129",
+  "https://openalex.org/W2962711478",
+  "https://openalex.org/W3004540582",
+  "https://openalex.org/W3145128584"
+ ],
+ "title": "Auctions with Budget Constraints"
+}

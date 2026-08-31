@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 1368,
+ "doi": "https://doi.org/10.1090/s0002-9904-1958-10224-4",
+ "id": "https://openalex.org/W2009683816",
+ "publication_year": 1958,
+ "referenced_works": [
+  "https://openalex.org/W290885676",
+  "https://openalex.org/W2026994686",
+  "https://openalex.org/W2058937865",
+  "https://openalex.org/W2060322444",
+  "https://openalex.org/W2399100674"
+ ],
+ "title": "Outline of an algorithm for integer solutions to linear programs"
+}

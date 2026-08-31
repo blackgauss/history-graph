@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 12,
+ "doi": "https://doi.org/10.1016/0196-8858(91)90018-e",
+ "id": "https://openalex.org/W2083262561",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W85820178",
+  "https://openalex.org/W595744131",
+  "https://openalex.org/W1480506419",
+  "https://openalex.org/W1485265639",
+  "https://openalex.org/W1494614346",
+  "https://openalex.org/W1559907478",
+  "https://openalex.org/W2015857191",
+  "https://openalex.org/W2039402388",
+  "https://openalex.org/W2055940788",
+  "https://openalex.org/W2058041540",
+  "https://openalex.org/W2082100828",
+  "https://openalex.org/W2120062331",
+  "https://openalex.org/W2483071985",
+  "https://openalex.org/W2798198027",
+  "https://openalex.org/W4205822004",
+  "https://openalex.org/W4244829582",
+  "https://openalex.org/W6603508329",
+  "https://openalex.org/W6628603707",
+  "https://openalex.org/W6629524157"
+ ],
+ "title": "Multiply monotone functions for cardinal interpolation"
+}

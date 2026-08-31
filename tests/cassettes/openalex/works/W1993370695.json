@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 116,
+ "doi": "https://doi.org/10.2307/2555662",
+ "id": "https://openalex.org/W1993370695",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W18590542",
+  "https://openalex.org/W146049952",
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1515534126",
+  "https://openalex.org/W1516141867",
+  "https://openalex.org/W1534392094",
+  "https://openalex.org/W1547358889",
+  "https://openalex.org/W1986799195",
+  "https://openalex.org/W2024140722",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2030385040",
+  "https://openalex.org/W2066809750",
+  "https://openalex.org/W2070557914",
+  "https://openalex.org/W2087530244",
+  "https://openalex.org/W2098190214",
+  "https://openalex.org/W2130204820",
+  "https://openalex.org/W2130937741",
+  "https://openalex.org/W2986719485",
+  "https://openalex.org/W3123947296",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Perfect Equilibria in Budget-Constrained Sequential Auctions: An Experimental Study"
+}

@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 86,
+ "doi": "https://doi.org/10.1109/pgec.1964.263829",
+ "id": "https://openalex.org/W2033311622",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W2062265841",
+  "https://openalex.org/W2109837541",
+  "https://openalex.org/W2535844537",
+  "https://openalex.org/W2950829438",
+  "https://openalex.org/W6764443411"
+ ],
+ "title": "Majority Gate Networks"
+}

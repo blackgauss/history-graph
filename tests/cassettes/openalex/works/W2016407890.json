@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 3319,
+ "doi": "https://doi.org/10.1103/physrevb.48.10345",
+ "id": "https://openalex.org/W2016407890",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1967711132",
+  "https://openalex.org/W1992798849",
+  "https://openalex.org/W2009596258",
+  "https://openalex.org/W2022958895",
+  "https://openalex.org/W2023312975",
+  "https://openalex.org/W2028791602",
+  "https://openalex.org/W2028899915",
+  "https://openalex.org/W2034042302",
+  "https://openalex.org/W2037768897",
+  "https://openalex.org/W2047866594",
+  "https://openalex.org/W2051070427",
+  "https://openalex.org/W2052810501",
+  "https://openalex.org/W2055569387",
+  "https://openalex.org/W2056212519",
+  "https://openalex.org/W2074292620",
+  "https://openalex.org/W2075192146",
+  "https://openalex.org/W2088527461",
+  "https://openalex.org/W3004320394",
+  "https://openalex.org/W4239146293"
+ ],
+ "title": "Density-matrix algorithms for quantum renormalization groups"
+}

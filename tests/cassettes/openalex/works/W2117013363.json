@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1109/tec.1961.5219289",
+ "id": "https://openalex.org/W2117013363",
+ "publication_year": 1961,
+ "referenced_works": [
+  "https://openalex.org/W584379263",
+  "https://openalex.org/W2136276229"
+ ],
+ "title": "On the Algebraic Manipulation of Majority Logic"
+}

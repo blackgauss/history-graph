@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 79,
+ "doi": "https://doi.org/10.2307/2274761",
+ "id": "https://openalex.org/W2003595677",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1483208600",
+  "https://openalex.org/W1982701920",
+  "https://openalex.org/W2007519455",
+  "https://openalex.org/W2064162940",
+  "https://openalex.org/W2081321506",
+  "https://openalex.org/W2084237314",
+  "https://openalex.org/W2324440993",
+  "https://openalex.org/W2490608753",
+  "https://openalex.org/W2739897395",
+  "https://openalex.org/W4235981461",
+  "https://openalex.org/W6741892028"
+ ],
+ "title": "Digital simulation of analog computation and Church's thesis"
+}

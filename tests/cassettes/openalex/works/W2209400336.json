@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 60,
+ "doi": "https://doi.org/10.1016/s0049-237x(09)70461-6",
+ "id": "https://openalex.org/W2209400336",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W788058594",
+  "https://openalex.org/W951600495",
+  "https://openalex.org/W1974909295",
+  "https://openalex.org/W2009003556",
+  "https://openalex.org/W2023778211",
+  "https://openalex.org/W2041549181",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2050219405",
+  "https://openalex.org/W2056480729",
+  "https://openalex.org/W2114804254",
+  "https://openalex.org/W2126160338",
+  "https://openalex.org/W2320642324",
+  "https://openalex.org/W2323777246",
+  "https://openalex.org/W2403653109",
+  "https://openalex.org/W4234802835",
+  "https://openalex.org/W4245597824",
+  "https://openalex.org/W4256369010",
+  "https://openalex.org/W4298436432",
+  "https://openalex.org/W6600049259",
+  "https://openalex.org/W6681523003",
+  "https://openalex.org/W6713197628"
+ ],
+ "title": "On definable sets of positive integers )"
+}

@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 215,
+ "doi": "https://doi.org/10.1209/0295-5075/23/6/001",
+ "id": "https://openalex.org/W2059034879",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1978700326",
+  "https://openalex.org/W2006226307",
+  "https://openalex.org/W2016421463",
+  "https://openalex.org/W2063294089",
+  "https://openalex.org/W2071832559",
+  "https://openalex.org/W2072525514",
+  "https://openalex.org/W2082039983",
+  "https://openalex.org/W2083945105",
+  "https://openalex.org/W2108019274",
+  "https://openalex.org/W2109394932",
+  "https://openalex.org/W2336770924",
+  "https://openalex.org/W4214950786"
+ ],
+ "title": "Experimental Demonstration of Quantum Cryptography Using Polarized Photons in Optical Fibre over More than 1 km"
+}

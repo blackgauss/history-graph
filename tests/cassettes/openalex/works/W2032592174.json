@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 13,
+ "doi": "https://doi.org/10.4171/rlm/647",
+ "id": "https://openalex.org/W2032592174",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1522020530",
+  "https://openalex.org/W1985798061",
+  "https://openalex.org/W1988287045",
+  "https://openalex.org/W2035794488",
+  "https://openalex.org/W2051852019",
+  "https://openalex.org/W2084024723",
+  "https://openalex.org/W2094089829",
+  "https://openalex.org/W4292159986",
+  "https://openalex.org/W6601773250",
+  "https://openalex.org/W6631212978",
+  "https://openalex.org/W6806091804"
+ ],
+ "title": "On sets of finite perimeter in Wiener spaces: reduced boundary and convergence to halfspaces"
+}

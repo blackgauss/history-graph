@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 557,
+ "doi": "https://doi.org/10.1137/0206033",
+ "id": "https://openalex.org/W2073491323",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1982129592",
+  "https://openalex.org/W1989887898",
+  "https://openalex.org/W2065251436",
+  "https://openalex.org/W2075277371",
+  "https://openalex.org/W2084684966",
+  "https://openalex.org/W2144347980",
+  "https://openalex.org/W2592184324"
+ ],
+ "title": "The Computational Complexity of Provability in Systems of Modal Propositional Logic"
+}

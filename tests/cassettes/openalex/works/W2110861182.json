@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 47,
+ "doi": "https://doi.org/10.1109/dcs.1988.12547",
+ "id": "https://openalex.org/W2110861182",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W86294801",
+  "https://openalex.org/W2005373714",
+  "https://openalex.org/W2009712165",
+  "https://openalex.org/W2020014766",
+  "https://openalex.org/W2020181081",
+  "https://openalex.org/W2089138728",
+  "https://openalex.org/W2107460938",
+  "https://openalex.org/W2122238154",
+  "https://openalex.org/W2128022501",
+  "https://openalex.org/W2131929623",
+  "https://openalex.org/W4214844336",
+  "https://openalex.org/W4231195072",
+  "https://openalex.org/W4233141170",
+  "https://openalex.org/W4254126235",
+  "https://openalex.org/W6603484142"
+ ],
+ "title": "Supplying high availability with a standard network file system"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 5,
+ "doi": "https://doi.org/10.1016/0045-7906(79)90028-4",
+ "id": "https://openalex.org/W1990857093",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1513838990",
+  "https://openalex.org/W1974161834",
+  "https://openalex.org/W2053002742",
+  "https://openalex.org/W2072024088",
+  "https://openalex.org/W2111956200",
+  "https://openalex.org/W2116292819",
+  "https://openalex.org/W2312235895",
+  "https://openalex.org/W4252583336",
+  "https://openalex.org/W6676657946",
+  "https://openalex.org/W6677585549"
+ ],
+ "title": "The evaluation of the spectrum of multi-level logic networks"
+}

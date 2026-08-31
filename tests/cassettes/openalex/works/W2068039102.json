@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 163,
+ "doi": "https://doi.org/10.1049/pi-b-2.1961.0070",
+ "id": "https://openalex.org/W2068039102",
+ "publication_year": 1961,
+ "referenced_works": [
+  "https://openalex.org/W1490850667",
+  "https://openalex.org/W1510355813",
+  "https://openalex.org/W2058522416",
+  "https://openalex.org/W4245921641"
+ ],
+ "title": "A universal non-linear filter, predictor and simulator which optimizes itself by a learning process"
+}

@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 16,
+ "doi": "https://doi.org/10.1109/icde.1989.47209",
+ "id": "https://openalex.org/W2130429998",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W187405143",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1748095660",
+  "https://openalex.org/W2023467128",
+  "https://openalex.org/W2110605895",
+  "https://openalex.org/W2124170481",
+  "https://openalex.org/W2295596515",
+  "https://openalex.org/W6637593805"
+ ],
+ "title": "Processor scheduling for multiprocessor joins"
+}

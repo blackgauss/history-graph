@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 725,
+ "counts_by_year": [
+  {
+   "cited_by_count": 148,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 279,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 225,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 69,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2022
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3568022",
+ "id": "https://openalex.org/W4315977496",
+ "publication_year": 2023,
+ "title": "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions"
+}

@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 177,
+ "doi": "https://doi.org/10.1137/0215080",
+ "id": "https://openalex.org/W2164346692",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1550402024",
+  "https://openalex.org/W1969377401",
+  "https://openalex.org/W2016042296",
+  "https://openalex.org/W2022695609",
+  "https://openalex.org/W2037870843",
+  "https://openalex.org/W2055978814",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W6713355789"
+ ],
+ "title": "Probabilistic Analysis of Two Heuristics for the 3-Satisfiability Problem"
+}

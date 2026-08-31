@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 76,
+ "doi": "https://doi.org/10.1137/s0097539797321481",
+ "id": "https://openalex.org/W2093546055",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W2012605254",
+  "https://openalex.org/W2041089572",
+  "https://openalex.org/W2069816168",
+  "https://openalex.org/W2158907148"
+ ],
+ "title": "How Good is the Goemans--Williamson MAX CUT Algorithm?"
+}

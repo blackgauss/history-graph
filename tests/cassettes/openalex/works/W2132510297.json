@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 70,
+ "doi": "https://doi.org/10.1145/1066157.1066200",
+ "id": "https://openalex.org/W2132510297",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W17210412",
+  "https://openalex.org/W150801922",
+  "https://openalex.org/W1495594559",
+  "https://openalex.org/W1510252230",
+  "https://openalex.org/W1512675310",
+  "https://openalex.org/W1594122454",
+  "https://openalex.org/W1858414509",
+  "https://openalex.org/W2001474264",
+  "https://openalex.org/W2020584928",
+  "https://openalex.org/W2095891890",
+  "https://openalex.org/W2103701698",
+  "https://openalex.org/W2106990403",
+  "https://openalex.org/W2107343618",
+  "https://openalex.org/W2118924829",
+  "https://openalex.org/W2132244350",
+  "https://openalex.org/W2140894225",
+  "https://openalex.org/W2151663987",
+  "https://openalex.org/W2151826520",
+  "https://openalex.org/W4241185933",
+  "https://openalex.org/W6682198890"
+ ],
+ "title": "RPJ"
+}

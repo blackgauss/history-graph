@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 59,
+ "doi": "https://doi.org/10.1016/0020-0190(95)00019-9",
+ "id": "https://openalex.org/W1974010251",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1567381648",
+  "https://openalex.org/W2040475127",
+  "https://openalex.org/W2081601236",
+  "https://openalex.org/W4213326613"
+ ],
+ "title": "On finding solutions for extended Horn formulas"
+}

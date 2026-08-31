@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 13,
+ "doi": "https://doi.org/10.1016/0005-1098(93)90044-t",
+ "id": "https://openalex.org/W2612604952",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W323261235",
+  "https://openalex.org/W1969705022",
+  "https://openalex.org/W1993334052",
+  "https://openalex.org/W1994809570",
+  "https://openalex.org/W1995862561",
+  "https://openalex.org/W2006017513",
+  "https://openalex.org/W2048052734",
+  "https://openalex.org/W2052865287",
+  "https://openalex.org/W2063694224",
+  "https://openalex.org/W2075254413",
+  "https://openalex.org/W2078042080",
+  "https://openalex.org/W2081907457",
+  "https://openalex.org/W2114528575",
+  "https://openalex.org/W2119606476",
+  "https://openalex.org/W2124371723",
+  "https://openalex.org/W2143956139",
+  "https://openalex.org/W2154069544",
+  "https://openalex.org/W4236837375",
+  "https://openalex.org/W4245028643",
+  "https://openalex.org/W6681090519"
+ ],
+ "title": "Meeting the challenge of computer science in the industrial applications of control: An introductory discussion to the special issue"
+}

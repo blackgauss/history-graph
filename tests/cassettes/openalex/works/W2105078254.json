@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 233,
+ "doi": "https://doi.org/10.1162/0899766053011528",
+ "id": "https://openalex.org/W2105078254",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1542941925",
+  "https://openalex.org/W1551923895",
+  "https://openalex.org/W1585575029",
+  "https://openalex.org/W1973039793",
+  "https://openalex.org/W2060248504",
+  "https://openalex.org/W2080759927",
+  "https://openalex.org/W2091565802",
+  "https://openalex.org/W2099767582",
+  "https://openalex.org/W2103626435",
+  "https://openalex.org/W2113501460",
+  "https://openalex.org/W2121832485",
+  "https://openalex.org/W2124215603",
+  "https://openalex.org/W2149398074",
+  "https://openalex.org/W2167647761"
+ ],
+ "title": "Robust Reinforcement Learning"
+}

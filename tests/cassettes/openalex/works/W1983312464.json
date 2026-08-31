@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 183,
+ "doi": "https://doi.org/10.1103/physreva.54.139",
+ "id": "https://openalex.org/W1983312464",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1967037487",
+  "https://openalex.org/W1967045838",
+  "https://openalex.org/W1981663184",
+  "https://openalex.org/W1992769799",
+  "https://openalex.org/W2020050358",
+  "https://openalex.org/W2020123688",
+  "https://openalex.org/W2038435918",
+  "https://openalex.org/W2039608115",
+  "https://openalex.org/W2054388650",
+  "https://openalex.org/W2061171222",
+  "https://openalex.org/W2064109805",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2092628095",
+  "https://openalex.org/W2143981766",
+  "https://openalex.org/W2151047202",
+  "https://openalex.org/W2157754228",
+  "https://openalex.org/W2163440371",
+  "https://openalex.org/W2752061190",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W3022893215",
+  "https://openalex.org/W4239873278",
+  "https://openalex.org/W4241387086",
+  "https://openalex.org/W4249266103"
+ ],
+ "title": "Approximate quantum Fourier transform and decoherence"
+}

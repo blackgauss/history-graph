@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 34,
+ "doi": "https://doi.org/10.1111/j.1937-5956.2007.tb00276.x",
+ "id": "https://openalex.org/W1970993955",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1528006837",
+  "https://openalex.org/W1571702474",
+  "https://openalex.org/W1589928278",
+  "https://openalex.org/W1995568330",
+  "https://openalex.org/W2014311987",
+  "https://openalex.org/W2022839848",
+  "https://openalex.org/W2029022404",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2087499021",
+  "https://openalex.org/W2110325612",
+  "https://openalex.org/W2130514618",
+  "https://openalex.org/W2145217307",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W3022015666",
+  "https://openalex.org/W3121172388",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3122666903",
+  "https://openalex.org/W3123747931",
+  "https://openalex.org/W3146800583",
+  "https://openalex.org/W4290016560",
+  "https://openalex.org/W4401338609"
+ ],
+ "title": "Ranked Items Auctions and Online Advertisement"
+}

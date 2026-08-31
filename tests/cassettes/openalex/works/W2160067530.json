@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 351,
+ "doi": null,
+ "id": "https://openalex.org/W2160067530",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1541084404",
+  "https://openalex.org/W1545148916",
+  "https://openalex.org/W1549353711",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2123651102",
+  "https://openalex.org/W2126217565",
+  "https://openalex.org/W2147750403",
+  "https://openalex.org/W2158091072",
+  "https://openalex.org/W2165131254",
+  "https://openalex.org/W3011120880"
+ ],
+ "title": "Reinforcement Learning Algorithm for Partially Observable Markov Decision Problems"
+}

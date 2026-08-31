@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 46,
+ "doi": "https://doi.org/10.1016/0020-0190(86)90051-7",
+ "id": "https://openalex.org/W2003306963",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1550402024",
+  "https://openalex.org/W1969377401",
+  "https://openalex.org/W2016042296",
+  "https://openalex.org/W2022695609",
+  "https://openalex.org/W2037870843",
+  "https://openalex.org/W2061496873",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2084584307",
+  "https://openalex.org/W4247391063",
+  "https://openalex.org/W6654476180"
+ ],
+ "title": "On the probabilistic performance of algorithms for the satisfiability problem"
+}

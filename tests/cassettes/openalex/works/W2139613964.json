@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 100,
+ "doi": "https://doi.org/10.1109/ipdps.2007.370252",
+ "id": "https://openalex.org/W2139613964",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W271840738",
+  "https://openalex.org/W2014597278",
+  "https://openalex.org/W2022740893",
+  "https://openalex.org/W2026571096",
+  "https://openalex.org/W2052839611",
+  "https://openalex.org/W2077828271",
+  "https://openalex.org/W2079726719",
+  "https://openalex.org/W2103817093",
+  "https://openalex.org/W2120845776",
+  "https://openalex.org/W2144643978",
+  "https://openalex.org/W2168110206"
+ ],
+ "title": "Multicore Surprises: Lessons Learned from Optimizing Sweep3D on the Cell Broadband Engine"
+}

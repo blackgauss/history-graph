@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 159,
+ "doi": null,
+ "id": "https://openalex.org/W1804205637",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W166430344",
+  "https://openalex.org/W1499812366",
+  "https://openalex.org/W1518262731",
+  "https://openalex.org/W1580108468",
+  "https://openalex.org/W1965909768",
+  "https://openalex.org/W1976607278",
+  "https://openalex.org/W2033368934",
+  "https://openalex.org/W2046269252",
+  "https://openalex.org/W2151203234",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2169012378",
+  "https://openalex.org/W2170918251"
+ ],
+ "title": "Measuring the complexity of join enumeration in query optimization"
+}

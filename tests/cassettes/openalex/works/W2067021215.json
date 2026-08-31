@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 414,
+ "doi": "https://doi.org/10.1109/tse.1979.234200",
+ "id": "https://openalex.org/W2067021215",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W306234361",
+  "https://openalex.org/W1544305880",
+  "https://openalex.org/W1974784305",
+  "https://openalex.org/W2018359542",
+  "https://openalex.org/W2024668293",
+  "https://openalex.org/W2030116982",
+  "https://openalex.org/W2057555275",
+  "https://openalex.org/W2060978628",
+  "https://openalex.org/W2065583528",
+  "https://openalex.org/W2079416701",
+  "https://openalex.org/W2120252669",
+  "https://openalex.org/W2155631901",
+  "https://openalex.org/W2165558283",
+  "https://openalex.org/W2341204729",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W2987348178"
+ ],
+ "title": "Multidimensional Binary Search Trees in Database Applications"
+}

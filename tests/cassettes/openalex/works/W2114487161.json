@@ -1,0 +1,110 @@
+{
+ "cited_by_count": 188,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1111/j.1468-0262.2006.00675.x",
+ "id": "https://openalex.org/W2114487161",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W11559153",
+  "https://openalex.org/W16961182",
+  "https://openalex.org/W574660464",
+  "https://openalex.org/W624119579",
+  "https://openalex.org/W1517730553",
+  "https://openalex.org/W1521361710",
+  "https://openalex.org/W1538963401",
+  "https://openalex.org/W1568281949",
+  "https://openalex.org/W1969243841",
+  "https://openalex.org/W1978180733",
+  "https://openalex.org/W1980177281",
+  "https://openalex.org/W1981887954",
+  "https://openalex.org/W2013722052",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2039766717",
+  "https://openalex.org/W2043715088",
+  "https://openalex.org/W2043749813",
+  "https://openalex.org/W2053486193",
+  "https://openalex.org/W2055581183",
+  "https://openalex.org/W2057067174",
+  "https://openalex.org/W2057145339",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2118875571",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2129382593",
+  "https://openalex.org/W2129678216",
+  "https://openalex.org/W2133405904",
+  "https://openalex.org/W2140160049",
+  "https://openalex.org/W2143895421",
+  "https://openalex.org/W2148268719",
+  "https://openalex.org/W2153335615",
+  "https://openalex.org/W2189381263",
+  "https://openalex.org/W2382063032",
+  "https://openalex.org/W3121882358",
+  "https://openalex.org/W3123904525",
+  "https://openalex.org/W3124375337",
+  "https://openalex.org/W3125985736",
+  "https://openalex.org/W4252712612",
+  "https://openalex.org/W6687049338"
+ ],
+ "title": "The Limits of ex post Implementation"
+}

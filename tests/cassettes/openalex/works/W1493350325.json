@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1007/3-540-45071-8_55",
+ "id": "https://openalex.org/W1493350325",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W140130170",
+  "https://openalex.org/W1493350325",
+  "https://openalex.org/W1525293204",
+  "https://openalex.org/W1569272689",
+  "https://openalex.org/W1957114827",
+  "https://openalex.org/W1978107969",
+  "https://openalex.org/W2003979824",
+  "https://openalex.org/W2014111643",
+  "https://openalex.org/W2015211698",
+  "https://openalex.org/W2021183451",
+  "https://openalex.org/W2042705674",
+  "https://openalex.org/W2070658982",
+  "https://openalex.org/W2109716789",
+  "https://openalex.org/W2139442450",
+  "https://openalex.org/W2141191281",
+  "https://openalex.org/W2158505527",
+  "https://openalex.org/W2798588639",
+  "https://openalex.org/W2913688336",
+  "https://openalex.org/W4292230561",
+  "https://openalex.org/W6750258011"
+ ],
+ "title": "Minimal Unsatisfiable Formulas with Bounded Clause-Variable Difference are Fixed-Parameter Tractable"
+}

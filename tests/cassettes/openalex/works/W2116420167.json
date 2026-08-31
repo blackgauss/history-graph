@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 124,
+ "doi": null,
+ "id": "https://openalex.org/W2116420167",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1605782097",
+  "https://openalex.org/W1645807896",
+  "https://openalex.org/W1874295121",
+  "https://openalex.org/W2068644217",
+  "https://openalex.org/W2122048769",
+  "https://openalex.org/W2124851765",
+  "https://openalex.org/W2130642985",
+  "https://openalex.org/W2157979971",
+  "https://openalex.org/W2160404300",
+  "https://openalex.org/W2167911783",
+  "https://openalex.org/W2341510490"
+ ],
+ "title": "MonetDB/X100 - A DBMS in the CPU cache"
+}

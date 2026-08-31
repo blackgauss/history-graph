@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 867,
+ "doi": "https://doi.org/10.1145/223784.223785",
+ "id": "https://openalex.org/W2117917070",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W39752530",
+  "https://openalex.org/W144888112",
+  "https://openalex.org/W1496148388",
+  "https://openalex.org/W1506707603",
+  "https://openalex.org/W1515932031",
+  "https://openalex.org/W1521479407",
+  "https://openalex.org/W1545155892",
+  "https://openalex.org/W1554917839",
+  "https://openalex.org/W1991199257",
+  "https://openalex.org/W2076627572",
+  "https://openalex.org/W2093258057",
+  "https://openalex.org/W2117034946",
+  "https://openalex.org/W2117780839",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2186945474",
+  "https://openalex.org/W2914967825",
+  "https://openalex.org/W6630270260",
+  "https://openalex.org/W6680456638"
+ ],
+ "title": "A critique of ANSI SQL isolation levels"
+}

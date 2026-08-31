@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 137,
+ "doi": "https://doi.org/10.1016/0898-1221(92)90167-g",
+ "id": "https://openalex.org/W2027828864",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W2005798322",
+  "https://openalex.org/W2011842427",
+  "https://openalex.org/W2054557822",
+  "https://openalex.org/W2056054245",
+  "https://openalex.org/W2068306188",
+  "https://openalex.org/W2077852080",
+  "https://openalex.org/W2083206954",
+  "https://openalex.org/W2164310641",
+  "https://openalex.org/W4299961631",
+  "https://openalex.org/W6858068732"
+ ],
+ "title": "Fast evaluation of radial basis functions: I"
+}

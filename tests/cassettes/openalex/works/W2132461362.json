@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 1029,
+ "doi": "https://doi.org/10.1145/335191.335432",
+ "id": "https://openalex.org/W2132461362",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W138816814",
+  "https://openalex.org/W1521751987",
+  "https://openalex.org/W1524011117",
+  "https://openalex.org/W1548134621",
+  "https://openalex.org/W1557571809",
+  "https://openalex.org/W1732070564",
+  "https://openalex.org/W1964345410",
+  "https://openalex.org/W1979390426",
+  "https://openalex.org/W2002110561",
+  "https://openalex.org/W2018978908",
+  "https://openalex.org/W2056947248",
+  "https://openalex.org/W2058978608",
+  "https://openalex.org/W2062851028",
+  "https://openalex.org/W2066417879",
+  "https://openalex.org/W2097432384",
+  "https://openalex.org/W2120052337",
+  "https://openalex.org/W3001621465",
+  "https://openalex.org/W4236015061",
+  "https://openalex.org/W6633621671",
+  "https://openalex.org/W6637525653",
+  "https://openalex.org/W6664915983",
+  "https://openalex.org/W6666675269"
+ ],
+ "title": "NiagaraCQ"
+}

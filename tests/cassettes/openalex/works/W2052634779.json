@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 24,
+ "doi": "https://doi.org/10.1007/bf02212042",
+ "id": "https://openalex.org/W2052634779",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1538314673",
+  "https://openalex.org/W2004305855",
+  "https://openalex.org/W2027828864",
+  "https://openalex.org/W2055940788",
+  "https://openalex.org/W2083206954",
+  "https://openalex.org/W2130859329",
+  "https://openalex.org/W2164310641"
+ ],
+ "title": "Truncated Laurent expansions for the fast evaluation of thin plate splines"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 72,
+ "doi": "https://doi.org/10.1016/0047-259x(77)90079-3",
+ "id": "https://openalex.org/W1989775505",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1522020530",
+  "https://openalex.org/W2017398724",
+  "https://openalex.org/W2054366147",
+  "https://openalex.org/W2061461017",
+  "https://openalex.org/W2073837511",
+  "https://openalex.org/W6663838358"
+ ],
+ "title": "Minimax estimators for a multinormal precision matrix"
+}

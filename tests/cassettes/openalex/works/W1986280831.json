@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 89,
+ "doi": "https://doi.org/10.1145/1479992.1480023",
+ "id": "https://openalex.org/W1986280831",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W1996556109",
+  "https://openalex.org/W2076025838"
+ ],
+ "title": "A production implementation of an associative array processor"
+}

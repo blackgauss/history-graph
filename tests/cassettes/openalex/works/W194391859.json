@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 22,
+ "doi": "https://doi.org/10.1007/978-1-4471-2063-6_2",
+ "id": "https://openalex.org/W194391859",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1532247067",
+  "https://openalex.org/W1968908999",
+  "https://openalex.org/W2048060899",
+  "https://openalex.org/W2111051539",
+  "https://openalex.org/W2147800946",
+  "https://openalex.org/W2149991584",
+  "https://openalex.org/W2156297475",
+  "https://openalex.org/W2501777234",
+  "https://openalex.org/W2598912124"
+ ],
+ "title": "Keeping Neural Networks Simple"
+}

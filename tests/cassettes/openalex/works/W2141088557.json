@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 120,
+ "doi": "https://doi.org/10.1109/ijcnn.2006.246651",
+ "id": "https://openalex.org/W2141088557",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1486852018",
+  "https://openalex.org/W1512746852",
+  "https://openalex.org/W1517211409",
+  "https://openalex.org/W1543386112",
+  "https://openalex.org/W1564894751",
+  "https://openalex.org/W1568532871",
+  "https://openalex.org/W2011703512",
+  "https://openalex.org/W2025687881",
+  "https://openalex.org/W2054930781",
+  "https://openalex.org/W2066922849",
+  "https://openalex.org/W2103179919",
+  "https://openalex.org/W2108043710",
+  "https://openalex.org/W2147101007",
+  "https://openalex.org/W2157159651",
+  "https://openalex.org/W2159386874",
+  "https://openalex.org/W6630869352",
+  "https://openalex.org/W6633950069",
+  "https://openalex.org/W6681659886"
+ ],
+ "title": "Implementing Synaptic Plasticity in a VLSI Spiking Neural Network Model"
+}

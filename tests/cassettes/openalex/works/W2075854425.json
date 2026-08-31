@@ -1,0 +1,88 @@
+{
+ "cited_by_count": 2742,
+ "counts_by_year": [
+  {
+   "cited_by_count": 57,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 97,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 97,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 101,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 111,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 159,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 172,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 226,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 154,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 141,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 133,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 136,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 144,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 143,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 131,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/279227.279229",
+ "id": "https://openalex.org/W2075854425",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1545155892",
+  "https://openalex.org/W1595621695",
+  "https://openalex.org/W2000832815",
+  "https://openalex.org/W2003214215",
+  "https://openalex.org/W2006007456",
+  "https://openalex.org/W2012481411",
+  "https://openalex.org/W2019491460",
+  "https://openalex.org/W2035362408",
+  "https://openalex.org/W2061819031",
+  "https://openalex.org/W2072730741",
+  "https://openalex.org/W2111132249",
+  "https://openalex.org/W2138949781",
+  "https://openalex.org/W2152465173",
+  "https://openalex.org/W2156027558",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W3146423622",
+  "https://openalex.org/W6655149952"
+ ],
+ "title": "The part-time parliament"
+}

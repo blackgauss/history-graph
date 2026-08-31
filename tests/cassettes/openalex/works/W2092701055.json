@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 92,
+ "doi": "https://doi.org/10.1145/1718487.1718528",
+ "id": "https://openalex.org/W2092701055",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1515272691",
+  "https://openalex.org/W1974360117",
+  "https://openalex.org/W1992549066",
+  "https://openalex.org/W2026784708",
+  "https://openalex.org/W2033101724",
+  "https://openalex.org/W2047221353",
+  "https://openalex.org/W2090883204",
+  "https://openalex.org/W2099213975",
+  "https://openalex.org/W2099391294",
+  "https://openalex.org/W2106630408",
+  "https://openalex.org/W2120166550",
+  "https://openalex.org/W2125771191",
+  "https://openalex.org/W2135096473",
+  "https://openalex.org/W2152314154",
+  "https://openalex.org/W2154739689",
+  "https://openalex.org/W2155530593",
+  "https://openalex.org/W2156160882",
+  "https://openalex.org/W2407295445"
+ ],
+ "title": "A novel click model and its applications to online advertising"
+}

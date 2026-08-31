@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 91,
+ "doi": "https://doi.org/10.1137/0904023",
+ "id": "https://openalex.org/W1963944982",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W2024081693",
+  "https://openalex.org/W2026258334",
+  "https://openalex.org/W2091886411",
+  "https://openalex.org/W2162870748",
+  "https://openalex.org/W2402762611"
+ ],
+ "title": "Multidimensional Additive Spline Approximation"
+}

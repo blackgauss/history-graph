@@ -1,0 +1,746 @@
+{
+ "abstract_inverted_index": {
+  "(unit": [
+   190
+  ],
+  "/": [
+   55
+  ],
+  "1).": [
+   98
+  ],
+  "2).": [
+   150
+  ],
+  "3).": [
+   173
+  ],
+  "4).": [
+   182
+  ],
+  "Analysis,": [
+   100
+  ],
+  "At": [
+   153
+  ],
+  "Based": [
+   195
+  ],
+  "Calendar": [
+   45
+  ],
+  "Design.": [
+   152
+  ],
+  "Drive": [
+   219
+  ],
+  "For": [
+   28
+  ],
+  "Forms": [
+   35
+  ],
+  "Google": [
+   34,
+   44,
+   218
+  ],
+  "Google.": [
+   27
+  ],
+  "Programming,": [
+   174
+  ],
+  "System": [
+   99,
+   151
+  ],
+  "Testing,": [
+   183
+  ],
+  "The": [
+   0,
+   88,
+   114,
+   239
+  ],
+  "This": [
+   64
+  ],
+  "a": [
+   17,
+   70,
+   156
+  ],
+  "according": [
+   57
+  ],
+  "account": [
+   122
+  ],
+  "activities": [
+   54,
+   272
+  ],
+  "agenda": [
+   51
+  ],
+  "an": [
+   10,
+   49,
+   85,
+   229
+  ],
+  "analysis": [
+   115,
+   171
+  ],
+  "and": [
+   8,
+   22,
+   30,
+   72,
+   137,
+   192,
+   231,
+   257,
+   264
+  ],
+  "applicable": [
+   73
+  ],
+  "application": [
+   220,
+   243
+  ],
+  "applications": [
+   25,
+   224
+  ],
+  "approach,": [
+   74
+  ],
+  "archiving": [
+   13
+  ],
+  "are": [
+   142
+  ],
+  "as": [
+   96,
+   228
+  ],
+  "at": [
+   169
+  ],
+  "based": [
+   105,
+   164
+  ],
+  "be": [
+   37,
+   41,
+   162,
+   208,
+   226,
+   278
+  ],
+  "been": [
+   204
+  ],
+  "building": [
+   129
+  ],
+  "by": [
+   20,
+   80,
+   119
+  ],
+  "can": [
+   207,
+   225,
+   247,
+   269
+  ],
+  "carried": [
+   94,
+   103,
+   117,
+   184
+  ],
+  "collection": [
+   78,
+   112
+  ],
+  "concluded": [
+   209
+  ],
+  "contents": [
+   60
+  ],
+  "coupled": [
+   221
+  ],
+  "create": [
+   7
+  ],
+  "data": [
+   77,
+   111,
+   135
+  ],
+  "deadlines": [
+   274
+  ],
+  "descriptive": [
+   67
+  ],
+  "design": [
+   160
+  ],
+  "desired": [
+   147,
+   167
+  ],
+  "detailed": [
+   157
+  ],
+  "developing": [
+   84
+  ],
+  "development": [
+   91
+  ],
+  "distribute": [
+   258
+  ],
+  "distributing": [
+   31
+  ],
+  "done": [
+   279
+  ],
+  "done,": [
+   205
+  ],
+  "environment": [
+   19
+  ],
+  "events": [
+   56
+  ],
+  "existing": [
+   124
+  ],
+  "followed": [
+   79
+  ],
+  "follows:": [
+   97
+  ],
+  "for": [
+   52,
+   262,
+   275
+  ],
+  "from": [
+   26
+  ],
+  "has": [
+   203
+  ],
+  "help": [
+   47,
+   248,
+   270
+  ],
+  "identification": [
+   133,
+   138
+  ],
+  "impact": [
+   240
+  ],
+  "implement": [
+   9
+  ],
+  "in": [
+   16,
+   237
+  ],
+  "includes": [
+   66
+  ],
+  "incoming": [
+   11,
+   32,
+   212,
+   235,
+   259
+  ],
+  "information": [
+   14,
+   86,
+   89,
+   131,
+   148,
+   158,
+   180
+  ],
+  "input,": [
+   136
+  ],
+  "inputting": [
+   29
+  ],
+  "integrated": [
+   42,
+   232
+  ],
+  "integrating": [
+   23
+  ],
+  "internal": [
+   187
+  ],
+  "into": [
+   121
+  ],
+  "is": [
+   5,
+   93,
+   102,
+   116,
+   244
+  ],
+  "it": [
+   206,
+   246,
+   268
+  ],
+  "leaders": [
+   267
+  ],
+  "lecturers": [
+   263
+  ],
+  "letter.": [
+   63
+  ],
+  "made": [
+   163
+  ],
+  "mail": [
+   12,
+   213,
+   236,
+   260
+  ],
+  "mail,": [
+   33
+  ],
+  "making": [
+   179
+  ],
+  "manage": [
+   256
+  ],
+  "management": [
+   214,
+   233
+  ],
+  "managing": [
+   53
+  ],
+  "namely": [
+   175
+  ],
+  "needs": [
+   144
+  ],
+  "of": [
+   2,
+   61,
+   83,
+   109,
+   128,
+   134,
+   139,
+   145,
+   178,
+   199,
+   234,
+   241,
+   251
+  ],
+  "on": [
+   106,
+   165,
+   196
+  ],
+  "online": [
+   50
+  ],
+  "optimal": [
+   230
+  ],
+  "optimizing": [
+   21
+  ],
+  "or": [
+   273
+  ],
+  "other": [
+   223
+  ],
+  "out": [
+   95,
+   104,
+   118,
+   185
+  ],
+  "outputs": [
+   140
+  ],
+  "practical": [
+   71
+  ],
+  "problems,": [
+   125
+  ],
+  "process": [
+   177
+  ],
+  "program": [
+   254,
+   266
+  ],
+  "properly,": [
+   261
+  ],
+  "purpose": [
+   1,
+   127
+  ],
+  "remind": [
+   271
+  ],
+  "report/display.": [
+   149
+  ],
+  "research": [
+   4,
+   65,
+   68,
+   201
+  ],
+  "results": [
+   108,
+   198
+  ],
+  "schedule": [
+   48
+  ],
+  "secretariat": [
+   250
+  ],
+  "several": [
+   24
+  ],
+  "specifications": [
+   168
+  ],
+  "stage": [
+   82,
+   92,
+   189
+  ],
+  "stage,": [
+   155
+  ],
+  "stage.": [
+   113,
+   172
+  ],
+  "starting": [
+   75
+  ],
+  "study": [
+   253,
+   265
+  ],
+  "system": [
+   15,
+   90,
+   159,
+   193,
+   215
+  ],
+  "system,": [
+   132
+  ],
+  "system.": [
+   87
+  ],
+  "systems": [
+   181
+  ],
+  "taking": [
+   120
+  ],
+  "testing": [
+   188,
+   191
+  ],
+  "testing).": [
+   194
+  ],
+  "that": [
+   202,
+   210,
+   245
+  ],
+  "the": [
+   59,
+   62,
+   81,
+   107,
+   110,
+   123,
+   126,
+   130,
+   143,
+   146,
+   166,
+   170,
+   176,
+   186,
+   197,
+   200,
+   211,
+   217,
+   249,
+   252
+  ],
+  "this": [
+   3,
+   154,
+   242
+  ],
+  "to": [
+   6,
+   46,
+   58,
+   255,
+   277
+  ],
+  "universities.": [
+   238
+  ],
+  "university": [
+   18
+  ],
+  "used": [
+   227
+  ],
+  "used,": [
+   38
+  ],
+  "using": [
+   216
+  ],
+  "which": [
+   39,
+   101,
+   141
+  ],
+  "will": [
+   36,
+   40,
+   161
+  ],
+  "with": [
+   43,
+   69,
+   76,
+   222
+  ],
+  "work": [
+   276
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210117444"
+     ],
+     "raw_affiliation_string": "Accounting Departement, Universitas Komputer Indonesia, Jl. Dipatiukur No 112-116 Bandung City, Indonesia"
+    }
+   ],
+   "author": {
+    "display_name": "Accounting Departement, Universitas Komputer Indonesia, Jl. Dipatiukur No 112-116 Bandung City, Indonesia",
+    "id": null,
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "ID"
+   ],
+   "institutions": [
+    {
+     "country_code": "ID",
+     "display_name": "Universitas Komputer Indonesia",
+     "id": "https://openalex.org/I4210117444",
+     "lineage": [
+      "https://openalex.org/I4210117444"
+     ],
+     "ror": "https://ror.org/02j652854",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Accounting Departement, Universitas Komputer Indonesia, Jl. Dipatiukur No 112-116 Bandung City, Indonesia"
+   ],
+   "raw_author_name": "Accounting Departement, Universitas Komputer Indonesia, Jl. Dipatiukur No 112-116 Bandung City, Indonesia",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210117444"
+     ],
+     "raw_affiliation_string": "Accounting Departement, Universitas Komputer Indonesia, Jl. Dipatiukur No 112-116 Bandung City, Indonesia"
+    }
+   ],
+   "author": {
+    "display_name": "A Rachmanto",
+    "id": null,
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [
+    "ID"
+   ],
+   "institutions": [
+    {
+     "country_code": "ID",
+     "display_name": "Universitas Komputer Indonesia",
+     "id": "https://openalex.org/I4210117444",
+     "lineage": [
+      "https://openalex.org/I4210117444"
+     ],
+     "ror": "https://ror.org/02j652854",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Accounting Departement, Universitas Komputer Indonesia, Jl. Dipatiukur No 112-116 Bandung City, Indonesia"
+   ],
+   "raw_author_name": "A Rachmanto",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.34010/icobest.v2i.300",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "http://dx.doi.org/10.34010/icobest.v2i.300",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://proceedings.unikom.ac.id/index.php/icobest/article/download/300/296",
+  "raw_source_name": "Proceeding of International Conference on Business, Economics, Social Sciences, and Humanities",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Proceeding of International Conference on Business Economics Social Sciences and Humanities",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S4387287976",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "2830-0637",
+    "2986-8211"
+   ],
+   "issn_l": "2830-0637",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": "https://doi.org/10.34010/icobest.v2i.300",
+ "funders": [],
+ "id": "https://openalex.org/W4361803910",
+ "ids": {
+  "doi": "https://doi.org/10.34010/icobest.v2i.300",
+  "openalex": "https://openalex.org/W4361803910"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": true,
+  "oa_status": "diamond",
+  "oa_url": "https://proceedings.unikom.ac.id/index.php/icobest/article/download/300/296"
+ },
+ "primary_location": {
+  "id": "doi:10.34010/icobest.v2i.300",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "http://dx.doi.org/10.34010/icobest.v2i.300",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://proceedings.unikom.ac.id/index.php/icobest/article/download/300/296",
+  "raw_source_name": "Proceeding of International Conference on Business, Economics, Social Sciences, and Humanities",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Proceeding of International Conference on Business Economics Social Sciences and Humanities",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S4387287976",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "2830-0637",
+    "2986-8211"
+   ],
+   "issn_l": "2830-0637",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2021,
+ "referenced_works": [
+  "https://openalex.org/W2909946384",
+  "https://openalex.org/W2911217745",
+  "https://openalex.org/W2913572229",
+  "https://openalex.org/W3204713209"
+ ],
+ "related_works": [
+  "https://openalex.org/W2186048469",
+  "https://openalex.org/W2898732673",
+  "https://openalex.org/W2195904091",
+  "https://openalex.org/W3029267192",
+  "https://openalex.org/W1967509846",
+  "https://openalex.org/W4308662946",
+  "https://openalex.org/W2410053581",
+  "https://openalex.org/W2383658677",
+  "https://openalex.org/W2941073738",
+  "https://openalex.org/W2003932708"
+ ],
+ "title": "Analysis and Design of Incoming Mail Filing Information Systems at universities, by Optimizing the Use of Google Drive",
+ "type": "conference-paper"
+}

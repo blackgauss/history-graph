@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 526,
+ "doi": "https://doi.org/10.2514/8.5282",
+ "id": "https://openalex.org/W2037090034",
+ "publication_year": 1960,
+ "referenced_works": [
+  "https://openalex.org/W113219331",
+  "https://openalex.org/W615998809",
+  "https://openalex.org/W1583084463",
+  "https://openalex.org/W1981482176",
+  "https://openalex.org/W2016859302",
+  "https://openalex.org/W2023087569",
+  "https://openalex.org/W2032840971",
+  "https://openalex.org/W2070256701",
+  "https://openalex.org/W2098094071",
+  "https://openalex.org/W2186776507",
+  "https://openalex.org/W2257611790",
+  "https://openalex.org/W2316564661",
+  "https://openalex.org/W2321180074",
+  "https://openalex.org/W2335711175",
+  "https://openalex.org/W2498361222",
+  "https://openalex.org/W2567576169",
+  "https://openalex.org/W4205884377"
+ ],
+ "title": "Gradient Theory of Optimal Flight Paths"
+}

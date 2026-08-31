@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 250,
+ "counts_by_year": [
+  {
+   "cited_by_count": 24,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 124,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2022
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tnnls.2021.3116209",
+ "id": "https://openalex.org/W3203326738",
+ "publication_year": 2021,
+ "title": "BaGFN: Broad Attentive Graph Fusion Network for High-Order Feature Interactions"
+}

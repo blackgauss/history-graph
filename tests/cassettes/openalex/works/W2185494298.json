@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 72,
+ "doi": null,
+ "id": "https://openalex.org/W2185494298",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W115054479",
+  "https://openalex.org/W1976611840",
+  "https://openalex.org/W1980300316",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2048737604",
+  "https://openalex.org/W2084396669",
+  "https://openalex.org/W2152761983",
+  "https://openalex.org/W2982720039"
+ ],
+ "title": "Interpretable boosted naïve Bayes classification"
+}

@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 78,
+ "doi": "https://doi.org/10.1016/0166-218x(90)90142-y",
+ "id": "https://openalex.org/W2030398195",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W215578330",
+  "https://openalex.org/W1484040084",
+  "https://openalex.org/W1663797207",
+  "https://openalex.org/W1973069886",
+  "https://openalex.org/W1980985059",
+  "https://openalex.org/W1991755800",
+  "https://openalex.org/W1997993610",
+  "https://openalex.org/W2005676331",
+  "https://openalex.org/W2007957052",
+  "https://openalex.org/W2028821268",
+  "https://openalex.org/W2029448190",
+  "https://openalex.org/W2034501206",
+  "https://openalex.org/W2072244779",
+  "https://openalex.org/W2085351511",
+  "https://openalex.org/W2085550081",
+  "https://openalex.org/W2099951519",
+  "https://openalex.org/W2587987525",
+  "https://openalex.org/W2752061190",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W2912730163",
+  "https://openalex.org/W2914795094",
+  "https://openalex.org/W4300303686",
+  "https://openalex.org/W6637181380",
+  "https://openalex.org/W6744529318"
+ ],
+ "title": "The basic algorithm for pseudo-Boolean programming revisited"
+}

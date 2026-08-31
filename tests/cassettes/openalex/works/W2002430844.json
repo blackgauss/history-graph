@@ -1,0 +1,92 @@
+{
+ "cited_by_count": 1728,
+ "counts_by_year": [
+  {
+   "cited_by_count": 24,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 76,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 75,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 72,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 64,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 93,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 96,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 96,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 101,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 62,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1007/bf01753437",
+ "id": "https://openalex.org/W2002430844",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W583843154",
+  "https://openalex.org/W1550387186",
+  "https://openalex.org/W1574704787",
+  "https://openalex.org/W1647688131",
+  "https://openalex.org/W1967218479",
+  "https://openalex.org/W1978677889",
+  "https://openalex.org/W1989872469",
+  "https://openalex.org/W2017218908",
+  "https://openalex.org/W2068115726",
+  "https://openalex.org/W2122997296",
+  "https://openalex.org/W2127470768",
+  "https://openalex.org/W2144846366",
+  "https://openalex.org/W2310516540",
+  "https://openalex.org/W2317101256",
+  "https://openalex.org/W2331236532",
+  "https://openalex.org/W3048172861",
+  "https://openalex.org/W4205574478",
+  "https://openalex.org/W4235413659",
+  "https://openalex.org/W4301216918",
+  "https://openalex.org/W4311630515",
+  "https://openalex.org/W6634376019"
+ ],
+ "title": "The assignment game I: The core"
+}

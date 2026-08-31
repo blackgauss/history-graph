@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 377,
+ "doi": "https://doi.org/10.1145/1882471.1882479",
+ "id": "https://openalex.org/W2092126505",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W2109363337",
+  "https://openalex.org/W2133990480",
+  "https://openalex.org/W2135514714",
+  "https://openalex.org/W2150102617",
+  "https://openalex.org/W2155529673",
+  "https://openalex.org/W4235051474"
+ ],
+ "title": "Apples-to-apples in cross-validation studies"
+}

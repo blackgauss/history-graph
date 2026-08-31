@@ -1,0 +1,90 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Alonzo Church",
+    "id": "https://openalex.org/A5110105454",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Alonzo Church"
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W1601487117",
+ "ids": {
+  "mag": "1601487117",
+  "openalex": "https://openalex.org/W1601487117"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "pmh:oai:CULeuclid:euclid.jsl/1183731196",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://projecteuclid.org/euclid.jsl/1183731196",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "",
+  "raw_type": "Text",
+  "source": {
+   "display_name": "Project Euclid (Cornell University)",
+   "host_organization": "https://openalex.org/I205783295",
+   "host_organization_lineage": [
+    "https://openalex.org/I205783295"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "Cornell University",
+   "id": "https://openalex.org/S4306400787",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": "submittedVersion"
+ },
+ "publication_year": 1951,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W3105786353",
+  "https://openalex.org/W2486886792",
+  "https://openalex.org/W2504028296",
+  "https://openalex.org/W2511091622",
+  "https://openalex.org/W627346597",
+  "https://openalex.org/W2018827993",
+  "https://openalex.org/W2913609529",
+  "https://openalex.org/W2054338148",
+  "https://openalex.org/W2014988898",
+  "https://openalex.org/W1640496376",
+  "https://openalex.org/W2067583223",
+  "https://openalex.org/W2072403059",
+  "https://openalex.org/W1585460422",
+  "https://openalex.org/W2133162776",
+  "https://openalex.org/W2481328931",
+  "https://openalex.org/W2196323295",
+  "https://openalex.org/W144069452",
+  "https://openalex.org/W2889572333",
+  "https://openalex.org/W1767844229",
+  "https://openalex.org/W2394711586"
+ ],
+ "title": "Review: George Boole, An Investigation of the Laws of Thought, on Which are Founded the Mathematical Theories of Logic and Probabilities",
+ "type": "article"
+}

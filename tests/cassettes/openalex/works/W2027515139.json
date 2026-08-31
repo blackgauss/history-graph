@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 1114,
+ "doi": "https://doi.org/10.1109/35.620533",
+ "id": "https://openalex.org/W2027515139",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1891034526",
+  "https://openalex.org/W2013983674",
+  "https://openalex.org/W2015718786",
+  "https://openalex.org/W2061756358",
+  "https://openalex.org/W2063142364",
+  "https://openalex.org/W2117870578",
+  "https://openalex.org/W2143029444",
+  "https://openalex.org/W2151764579",
+  "https://openalex.org/W2156597615",
+  "https://openalex.org/W2162420355"
+ ],
+ "title": "IEEE 802.11 Wireless Local Area Networks"
+}

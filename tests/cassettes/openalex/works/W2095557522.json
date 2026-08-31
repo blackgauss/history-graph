@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1145/318898.318928",
+ "id": "https://openalex.org/W2095557522",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W162574940",
+  "https://openalex.org/W1484725062",
+  "https://openalex.org/W1531789027",
+  "https://openalex.org/W1533200258",
+  "https://openalex.org/W2001111520",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2021284998",
+  "https://openalex.org/W2030116982",
+  "https://openalex.org/W2066799613",
+  "https://openalex.org/W2067021215",
+  "https://openalex.org/W2079046341",
+  "https://openalex.org/W2092276439",
+  "https://openalex.org/W2165558283"
+ ],
+ "title": "Algorithm and performance evaluation of adaptive multidimensional clustering technique"
+}

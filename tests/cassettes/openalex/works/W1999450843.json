@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 709,
+ "doi": "https://doi.org/10.1103/physrevlett.75.346",
+ "id": "https://openalex.org/W1999450843",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W180111340",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W1978553093",
+  "https://openalex.org/W1986407511",
+  "https://openalex.org/W1997468982",
+  "https://openalex.org/W1999903620",
+  "https://openalex.org/W2000201689",
+  "https://openalex.org/W2003989103",
+  "https://openalex.org/W2012206667",
+  "https://openalex.org/W2017920704",
+  "https://openalex.org/W2026402424",
+  "https://openalex.org/W2039245566",
+  "https://openalex.org/W2049133593",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2059041305",
+  "https://openalex.org/W2060892171",
+  "https://openalex.org/W2085426595",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2145846451",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2151027976",
+  "https://openalex.org/W2179731956",
+  "https://openalex.org/W2595959570"
+ ],
+ "title": "Almost Any Quantum Logic Gate is Universal"
+}

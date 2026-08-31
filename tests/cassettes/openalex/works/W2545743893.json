@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 30,
+ "doi": "https://doi.org/10.1109/focs.1961.5",
+ "id": "https://openalex.org/W2545743893",
+ "publication_year": 1961,
+ "referenced_works": [
+  "https://openalex.org/W288256330",
+  "https://openalex.org/W2018094844",
+  "https://openalex.org/W2063353399",
+  "https://openalex.org/W2093198163",
+  "https://openalex.org/W2097292627",
+  "https://openalex.org/W2329329248",
+  "https://openalex.org/W2335478831",
+  "https://openalex.org/W4229859560",
+  "https://openalex.org/W4231510479",
+  "https://openalex.org/W4253456425"
+ ],
+ "title": "An application of linear programming to the minimization of Boolean functions"
+}

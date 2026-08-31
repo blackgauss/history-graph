@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 25,
+ "doi": "https://doi.org/10.1109/tsmc.1982.4308882",
+ "id": "https://openalex.org/W2074578177",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W329797175",
+  "https://openalex.org/W1967231617",
+  "https://openalex.org/W1977778027",
+  "https://openalex.org/W2020076393",
+  "https://openalex.org/W2035964492",
+  "https://openalex.org/W2082775550",
+  "https://openalex.org/W2140727935",
+  "https://openalex.org/W2161608691",
+  "https://openalex.org/W2283097928",
+  "https://openalex.org/W3198350258",
+  "https://openalex.org/W4230130226",
+  "https://openalex.org/W4252521233"
+ ],
+ "title": "Signature Table Systems and Learning"
+}

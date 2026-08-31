@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 1243,
+ "doi": null,
+ "id": "https://openalex.org/W2109507516",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W111098712",
+  "https://openalex.org/W1513250879",
+  "https://openalex.org/W1578467903",
+  "https://openalex.org/W1789713128",
+  "https://openalex.org/W1964859463",
+  "https://openalex.org/W1975770848",
+  "https://openalex.org/W1978557435",
+  "https://openalex.org/W1993035107",
+  "https://openalex.org/W1998684655",
+  "https://openalex.org/W2010876815",
+  "https://openalex.org/W2024598204",
+  "https://openalex.org/W2063013240",
+  "https://openalex.org/W2073899480",
+  "https://openalex.org/W2086991199",
+  "https://openalex.org/W2092510660",
+  "https://openalex.org/W2094283151",
+  "https://openalex.org/W2100648544",
+  "https://openalex.org/W2295230136",
+  "https://openalex.org/W2611598995"
+ ],
+ "title": "Yacc : Yet Another Compiler Compiler"
+}

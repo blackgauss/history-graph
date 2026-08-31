@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 291,
+ "doi": "https://doi.org/10.2307/1426324",
+ "id": "https://openalex.org/W1974568747",
+ "publication_year": 1970,
+ "referenced_works": [
+  "https://openalex.org/W232298861",
+  "https://openalex.org/W361471363",
+  "https://openalex.org/W1548519453",
+  "https://openalex.org/W1743877013",
+  "https://openalex.org/W1987625053",
+  "https://openalex.org/W2021097403",
+  "https://openalex.org/W2047437921",
+  "https://openalex.org/W2053899506",
+  "https://openalex.org/W2057616323",
+  "https://openalex.org/W2059780189",
+  "https://openalex.org/W2075541024",
+  "https://openalex.org/W2083891235",
+  "https://openalex.org/W2116535740",
+  "https://openalex.org/W2163872159",
+  "https://openalex.org/W2332404763",
+  "https://openalex.org/W2335673477",
+  "https://openalex.org/W2606292975",
+  "https://openalex.org/W2802739963",
+  "https://openalex.org/W2989448192",
+  "https://openalex.org/W3027327446",
+  "https://openalex.org/W4210935799",
+  "https://openalex.org/W4244007395",
+  "https://openalex.org/W4249707207",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Multiple channel queues in heavy traffic. II: sequences, networks, and batches"
+}

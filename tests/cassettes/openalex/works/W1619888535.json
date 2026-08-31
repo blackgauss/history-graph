@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 321,
+ "doi": "https://doi.org/10.1063/1.476739",
+ "id": "https://openalex.org/W1619888535",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1585003050",
+  "https://openalex.org/W1966533239",
+  "https://openalex.org/W1972603977",
+  "https://openalex.org/W1979260239",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2024873838",
+  "https://openalex.org/W2039608115",
+  "https://openalex.org/W2040792108",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2067120233",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2096551755",
+  "https://openalex.org/W2099527698",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W2107050628",
+  "https://openalex.org/W2109741106",
+  "https://openalex.org/W2131690084",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2179731956",
+  "https://openalex.org/W2582029817"
+ ],
+ "title": "Implementation of a quantum algorithm on a nuclear magnetic resonance quantum computer"
+}

@@ -1,0 +1,911 @@
+{
+ "abstract_inverted_index": {
+  "'Rationalisation": [
+   269
+  ],
+  "'Retrofitting'": [
+   272
+  ],
+  "'retrofitting'": [
+   77
+  ],
+  "(0.2833,": [
+   35
+  ],
+  "(127-turn": [
+   299
+  ],
+  "(13:00:03–13:07:30": [
+   60
+  ],
+  "(14": [
+   290
+  ],
+  "(25": [
+   99
+  ],
+  "(27,997": [
+   227
+  ],
+  "(459": [
+   244
+  ],
+  "(7": [
+   196
+  ],
+  "(7,794": [
+   220
+  ],
+  "(8,672": [
+   10
+  ],
+  "(868": [
+   306
+  ],
+  "(March": [
+   282
+  ],
+  "(PC": [
+   240
+  ],
+  "(S16,": [
+   262
+  ],
+  "(ZIP)": [
+   212
+  ],
+  "(docx": [
+   111,
+   127,
+   145,
+   159,
+   175
+  ],
+  "(n=1).": [
+   251
+  ],
+  "(pdf)": [
+   235
+  ],
+  "(reverse-engineering": [
+   79
+  ],
+  "(연구과정": [
+   166
+  ],
+  "(한국어": [
+   134,
+   151
+  ],
+  "+": [
+   112,
+   128,
+   146,
+   160,
+   176,
+   184
+  ],
+  "0.2850,": [
+   36
+  ],
+  "0.5786),": [
+   37
+  ],
+  "1": [
+   211,
+   303
+  ],
+  "127-turn": [
+   7
+  ],
+  "154-paragraph": [
+   41
+  ],
+  "16": [
+   62,
+   118
+  ],
+  "16–17": [
+   1
+  ],
+  "2025).": [
+   64
+  ],
+  "2025,": [
+   3
+  ],
+  "2026):": [
+   283
+  ],
+  "27": [
+   58
+  ],
+  "3-model": [
+   141
+  ],
+  "330": [
+   45
+  ],
+  "5": [
+   178
+  ],
+  "6–40": [
+   198
+  ],
+  "7": [
+   55
+  ],
+  "AI": [
+   255
+  ],
+  "A_Gemini_transcript_link.txt": [
+   246
+  ],
+  "Anthropic": [
+   264
+  ],
+  "BP)": [
+   200
+  ],
+  "Cascade'": [
+   270
+  ],
+  "Case": [
+   105,
+   131
+  ],
+  "Chronicle": [
+   164
+  ],
+  "Claude)": [
+   265
+  ],
+  "Corrected": [
+   284
+  ],
+  "Cross-model": [
+   260
+  ],
+  "December": [
+   2,
+   63
+  ],
+  "EN": [
+   101,
+   114,
+   285,
+   288
+  ],
+  "Evidence": [
+   213
+  ],
+  "F": [
+   215
+  ],
+  "F-01:": [
+   217
+  ],
+  "F-02:": [
+   223
+  ],
+  "F-03:": [
+   232
+  ],
+  "FIGTAB": [
+   201
+  ],
+  "Forensic": [
+   236
+  ],
+  "Full": [
+   169
+  ],
+  "GB,": [
+   230
+  ],
+  "Gemini": [
+   13,
+   67,
+   297
+  ],
+  "Google": [
+   12
+  ],
+  "KR": [
+   130,
+   148
+  ],
+  "Korean": [
+   137,
+   154,
+   174
+  ],
+  "Korean-to-English": [
+   276
+  ],
+  "LLM-on-LLM": [
+   267
+  ],
+  "MANIFEST_RAW_SHA256.txt": [
+   243
+  ],
+  "Methodological": [
+   247
+  ],
+  "No": [
+   252
+  ],
+  "On": [
+   0
+  ],
+  "OpenAI": [
+   218,
+   233
+  ],
+  "Paper": [
+   102,
+   286
+  ],
+  "Python": [
+   21,
+   179
+  ],
+  "README.md": [
+   315
+  ],
+  "RMSE": [
+   33
+  ],
+  "Report": [
+   132
+  ],
+  "Research": [
+   163
+  ],
+  "S16": [
+   126
+  ],
+  "SHA256": [
+   187
+  ],
+  "See": [
+   314
+  ],
+  "Series": [
+   214
+  ],
+  "Simulation": [
+   192
+  ],
+  "Single-case": [
+   249
+  ],
+  "Storytelling": [
+   149
+  ],
+  "Supplementary": [
+   115,
+   289
+  ],
+  "Task": [
+   210,
+   302
+  ],
+  "The": [
+   50
+  ],
+  "This": [
+   92
+  ],
+  "When": [
+   65
+  ],
+  "YSP": [
+   162
+  ],
+  "a": [
+   5,
+   40,
+   69,
+   75,
+   89
+  ],
+  "about": [
+   254
+  ],
+  "academic": [
+   42
+  ],
+  "added": [
+   296
+  ],
+  "analysis": [
+   110
+  ],
+  "analysis,": [
+   123
+  ],
+  "ancient": [
+   47
+  ],
+  "and": [
+   38,
+   57,
+   189,
+   207,
+   271,
+   287,
+   301
+  ],
+  "appendix": [
+   144
+  ],
+  "archive": [
+   93,
+   202,
+   310
+  ],
+  "are": [
+   273,
+   278
+  ],
+  "as": [
+   311
+  ],
+  "audience": [
+   158
+  ],
+  "audit": [
+   125,
+   261
+  ],
+  "auto-generated": [
+   205
+  ],
+  "before": [
+   87
+  ],
+  "by": [
+   263
+  ],
+  "calc_stats_model_vs_data": [
+   182
+  ],
+  "carries": [
+   266
+  ],
+  "caveats:": [
+   248
+  ],
+  "chronicle": [
+   172
+  ],
+  "citation": [
+   80
+  ],
+  "citing": [
+   44
+  ],
+  "claims": [
+   253
+  ],
+  "code": [
+   109
+  ],
+  "code-mediated": [
+   15
+  ],
+  "companion": [
+   138
+  ],
+  "compare_models_final_verdict,": [
+   185
+  ],
+  "complete": [
+   96
+  ],
+  "concealment": [
+   71
+  ],
+  "confession": [
+   120
+  ],
+  "confession.": [
+   91
+  ],
+  "confronted,": [
+   66
+  ],
+  "constants,": [
+   31
+  ],
+  "convergence": [
+   142
+  ],
+  "correction": [
+   317
+  ],
+  "counts": [
+   81
+  ],
+  "cross-model": [
+   124
+  ],
+  "csv);": [
+   231
+  ],
+  "data": [
+   28,
+   193
+  ],
+  "deployed": [
+   68
+  ],
+  "deposited": [
+   312
+  ],
+  "details.": [
+   318
+  ],
+  "documentation": [
+   97
+  ],
+  "docx);": [
+   222
+  ],
+  "during": [
+   4
+  ],
+  "editorial": [
+   291
+  ],
+  "empirical": [
+   27
+  ],
+  "escalation": [
+   72
+  ],
+  "evidence.": [
+   313
+  ],
+  "evidence_report.txt": [
+   239
+  ],
+  "extraction": [
+   241
+  ],
+  "fabricated": [
+   32,
+   84
+  ],
+  "fabrication:": [
+   17
+  ],
+  "figures": [
+   206
+  ],
+  "file": [
+   225
+  ],
+  "file-system": [
+   190
+  ],
+  "files):": [
+   100
+  ],
+  "final": [
+   304
+  ],
+  "five": [
+   20
+  ],
+  "five-stage": [
+   70
+  ],
+  "fixes": [
+   292
+  ],
+  "for": [
+   156,
+   316
+  ],
+  "forensic": [
+   108
+  ],
+  "from": [
+   209,
+   293
+  ],
+  "full": [
+   90
+  ],
+  "general": [
+   157
+  ],
+  "generated": [
+   19,
+   53
+  ],
+  "genomic": [
+   48
+  ],
+  "hard-coded": [
+   30
+  ],
+  "hashes": [
+   188
+  ],
+  "hashes),": [
+   245
+  ],
+  "heart_compare_boxes_v04_40ka_unit.csv": [
+   195
+  ],
+  "in": [
+   173
+  ],
+  "including": [
+   74
+  ],
+  "intent.": [
+   259
+  ],
+  "internal": [
+   256
+  ],
+  "inventory": [
+   226
+  ],
+  "issuing": [
+   88
+  ],
+  "it": [
+   18
+  ],
+  "items,": [
+   228
+  ],
+  "ka": [
+   199
+  ],
+  "limitation.": [
+   268
+  ],
+  "log),": [
+   242
+  ],
+  "match": [
+   83
+  ],
+  "minutes": [
+   56
+  ],
+  "narrative": [
+   155
+  ],
+  "non-existent": [
+   46
+  ],
+  "novel": [
+   76
+  ],
+  "on": [
+   61
+  ],
+  "or": [
+   258
+  ],
+  "original)": [
+   300
+  ],
+  "package": [
+   98
+  ],
+  "paper": [
+   43
+  ],
+  "paragraphs)": [
+   307
+  ],
+  "paragraphs),": [
+   11
+  ],
+  "paragraphs,": [
+   221
+  ],
+  "passages": [
+   277
+  ],
+  "pdf)": [
+   113,
+   129,
+   147,
+   161,
+   177
+  ],
+  "peer": [
+   294
+  ],
+  "performed": [
+   14
+  ],
+  "process": [
+   171
+  ],
+  "produced": [
+   39
+  ],
+  "project_adna": [
+   224
+  ],
+  "provides": [
+   94
+  ],
+  "provisionally": [
+   274
+  ],
+  "records": [
+   237
+  ],
+  "regions,": [
+   197
+  ],
+  "replaced": [
+   25
+  ],
+  "report": [
+   106,
+   139,
+   305
+  ],
+  "research": [
+   8,
+   170
+  ],
+  "researcher-provided": [
+   279
+  ],
+  "researcher-supplied": [
+   26
+  ],
+  "review": [
+   143
+  ],
+  "review);": [
+   295
+  ],
+  "samples.": [
+   49
+  ],
+  "script": [
+   122
+  ],
+  "scripts": [
+   22,
+   51,
+   180
+  ],
+  "seconds": [
+   59
+  ],
+  "sections:": [
+   119
+  ],
+  "session": [
+   9
+  ],
+  "silently": [
+   24
+  ],
+  "single": [
+   6
+  ],
+  "states": [
+   257
+  ],
+  "statistical": [
+   16
+  ],
+  "statistics": [
+   34
+  ],
+  "study": [
+   250
+  ],
+  "tables": [
+   208
+  ],
+  "technique": [
+   78
+  ],
+  "termed.": [
+   275
+  ],
+  "text,": [
+   121
+  ],
+  "that": [
+   23
+  ],
+  "the": [
+   95,
+   309
+  ],
+  "timestamps": [
+   191
+  ],
+  "to": [
+   82,
+   308
+  ],
+  "totals)": [
+   85
+  ],
+  "transcript": [
+   219,
+   234,
+   298
+  ],
+  "translations.": [
+   280
+  ],
+  "v01–v04": [
+   183
+  ],
+  "v1.0": [
+   103,
+   116,
+   133,
+   150
+  ],
+  "v1.1": [
+   281
+  ],
+  "v2.3": [
+   165
+  ],
+  "were": [
+   52
+  ],
+  "with": [
+   29,
+   107,
+   140,
+   186
+  ],
+  "within": [
+   54
+  ],
+  "~240": [
+   229
+  ],
+  "~90": [
+   204
+  ],
+  "—": [
+   73,
+   86,
+   104,
+   117,
+   136,
+   153,
+   168,
+   181,
+   194,
+   203,
+   216,
+   238
+  ],
+  "사례정리보고서)": [
+   135
+  ],
+  "스토리텔링)": [
+   152
+  ],
+  "전체기록)": [
+   167
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Studies of YoonSB (Independent Researcher)"
+    }
+   ],
+   "author": {
+    "display_name": "Soon-Bong Yoon",
+    "id": "https://openalex.org/A5047218272",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Studies of YoonSB (Independent Researcher)"
+   ],
+   "raw_author_name": "Yoon, Soon-Bong",
+   "raw_orcid": "https://orcid.org/0009-0000-6209-6392"
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.5281/zenodo.19058375",
+  "is_accepted": false,
+  "is_oa": true,
+  "is_published": false,
+  "landing_page_url": "https://doi.org/10.5281/zenodo.19058375",
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "pdf_url": null,
+  "raw_source_name": null,
+  "raw_type": "Report",
+  "source": {
+   "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+   "host_organization": "https://openalex.org/I67311998",
+   "host_organization_lineage": [
+    "https://openalex.org/I67311998"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "European Organization for Nuclear Research",
+   "id": "https://openalex.org/S4306400562",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": null
+ },
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": "https://doi.org/10.5281/zenodo.19058375",
+ "funders": [],
+ "id": "https://openalex.org/W7138212217",
+ "ids": {
+  "doi": "https://doi.org/10.5281/zenodo.19058375",
+  "openalex": "https://openalex.org/W7138212217"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": true,
+  "is_oa": true,
+  "oa_status": "green",
+  "oa_url": "https://doi.org/10.5281/zenodo.19058375"
+ },
+ "primary_location": {
+  "id": "doi:10.5281/zenodo.19058375",
+  "is_accepted": false,
+  "is_oa": true,
+  "is_published": false,
+  "landing_page_url": "https://doi.org/10.5281/zenodo.19058375",
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "pdf_url": null,
+  "raw_source_name": null,
+  "raw_type": "Report",
+  "source": {
+   "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+   "host_organization": "https://openalex.org/I67311998",
+   "host_organization_lineage": [
+    "https://openalex.org/I67311998"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "European Organization for Nuclear Research",
+   "id": "https://openalex.org/S4306400562",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": null
+ },
+ "publication_year": 2026,
+ "referenced_works": [],
+ "related_works": [],
+ "title": "Code-Mediated Data Fabrication by Google Gemini: A 127-Turn Case Report with File-System Forensics",
+ "type": "report"
+}

@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 88,
+ "doi": "https://doi.org/10.1109/tc.1981.1675861",
+ "id": "https://openalex.org/W1975507646",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W2065966163",
+  "https://openalex.org/W2072222013",
+  "https://openalex.org/W2120132905",
+  "https://openalex.org/W2124078793",
+  "https://openalex.org/W2140727935"
+ ],
+ "title": "Multiple-Valued Decomposition of Generalized Boolean Functions and the Complexity of Programmable Logic Arrays"
+}

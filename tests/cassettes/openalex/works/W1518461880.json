@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 141,
+ "doi": "https://doi.org/10.48550/arxiv.1002.4908",
+ "id": "https://openalex.org/W1518461880",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W60189517",
+  "https://openalex.org/W86575217",
+  "https://openalex.org/W1507048260",
+  "https://openalex.org/W1570963478",
+  "https://openalex.org/W1594567720",
+  "https://openalex.org/W1966771059",
+  "https://openalex.org/W2055639053",
+  "https://openalex.org/W2091825929",
+  "https://openalex.org/W2096199223",
+  "https://openalex.org/W2106129230",
+  "https://openalex.org/W2113651538",
+  "https://openalex.org/W2122537498",
+  "https://openalex.org/W2124140601",
+  "https://openalex.org/W2139759436",
+  "https://openalex.org/W2142623206",
+  "https://openalex.org/W2148825261",
+  "https://openalex.org/W2169401877",
+  "https://openalex.org/W2296319761",
+  "https://openalex.org/W2405601855"
+ ],
+ "title": "Adaptive Bound Optimization for Online Convex Optimization"
+}

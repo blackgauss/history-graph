@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 254,
+ "doi": "https://doi.org/10.1145/320064.320065",
+ "id": "https://openalex.org/W1964111545",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W102584024",
+  "https://openalex.org/W2003441663",
+  "https://openalex.org/W2024061272",
+  "https://openalex.org/W2026731931",
+  "https://openalex.org/W2026929157",
+  "https://openalex.org/W2031073919",
+  "https://openalex.org/W2050030476",
+  "https://openalex.org/W2084455637",
+  "https://openalex.org/W2116731840",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W4247566795",
+  "https://openalex.org/W4250293032"
+ ],
+ "title": "Implementing a relational database by means of specialzed hardware"
+}

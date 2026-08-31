@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 127,
+ "counts_by_year": [
+  {
+   "cited_by_count": 41,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1002/alz.13390",
+ "id": "https://openalex.org/W4386347024",
+ "publication_year": 2023,
+ "title": "Artificial intelligence for biomarker discovery in Alzheimer's disease and dementia"
+}

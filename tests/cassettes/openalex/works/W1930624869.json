@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 5120,
+ "doi": "https://doi.org/10.1109/icdar.1995.598994",
+ "id": "https://openalex.org/W1930624869",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W80760317",
+  "https://openalex.org/W134865995",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1600761772",
+  "https://openalex.org/W1835182418",
+  "https://openalex.org/W1976123439",
+  "https://openalex.org/W2002816646",
+  "https://openalex.org/W2023838375",
+  "https://openalex.org/W2060604179",
+  "https://openalex.org/W2078963943",
+  "https://openalex.org/W2135293965",
+  "https://openalex.org/W2168228682",
+  "https://openalex.org/W2913407066",
+  "https://openalex.org/W4239390603",
+  "https://openalex.org/W6603222281"
+ ],
+ "title": "Random decision forests"
+}

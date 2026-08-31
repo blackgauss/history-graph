@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 47,
+ "doi": "https://doi.org/10.1080/01621459.1976.10480336",
+ "id": "https://openalex.org/W1994753884",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W2095817904",
+  "https://openalex.org/W2120062331",
+  "https://openalex.org/W2133501628",
+  "https://openalex.org/W2797195457",
+  "https://openalex.org/W4230948549",
+  "https://openalex.org/W4252780345"
+ ],
+ "title": "General Estimates of the Intrinsic Variability of Data in Nonlinear Regression Models"
+}

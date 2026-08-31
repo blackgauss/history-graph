@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 146,
+ "doi": "https://doi.org/10.1184/r1/6610754",
+ "id": "https://openalex.org/W2129831132",
+ "publication_year": 2018,
+ "referenced_works": [
+  "https://openalex.org/W1963605035",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2109779438",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W2121553911",
+  "https://openalex.org/W2150432291",
+  "https://openalex.org/W2167277568",
+  "https://openalex.org/W2169163929",
+  "https://openalex.org/W3121126077"
+ ],
+ "title": "The Recurrent Cascade-Correlation architecture"
+}

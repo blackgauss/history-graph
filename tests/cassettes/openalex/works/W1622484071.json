@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 766,
+ "doi": "https://doi.org/10.1142/9789812795885_0025",
+ "id": "https://openalex.org/W1622484071",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W25566965",
+  "https://openalex.org/W113171223",
+  "https://openalex.org/W1981492171",
+  "https://openalex.org/W2069888879",
+  "https://openalex.org/W2110593694",
+  "https://openalex.org/W2120592763",
+  "https://openalex.org/W2124181495",
+  "https://openalex.org/W2135293965",
+  "https://openalex.org/W2139763837",
+  "https://openalex.org/W2146766088",
+  "https://openalex.org/W2149991584",
+  "https://openalex.org/W2150884987",
+  "https://openalex.org/W2156692643",
+  "https://openalex.org/W2164568552",
+  "https://openalex.org/W2727300753",
+  "https://openalex.org/W2791800931"
+ ],
+ "title": "When networks disagree: Ensemble methods for hybrid neural networks"
+}

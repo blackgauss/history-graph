@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 18,
+ "doi": "https://doi.org/10.1109/32.21722",
+ "id": "https://openalex.org/W1974610458",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1509415190",
+  "https://openalex.org/W1520815598",
+  "https://openalex.org/W1748095660",
+  "https://openalex.org/W2008116177",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2023467128",
+  "https://openalex.org/W2069184244",
+  "https://openalex.org/W2082004608",
+  "https://openalex.org/W2142098074",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2167679350",
+  "https://openalex.org/W2489748212",
+  "https://openalex.org/W2788164529",
+  "https://openalex.org/W4235336266",
+  "https://openalex.org/W6630641828",
+  "https://openalex.org/W6637593805",
+  "https://openalex.org/W6671072477"
+ ],
+ "title": "Heuristics for join processing using nonclustered indexes"
+}

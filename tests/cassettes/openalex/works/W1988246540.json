@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 47,
+ "doi": "https://doi.org/10.1016/0168-0072(94)90083-3",
+ "id": "https://openalex.org/W1988246540",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1497630311",
+  "https://openalex.org/W1535956864",
+  "https://openalex.org/W1733567923",
+  "https://openalex.org/W1974087219",
+  "https://openalex.org/W2034676877",
+  "https://openalex.org/W2050702141",
+  "https://openalex.org/W2062968803",
+  "https://openalex.org/W2568721247",
+  "https://openalex.org/W6632088067",
+  "https://openalex.org/W6637934189"
+ ],
+ "title": "Third order matching is decidable"
+}

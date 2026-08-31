@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 119,
+ "doi": "https://doi.org/10.1017/s0960129500070109",
+ "id": "https://openalex.org/W1491698270",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1512028847",
+  "https://openalex.org/W1555216982",
+  "https://openalex.org/W1557619244",
+  "https://openalex.org/W1986487716",
+  "https://openalex.org/W1996605832",
+  "https://openalex.org/W2051328776",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2110902909",
+  "https://openalex.org/W2154218921",
+  "https://openalex.org/W2204477326",
+  "https://openalex.org/W2614313987",
+  "https://openalex.org/W3163132554",
+  "https://openalex.org/W4388299483"
+ ],
+ "title": "Uniqueness typing for functional languages with graph rewriting semantics"
+}

@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 227,
+ "doi": "https://doi.org/10.1109/pgec.1966.264376",
+ "id": "https://openalex.org/W1993225874",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W657039739",
+  "https://openalex.org/W1969474413",
+  "https://openalex.org/W2018094844",
+  "https://openalex.org/W2331993796",
+  "https://openalex.org/W6621996003"
+ ],
+ "title": "On Finding a Nearly Minimal Set of Fault Detection Tests for Combinational Logic Nets"
+}

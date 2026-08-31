@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 150,
+ "doi": "https://doi.org/10.1109/acc.1998.703255",
+ "id": "https://openalex.org/W2105863608",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W181286060",
+  "https://openalex.org/W1552702174",
+  "https://openalex.org/W2116682613",
+  "https://openalex.org/W2135410595",
+  "https://openalex.org/W2732885776",
+  "https://openalex.org/W6633228590",
+  "https://openalex.org/W6680335595",
+  "https://openalex.org/W6740345836"
+ ],
+ "title": "The Simplex architecture for safe online control system upgrades"
+}

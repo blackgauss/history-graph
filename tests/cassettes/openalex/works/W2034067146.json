@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1145/7885.7889",
+ "id": "https://openalex.org/W2034067146",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W14048460",
+  "https://openalex.org/W169739290",
+  "https://openalex.org/W1491329897",
+  "https://openalex.org/W1524668325",
+  "https://openalex.org/W1549179643",
+  "https://openalex.org/W1964523235",
+  "https://openalex.org/W1985324218",
+  "https://openalex.org/W2039509869",
+  "https://openalex.org/W2039601877",
+  "https://openalex.org/W2050525558",
+  "https://openalex.org/W2067367761",
+  "https://openalex.org/W2072191579",
+  "https://openalex.org/W2091467328",
+  "https://openalex.org/W2093203790",
+  "https://openalex.org/W2102367068",
+  "https://openalex.org/W2105775150",
+  "https://openalex.org/W2114321793",
+  "https://openalex.org/W2122789628",
+  "https://openalex.org/W2130474477",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2166811997",
+  "https://openalex.org/W2171658883",
+  "https://openalex.org/W2495528278",
+  "https://openalex.org/W3021202943"
+ ],
+ "title": "MATCH—a new high-level relational operator for pattern matching"
+}

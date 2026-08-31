@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 190,
+ "counts_by_year": [
+  {
+   "cited_by_count": 10,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 49,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 30,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2021
+  }
+ ],
+ "doi": "https://doi.org/10.1109/twc.2020.3041750",
+ "id": "https://openalex.org/W3111412729",
+ "publication_year": 2020,
+ "title": "UAV-Aided Data Collection for Information Freshness in Wireless Sensor Networks"
+}

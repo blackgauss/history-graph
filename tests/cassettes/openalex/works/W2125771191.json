@@ -1,0 +1,106 @@
+{
+ "cited_by_count": 1048,
+ "counts_by_year": [
+  {
+   "cited_by_count": 6,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 48,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 64,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 67,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 80,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 78,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 87,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1148170.1148177",
+ "id": "https://openalex.org/W2125771191",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W131411689",
+  "https://openalex.org/W147554451",
+  "https://openalex.org/W642396912",
+  "https://openalex.org/W854322902",
+  "https://openalex.org/W1522744294",
+  "https://openalex.org/W1576520375",
+  "https://openalex.org/W1605174882",
+  "https://openalex.org/W1652319903",
+  "https://openalex.org/W1660390307",
+  "https://openalex.org/W1669430462",
+  "https://openalex.org/W1956559956",
+  "https://openalex.org/W1985081562",
+  "https://openalex.org/W1985554184",
+  "https://openalex.org/W1999047234",
+  "https://openalex.org/W2006551346",
+  "https://openalex.org/W2043221382",
+  "https://openalex.org/W2047221353",
+  "https://openalex.org/W2061503185",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2084213692",
+  "https://openalex.org/W2085030399",
+  "https://openalex.org/W2099391294",
+  "https://openalex.org/W2123937625",
+  "https://openalex.org/W2129235726",
+  "https://openalex.org/W2134131174",
+  "https://openalex.org/W2143331230",
+  "https://openalex.org/W2152314154",
+  "https://openalex.org/W2185884126",
+  "https://openalex.org/W2325227998",
+  "https://openalex.org/W2918053736",
+  "https://openalex.org/W4251560691",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6605300326",
+  "https://openalex.org/W6636888537",
+  "https://openalex.org/W6640862754"
+ ],
+ "title": "Improving web search ranking by incorporating user behavior information"
+}

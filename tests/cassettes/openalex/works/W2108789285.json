@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 38,
+ "doi": null,
+ "id": "https://openalex.org/W2108789285",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2032164462",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W2116664051",
+  "https://openalex.org/W2121553911",
+  "https://openalex.org/W2134568112",
+  "https://openalex.org/W2468203291"
+ ],
+ "title": "Induction of Finite-State Automata Using Second-Order Recurrent Networks"
+}

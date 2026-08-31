@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 42,
+ "doi": null,
+ "id": "https://openalex.org/W24691574",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1901716653",
+  "https://openalex.org/W2010385035",
+  "https://openalex.org/W2079625074",
+  "https://openalex.org/W2110415190",
+  "https://openalex.org/W2118888533",
+  "https://openalex.org/W2150470619",
+  "https://openalex.org/W2153432209",
+  "https://openalex.org/W2159047538",
+  "https://openalex.org/W2202514763",
+  "https://openalex.org/W3198350258"
+ ],
+ "title": "A unified theory of heuristic evaluation functions and its application to learning"
+}

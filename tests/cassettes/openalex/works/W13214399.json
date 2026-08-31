@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 43,
+ "doi": "https://doi.org/10.1007/bfb0099526",
+ "id": "https://openalex.org/W13214399",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1484494266",
+  "https://openalex.org/W1549376673",
+  "https://openalex.org/W1635457335",
+  "https://openalex.org/W1748199557",
+  "https://openalex.org/W1966539012",
+  "https://openalex.org/W1988591078",
+  "https://openalex.org/W1994038822",
+  "https://openalex.org/W2000757960",
+  "https://openalex.org/W2003385023",
+  "https://openalex.org/W2011253492",
+  "https://openalex.org/W2021484063",
+  "https://openalex.org/W2030405518",
+  "https://openalex.org/W2035079355",
+  "https://openalex.org/W2040122038",
+  "https://openalex.org/W2054171867",
+  "https://openalex.org/W2087135413",
+  "https://openalex.org/W2120129882",
+  "https://openalex.org/W2154589350",
+  "https://openalex.org/W2162988958",
+  "https://openalex.org/W4236316114",
+  "https://openalex.org/W4240022917"
+ ],
+ "title": "Numerical experiments with partially separable optimization problems"
+}

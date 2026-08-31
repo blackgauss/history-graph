@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 339,
+ "doi": "https://doi.org/10.1109/9.21085",
+ "id": "https://openalex.org/W2163271009",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W86914669",
+  "https://openalex.org/W634463279",
+  "https://openalex.org/W1488377518",
+  "https://openalex.org/W1521979570",
+  "https://openalex.org/W1964019295",
+  "https://openalex.org/W2014034914",
+  "https://openalex.org/W2019597565",
+  "https://openalex.org/W2031160121",
+  "https://openalex.org/W2038979284",
+  "https://openalex.org/W2042312329",
+  "https://openalex.org/W2052388668",
+  "https://openalex.org/W2062885817",
+  "https://openalex.org/W2100131857",
+  "https://openalex.org/W2104394958",
+  "https://openalex.org/W2133974910",
+  "https://openalex.org/W2145614148",
+  "https://openalex.org/W2315169567",
+  "https://openalex.org/W2796716881",
+  "https://openalex.org/W6629022124"
+ ],
+ "title": "Stable, distributed, real-time scheduling of flexible manufacturing/assembly/diassembly systems"
+}

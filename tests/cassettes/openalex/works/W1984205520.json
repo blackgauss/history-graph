@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 295,
+ "doi": "https://doi.org/10.1080/09540098908915631",
+ "id": "https://openalex.org/W1984205520",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W270375035",
+  "https://openalex.org/W1523732620",
+  "https://openalex.org/W1529155465",
+  "https://openalex.org/W1881179843",
+  "https://openalex.org/W1984375561",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2119796132",
+  "https://openalex.org/W2154642048",
+  "https://openalex.org/W2160853866",
+  "https://openalex.org/W2482792214",
+  "https://openalex.org/W2895674046",
+  "https://openalex.org/W3133056632",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Experimental Analysis of the Real-time Recurrent Learning Algorithm"
+}

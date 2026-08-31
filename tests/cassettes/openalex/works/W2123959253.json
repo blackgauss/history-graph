@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 132,
+ "doi": "https://doi.org/10.1145/225298.225305",
+ "id": "https://openalex.org/W2123959253",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1482451543",
+  "https://openalex.org/W1507282704",
+  "https://openalex.org/W1590476178",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2050660892",
+  "https://openalex.org/W2066539191",
+  "https://openalex.org/W2082967074",
+  "https://openalex.org/W2093825590",
+  "https://openalex.org/W2095963120",
+  "https://openalex.org/W2116190532",
+  "https://openalex.org/W2116952242",
+  "https://openalex.org/W2119984390",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2129113961",
+  "https://openalex.org/W2134696506",
+  "https://openalex.org/W2139734472",
+  "https://openalex.org/W2148844225",
+  "https://openalex.org/W2163294786",
+  "https://openalex.org/W2611627047",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Predicting nearly as well as the best pruning of a decision tree"
+}

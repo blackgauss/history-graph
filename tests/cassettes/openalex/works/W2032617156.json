@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 58,
+ "doi": "https://doi.org/10.1016/0375-9601(94)90537-1",
+ "id": "https://openalex.org/W2032617156",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1857590804",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W1993663431",
+  "https://openalex.org/W2003989103",
+  "https://openalex.org/W2011294681",
+  "https://openalex.org/W2012206667",
+  "https://openalex.org/W2017920704",
+  "https://openalex.org/W2018024051",
+  "https://openalex.org/W2027080800",
+  "https://openalex.org/W2049749977",
+  "https://openalex.org/W2059041305",
+  "https://openalex.org/W2061238717",
+  "https://openalex.org/W2076076006",
+  "https://openalex.org/W2079802187",
+  "https://openalex.org/W2085426595",
+  "https://openalex.org/W2095533469",
+  "https://openalex.org/W2143861309",
+  "https://openalex.org/W2149158279",
+  "https://openalex.org/W2224718057",
+  "https://openalex.org/W4233798822",
+  "https://openalex.org/W4248356056",
+  "https://openalex.org/W4251109627"
+ ],
+ "title": "Quantum computer on a class of one-dimensional Ising systems"
+}

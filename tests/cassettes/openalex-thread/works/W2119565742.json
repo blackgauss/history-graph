@@ -1,0 +1,748 @@
+{
+ "abstract_inverted_index": {
+  "3—Distributed": [
+   203
+  ],
+  "Categories": [
+   197
+  ],
+  "D": [
+   201
+  ],
+  "Descriptors": [
+   200
+  ],
+  "File": [
+   7
+  ],
+  "Google": [
+   6,
+   110
+  ],
+  "In": [
+   167
+  ],
+  "It": [
+   19,
+   105
+  ],
+  "Subject": [
+   199
+  ],
+  "Sys-tem,": [
+   8
+  ],
+  "The": [
+   96,
+   138
+  ],
+  "This": [
+   82
+  ],
+  "We": [
+   0
+  ],
+  "While": [
+   41
+  ],
+  "[4]:": [
+   202
+  ],
+  "a": [
+   9,
+   36,
+   73,
+   155
+  ],
+  "accessed": [
+   162
+  ],
+  "across": [
+   149
+  ],
+  "aggregate": [
+   33
+  ],
+  "and": [
+   3,
+   29,
+   64,
+   69,
+   90,
+   118,
+   130,
+   158,
+   187,
+   193,
+   198
+  ],
+  "anticipated,": [
+   70
+  ],
+  "application": [
+   62
+  ],
+  "applications,": [
+   180
+  ],
+  "applications.": [
+   18
+  ],
+  "as": [
+   48,
+   111,
+   126,
+   128
+  ],
+  "aspects": [
+   183
+  ],
+  "assumptions.": [
+   81
+  ],
+  "been": [
+   56
+  ],
+  "both": [
+   67,
+   191
+  ],
+  "by": [
+   58,
+   123,
+   163
+  ],
+  "choices": [
+   89
+  ],
+  "clients.": [
+   40,
+   166
+  ],
+  "cluster": [
+   140
+  ],
+  "commodity": [
+   27
+  ],
+  "concurrently": [
+   161
+  ],
+  "current": [
+   68
+  ],
+  "data": [
+   121,
+   136
+  ],
+  "data-intensive": [
+   17
+  ],
+  "date": [
+   142
+  ],
+  "delivers": [
+   31
+  ],
+  "departure": [
+   75
+  ],
+  "deployed": [
+   108
+  ],
+  "design": [
+   54,
+   94
+  ],
+  "design,": [
+   186
+  ],
+  "designed": [
+   2,
+   176
+  ],
+  "development": [
+   131
+  ],
+  "different": [
+   93
+  ],
+  "dis-tributed": [
+   50
+  ],
+  "discuss": [
+   181
+  ],
+  "disks": [
+   152
+  ],
+  "distributed": [
+   11,
+   16,
+   179
+  ],
+  "driven": [
+   57
+  ],
+  "earlier": [
+   78
+  ],
+  "efforts": [
+   132
+  ],
+  "envi-ronment,": [
+   66
+  ],
+  "explore": [
+   91
+  ],
+  "extensions": [
+   175
+  ],
+  "fault": [
+   21
+  ],
+  "file": [
+   12,
+   51,
+   79,
+   97,
+   172,
+   204
+  ],
+  "for": [
+   14,
+   115
+  ],
+  "from": [
+   76,
+   190
+  ],
+  "generation": [
+   117
+  ],
+  "goals": [
+   47
+  ],
+  "hardware,": [
+   28
+  ],
+  "has": [
+   55,
+   83,
+   99
+  ],
+  "have": [
+   1
+  ],
+  "high": [
+   32
+  ],
+  "hun-dreds": [
+   144
+  ],
+  "hundreds": [
+   164
+  ],
+  "implemented": [
+   4
+  ],
+  "inexpensive": [
+   26
+  ],
+  "interface": [
+   174
+  ],
+  "is": [
+   106,
+   160
+  ],
+  "it": [
+   30,
+   159
+  ],
+  "large": [
+   15,
+   37,
+   135
+  ],
+  "largest": [
+   139
+  ],
+  "led": [
+   84
+  ],
+  "machines,": [
+   157
+  ],
+  "many": [
+   43,
+   182
+  ],
+  "marked": [
+   74
+  ],
+  "measurements": [
+   189
+  ],
+  "met": [
+   101
+  ],
+  "micro-benchmarks": [
+   192
+  ],
+  "needs.": [
+   104
+  ],
+  "number": [
+   38
+  ],
+  "obser-vations": [
+   59
+  ],
+  "of": [
+   39,
+   44,
+   60,
+   120,
+   145,
+   147,
+   151,
+   165,
+   184
+  ],
+  "on": [
+   25,
+   153
+  ],
+  "our": [
+   53,
+   61,
+   102,
+   124,
+   185
+  ],
+  "over": [
+   154
+  ],
+  "paper,": [
+   169
+  ],
+  "performance": [
+   34
+  ],
+  "platform": [
+   114
+  ],
+  "points.": [
+   95
+  ],
+  "present": [
+   171
+  ],
+  "previous": [
+   49
+  ],
+  "processing": [
+   119
+  ],
+  "provides": [
+   20,
+   143
+  ],
+  "rad-ically": [
+   92
+  ],
+  "real": [
+   194
+  ],
+  "reexamine": [
+   87
+  ],
+  "reflect": [
+   72
+  ],
+  "report": [
+   188
+  ],
+  "require": [
+   134
+  ],
+  "research": [
+   129
+  ],
+  "running": [
+   24
+  ],
+  "same": [
+   46
+  ],
+  "scalable": [
+   10
+  ],
+  "ser-vice": [
+   125
+  ],
+  "sets.": [
+   137
+  ],
+  "sharing": [
+   42
+  ],
+  "some": [
+   77
+  ],
+  "storage": [
+   103,
+   113,
+   148
+  ],
+  "successfully": [
+   100
+  ],
+  "support": [
+   178
+  ],
+  "system": [
+   13,
+   80,
+   98,
+   173
+  ],
+  "systems": [
+   205
+  ],
+  "systems,": [
+   52
+  ],
+  "technological": [
+   65
+  ],
+  "terabytes": [
+   146
+  ],
+  "that": [
+   71,
+   133
+  ],
+  "the": [
+   5,
+   45,
+   112,
+   116
+  ],
+  "this": [
+   168
+  ],
+  "thousand": [
+   156
+  ],
+  "thousands": [
+   150
+  ],
+  "to": [
+   35,
+   86,
+   141,
+   177
+  ],
+  "tolerance": [
+   22
+  ],
+  "traditional": [
+   88
+  ],
+  "us": [
+   85
+  ],
+  "use.": [
+   196
+  ],
+  "used": [
+   122
+  ],
+  "we": [
+   170
+  ],
+  "well": [
+   127
+  ],
+  "while": [
+   23
+  ],
+  "widely": [
+   107
+  ],
+  "within": [
+   109
+  ],
+  "workloads": [
+   63
+  ],
+  "world": [
+   195
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ],
+     "raw_affiliation_string": "Google"
+    }
+   ],
+   "author": {
+    "display_name": "Sanjay Ghemawat",
+    "id": "https://openalex.org/A5012998255",
+    "orcid": "https://orcid.org/0009-0005-6843-3093"
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Google (United States)",
+     "id": "https://openalex.org/I1291425158",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ],
+     "ror": "https://ror.org/00njsd438",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Google"
+   ],
+   "raw_author_name": "Sanjay Ghemawat",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ],
+     "raw_affiliation_string": "Google"
+    }
+   ],
+   "author": {
+    "display_name": "Howard Gobioff",
+    "id": "https://openalex.org/A5031384489",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Google (United States)",
+     "id": "https://openalex.org/I1291425158",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ],
+     "ror": "https://ror.org/00njsd438",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Google"
+   ],
+   "raw_author_name": "Howard Gobioff",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ],
+     "raw_affiliation_string": "Google"
+    }
+   ],
+   "author": {
+    "display_name": "Shun-Tak A. Leung",
+    "id": "https://openalex.org/A5049326989",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Google (United States)",
+     "id": "https://openalex.org/I1291425158",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ],
+     "ror": "https://ror.org/00njsd438",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Google"
+   ],
+   "raw_author_name": "Shun-Tak Leung",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 5010,
+ "counts_by_year": [
+  {
+   "cited_by_count": 12,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 128,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 154,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 192,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 334,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 302,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 397,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 493,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 477,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 507,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 445,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1165389.945450",
+ "funders": [],
+ "id": "https://openalex.org/W2119565742",
+ "ids": {
+  "doi": "https://doi.org/10.1145/1165389.945450",
+  "mag": "2119565742",
+  "openalex": "https://openalex.org/W2119565742"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1145/1165389.945450",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1145/1165389.945450",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "ACM SIGOPS Operating Systems Review",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "ACM SIGOPS Operating Systems Review",
+   "host_organization": "https://openalex.org/P4310319798",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319798"
+   ],
+   "host_organization_lineage_names": [
+    "Association for Computing Machinery"
+   ],
+   "host_organization_name": "Association for Computing Machinery",
+   "id": "https://openalex.org/S50071195",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0163-5980",
+    "1943-586X"
+   ],
+   "issn_l": "0163-5980",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W600120100",
+  "https://openalex.org/W1566984846",
+  "https://openalex.org/W2005373714",
+  "https://openalex.org/W2007807439",
+  "https://openalex.org/W2025413686",
+  "https://openalex.org/W2073965851",
+  "https://openalex.org/W2088221489",
+  "https://openalex.org/W2115457697",
+  "https://openalex.org/W2131645490",
+  "https://openalex.org/W2133338501",
+  "https://openalex.org/W2137808089",
+  "https://openalex.org/W2147504831",
+  "https://openalex.org/W2149609142",
+  "https://openalex.org/W2157737097",
+  "https://openalex.org/W4230805115",
+  "https://openalex.org/W4232342695",
+  "https://openalex.org/W4248578633"
+ ],
+ "related_works": [
+  "https://openalex.org/W753420207",
+  "https://openalex.org/W2353896575",
+  "https://openalex.org/W1550839482",
+  "https://openalex.org/W2379000728",
+  "https://openalex.org/W2368354671",
+  "https://openalex.org/W2389631998",
+  "https://openalex.org/W2362483455",
+  "https://openalex.org/W2355113374",
+  "https://openalex.org/W2391476234",
+  "https://openalex.org/W2361292213"
+ ],
+ "title": "The Google file system",
+ "type": "article"
+}

@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 96,
+ "doi": "https://doi.org/10.1007/978-3-540-32275-7_3",
+ "id": "https://openalex.org/W1535839566",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1484352250",
+  "https://openalex.org/W1489527380",
+  "https://openalex.org/W1490156001",
+  "https://openalex.org/W1500046621",
+  "https://openalex.org/W1511155470",
+  "https://openalex.org/W1515278398",
+  "https://openalex.org/W1568333198",
+  "https://openalex.org/W1589982562",
+  "https://openalex.org/W1948299783",
+  "https://openalex.org/W2044560939",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2075959177",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2170408876",
+  "https://openalex.org/W2479999086",
+  "https://openalex.org/W2493672872",
+  "https://openalex.org/W4247585869"
+ ],
+ "title": "Abstract DPLL and Abstract DPLL Modulo Theories"
+}

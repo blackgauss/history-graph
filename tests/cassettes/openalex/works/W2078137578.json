@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 136,
+ "doi": "https://doi.org/10.1006/jagm.1997.0867",
+ "id": "https://openalex.org/W2078137578",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W4983232",
+  "https://openalex.org/W1597271110",
+  "https://openalex.org/W1600826028",
+  "https://openalex.org/W1636182933",
+  "https://openalex.org/W1963913579",
+  "https://openalex.org/W1965913970",
+  "https://openalex.org/W1969377401",
+  "https://openalex.org/W1969966778",
+  "https://openalex.org/W2000931246",
+  "https://openalex.org/W2002651865",
+  "https://openalex.org/W2003306963",
+  "https://openalex.org/W2018251959",
+  "https://openalex.org/W2051580875",
+  "https://openalex.org/W2097565928",
+  "https://openalex.org/W2138778293",
+  "https://openalex.org/W2155218845",
+  "https://openalex.org/W2164346692",
+  "https://openalex.org/W2408006898",
+  "https://openalex.org/W4206742702",
+  "https://openalex.org/W6650920270",
+  "https://openalex.org/W6713511381"
+ ],
+ "title": "A General Upper Bound for the Satisfiability Threshold of Randomr-SAT Formulae"
+}

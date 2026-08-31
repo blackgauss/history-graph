@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 138,
+ "doi": "https://doi.org/10.1007/bf00993591",
+ "id": "https://openalex.org/W4231226883",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W111328409",
+  "https://openalex.org/W1491843047",
+  "https://openalex.org/W1569296262",
+  "https://openalex.org/W1986325208",
+  "https://openalex.org/W2027154457",
+  "https://openalex.org/W2077091230",
+  "https://openalex.org/W2090170700",
+  "https://openalex.org/W2091565802",
+  "https://openalex.org/W2160600044",
+  "https://openalex.org/W2160645305",
+  "https://openalex.org/W4240328096",
+  "https://openalex.org/W4242811155",
+  "https://openalex.org/W4245108548",
+  "https://openalex.org/W4300509647",
+  "https://openalex.org/W6601865881",
+  "https://openalex.org/W6634476248",
+  "https://openalex.org/W6636070404",
+  "https://openalex.org/W6640629700",
+  "https://openalex.org/W6667792298",
+  "https://openalex.org/W6683821272",
+  "https://openalex.org/W6704298589",
+  "https://openalex.org/W6775686901",
+  "https://openalex.org/W7011713723"
+ ],
+ "title": "The parti-game algorithm for variable resolution reinforcement learning in multidimensional state-spaces"
+}

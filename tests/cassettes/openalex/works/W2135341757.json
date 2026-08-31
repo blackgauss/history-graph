@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 372,
+ "doi": null,
+ "id": "https://openalex.org/W2135341757",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1994197834",
+  "https://openalex.org/W2019599312",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2096192494",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2108384452",
+  "https://openalex.org/W2116064496",
+  "https://openalex.org/W2116825644",
+  "https://openalex.org/W2120340025",
+  "https://openalex.org/W2124914669",
+  "https://openalex.org/W2125838338",
+  "https://openalex.org/W2134653808",
+  "https://openalex.org/W2135094946",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2147010501",
+  "https://openalex.org/W2150675045",
+  "https://openalex.org/W2158164339",
+  "https://openalex.org/W2725061391"
+ ],
+ "title": "The Recurrent Temporal Restricted Boltzmann Machine"
+}

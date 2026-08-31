@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 251,
+ "doi": "https://doi.org/10.1016/0165-1684(94)90174-0",
+ "id": "https://openalex.org/W2080563952",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1236003406",
+  "https://openalex.org/W1968179574",
+  "https://openalex.org/W1984313570",
+  "https://openalex.org/W1989491465",
+  "https://openalex.org/W1996021349",
+  "https://openalex.org/W2003243598",
+  "https://openalex.org/W2021626442",
+  "https://openalex.org/W2024060531",
+  "https://openalex.org/W2033570251",
+  "https://openalex.org/W2151693816",
+  "https://openalex.org/W2973818247",
+  "https://openalex.org/W3165898261",
+  "https://openalex.org/W6628048877",
+  "https://openalex.org/W6682747227"
+ ],
+ "title": "Signal representation using adaptive normalized Gaussian functions"
+}

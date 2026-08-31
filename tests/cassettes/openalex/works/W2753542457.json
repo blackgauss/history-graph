@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 5347,
+ "doi": "https://doi.org/10.1145/205447.205462",
+ "id": "https://openalex.org/W2753542457",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W624020015",
+  "https://openalex.org/W1517082263",
+  "https://openalex.org/W1540723801",
+  "https://openalex.org/W1609176311",
+  "https://openalex.org/W1694743331",
+  "https://openalex.org/W1960085316",
+  "https://openalex.org/W1969949820",
+  "https://openalex.org/W1971370665",
+  "https://openalex.org/W1993822381",
+  "https://openalex.org/W1999955156",
+  "https://openalex.org/W2022083056",
+  "https://openalex.org/W2024941540",
+  "https://openalex.org/W2050140857",
+  "https://openalex.org/W2052242504",
+  "https://openalex.org/W2060338634",
+  "https://openalex.org/W2140480675",
+  "https://openalex.org/W2163208395",
+  "https://openalex.org/W2514980537",
+  "https://openalex.org/W2913500244",
+  "https://openalex.org/W4213240951",
+  "https://openalex.org/W4234237667",
+  "https://openalex.org/W4248023231",
+  "https://openalex.org/W6631001759",
+  "https://openalex.org/W6632371714"
+ ],
+ "title": "Congestion avoidance and control"
+}

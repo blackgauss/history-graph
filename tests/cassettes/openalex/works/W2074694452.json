@@ -1,0 +1,113 @@
+{
+ "cited_by_count": 894,
+ "counts_by_year": [
+  {
+   "cited_by_count": 20,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 58,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 85,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 119,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 125,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 106,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 94,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 96,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 54,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/2487575.2488200",
+ "id": "https://openalex.org/W2074694452",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W178236666",
+  "https://openalex.org/W866281365",
+  "https://openalex.org/W1518461880",
+  "https://openalex.org/W1594567720",
+  "https://openalex.org/W1605688901",
+  "https://openalex.org/W1788809966",
+  "https://openalex.org/W1853837125",
+  "https://openalex.org/W1904365287",
+  "https://openalex.org/W1910640298",
+  "https://openalex.org/W1968049117",
+  "https://openalex.org/W1973948212",
+  "https://openalex.org/W1975566260",
+  "https://openalex.org/W2009537245",
+  "https://openalex.org/W2009772318",
+  "https://openalex.org/W2065822237",
+  "https://openalex.org/W2070996757",
+  "https://openalex.org/W2090883204",
+  "https://openalex.org/W2092701055",
+  "https://openalex.org/W2096199223",
+  "https://openalex.org/W2098824882",
+  "https://openalex.org/W2110833841",
+  "https://openalex.org/W2113227443",
+  "https://openalex.org/W2114226753",
+  "https://openalex.org/W2120166550",
+  "https://openalex.org/W2123845384",
+  "https://openalex.org/W2124140601",
+  "https://openalex.org/W2126540423",
+  "https://openalex.org/W2134955779",
+  "https://openalex.org/W2139432235",
+  "https://openalex.org/W2146502635",
+  "https://openalex.org/W2148825261",
+  "https://openalex.org/W2158698691",
+  "https://openalex.org/W2162979096",
+  "https://openalex.org/W2168231600",
+  "https://openalex.org/W2570765347",
+  "https://openalex.org/W2597289420",
+  "https://openalex.org/W2616657226",
+  "https://openalex.org/W4299689471",
+  "https://openalex.org/W6635534490",
+  "https://openalex.org/W6640030590",
+  "https://openalex.org/W6680252161",
+  "https://openalex.org/W6684859321"
+ ],
+ "title": "Ad click prediction"
+}

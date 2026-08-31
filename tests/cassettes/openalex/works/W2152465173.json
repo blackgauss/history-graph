@@ -1,0 +1,120 @@
+{
+ "cited_by_count": 2397,
+ "counts_by_year": [
+  {
+   "cited_by_count": 33,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 76,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 84,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 59,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 130,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 136,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 128,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 121,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 96,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 74,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 95,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 97,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/98163.98167",
+ "id": "https://openalex.org/W2152465173",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W18703358",
+  "https://openalex.org/W572151317",
+  "https://openalex.org/W1482875841",
+  "https://openalex.org/W1525568670",
+  "https://openalex.org/W1572474464",
+  "https://openalex.org/W1578885347",
+  "https://openalex.org/W1591816826",
+  "https://openalex.org/W1619109010",
+  "https://openalex.org/W1775825429",
+  "https://openalex.org/W1780715146",
+  "https://openalex.org/W1783527871",
+  "https://openalex.org/W1965917732",
+  "https://openalex.org/W1980650074",
+  "https://openalex.org/W2012290600",
+  "https://openalex.org/W2016944512",
+  "https://openalex.org/W2034702409",
+  "https://openalex.org/W2035362408",
+  "https://openalex.org/W2044052675",
+  "https://openalex.org/W2047482026",
+  "https://openalex.org/W2053374874",
+  "https://openalex.org/W2061819031",
+  "https://openalex.org/W2076022311",
+  "https://openalex.org/W2079436279",
+  "https://openalex.org/W2081409107",
+  "https://openalex.org/W2089138728",
+  "https://openalex.org/W2101148098",
+  "https://openalex.org/W2101675843",
+  "https://openalex.org/W2106887953",
+  "https://openalex.org/W2110861182",
+  "https://openalex.org/W2111132249",
+  "https://openalex.org/W2116820549",
+  "https://openalex.org/W2118153508",
+  "https://openalex.org/W2128022501",
+  "https://openalex.org/W2148691391",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W2912536603",
+  "https://openalex.org/W3137092842",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W4231195072",
+  "https://openalex.org/W4298282319",
+  "https://openalex.org/W6600725312",
+  "https://openalex.org/W6631499605",
+  "https://openalex.org/W6634511471",
+  "https://openalex.org/W6635323241",
+  "https://openalex.org/W6637756758",
+  "https://openalex.org/W6653344278",
+  "https://openalex.org/W6654787798",
+  "https://openalex.org/W6659183558",
+  "https://openalex.org/W6675913266"
+ ],
+ "title": "Implementing fault-tolerant services using the state machine approach: a tutorial"
+}

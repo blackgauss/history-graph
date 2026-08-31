@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 69,
+ "doi": "https://doi.org/10.1145/1068009.1068092",
+ "id": "https://openalex.org/W2171625236",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W194249466",
+  "https://openalex.org/W573798079",
+  "https://openalex.org/W1687873425",
+  "https://openalex.org/W1979356863",
+  "https://openalex.org/W2012391952",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2076329865",
+  "https://openalex.org/W2096533821",
+  "https://openalex.org/W2100211715",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2116850952",
+  "https://openalex.org/W2124290836",
+  "https://openalex.org/W2150355110",
+  "https://openalex.org/W2162813238",
+  "https://openalex.org/W2999905431",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6674304311"
+ ],
+ "title": "Co-evolving recurrent neurons learn deep memory POMDPs"
+}

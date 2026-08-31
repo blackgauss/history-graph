@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 62,
+ "doi": "https://doi.org/10.13021/mars/3474",
+ "id": "https://openalex.org/W1525059493",
+ "publication_year": 1973,
+ "referenced_works": [
+  "https://openalex.org/W1499976251",
+  "https://openalex.org/W1549485114",
+  "https://openalex.org/W1615219652",
+  "https://openalex.org/W1642534797",
+  "https://openalex.org/W2225688504"
+ ],
+ "title": "Discovering Classification Rules Using Variable-Valued Logic System VL1"
+}

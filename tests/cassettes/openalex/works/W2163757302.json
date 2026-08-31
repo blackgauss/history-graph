@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 303,
+ "doi": "https://doi.org/10.1145/1014052.1014063",
+ "id": "https://openalex.org/W2163757302",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1509515766",
+  "https://openalex.org/W1549656520",
+  "https://openalex.org/W1576520375",
+  "https://openalex.org/W1599263113",
+  "https://openalex.org/W1618905105",
+  "https://openalex.org/W1985995090",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2143017915",
+  "https://openalex.org/W2170913656",
+  "https://openalex.org/W2756666283",
+  "https://openalex.org/W4312960235",
+  "https://openalex.org/W6634442568",
+  "https://openalex.org/W6635733909",
+  "https://openalex.org/W6671611538"
+ ],
+ "title": "Data mining in metric space"
+}

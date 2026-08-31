@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 849,
+ "doi": "https://doi.org/10.1137/s0097539701398363",
+ "id": "https://openalex.org/W2004110412",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1761167196",
+  "https://openalex.org/W1822348499",
+  "https://openalex.org/W1964857063",
+  "https://openalex.org/W1991962718",
+  "https://openalex.org/W2003262311",
+  "https://openalex.org/W2064379477",
+  "https://openalex.org/W2100369465",
+  "https://openalex.org/W2106163100",
+  "https://openalex.org/W2122929038",
+  "https://openalex.org/W2128869116",
+  "https://openalex.org/W2140115873",
+  "https://openalex.org/W2156943642",
+  "https://openalex.org/W2295205026",
+  "https://openalex.org/W2295428206",
+  "https://openalex.org/W3043924052",
+  "https://openalex.org/W4231916799"
+ ],
+ "title": "Maintaining Stream Statistics over Sliding Windows"
+}

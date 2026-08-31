@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 3859,
+ "doi": "https://doi.org/10.1126/science.1091277",
+ "id": "https://openalex.org/W2118706537",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W360515900",
+  "https://openalex.org/W637551875",
+  "https://openalex.org/W1543237449",
+  "https://openalex.org/W1560739766",
+  "https://openalex.org/W1943433854",
+  "https://openalex.org/W2008179265",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2020201744",
+  "https://openalex.org/W2045182040",
+  "https://openalex.org/W2058580716",
+  "https://openalex.org/W2086756055",
+  "https://openalex.org/W2094631910",
+  "https://openalex.org/W2103179919",
+  "https://openalex.org/W2134514463",
+  "https://openalex.org/W2143879519",
+  "https://openalex.org/W2150355110",
+  "https://openalex.org/W2158628389",
+  "https://openalex.org/W2166322089"
+ ],
+ "title": "Harnessing Nonlinearity: Predicting Chaotic Systems and Saving Energy in Wireless Communication"
+}

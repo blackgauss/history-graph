@@ -1,0 +1,258 @@
+{
+ "abstract_inverted_index": {
+  "A": [
+   0
+  ],
+  "[of": [
+   12
+  ],
+  "an": [
+   17
+  ],
+  "an...": [
+   43
+  ],
+  "believe": [
+   25
+  ],
+  "definitions": [
+   8
+  ],
+  "distinguished": [
+   1
+  ],
+  "event": [
+   18
+  ],
+  "fundamental": [
+   7
+  ],
+  "has": [
+   3,
+   28
+  ],
+  "have": [
+   23
+  ],
+  "is": [
+   19
+  ],
+  "it": [
+   27,
+   33
+  ],
+  "measure": [
+   38
+  ],
+  "of": [
+   9,
+   16,
+   39,
+   42
+  ],
+  "or": [
+   31
+  ],
+  "place,": [
+   30
+  ],
+  "place.’": [
+   36
+  ],
+  "probability": [
+   15,
+   41
+  ],
+  "probability]:": [
+   13
+  ],
+  "reason": [
+   21
+  ],
+  "science": [
+   11
+  ],
+  "stated": [
+   5
+  ],
+  "take": [
+   35
+  ],
+  "taken": [
+   29
+  ],
+  "that": [
+   26,
+   32
+  ],
+  "the": [
+   6,
+   10,
+   20,
+   40
+  ],
+  "thus": [
+   4
+  ],
+  "to": [
+   24
+  ],
+  "we": [
+   22
+  ],
+  "will": [
+   34
+  ],
+  "writer*": [
+   2
+  ],
+  "‘The": [
+   14,
+   37
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "George Boole",
+    "id": "https://openalex.org/A5076382518",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "George Boole",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 448,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 21,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1093/owc/9780199554652.003.0010",
+ "funders": [],
+ "id": "https://openalex.org/W3115527712",
+ "ids": {
+  "doi": "https://doi.org/10.1093/owc/9780199554652.003.0010",
+  "mag": "3115527712",
+  "openalex": "https://openalex.org/W3115527712"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1093/owc/9780199554652.003.0010",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1093/owc/9780199554652.003.0010",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Literature and Science in the Nineteenth Century",
+  "raw_type": "book-chapter",
+  "source": {
+   "display_name": "Oxford University Press eBooks",
+   "host_organization": "https://openalex.org/P4310311648",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310311648",
+    "https://openalex.org/P4310311647"
+   ],
+   "host_organization_lineage_names": [
+    "Oxford University Press",
+    "University of Oxford"
+   ],
+   "host_organization_name": "Oxford University Press",
+   "id": "https://openalex.org/S4306463708",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "ebook platform"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2009,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W4255837520",
+  "https://openalex.org/W2387011115",
+  "https://openalex.org/W4234808182",
+  "https://openalex.org/W4255628145",
+  "https://openalex.org/W2382043075",
+  "https://openalex.org/W4243903653",
+  "https://openalex.org/W2016165693",
+  "https://openalex.org/W2952106254",
+  "https://openalex.org/W2315835829",
+  "https://openalex.org/W2107729678"
+ ],
+ "title": "From An Investigation of the Laws of Thought (1854)",
+ "type": "book-chapter"
+}

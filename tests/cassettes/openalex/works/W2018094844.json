@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 1242,
+ "doi": "https://doi.org/10.1002/j.1538-7305.1956.tb03835.x",
+ "id": "https://openalex.org/W2018094844",
+ "publication_year": 1956,
+ "referenced_works": [
+  "https://openalex.org/W332445480",
+  "https://openalex.org/W2039140951",
+  "https://openalex.org/W2053619330",
+  "https://openalex.org/W2068422506",
+  "https://openalex.org/W2329329248",
+  "https://openalex.org/W2335478831",
+  "https://openalex.org/W4231510479",
+  "https://openalex.org/W6660377283",
+  "https://openalex.org/W6667608778"
+ ],
+ "title": "Minimization of Boolean Functions*"
+}

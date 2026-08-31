@@ -1,0 +1,88 @@
+{
+ "cited_by_count": 2059,
+ "concepts": [
+  {
+   "display_name": "Computer science",
+   "id": "https://openalex.org/C41008148",
+   "level": 0,
+   "score": 0.5189728140830994,
+   "wikidata": "https://www.wikidata.org/wiki/Q21198"
+  },
+  {
+   "display_name": "Algorithm",
+   "id": "https://openalex.org/C11413529",
+   "level": 1,
+   "score": 0.45084503293037415,
+   "wikidata": "https://www.wikidata.org/wiki/Q8366"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 4,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 68,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 82,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 92,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 64,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 68,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 91,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 121,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 87,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 90,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1007/978-3-642-75894-2",
+ "id": "https://openalex.org/W1568229137",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W300424958"
+ ],
+ "title": "Adaptive Algorithms and Stochastic Approximations"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 4913,
+ "doi": "https://doi.org/10.1109/tnn.2003.820440",
+ "id": "https://openalex.org/W2164653071",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1489513029",
+  "https://openalex.org/W1576838367",
+  "https://openalex.org/W2006581331",
+  "https://openalex.org/W2038879792",
+  "https://openalex.org/W2056661320",
+  "https://openalex.org/W2072413244",
+  "https://openalex.org/W2103007746",
+  "https://openalex.org/W2119443761",
+  "https://openalex.org/W2124354910",
+  "https://openalex.org/W2149525340"
+ ],
+ "title": "Simple model of spiking neurons"
+}

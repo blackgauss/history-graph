@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 954,
+ "doi": "https://doi.org/10.1109/proc.1966.5273",
+ "id": "https://openalex.org/W2159159598",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W1968683440",
+  "https://openalex.org/W1983849809",
+  "https://openalex.org/W1984280968",
+  "https://openalex.org/W2004577183",
+  "https://openalex.org/W2010930350",
+  "https://openalex.org/W2019987916",
+  "https://openalex.org/W2042617557",
+  "https://openalex.org/W2054731263",
+  "https://openalex.org/W2065383562",
+  "https://openalex.org/W2082219336",
+  "https://openalex.org/W2088771528",
+  "https://openalex.org/W2120331162",
+  "https://openalex.org/W2122852667",
+  "https://openalex.org/W2165108487",
+  "https://openalex.org/W2208481289",
+  "https://openalex.org/W2988240979"
+ ],
+ "title": "Very high-speed computing systems"
+}

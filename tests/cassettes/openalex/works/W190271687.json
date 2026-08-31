@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1007/3-540-63104-6_26",
+ "id": "https://openalex.org/W190271687",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W4983232",
+  "https://openalex.org/W80737574",
+  "https://openalex.org/W1512262469",
+  "https://openalex.org/W1575501166",
+  "https://openalex.org/W1605860778",
+  "https://openalex.org/W1768790486",
+  "https://openalex.org/W1968198053",
+  "https://openalex.org/W2005146745",
+  "https://openalex.org/W2053892987",
+  "https://openalex.org/W2126583599",
+  "https://openalex.org/W2160811334",
+  "https://openalex.org/W2169185944",
+  "https://openalex.org/W2296369602"
+ ],
+ "title": "A New Method for Testing Decision Procedures in Modal and Terminological Logics."
+}

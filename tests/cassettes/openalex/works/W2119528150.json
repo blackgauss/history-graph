@@ -1,0 +1,78 @@
+{
+ "cited_by_count": 436,
+ "counts_by_year": [
+  {
+   "cited_by_count": 3,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 48,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1807167.1807278",
+ "id": "https://openalex.org/W2119528150",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W110612056",
+  "https://openalex.org/W1993892970",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2122465391",
+  "https://openalex.org/W2130642985",
+  "https://openalex.org/W2139274913",
+  "https://openalex.org/W4238584892"
+ ],
+ "title": "Data warehousing and analytics infrastructure at facebook"
+}

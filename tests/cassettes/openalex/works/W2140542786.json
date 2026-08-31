@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.3233/his-2005-2205",
+ "id": "https://openalex.org/W2140542786",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W31538239",
+  "https://openalex.org/W1483135265",
+  "https://openalex.org/W1504694836",
+  "https://openalex.org/W1542798451",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1576962511",
+  "https://openalex.org/W2004312731",
+  "https://openalex.org/W2032427901",
+  "https://openalex.org/W2105989285",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2130306834",
+  "https://openalex.org/W2228981282",
+  "https://openalex.org/W2506703326",
+  "https://openalex.org/W2611591252",
+  "https://openalex.org/W2795561241"
+ ],
+ "title": "Fast split selection method and its application in decision tree construction from large databases"
+}

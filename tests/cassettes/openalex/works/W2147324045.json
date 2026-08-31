@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1007/3-540-53669-8_73",
+ "id": "https://openalex.org/W2147324045",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1964071625",
+  "https://openalex.org/W1969497684",
+  "https://openalex.org/W2034145570",
+  "https://openalex.org/W2047807579",
+  "https://openalex.org/W2100827465",
+  "https://openalex.org/W4210867634"
+ ],
+ "title": "A generator for production quality compilers"
+}

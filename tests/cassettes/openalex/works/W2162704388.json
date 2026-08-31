@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 17,
+ "doi": null,
+ "id": "https://openalex.org/W2162704388",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2105594594",
+  "https://openalex.org/W2116664051",
+  "https://openalex.org/W2117671523",
+  "https://openalex.org/W2128160875",
+  "https://openalex.org/W2154642048"
+ ],
+ "title": "Time Warping Invariant Neural Networks"
+}

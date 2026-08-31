@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 268,
+ "doi": "https://doi.org/10.1109/tit.1954.1057468",
+ "id": "https://openalex.org/W2118919066",
+ "publication_year": 1954,
+ "referenced_works": [
+  "https://openalex.org/W1970846337",
+  "https://openalex.org/W1973092639",
+  "https://openalex.org/W2013627338",
+  "https://openalex.org/W2030341526",
+  "https://openalex.org/W2032313369",
+  "https://openalex.org/W2077512947",
+  "https://openalex.org/W2126160338",
+  "https://openalex.org/W2141393672",
+  "https://openalex.org/W4251731575",
+  "https://openalex.org/W4301454096"
+ ],
+ "title": "Simulation of self-organizing systems by digital computer"
+}

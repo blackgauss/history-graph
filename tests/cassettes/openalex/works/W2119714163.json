@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 617,
+ "doi": "https://doi.org/10.1155/2005/962135",
+ "id": "https://openalex.org/W2119714163",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1487691772",
+  "https://openalex.org/W1487895014",
+  "https://openalex.org/W1493892051",
+  "https://openalex.org/W1525451871",
+  "https://openalex.org/W1586338668",
+  "https://openalex.org/W1958582444",
+  "https://openalex.org/W1991962718",
+  "https://openalex.org/W2010459485",
+  "https://openalex.org/W2032309817",
+  "https://openalex.org/W2112452856",
+  "https://openalex.org/W2118828104",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2148317584",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W2336485197",
+  "https://openalex.org/W4249843299",
+  "https://openalex.org/W4385489926"
+ ],
+ "title": "Interpreting the Data: Parallel Analysis with Sawzall"
+}

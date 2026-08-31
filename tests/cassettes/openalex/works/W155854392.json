@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 181,
+ "doi": null,
+ "id": "https://openalex.org/W155854392",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W94523489",
+  "https://openalex.org/W1976990135",
+  "https://openalex.org/W1994405449",
+  "https://openalex.org/W2122565324",
+  "https://openalex.org/W2160208155"
+ ],
+ "title": "Accelerated Backpropagation Learning: Two Optimization Methods."
+}

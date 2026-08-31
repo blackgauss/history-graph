@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 173,
+ "doi": "https://doi.org/10.1007/978-3-540-92687-0",
+ "id": "https://openalex.org/W13469394",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W2879875",
+  "https://openalex.org/W1515702224",
+  "https://openalex.org/W1522957754",
+  "https://openalex.org/W1531971469",
+  "https://openalex.org/W1595576901",
+  "https://openalex.org/W2103281574",
+  "https://openalex.org/W2150027928",
+  "https://openalex.org/W2156309428",
+  "https://openalex.org/W2169691751"
+ ],
+ "title": "Logical Foundations of Computer Science"
+}

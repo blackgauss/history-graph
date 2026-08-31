@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 13,
+ "doi": "https://doi.org/10.1016/0002-9378(91)90647-a",
+ "id": "https://openalex.org/W2069816608",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W72645678",
+  "https://openalex.org/W134356693",
+  "https://openalex.org/W1483605136",
+  "https://openalex.org/W1557283273",
+  "https://openalex.org/W1969086198",
+  "https://openalex.org/W1972277910",
+  "https://openalex.org/W1998861400",
+  "https://openalex.org/W2038926512",
+  "https://openalex.org/W2054621484",
+  "https://openalex.org/W2070114499",
+  "https://openalex.org/W2086866300",
+  "https://openalex.org/W2162675940",
+  "https://openalex.org/W2307433042",
+  "https://openalex.org/W2341619525",
+  "https://openalex.org/W2395932840",
+  "https://openalex.org/W2410358208",
+  "https://openalex.org/W2474870882",
+  "https://openalex.org/W6602946045",
+  "https://openalex.org/W6642310234",
+  "https://openalex.org/W6721290629"
+ ],
+ "title": "Tables for estimation of individual risks of fetal neural tube and ventral wall defects, incorporating prior probability, maternal serum α-fetoprotein levels, and ultrasonographic examination results"
+}

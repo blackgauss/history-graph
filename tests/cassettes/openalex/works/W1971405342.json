@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 472,
+ "doi": "https://doi.org/10.1145/375663.375677",
+ "id": "https://openalex.org/W1971405342",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1494337374",
+  "https://openalex.org/W1749554492",
+  "https://openalex.org/W1794157345",
+  "https://openalex.org/W1971652947",
+  "https://openalex.org/W2016558956",
+  "https://openalex.org/W2054086422",
+  "https://openalex.org/W2055958975",
+  "https://openalex.org/W2066417879",
+  "https://openalex.org/W2067580069",
+  "https://openalex.org/W2120084971",
+  "https://openalex.org/W2132461362",
+  "https://openalex.org/W2134686414",
+  "https://openalex.org/W2137077706",
+  "https://openalex.org/W4232534713",
+  "https://openalex.org/W4254975813",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Filtering algorithms and implementation for very fast publish/subscribe systems"
+}

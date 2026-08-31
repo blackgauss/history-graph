@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 57,
+ "doi": "https://doi.org/10.1090/s0025-5718-01-01383-7",
+ "id": "https://openalex.org/W2041620610",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W109292675",
+  "https://openalex.org/W120550985",
+  "https://openalex.org/W166906646",
+  "https://openalex.org/W1580601671",
+  "https://openalex.org/W1965726179",
+  "https://openalex.org/W1968163769",
+  "https://openalex.org/W1988793248",
+  "https://openalex.org/W1990056868",
+  "https://openalex.org/W2003971308",
+  "https://openalex.org/W2021969763",
+  "https://openalex.org/W2035637093",
+  "https://openalex.org/W2077543318",
+  "https://openalex.org/W2090344516",
+  "https://openalex.org/W2160812957",
+  "https://openalex.org/W2299153070",
+  "https://openalex.org/W4205354563",
+  "https://openalex.org/W4253722586"
+ ],
+ "title": "Inverse and saturation theorems for radial basis function interpolation"
+}

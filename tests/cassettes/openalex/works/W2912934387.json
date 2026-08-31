@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 17180,
+ "doi": "https://doi.org/10.1023/a:1018054314350",
+ "id": "https://openalex.org/W2912934387",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1482451543",
+  "https://openalex.org/W1531648066",
+  "https://openalex.org/W1541145887",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1969557815",
+  "https://openalex.org/W2030748132",
+  "https://openalex.org/W2111814036",
+  "https://openalex.org/W2134696506",
+  "https://openalex.org/W2142334564",
+  "https://openalex.org/W2797062063",
+  "https://openalex.org/W3106889297",
+  "https://openalex.org/W3112073073",
+  "https://openalex.org/W4206495155",
+  "https://openalex.org/W4292881157",
+  "https://openalex.org/W6679925045",
+  "https://openalex.org/W6843735874"
+ ],
+ "title": "Bagging Predictors"
+}

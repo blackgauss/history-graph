@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 868,
+ "doi": "https://doi.org/10.1007/bfb0017011",
+ "id": "https://openalex.org/W1927345150",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W5667951",
+  "https://openalex.org/W78121749",
+  "https://openalex.org/W203696055",
+  "https://openalex.org/W1567276288",
+  "https://openalex.org/W1570286060",
+  "https://openalex.org/W1602363634",
+  "https://openalex.org/W1861161664",
+  "https://openalex.org/W1969223365",
+  "https://openalex.org/W2050626497",
+  "https://openalex.org/W2067521239",
+  "https://openalex.org/W2128420091",
+  "https://openalex.org/W2136000097",
+  "https://openalex.org/W2428981601",
+  "https://openalex.org/W2429052957",
+  "https://openalex.org/W4236190405",
+  "https://openalex.org/W6812019774"
+ ],
+ "title": "Rule induction with CN2: Some recent improvements"
+}

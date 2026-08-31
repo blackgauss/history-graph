@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 2827,
+ "doi": "https://doi.org/10.1109/icdar.2003.1227801",
+ "id": "https://openalex.org/W2156163116",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W51975515",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W2027197837",
+  "https://openalex.org/W2068017609",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2147345686",
+  "https://openalex.org/W2159737176",
+  "https://openalex.org/W2166469100",
+  "https://openalex.org/W2310919327",
+  "https://openalex.org/W4388297464",
+  "https://openalex.org/W6684593460"
+ ],
+ "title": "Best practices for convolutional neural networks applied to visual document analysis"
+}

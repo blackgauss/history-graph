@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 780,
+ "doi": null,
+ "id": "https://openalex.org/W2098477387",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W2020999234",
+  "https://openalex.org/W2095844239",
+  "https://openalex.org/W2096071754",
+  "https://openalex.org/W2097713019",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2108665656",
+  "https://openalex.org/W2110798204",
+  "https://openalex.org/W2113945798",
+  "https://openalex.org/W2121927366",
+  "https://openalex.org/W2127847374",
+  "https://openalex.org/W2129981175",
+  "https://openalex.org/W2131686571",
+  "https://openalex.org/W2134557905",
+  "https://openalex.org/W2140622310",
+  "https://openalex.org/W2140789035",
+  "https://openalex.org/W2147800946",
+  "https://openalex.org/W2150920547",
+  "https://openalex.org/W2158778629",
+  "https://openalex.org/W2164735965",
+  "https://openalex.org/W2468371437"
+ ],
+ "title": "Natural Image Denoising with Convolutional Networks"
+}

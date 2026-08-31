@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 442,
+ "doi": "https://doi.org/10.1093/biomet/61.3.509",
+ "id": "https://openalex.org/W2048765414",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W2015967939",
+  "https://openalex.org/W2017278777",
+  "https://openalex.org/W2066090712",
+  "https://openalex.org/W2112081648",
+  "https://openalex.org/W2510002191"
+ ],
+ "title": "Cross-validation and multinomial prediction"
+}

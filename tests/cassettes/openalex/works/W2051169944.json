@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 411,
+ "doi": "https://doi.org/10.1016/s0096-3003(97)10104-7",
+ "id": "https://openalex.org/W2051169944",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W57942340",
+  "https://openalex.org/W1535160936",
+  "https://openalex.org/W1588278606",
+  "https://openalex.org/W1970320961",
+  "https://openalex.org/W1973292984",
+  "https://openalex.org/W1978767221",
+  "https://openalex.org/W1988793248",
+  "https://openalex.org/W1991158791",
+  "https://openalex.org/W2001058553",
+  "https://openalex.org/W2045560996",
+  "https://openalex.org/W2047877145",
+  "https://openalex.org/W2067036620",
+  "https://openalex.org/W2127689830",
+  "https://openalex.org/W2339026070",
+  "https://openalex.org/W2782176409",
+  "https://openalex.org/W2798987218",
+  "https://openalex.org/W2989823372",
+  "https://openalex.org/W3022575949",
+  "https://openalex.org/W4206266887",
+  "https://openalex.org/W4210786625",
+  "https://openalex.org/W6648015046",
+  "https://openalex.org/W6770656809"
+ ],
+ "title": "Solving partial differential equations by collocation using radial basis functions"
+}

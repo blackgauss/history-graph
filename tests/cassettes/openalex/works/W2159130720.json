@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 1001,
+ "doi": "https://doi.org/10.4007/annals.2005.162.1065",
+ "id": "https://openalex.org/W2159130720",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1545571188",
+  "https://openalex.org/W1587770477",
+  "https://openalex.org/W1589055062",
+  "https://openalex.org/W1613715067",
+  "https://openalex.org/W1620306972",
+  "https://openalex.org/W1970966506",
+  "https://openalex.org/W1982950011",
+  "https://openalex.org/W1993644547"
+ ],
+ "title": "A proof of the Kepler conjecture"
+}

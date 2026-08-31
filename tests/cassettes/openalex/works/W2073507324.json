@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 440,
+ "doi": "https://doi.org/10.1109/72.478390",
+ "id": "https://openalex.org/W2073507324",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W104577673",
+  "https://openalex.org/W1964373008",
+  "https://openalex.org/W1965908577",
+  "https://openalex.org/W1975424366",
+  "https://openalex.org/W1989970625",
+  "https://openalex.org/W1990597222",
+  "https://openalex.org/W2009072010",
+  "https://openalex.org/W2015156326",
+  "https://openalex.org/W2030843677",
+  "https://openalex.org/W2087932696",
+  "https://openalex.org/W2094429957",
+  "https://openalex.org/W2103496339",
+  "https://openalex.org/W2135227058",
+  "https://openalex.org/W2137442297",
+  "https://openalex.org/W2137983211",
+  "https://openalex.org/W2138484437",
+  "https://openalex.org/W2515831704",
+  "https://openalex.org/W3119460448",
+  "https://openalex.org/W3146803896",
+  "https://openalex.org/W4240172095"
+ ],
+ "title": "Control of nonlinear dynamical systems using neural networks. II. Observability, identification, and control"
+}

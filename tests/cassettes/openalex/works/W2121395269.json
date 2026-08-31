@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 359,
+ "doi": "https://doi.org/10.1109/9.50339",
+ "id": "https://openalex.org/W2121395269",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W634463279",
+  "https://openalex.org/W1488377518",
+  "https://openalex.org/W1548540712",
+  "https://openalex.org/W1578393489",
+  "https://openalex.org/W1964019295",
+  "https://openalex.org/W2014034914",
+  "https://openalex.org/W2019597565",
+  "https://openalex.org/W2038979284",
+  "https://openalex.org/W2042312329",
+  "https://openalex.org/W2052388668",
+  "https://openalex.org/W2062885817",
+  "https://openalex.org/W2088304441",
+  "https://openalex.org/W2100131857",
+  "https://openalex.org/W2104394958",
+  "https://openalex.org/W2159973997",
+  "https://openalex.org/W2163271009",
+  "https://openalex.org/W2176776377",
+  "https://openalex.org/W2796716881",
+  "https://openalex.org/W4246060548",
+  "https://openalex.org/W6629022124"
+ ],
+ "title": "Dynamic instabilities and stabilization methods in distributed real-time scheduling of manufacturing systems"
+}

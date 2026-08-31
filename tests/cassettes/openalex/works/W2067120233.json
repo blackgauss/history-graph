@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 977,
+ "doi": "https://doi.org/10.1073/pnas.94.5.1634",
+ "id": "https://openalex.org/W2067120233",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1556343216",
+  "https://openalex.org/W1566129741",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W1977312644",
+  "https://openalex.org/W1979260239",
+  "https://openalex.org/W1994894686",
+  "https://openalex.org/W2027603534",
+  "https://openalex.org/W2040792108",
+  "https://openalex.org/W2044573796",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2096551755",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W4239873278",
+  "https://openalex.org/W4248275387",
+  "https://openalex.org/W4249235790",
+  "https://openalex.org/W4300596825",
+  "https://openalex.org/W6639748362"
+ ],
+ "title": "Ensemble quantum computing by NMR spectroscopy"
+}

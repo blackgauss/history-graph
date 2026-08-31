@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 100,
+ "doi": "https://doi.org/10.1007/978-94-011-5014-9_6",
+ "id": "https://openalex.org/W2120633557",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W32516901",
+  "https://openalex.org/W1520448186",
+  "https://openalex.org/W1528056001",
+  "https://openalex.org/W1981276685",
+  "https://openalex.org/W2082206048",
+  "https://openalex.org/W2083380015",
+  "https://openalex.org/W2104163628",
+  "https://openalex.org/W2109787716",
+  "https://openalex.org/W2487344060",
+  "https://openalex.org/W2725061391",
+  "https://openalex.org/W4302036486"
+ ],
+ "title": "Improving the Mean Field Approximation Via the Use of Mixture Distributions"
+}

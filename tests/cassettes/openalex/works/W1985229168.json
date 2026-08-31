@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 3712,
+ "doi": "https://doi.org/10.1145/1807128.1807152",
+ "id": "https://openalex.org/W1985229168",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W62638829",
+  "https://openalex.org/W1487130678",
+  "https://openalex.org/W1564802507",
+  "https://openalex.org/W1569570229",
+  "https://openalex.org/W1595106464",
+  "https://openalex.org/W1970705443",
+  "https://openalex.org/W1981420413",
+  "https://openalex.org/W1990080756",
+  "https://openalex.org/W1992730709",
+  "https://openalex.org/W2054584570",
+  "https://openalex.org/W2112215401",
+  "https://openalex.org/W2114226921",
+  "https://openalex.org/W2114303224",
+  "https://openalex.org/W2125530623",
+  "https://openalex.org/W2127140580",
+  "https://openalex.org/W2129412326",
+  "https://openalex.org/W2150013559",
+  "https://openalex.org/W2153704625",
+  "https://openalex.org/W2230830246",
+  "https://openalex.org/W2476848288",
+  "https://openalex.org/W2610308737",
+  "https://openalex.org/W3138367763"
+ ],
+ "title": "Benchmarking cloud serving systems with YCSB"
+}

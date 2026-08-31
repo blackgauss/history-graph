@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 91,
+ "doi": null,
+ "id": "https://openalex.org/W1526990717",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W183625566",
+  "https://openalex.org/W943204654",
+  "https://openalex.org/W1566256432",
+  "https://openalex.org/W2079735306",
+  "https://openalex.org/W2105686649",
+  "https://openalex.org/W2125838338",
+  "https://openalex.org/W2127141656",
+  "https://openalex.org/W2128962821",
+  "https://openalex.org/W2131774270",
+  "https://openalex.org/W2147880316",
+  "https://openalex.org/W2150355110",
+  "https://openalex.org/W2729906263"
+ ],
+ "title": "Sequence labelling in structured domains with hierarchical recurrent neural networks"
+}

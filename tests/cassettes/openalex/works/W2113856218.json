@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 42,
+ "doi": "https://doi.org/10.1109/focs.2009.44",
+ "id": "https://openalex.org/W2113856218",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1507994869",
+  "https://openalex.org/W1511314663",
+  "https://openalex.org/W1557415002",
+  "https://openalex.org/W2003177806",
+  "https://openalex.org/W2019807548",
+  "https://openalex.org/W2075329789",
+  "https://openalex.org/W2122270497",
+  "https://openalex.org/W2163137752",
+  "https://openalex.org/W2521705617",
+  "https://openalex.org/W2798810127",
+  "https://openalex.org/W4252614677"
+ ],
+ "title": "Constructing Small-Bias Sets from Algebraic-Geometric Codes"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 917,
+ "doi": "https://doi.org/10.1287/opre.5.2.266",
+ "id": "https://openalex.org/W2060322444",
+ "publication_year": 1957,
+ "referenced_works": [
+  "https://openalex.org/W1825302709",
+  "https://openalex.org/W1882911873",
+  "https://openalex.org/W1980516134",
+  "https://openalex.org/W1994924964",
+  "https://openalex.org/W2018637736",
+  "https://openalex.org/W2024085737",
+  "https://openalex.org/W2026994686",
+  "https://openalex.org/W2027861934",
+  "https://openalex.org/W2056601151",
+  "https://openalex.org/W2058937865",
+  "https://openalex.org/W2105728195",
+  "https://openalex.org/W2116556878",
+  "https://openalex.org/W2119359259",
+  "https://openalex.org/W2138798999",
+  "https://openalex.org/W2145443645",
+  "https://openalex.org/W2169677086",
+  "https://openalex.org/W2222512263",
+  "https://openalex.org/W2514154046",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Discrete-Variable Extremum Problems"
+}

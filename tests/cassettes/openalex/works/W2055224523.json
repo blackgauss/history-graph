@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 81,
+ "doi": "https://doi.org/10.1016/s0003-4843(77)80004-1",
+ "id": "https://openalex.org/W2055224523",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1482532876",
+  "https://openalex.org/W1974917418",
+  "https://openalex.org/W2080309222",
+  "https://openalex.org/W3135320517",
+  "https://openalex.org/W4206283588",
+  "https://openalex.org/W6791386070"
+ ],
+ "title": "Normalization as a homomorphic image of cut-elimination"
+}

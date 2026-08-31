@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 35,
+ "doi": "https://doi.org/10.1016/0925-2312(94)90034-5",
+ "id": "https://openalex.org/W2027018902",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W174872659",
+  "https://openalex.org/W1637630365",
+  "https://openalex.org/W1971593477",
+  "https://openalex.org/W1988484771",
+  "https://openalex.org/W2000698460",
+  "https://openalex.org/W2004924114",
+  "https://openalex.org/W2006544565",
+  "https://openalex.org/W2033245860",
+  "https://openalex.org/W2082351840",
+  "https://openalex.org/W2133671888",
+  "https://openalex.org/W2155530592",
+  "https://openalex.org/W2157466334",
+  "https://openalex.org/W3003694668",
+  "https://openalex.org/W3121126077",
+  "https://openalex.org/W6607136833",
+  "https://openalex.org/W6650653608",
+  "https://openalex.org/W6682837094"
+ ],
+ "title": "An efficient implementation of BP on RISC-based workstations"
+}

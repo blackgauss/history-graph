@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 261,
+ "doi": "https://doi.org/10.1007/978-3-540-74695-9_23",
+ "id": "https://openalex.org/W1553469512",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W162098831",
+  "https://openalex.org/W811578723",
+  "https://openalex.org/W1526990717",
+  "https://openalex.org/W1544266773",
+  "https://openalex.org/W1553004968",
+  "https://openalex.org/W1566256432",
+  "https://openalex.org/W1815165135",
+  "https://openalex.org/W1989009675",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2079735306",
+  "https://openalex.org/W2101346879",
+  "https://openalex.org/W2110871230",
+  "https://openalex.org/W2127141656",
+  "https://openalex.org/W2131774270",
+  "https://openalex.org/W2147568880",
+  "https://openalex.org/W2174140043",
+  "https://openalex.org/W2238206234",
+  "https://openalex.org/W3016001898",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "An Application of Recurrent Neural Networks to Discriminative Keyword Spotting"
+}

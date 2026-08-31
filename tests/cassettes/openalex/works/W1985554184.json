@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 1467,
+ "doi": "https://doi.org/10.1145/3130348.3130374",
+ "id": "https://openalex.org/W1985554184",
+ "publication_year": 2017,
+ "referenced_works": [
+  "https://openalex.org/W84158582",
+  "https://openalex.org/W103650626",
+  "https://openalex.org/W119444765",
+  "https://openalex.org/W1555108314",
+  "https://openalex.org/W1564227049",
+  "https://openalex.org/W1598520654",
+  "https://openalex.org/W1974035951",
+  "https://openalex.org/W1991466808",
+  "https://openalex.org/W2017001830",
+  "https://openalex.org/W2019976352",
+  "https://openalex.org/W2024532251",
+  "https://openalex.org/W2039433449",
+  "https://openalex.org/W2042204200",
+  "https://openalex.org/W2049312520",
+  "https://openalex.org/W2051497960",
+  "https://openalex.org/W2054805201",
+  "https://openalex.org/W2081477775",
+  "https://openalex.org/W2083605078",
+  "https://openalex.org/W2151012289",
+  "https://openalex.org/W2171694224",
+  "https://openalex.org/W2401023160",
+  "https://openalex.org/W2502246648",
+  "https://openalex.org/W3015238844",
+  "https://openalex.org/W6633550561"
+ ],
+ "title": "IR evaluation methods for retrieving highly relevant documents"
+}

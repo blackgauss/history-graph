@@ -1,0 +1,300 @@
+{
+ "abstract_inverted_index": {
+  "(Informatik)": [
+   16
+  ],
+  "0.": [
+   66
+  ],
+  "1": [
+   64
+  ],
+  "1854": [
+   4
+  ],
+  "Algebra“": [
+   33
+  ],
+  "Autor": [
+   26
+  ],
+  "Computer": [
+   15
+  ],
+  "Das": [
+   0
+  ],
+  "Die": [
+   24
+  ],
+  "Formalisierung": [
+   47
+  ],
+  "Grundlegung": [
+   11
+  ],
+  "Kern": [
+   37
+  ],
+  "Logik": [
+   2
+  ],
+  "Logik,": [
+   49
+  ],
+  "Mathematik": [
+   13
+  ],
+  "Medienkultur.": [
+   23
+  ],
+  "Momente": [
+   40
+  ],
+  "Sie": [
+   42
+  ],
+  "Variablen:": [
+   60
+  ],
+  "Werk": [
+   6
+  ],
+  "als": [
+   9
+  ],
+  "aus.": [
+   41
+  ],
+  "benannte": [
+   31
+  ],
+  "binär,": [
+   55
+  ],
+  "d.": [
+   56
+  ],
+  "damit": [
+   18
+  ],
+  "dazu": [
+   53
+  ],
+  "der": [
+   1,
+   12,
+   14,
+   19,
+   48
+  ],
+  "die": [
+   10
+  ],
+  "dominierenden": [
+   22
+  ],
+  "durch": [
+   38
+  ],
+  "eine": [
+   45
+  ],
+  "entwickelte": [
+   27
+  ],
+  "erschienene": [
+   5
+  ],
+  "erstens": [
+   44
+  ],
+  "falsch,": [
+   63
+  ],
+  "gesamten": [
+   20
+  ],
+  "gewidmete,": [
+   3
+  ],
+  "gilt": [
+   7
+  ],
+  "h.": [
+   57
+  ],
+  "heute": [
+   8
+  ],
+  "ihm": [
+   30
+  ],
+  "im": [
+   36
+  ],
+  "inzwischen": [
+   21
+  ],
+  "konsequente": [
+   46
+  ],
+  "mit": [
+   58
+  ],
+  "nach": [
+   29
+  ],
+  "oder": [
+   62,
+   65
+  ],
+  "operiert": [
+   52
+  ],
+  "sich": [
+   35
+  ],
+  "sie": [
+   51
+  ],
+  "strikt": [
+   54
+  ],
+  "und": [
+   17,
+   28,
+   50
+  ],
+  "vollzieht": [
+   43
+  ],
+  "vom": [
+   25
+  ],
+  "wahr": [
+   61
+  ],
+  "zeichnet": [
+   34
+  ],
+  "zwei": [
+   39
+  ],
+  "zweiwertigen": [
+   59
+  ],
+  "„Boolesche": [
+   32
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I141686865"
+     ],
+     "raw_affiliation_string": "http://www.springernature.com"
+    }
+   ],
+   "author": {
+    "display_name": "Bernhard Dotzler",
+    "id": "https://openalex.org/A5039949038",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Concern Worldwide US",
+     "id": "https://openalex.org/I141686865",
+     "lineage": [
+      "https://openalex.org/I141686865",
+      "https://openalex.org/I4210088676"
+     ],
+     "ror": "https://ror.org/05pe87g24",
+     "type": "nonprofit"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "http://www.springernature.com"
+   ],
+   "raw_author_name": "Bernhard J. Dotzler",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": "https://doi.org/10.1007/978-3-476-05728-0_10127-1",
+ "funders": [],
+ "id": "https://openalex.org/W3105786353",
+ "ids": {
+  "doi": "https://doi.org/10.1007/978-3-476-05728-0_10127-1",
+  "mag": "3105786353",
+  "openalex": "https://openalex.org/W3105786353"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1007/978-3-476-05728-0_10127-1",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1007/978-3-476-05728-0_10127-1",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Kindlers Literatur Lexikon (KLL)",
+  "raw_type": "book-chapter",
+  "source": {
+   "display_name": "J.B. Metzler eBooks",
+   "host_organization": "https://openalex.org/P4310319879",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319879",
+    "https://openalex.org/P4310319965"
+   ],
+   "host_organization_lineage_names": [
+    "J.B. Metzler",
+    "Springer Nature"
+   ],
+   "host_organization_name": "J.B. Metzler",
+   "id": "https://openalex.org/S4306463491",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "ebook platform"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2020,
+ "referenced_works": [
+  "https://openalex.org/W636741917",
+  "https://openalex.org/W3097401829"
+ ],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W1907436174",
+  "https://openalex.org/W4240638320",
+  "https://openalex.org/W2135508259",
+  "https://openalex.org/W2490303147",
+  "https://openalex.org/W2903353145",
+  "https://openalex.org/W1589220756",
+  "https://openalex.org/W2910657826",
+  "https://openalex.org/W2808178578",
+  "https://openalex.org/W2481781685"
+ ],
+ "title": "Boole, George: An Investigation of the Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities",
+ "type": "book-chapter"
+}

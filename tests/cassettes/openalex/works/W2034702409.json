@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 180,
+ "doi": "https://doi.org/10.1145/800222.806739",
+ "id": "https://openalex.org/W2034702409",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1996360405",
+  "https://openalex.org/W2034791526",
+  "https://openalex.org/W2035918100",
+  "https://openalex.org/W2076022311",
+  "https://openalex.org/W2078209861",
+  "https://openalex.org/W2118891797"
+ ],
+ "title": "Fault-tolerant clock synchronization"
+}

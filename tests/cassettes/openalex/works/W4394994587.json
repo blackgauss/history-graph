@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 409,
+ "counts_by_year": [
+  {
+   "cited_by_count": 156,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 186,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 61,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tkde.2024.3392335",
+ "id": "https://openalex.org/W4394994587",
+ "publication_year": 2024,
+ "title": "Recommender Systems in the Era of Large Language Models (LLMs)"
+}

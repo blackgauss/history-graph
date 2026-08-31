@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 4498,
+ "doi": "https://doi.org/10.1007/3-540-10003-2_79",
+ "id": "https://openalex.org/W1589421353",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1539804543",
+  "https://openalex.org/W1554859476",
+  "https://openalex.org/W1574129634",
+  "https://openalex.org/W1576616200",
+  "https://openalex.org/W1592287058",
+  "https://openalex.org/W1973311427",
+  "https://openalex.org/W2023808162",
+  "https://openalex.org/W2062024564",
+  "https://openalex.org/W2068106852",
+  "https://openalex.org/W6602403544",
+  "https://openalex.org/W6634630127"
+ ],
+ "title": "On observing nondeterminism and concurrency"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 1000,
+ "doi": "https://doi.org/10.2307/1971363",
+ "id": "https://openalex.org/W2005317356",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W1482498190",
+  "https://openalex.org/W1544003996",
+  "https://openalex.org/W1545876477",
+  "https://openalex.org/W1583935850",
+  "https://openalex.org/W1971605365",
+  "https://openalex.org/W1996360405",
+  "https://openalex.org/W2009129512",
+  "https://openalex.org/W2015669348",
+  "https://openalex.org/W2045071555",
+  "https://openalex.org/W2057182494",
+  "https://openalex.org/W2075252632",
+  "https://openalex.org/W2081882878",
+  "https://openalex.org/W2123355614",
+  "https://openalex.org/W2145964906",
+  "https://openalex.org/W2170863032",
+  "https://openalex.org/W2277535877",
+  "https://openalex.org/W2319828092",
+  "https://openalex.org/W2752061190",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4292027090"
+ ],
+ "title": "Factoring Integers with Elliptic Curves"
+}

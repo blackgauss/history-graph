@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 60,
+ "doi": "https://doi.org/10.1137/0132045",
+ "id": "https://openalex.org/W2149914603",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W183133782",
+  "https://openalex.org/W598880424",
+  "https://openalex.org/W1552064164",
+  "https://openalex.org/W1668826802",
+  "https://openalex.org/W1991513691",
+  "https://openalex.org/W2007046555",
+  "https://openalex.org/W2007577080",
+  "https://openalex.org/W2043523275",
+  "https://openalex.org/W2120797717",
+  "https://openalex.org/W2128860070",
+  "https://openalex.org/W2137690171",
+  "https://openalex.org/W2185883865"
+ ],
+ "title": "Filtering, Prediction and Smoothing for Counting Process Observations, a Martingale Approach"
+}

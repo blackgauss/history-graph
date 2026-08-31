@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 115,
+ "doi": "https://doi.org/10.1016/s0020-0190(97)00131-2",
+ "id": "https://openalex.org/W2088559598",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1575886793",
+  "https://openalex.org/W2017290750",
+  "https://openalex.org/W2031934066",
+  "https://openalex.org/W2036656440",
+  "https://openalex.org/W2038272454",
+  "https://openalex.org/W2042194938",
+  "https://openalex.org/W2060270693",
+  "https://openalex.org/W2078003433",
+  "https://openalex.org/W2129731249",
+  "https://openalex.org/W2132750992",
+  "https://openalex.org/W2165293955",
+  "https://openalex.org/W2175296692",
+  "https://openalex.org/W2398918824",
+  "https://openalex.org/W6634287997"
+ ],
+ "title": "The average sensitivity of bounded-depth circuits"
+}

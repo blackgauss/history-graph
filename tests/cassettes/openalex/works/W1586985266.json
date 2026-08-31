@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.1007/11736790_2",
+ "id": "https://openalex.org/W1586985266",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W145032828",
+  "https://openalex.org/W1567512734",
+  "https://openalex.org/W2040355924",
+  "https://openalex.org/W2069739265",
+  "https://openalex.org/W2089657469",
+  "https://openalex.org/W2582765108"
+ ],
+ "title": "Classification with Bayesian Neural Networks"
+}

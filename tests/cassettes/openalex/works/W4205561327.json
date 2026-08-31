@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 680,
+ "counts_by_year": [
+  {
+   "cited_by_count": 117,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 222,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 203,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 115,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2022
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3491209",
+ "id": "https://openalex.org/W4205561327",
+ "publication_year": 2022,
+ "title": "Trustworthy Artificial Intelligence: A Review"
+}

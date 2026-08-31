@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 208,
+ "doi": "https://doi.org/10.1016/0098-1354(91)87006-u",
+ "id": "https://openalex.org/W2016469042",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1974524572",
+  "https://openalex.org/W1981748236",
+  "https://openalex.org/W2033755422",
+  "https://openalex.org/W2066969405",
+  "https://openalex.org/W2075470327",
+  "https://openalex.org/W2085785844",
+  "https://openalex.org/W2112779958",
+  "https://openalex.org/W6677067375"
+ ],
+ "title": "ASCEND: an object-oriented computer environment for modeling and analysis: The modeling language"
+}

@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 317,
+ "doi": "https://doi.org/10.1007/bf03037022",
+ "id": "https://openalex.org/W2007030756",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W22925276",
+  "https://openalex.org/W39404219",
+  "https://openalex.org/W199139817",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1982042081",
+  "https://openalex.org/W2003441663",
+  "https://openalex.org/W2004178922",
+  "https://openalex.org/W2074747378",
+  "https://openalex.org/W2129303183",
+  "https://openalex.org/W2132692154",
+  "https://openalex.org/W2159111714",
+  "https://openalex.org/W4243127048"
+ ],
+ "title": "Application of hash to data base machine and its architecture"
+}

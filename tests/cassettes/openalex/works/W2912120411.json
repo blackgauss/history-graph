@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 1017,
+ "doi": "https://doi.org/10.1007/3-540-10003-2_104",
+ "id": "https://openalex.org/W2912120411",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1885741348",
+  "https://openalex.org/W2019506584",
+  "https://openalex.org/W2095533469",
+  "https://openalex.org/W2097362889",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W4231932287",
+  "https://openalex.org/W4233798822",
+  "https://openalex.org/W6604022482",
+  "https://openalex.org/W6758937622"
+ ],
+ "title": "Reversible Computing"
+}

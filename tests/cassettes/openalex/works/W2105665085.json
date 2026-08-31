@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1109/icde.1984.7271267",
+ "id": "https://openalex.org/W2105665085",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W37027404",
+  "https://openalex.org/W166624952",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1983715982",
+  "https://openalex.org/W2003441663",
+  "https://openalex.org/W2042328301",
+  "https://openalex.org/W2088602658",
+  "https://openalex.org/W2117947144",
+  "https://openalex.org/W2132692154",
+  "https://openalex.org/W2293376226"
+ ],
+ "title": "A pipeline and parallel architecture for supporting database management systems"
+}

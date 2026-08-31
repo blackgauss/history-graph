@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 243,
+ "doi": "https://doi.org/10.1287/mnsc.24.11.1127",
+ "id": "https://openalex.org/W2020609518",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W60247044",
+  "https://openalex.org/W110133481",
+  "https://openalex.org/W1500897767",
+  "https://openalex.org/W1544535632",
+  "https://openalex.org/W1607065182",
+  "https://openalex.org/W1983920151",
+  "https://openalex.org/W1985597996",
+  "https://openalex.org/W2002444764",
+  "https://openalex.org/W2028145673",
+  "https://openalex.org/W2042680115",
+  "https://openalex.org/W2069734325",
+  "https://openalex.org/W2081763505",
+  "https://openalex.org/W2090963365",
+  "https://openalex.org/W2114941947",
+  "https://openalex.org/W2117457469",
+  "https://openalex.org/W2168412240",
+  "https://openalex.org/W2244999465",
+  "https://openalex.org/W2319587272",
+  "https://openalex.org/W2330913512",
+  "https://openalex.org/W2733467994"
+ ],
+ "title": "Modified Policy Iteration Algorithms for Discounted Markov Decision Problems"
+}

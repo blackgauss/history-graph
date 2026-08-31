@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 6388,
+ "doi": "https://doi.org/10.1145/335191.335372",
+ "id": "https://openalex.org/W2064853889",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1506285740",
+  "https://openalex.org/W1538285186",
+  "https://openalex.org/W1597161471",
+  "https://openalex.org/W1888464276",
+  "https://openalex.org/W1978387271",
+  "https://openalex.org/W2030969394",
+  "https://openalex.org/W2032226242",
+  "https://openalex.org/W2038812321",
+  "https://openalex.org/W2064803206",
+  "https://openalex.org/W2085638007",
+  "https://openalex.org/W2097800052",
+  "https://openalex.org/W2100356657",
+  "https://openalex.org/W2126310301",
+  "https://openalex.org/W2141115288",
+  "https://openalex.org/W2156026066",
+  "https://openalex.org/W2158454296",
+  "https://openalex.org/W2210278139",
+  "https://openalex.org/W3022377781"
+ ],
+ "title": "Mining frequent patterns without candidate generation"
+}

@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 254,
+ "doi": "https://doi.org/10.1016/0166-218x(85)90050-2",
+ "id": "https://openalex.org/W2014111643",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1969377401",
+  "https://openalex.org/W2022695609",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W6659573362"
+ ],
+ "title": "Solving satisfiability in less than 2n steps"
+}

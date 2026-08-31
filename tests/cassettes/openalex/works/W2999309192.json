@@ -1,0 +1,49 @@
+{
+ "cited_by_count": 6112,
+ "counts_by_year": [
+  {
+   "cited_by_count": 828,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 1161,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1140,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 1098,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 926,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 722,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 231,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2016
+  }
+ ],
+ "doi": "https://doi.org/10.1186/s12864-019-6413-7",
+ "id": "https://openalex.org/W2999309192",
+ "publication_year": 2020,
+ "title": "The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation"
+}

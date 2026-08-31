@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 451,
+ "doi": "https://doi.org/10.1145/582318.582339",
+ "id": "https://openalex.org/W2070941848",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W12586210",
+  "https://openalex.org/W1968333714",
+  "https://openalex.org/W2031032746",
+  "https://openalex.org/W2094162326",
+  "https://openalex.org/W2102637936"
+ ],
+ "title": "Nonblocking commit protocols"
+}

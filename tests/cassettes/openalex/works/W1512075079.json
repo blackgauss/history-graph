@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 130,
+ "doi": null,
+ "id": "https://openalex.org/W1512075079",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W201994185",
+  "https://openalex.org/W1539492121",
+  "https://openalex.org/W1543374071",
+  "https://openalex.org/W1572470107",
+  "https://openalex.org/W1590828018",
+  "https://openalex.org/W1595229828",
+  "https://openalex.org/W1679836515",
+  "https://openalex.org/W1988192943",
+  "https://openalex.org/W2090286414",
+  "https://openalex.org/W2092749622",
+  "https://openalex.org/W2099878868",
+  "https://openalex.org/W2134826720",
+  "https://openalex.org/W2164778826"
+ ],
+ "title": "Integrating decision procedures into heuristic theorem provers: a case study of linear arithmetic"
+}

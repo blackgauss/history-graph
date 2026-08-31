@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 128,
+ "doi": "https://doi.org/10.1109/visual.1990.146386",
+ "id": "https://openalex.org/W4250305371",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1965062873",
+  "https://openalex.org/W1977554562",
+  "https://openalex.org/W2007457167",
+  "https://openalex.org/W2056549332",
+  "https://openalex.org/W2057910062",
+  "https://openalex.org/W2080262992",
+  "https://openalex.org/W2125078521",
+  "https://openalex.org/W2618814260",
+  "https://openalex.org/W2984140258",
+  "https://openalex.org/W3016054986",
+  "https://openalex.org/W4231311245",
+  "https://openalex.org/W4234666511",
+  "https://openalex.org/W6888465210"
+ ],
+ "title": "Exploring N-dimensional databases"
+}

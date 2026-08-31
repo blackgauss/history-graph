@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 15,
+ "doi": null,
+ "id": "https://openalex.org/W129659059",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W145128706",
+  "https://openalex.org/W165407864",
+  "https://openalex.org/W178810723",
+  "https://openalex.org/W1528278469",
+  "https://openalex.org/W1976303542",
+  "https://openalex.org/W1993937043",
+  "https://openalex.org/W1994143452",
+  "https://openalex.org/W1996241662",
+  "https://openalex.org/W2010477071",
+  "https://openalex.org/W2018094844",
+  "https://openalex.org/W2030224590",
+  "https://openalex.org/W2040464422",
+  "https://openalex.org/W2089167558",
+  "https://openalex.org/W2105761964",
+  "https://openalex.org/W2113033572",
+  "https://openalex.org/W2125083658",
+  "https://openalex.org/W2135067409",
+  "https://openalex.org/W2136185430",
+  "https://openalex.org/W2144386448",
+  "https://openalex.org/W2147096558",
+  "https://openalex.org/W2163191232",
+  "https://openalex.org/W2332863838",
+  "https://openalex.org/W2335478831"
+ ],
+ "title": "Implicit Prime Cover Computation: An Overview"
+}

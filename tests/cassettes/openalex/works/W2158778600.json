@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 96,
+ "doi": "https://doi.org/10.1017/s0956796800000423",
+ "id": "https://openalex.org/W2158778600",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W28925417",
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1486562535",
+  "https://openalex.org/W2018926799",
+  "https://openalex.org/W2045531281",
+  "https://openalex.org/W2073378225",
+  "https://openalex.org/W2141636159",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W2911336663"
+ ],
+ "title": "Efficient self-interpretation in lambda calculus"
+}

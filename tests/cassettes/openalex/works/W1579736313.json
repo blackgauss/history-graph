@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1090/s0002-9939-1975-0357087-x",
+ "id": "https://openalex.org/W1579736313",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W2010997439",
+  "https://openalex.org/W2024373817",
+  "https://openalex.org/W2038443311",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2077783082",
+  "https://openalex.org/W2167258396",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W4237616187"
+ ],
+ "title": "$\\mathrm{wtt}$-complete sets are not necessarily $\\mathrm{tt}$-complete"
+}

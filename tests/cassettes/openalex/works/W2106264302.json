@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 1030,
+ "doi": "https://doi.org/10.1137/0801013",
+ "id": "https://openalex.org/W2106264302",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1965217041",
+  "https://openalex.org/W1993746545",
+  "https://openalex.org/W2012329067",
+  "https://openalex.org/W2012937096",
+  "https://openalex.org/W2023521867",
+  "https://openalex.org/W2040661328",
+  "https://openalex.org/W2040734438",
+  "https://openalex.org/W2049143039",
+  "https://openalex.org/W2058408846",
+  "https://openalex.org/W2067532081",
+  "https://openalex.org/W2100440346",
+  "https://openalex.org/W2145243417",
+  "https://openalex.org/W2327315803",
+  "https://openalex.org/W2913637164",
+  "https://openalex.org/W4243085958",
+  "https://openalex.org/W4300302225"
+ ],
+ "title": "Cones of Matrices and Set-Functions and 0–1 Optimization"
+}

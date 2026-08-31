@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1007/11549345_36",
+ "id": "https://openalex.org/W1483260880",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1486060992",
+  "https://openalex.org/W1500050811",
+  "https://openalex.org/W1972004026",
+  "https://openalex.org/W1997240046",
+  "https://openalex.org/W2046132190",
+  "https://openalex.org/W2066176625",
+  "https://openalex.org/W2080947358",
+  "https://openalex.org/W2093454413",
+  "https://openalex.org/W2093712769",
+  "https://openalex.org/W2115826669",
+  "https://openalex.org/W2338405082"
+ ],
+ "title": "Complexity of DNF and Isomorphism of Monotone Formulas"
+}

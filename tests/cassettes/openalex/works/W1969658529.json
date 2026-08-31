@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 26,
+ "doi": "https://doi.org/10.1305/ndjfl/1039724889",
+ "id": "https://openalex.org/W1969658529",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1501258188",
+  "https://openalex.org/W1506910973",
+  "https://openalex.org/W1523047387",
+  "https://openalex.org/W1524655177",
+  "https://openalex.org/W1595549069",
+  "https://openalex.org/W1826040061",
+  "https://openalex.org/W1966026637",
+  "https://openalex.org/W1987125012",
+  "https://openalex.org/W1990370351",
+  "https://openalex.org/W2010274553",
+  "https://openalex.org/W2016129710",
+  "https://openalex.org/W2022290763",
+  "https://openalex.org/W2028965656",
+  "https://openalex.org/W2045304669",
+  "https://openalex.org/W2082707306",
+  "https://openalex.org/W2090415524",
+  "https://openalex.org/W2096482476",
+  "https://openalex.org/W2119240423",
+  "https://openalex.org/W2127160476",
+  "https://openalex.org/W2139772363",
+  "https://openalex.org/W3128976560",
+  "https://openalex.org/W4252137238",
+  "https://openalex.org/W6630282360"
+ ],
+ "title": "The \"Relevance\" of Intersection and Union Types"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 48,
+ "doi": null,
+ "id": "https://openalex.org/W2132588110",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W175821084",
+  "https://openalex.org/W1494628589",
+  "https://openalex.org/W1528056001",
+  "https://openalex.org/W1575388622",
+  "https://openalex.org/W1593793857",
+  "https://openalex.org/W1896341954",
+  "https://openalex.org/W2020294948",
+  "https://openalex.org/W2038186895",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2099111195",
+  "https://openalex.org/W2105594594",
+  "https://openalex.org/W2105934661",
+  "https://openalex.org/W2567948266"
+ ],
+ "title": "Approximate Learning of Dynamic Models"
+}

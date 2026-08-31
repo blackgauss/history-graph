@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 268,
+ "doi": "https://doi.org/10.1093/bioinformatics/17.5.419",
+ "id": "https://openalex.org/W2109034006",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1502916507",
+  "https://openalex.org/W1821582542",
+  "https://openalex.org/W1964918240",
+  "https://openalex.org/W1987042978",
+  "https://openalex.org/W1999909705",
+  "https://openalex.org/W2008841836",
+  "https://openalex.org/W2016453697",
+  "https://openalex.org/W2042371846",
+  "https://openalex.org/W2052890777",
+  "https://openalex.org/W2065854842",
+  "https://openalex.org/W2094519647",
+  "https://openalex.org/W2116688916",
+  "https://openalex.org/W2147717514",
+  "https://openalex.org/W2152331922",
+  "https://openalex.org/W2155976638",
+  "https://openalex.org/W2158714788",
+  "https://openalex.org/W2168073190",
+  "https://openalex.org/W2295428206",
+  "https://openalex.org/W2610179052",
+  "https://openalex.org/W2614575602",
+  "https://openalex.org/W2949977409"
+ ],
+ "title": "Efficient large-scale sequence comparison by locality-sensitive hashing"
+}

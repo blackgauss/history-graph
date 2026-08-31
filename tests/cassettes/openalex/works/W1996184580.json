@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 405,
+ "doi": "https://doi.org/10.1016/0304-3975(76)90062-1",
+ "id": "https://openalex.org/W1996184580",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W1555195996",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1987331423",
+  "https://openalex.org/W1989887898",
+  "https://openalex.org/W1993138363",
+  "https://openalex.org/W1998084650",
+  "https://openalex.org/W2007464118",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2065251436",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2073746311",
+  "https://openalex.org/W2091495457",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W6633487396",
+  "https://openalex.org/W6644040475",
+  "https://openalex.org/W6651922783",
+  "https://openalex.org/W6669087767"
+ ],
+ "title": "Complete sets and the polynomial-time hierarchy"
+}

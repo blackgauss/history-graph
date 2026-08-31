@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 1744,
+ "doi": "https://doi.org/10.1145/1102351.1102430",
+ "id": "https://openalex.org/W2098824882",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1509515766",
+  "https://openalex.org/W1576520375",
+  "https://openalex.org/W1598033630",
+  "https://openalex.org/W1599263113",
+  "https://openalex.org/W1618905105",
+  "https://openalex.org/W1841840321",
+  "https://openalex.org/W2012942264",
+  "https://openalex.org/W2016511206",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2170913656",
+  "https://openalex.org/W2795929191"
+ ],
+ "title": "Predicting good probabilities with supervised learning"
+}

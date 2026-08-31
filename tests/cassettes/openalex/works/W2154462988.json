@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 919,
+ "doi": "https://doi.org/10.1145/321495.321506",
+ "id": "https://openalex.org/W2154462988",
+ "publication_year": 1969,
+ "referenced_works": [
+  "https://openalex.org/W188143324",
+  "https://openalex.org/W1565693361",
+  "https://openalex.org/W1587744618",
+  "https://openalex.org/W1995875735",
+  "https://openalex.org/W2000747741",
+  "https://openalex.org/W2004132074",
+  "https://openalex.org/W2022536446",
+  "https://openalex.org/W2032627084",
+  "https://openalex.org/W2067580807",
+  "https://openalex.org/W2076597612",
+  "https://openalex.org/W2103502708",
+  "https://openalex.org/W2126160338",
+  "https://openalex.org/W2133910321",
+  "https://openalex.org/W2144846366",
+  "https://openalex.org/W2154462988",
+  "https://openalex.org/W2318794916",
+  "https://openalex.org/W2506342332",
+  "https://openalex.org/W2751862591",
+  "https://openalex.org/W2797656628",
+  "https://openalex.org/W3175367423"
+ ],
+ "title": "On the Length of Programs for Computing Finite Binary Sequences"
+}

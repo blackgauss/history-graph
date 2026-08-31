@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 86,
+ "doi": "https://doi.org/10.1007/978-3-7908-1883-3_24",
+ "id": "https://openalex.org/W144179781",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W25459356",
+  "https://openalex.org/W193712352",
+  "https://openalex.org/W1497256448",
+  "https://openalex.org/W1517222029",
+  "https://openalex.org/W1553701556",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1601938650",
+  "https://openalex.org/W1659842140",
+  "https://openalex.org/W1980465669",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2142183404",
+  "https://openalex.org/W2154345794",
+  "https://openalex.org/W2166843422",
+  "https://openalex.org/W2340020088",
+  "https://openalex.org/W2752885492",
+  "https://openalex.org/W6631722374",
+  "https://openalex.org/W6684276203"
+ ],
+ "title": "Genetic Algorithms in Decomposition and Classification Problems"
+}

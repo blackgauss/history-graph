@@ -1,0 +1,82 @@
+{
+ "cited_by_count": 369,
+ "counts_by_year": [
+  {
+   "cited_by_count": 5,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 21,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1086/261158",
+ "id": "https://openalex.org/W2024694589",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W1981329484",
+  "https://openalex.org/W2002430844",
+  "https://openalex.org/W2008751404",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2094910871",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2127470768",
+  "https://openalex.org/W2751335644",
+  "https://openalex.org/W3121235808",
+  "https://openalex.org/W3126081580"
+ ],
+ "title": "Elicitation of Honest Preferences for the Assignment of Individuals to Positions"
+}

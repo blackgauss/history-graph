@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1109/icde.2005.40",
+ "id": "https://openalex.org/W2161291147",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W253264081",
+  "https://openalex.org/W1943411325",
+  "https://openalex.org/W1981031417",
+  "https://openalex.org/W1994642127",
+  "https://openalex.org/W2073824505",
+  "https://openalex.org/W2112101330",
+  "https://openalex.org/W2126321570",
+  "https://openalex.org/W2131165411",
+  "https://openalex.org/W2158447492",
+  "https://openalex.org/W2252148092",
+  "https://openalex.org/W3015061971",
+  "https://openalex.org/W4238925974",
+  "https://openalex.org/W4248563344",
+  "https://openalex.org/W6640690195"
+ ],
+ "title": "Cost-Driven General Join View Maintenance over Distributed Data Sources"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 636,
+ "doi": "https://doi.org/10.1103/physreva.60.2746",
+ "id": "https://openalex.org/W2126338609",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W2002372750",
+  "https://openalex.org/W2006290558",
+  "https://openalex.org/W2020918964",
+  "https://openalex.org/W2084652510",
+  "https://openalex.org/W2124512402",
+  "https://openalex.org/W3106123690"
+ ],
+ "title": "Grover’s quantum searching algorithm is optimal"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 139,
+ "doi": "https://doi.org/10.1016/0010-4809(78)90001-0",
+ "id": "https://openalex.org/W2078713358",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W153122152",
+  "https://openalex.org/W373630117",
+  "https://openalex.org/W1177262172",
+  "https://openalex.org/W1784695092",
+  "https://openalex.org/W2017840125",
+  "https://openalex.org/W2028716205",
+  "https://openalex.org/W2078383365",
+  "https://openalex.org/W6606229694",
+  "https://openalex.org/W6612753289",
+  "https://openalex.org/W6670195718"
+ ],
+ "title": "Bayes' theorem and conditional nonindependence of data in medical diagnosis"
+}

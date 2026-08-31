@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 201,
+ "doi": "https://doi.org/10.1177/003754976700900601",
+ "id": "https://openalex.org/W201508253",
+ "publication_year": 1967,
+ "referenced_works": [
+  "https://openalex.org/W2080858874",
+  "https://openalex.org/W2081735123",
+  "https://openalex.org/W2130205032"
+ ],
+ "title": "The SCi Continuous System Simulation Language (CSSL)"
+}

@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 91,
+ "doi": "https://doi.org/10.1007/bfb0016999",
+ "id": "https://openalex.org/W2479141294",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1481336122",
+  "https://openalex.org/W1489136885",
+  "https://openalex.org/W1500632433",
+  "https://openalex.org/W1530389169",
+  "https://openalex.org/W1531434539",
+  "https://openalex.org/W1534214325",
+  "https://openalex.org/W1552098819",
+  "https://openalex.org/W1571519338",
+  "https://openalex.org/W1597910678",
+  "https://openalex.org/W1602116488",
+  "https://openalex.org/W1605844890",
+  "https://openalex.org/W1702174520",
+  "https://openalex.org/W1792357815",
+  "https://openalex.org/W1876166946",
+  "https://openalex.org/W1908447011",
+  "https://openalex.org/W1927345150",
+  "https://openalex.org/W2092210091",
+  "https://openalex.org/W2096475783"
+ ],
+ "title": "Machine Learning — EWSL-91"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 93,
+ "doi": null,
+ "id": "https://openalex.org/W2113646052",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1545745930",
+  "https://openalex.org/W2024081693",
+  "https://openalex.org/W2024307779",
+  "https://openalex.org/W2037753653",
+  "https://openalex.org/W2088779313",
+  "https://openalex.org/W2122111042"
+ ],
+ "title": "Discriminant Adaptive Nearest Neighbor Classification and Regression"
+}

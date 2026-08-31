@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 267,
+ "doi": "https://doi.org/10.1145/307400.307439",
+ "id": "https://openalex.org/W2009772318",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W230097570",
+  "https://openalex.org/W1564947197",
+  "https://openalex.org/W1583670422",
+  "https://openalex.org/W1976026757",
+  "https://openalex.org/W1996930999",
+  "https://openalex.org/W2000119679",
+  "https://openalex.org/W2017031328",
+  "https://openalex.org/W2068871408",
+  "https://openalex.org/W2137207609",
+  "https://openalex.org/W2138263042",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W4205643467",
+  "https://openalex.org/W6723629830"
+ ],
+ "title": "Beating the hold-out"
+}

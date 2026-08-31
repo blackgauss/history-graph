@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 105,
+ "doi": "https://doi.org/10.1145/321724.321731",
+ "id": "https://openalex.org/W1982704699",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W1546585099",
+  "https://openalex.org/W1964869680",
+  "https://openalex.org/W1970961429",
+  "https://openalex.org/W2003020124",
+  "https://openalex.org/W2003159415",
+  "https://openalex.org/W2008399088",
+  "https://openalex.org/W2113230387",
+  "https://openalex.org/W2145714134"
+ ],
+ "title": "Computational Work and Time on Finite Machines"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 51,
+ "doi": "https://doi.org/10.1257/mic.5.4.163",
+ "id": "https://openalex.org/W1516531249",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1993351029",
+  "https://openalex.org/W2043634452",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2128790636",
+  "https://openalex.org/W2133198311",
+  "https://openalex.org/W2135060498",
+  "https://openalex.org/W2264897026",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3123565627",
+  "https://openalex.org/W4231144620"
+ ],
+ "title": "Equilibrium Bids in Sponsored Search Auctions: Theory and Evidence"
+}

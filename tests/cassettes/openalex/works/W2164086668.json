@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 188,
+ "doi": "https://doi.org/10.1137/0912021",
+ "id": "https://openalex.org/W2164086668",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W61851564",
+  "https://openalex.org/W133977063",
+  "https://openalex.org/W778085284",
+  "https://openalex.org/W1967227158",
+  "https://openalex.org/W1982585616",
+  "https://openalex.org/W1986280275",
+  "https://openalex.org/W2000215628",
+  "https://openalex.org/W2013641303",
+  "https://openalex.org/W2015904350",
+  "https://openalex.org/W2024602863",
+  "https://openalex.org/W2033914841",
+  "https://openalex.org/W2056735347",
+  "https://openalex.org/W2064257851",
+  "https://openalex.org/W2081283602",
+  "https://openalex.org/W2084852914",
+  "https://openalex.org/W2140054106",
+  "https://openalex.org/W2162430620",
+  "https://openalex.org/W2166163519",
+  "https://openalex.org/W2403035479",
+  "https://openalex.org/W2796930440",
+  "https://openalex.org/W3000332379",
+  "https://openalex.org/W4236316114"
+ ],
+ "title": "Minimizing GCV/GML Scores with Multiple Smoothing Parameters via the Newton Method"
+}

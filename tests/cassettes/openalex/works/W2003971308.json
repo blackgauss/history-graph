@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 141,
+ "doi": "https://doi.org/10.1090/s0025-5718-99-01080-7",
+ "id": "https://openalex.org/W2003971308",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1597209545",
+  "https://openalex.org/W1973292984",
+  "https://openalex.org/W1991221590",
+  "https://openalex.org/W1998601294",
+  "https://openalex.org/W2013641303",
+  "https://openalex.org/W2022917835",
+  "https://openalex.org/W2025343193",
+  "https://openalex.org/W2041140405",
+  "https://openalex.org/W2067701673",
+  "https://openalex.org/W2074029034",
+  "https://openalex.org/W2130859329",
+  "https://openalex.org/W2168955138",
+  "https://openalex.org/W3106701803",
+  "https://openalex.org/W4205354563",
+  "https://openalex.org/W4247889016",
+  "https://openalex.org/W4302819252"
+ ],
+ "title": "Error estimates for scattered data interpolation on spheres"
+}

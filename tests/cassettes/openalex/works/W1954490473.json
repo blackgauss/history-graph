@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1007/3-540-46541-3_51",
+ "id": "https://openalex.org/W1954490473",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W10922151",
+  "https://openalex.org/W1509739886",
+  "https://openalex.org/W1519080809",
+  "https://openalex.org/W1564773445",
+  "https://openalex.org/W1569885018",
+  "https://openalex.org/W1571581645",
+  "https://openalex.org/W1608929692",
+  "https://openalex.org/W2015880590",
+  "https://openalex.org/W2027528470",
+  "https://openalex.org/W2031934066",
+  "https://openalex.org/W2042194938",
+  "https://openalex.org/W2060775054",
+  "https://openalex.org/W2103749128",
+  "https://openalex.org/W2123301539",
+  "https://openalex.org/W4210300416"
+ ],
+ "title": "Spectral Bounds on General Hard Core Predicates"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 4576,
+ "doi": "https://doi.org/10.1103/physreva.52.r2493",
+ "id": "https://openalex.org/W1999706070",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1967045838",
+  "https://openalex.org/W1993248778",
+  "https://openalex.org/W2025187617",
+  "https://openalex.org/W2099111195",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2595959570",
+  "https://openalex.org/W4230665353",
+  "https://openalex.org/W4231127907"
+ ],
+ "title": "Scheme for reducing decoherence in quantum computer memory"
+}

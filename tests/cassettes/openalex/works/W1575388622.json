@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 487,
+ "doi": "https://doi.org/10.48550/arxiv.1301.7362",
+ "id": "https://openalex.org/W1575388622",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1494628589",
+  "https://openalex.org/W1528056001",
+  "https://openalex.org/W1558314353",
+  "https://openalex.org/W1565763124",
+  "https://openalex.org/W1578685895",
+  "https://openalex.org/W1593793857",
+  "https://openalex.org/W1609461728",
+  "https://openalex.org/W1759300969",
+  "https://openalex.org/W1786472020",
+  "https://openalex.org/W2011418219",
+  "https://openalex.org/W2020294948",
+  "https://openalex.org/W2104163628",
+  "https://openalex.org/W2105594594",
+  "https://openalex.org/W2105934661",
+  "https://openalex.org/W2147496287"
+ ],
+ "title": "Tractable Inference for Complex Stochastic Processes"
+}

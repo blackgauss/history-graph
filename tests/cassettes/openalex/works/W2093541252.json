@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 741,
+ "doi": "https://doi.org/10.1007/bfb0079432",
+ "id": "https://openalex.org/W2093541252",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1594912681",
+  "https://openalex.org/W2012213337",
+  "https://openalex.org/W2032076167",
+  "https://openalex.org/W2039586513",
+  "https://openalex.org/W2050056673",
+  "https://openalex.org/W2056239109",
+  "https://openalex.org/W2064204259",
+  "https://openalex.org/W2071312301",
+  "https://openalex.org/W2078079279",
+  "https://openalex.org/W2106001218",
+  "https://openalex.org/W2112970566",
+  "https://openalex.org/W2113757735",
+  "https://openalex.org/W2141568518",
+  "https://openalex.org/W2398539043",
+  "https://openalex.org/W2542647517",
+  "https://openalex.org/W3182062373",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Data types as lattices"
+}

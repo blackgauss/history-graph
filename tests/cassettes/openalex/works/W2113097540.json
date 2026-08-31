@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 405,
+ "doi": "https://doi.org/10.1137/0205040",
+ "id": "https://openalex.org/W2113097540",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W2118981857",
+  "https://openalex.org/W2319624714",
+  "https://openalex.org/W2330913512"
+ ],
+ "title": "Fast Parallel Matrix Inversion Algorithms"
+}

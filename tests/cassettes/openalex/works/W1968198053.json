@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 599,
+ "doi": "https://doi.org/10.1126/science.264.5163.1297",
+ "id": "https://openalex.org/W1968198053",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1571307015",
+  "https://openalex.org/W2010894431",
+  "https://openalex.org/W2031823362",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2063225631",
+  "https://openalex.org/W2075335084",
+  "https://openalex.org/W2154472352",
+  "https://openalex.org/W2905110430",
+  "https://openalex.org/W3113109455",
+  "https://openalex.org/W4206502013"
+ ],
+ "title": "Critical Behavior in the Satisfiability of Random Boolean Expressions"
+}

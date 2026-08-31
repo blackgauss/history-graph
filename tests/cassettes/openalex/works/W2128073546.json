@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 1803,
+ "doi": null,
+ "id": "https://openalex.org/W2128073546",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W28412257",
+  "https://openalex.org/W2076118331",
+  "https://openalex.org/W2080021732",
+  "https://openalex.org/W2110327402",
+  "https://openalex.org/W2135293965"
+ ],
+ "title": "Neural Network Ensembles, Cross Validation, and Active Learning"
+}

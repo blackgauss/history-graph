@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 56,
+ "doi": "https://doi.org/10.1109/sfcs.1987.21",
+ "id": "https://openalex.org/W2148454341",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W151521611",
+  "https://openalex.org/W1543281322",
+  "https://openalex.org/W1982536735",
+  "https://openalex.org/W1989445634",
+  "https://openalex.org/W1989454087",
+  "https://openalex.org/W2017603160",
+  "https://openalex.org/W2018706164",
+  "https://openalex.org/W2061079066",
+  "https://openalex.org/W2092386826",
+  "https://openalex.org/W2156184725",
+  "https://openalex.org/W2317462728",
+  "https://openalex.org/W3023109995"
+ ],
+ "title": "Diversity-based inference of finite automata"
+}

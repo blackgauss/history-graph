@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 139,
+ "doi": "https://doi.org/10.1007/s00339-004-3149-1",
+ "id": "https://openalex.org/W2107969613",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1555062588",
+  "https://openalex.org/W2003872791",
+  "https://openalex.org/W2019168991",
+  "https://openalex.org/W2049650033",
+  "https://openalex.org/W2050111978",
+  "https://openalex.org/W2063782027",
+  "https://openalex.org/W2096951235",
+  "https://openalex.org/W2097733820",
+  "https://openalex.org/W2100903675",
+  "https://openalex.org/W2128181612",
+  "https://openalex.org/W2139399616",
+  "https://openalex.org/W2162983760",
+  "https://openalex.org/W4243329785",
+  "https://openalex.org/W6600002382"
+ ],
+ "title": "Computing with hysteretic resistor crossbars"
+}

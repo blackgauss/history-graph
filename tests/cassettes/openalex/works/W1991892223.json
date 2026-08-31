@@ -1,0 +1,75 @@
+{
+ "cited_by_count": 614,
+ "counts_by_year": [
+  {
+   "cited_by_count": 8,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 21,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1086/261411",
+ "id": "https://openalex.org/W1991892223",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2024694589",
+  "https://openalex.org/W2063292248",
+  "https://openalex.org/W2331236532"
+ ],
+ "title": "Multi-Item Auctions"
+}

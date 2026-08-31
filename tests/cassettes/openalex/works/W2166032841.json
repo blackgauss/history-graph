@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 22,
+ "doi": "https://doi.org/10.1016/0003-4843(72)90011-3",
+ "id": "https://openalex.org/W2166032841",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W1984887166",
+  "https://openalex.org/W2006726677",
+  "https://openalex.org/W2042499838",
+  "https://openalex.org/W2051601785",
+  "https://openalex.org/W2060142264",
+  "https://openalex.org/W2069624526",
+  "https://openalex.org/W2079464688",
+  "https://openalex.org/W2105112555",
+  "https://openalex.org/W4241435086",
+  "https://openalex.org/W6663544487",
+  "https://openalex.org/W6665535186",
+  "https://openalex.org/W6670767205",
+  "https://openalex.org/W6675701590",
+  "https://openalex.org/W6904822238"
+ ],
+ "title": "Degrees of unsolvability complementary between recursively enumerable degrees, Part 1"
+}

@@ -1,0 +1,45 @@
+{
+ "cited_by_count": 239,
+ "counts_by_year": [
+  {
+   "cited_by_count": 6,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 30,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 49,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2018
+  }
+ ],
+ "doi": "https://doi.org/10.1109/twc.2019.2899303",
+ "id": "https://openalex.org/W2917981112",
+ "publication_year": 2019,
+ "title": "Average Age of Information With Hybrid ARQ Under a Resource Constraint"
+}

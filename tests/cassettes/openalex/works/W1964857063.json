@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 305,
+ "doi": "https://doi.org/10.1145/304181.304206",
+ "id": "https://openalex.org/W1964857063",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1592355944",
+  "https://openalex.org/W1608865483",
+  "https://openalex.org/W1892999956",
+  "https://openalex.org/W2000154402",
+  "https://openalex.org/W2026896584",
+  "https://openalex.org/W2079656678",
+  "https://openalex.org/W2080566084",
+  "https://openalex.org/W2090403603",
+  "https://openalex.org/W2118229812",
+  "https://openalex.org/W2119885577",
+  "https://openalex.org/W2165906949",
+  "https://openalex.org/W2295428206",
+  "https://openalex.org/W2296677182",
+  "https://openalex.org/W6670271065"
+ ],
+ "title": "On random sampling over joins"
+}

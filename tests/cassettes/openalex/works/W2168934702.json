@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 63,
+ "doi": null,
+ "id": "https://openalex.org/W2168934702",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1204673195",
+  "https://openalex.org/W1995826658",
+  "https://openalex.org/W2048060899",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W3133056632"
+ ],
+ "title": "A Theory for Neural Networks with Time Delays"
+}

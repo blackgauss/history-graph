@@ -1,0 +1,37 @@
+{
+ "cited_by_count": 411,
+ "counts_by_year": [
+  {
+   "cited_by_count": 39,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 103,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 84,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 80,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 65,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2020
+  }
+ ],
+ "doi": "https://doi.org/10.1007/s10462-019-09744-1",
+ "id": "https://openalex.org/W2966501701",
+ "publication_year": 2019,
+ "title": "Recommendation system based on deep learning methods: a systematic review and new directions"
+}

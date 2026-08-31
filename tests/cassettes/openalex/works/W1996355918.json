@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 2529,
+ "doi": "https://doi.org/10.1016/0165-1684(91)90079-x",
+ "id": "https://openalex.org/W1996355918",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W46701496",
+  "https://openalex.org/W592317813",
+  "https://openalex.org/W1481696337",
+  "https://openalex.org/W1996773027",
+  "https://openalex.org/W2051385641",
+  "https://openalex.org/W2068447332",
+  "https://openalex.org/W2090736342",
+  "https://openalex.org/W2164274618",
+  "https://openalex.org/W2215995846",
+  "https://openalex.org/W2248478808",
+  "https://openalex.org/W6628888280",
+  "https://openalex.org/W6688626794"
+ ],
+ "title": "Blind separation of sources, part I: An adaptive algorithm based on neuromimetic architecture"
+}

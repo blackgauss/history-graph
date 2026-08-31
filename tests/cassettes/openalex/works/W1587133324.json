@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 145,
+ "doi": "https://doi.org/10.1007/3-540-44750-4_34",
+ "id": "https://openalex.org/W1587133324",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1493241500",
+  "https://openalex.org/W1558606648",
+  "https://openalex.org/W1596185498",
+  "https://openalex.org/W1990820504",
+  "https://openalex.org/W1993688167",
+  "https://openalex.org/W2003736153",
+  "https://openalex.org/W2033535959",
+  "https://openalex.org/W2036378739",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W2137005141",
+  "https://openalex.org/W2156186849",
+  "https://openalex.org/W2160083149",
+  "https://openalex.org/W2612691132",
+  "https://openalex.org/W4245047333"
+ ],
+ "title": "Quantum Cryptanalysis of Hidden Linear Functions"
+}

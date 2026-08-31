@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 149,
+ "doi": "https://doi.org/10.1109/mc.2007.79",
+ "id": "https://openalex.org/W2122862680",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W31595968",
+  "https://openalex.org/W139898885",
+  "https://openalex.org/W938539187",
+  "https://openalex.org/W1504417041",
+  "https://openalex.org/W1979573134",
+  "https://openalex.org/W1990061958",
+  "https://openalex.org/W2000383223",
+  "https://openalex.org/W2073289615",
+  "https://openalex.org/W2108089272",
+  "https://openalex.org/W2111721717",
+  "https://openalex.org/W2112528647",
+  "https://openalex.org/W2124892579",
+  "https://openalex.org/W2125441126",
+  "https://openalex.org/W2144129802",
+  "https://openalex.org/W6605770269",
+  "https://openalex.org/W6650284217"
+ ],
+ "title": "Achieving High Performance with FPGA-Based Computing"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 71,
+ "doi": "https://doi.org/10.1109/t-c.1970.222879",
+ "id": "https://openalex.org/W2156028311",
+ "publication_year": 1970,
+ "referenced_works": [
+  "https://openalex.org/W1538324362",
+  "https://openalex.org/W1546585099",
+  "https://openalex.org/W1983853051",
+  "https://openalex.org/W2015163116",
+  "https://openalex.org/W2022281793",
+  "https://openalex.org/W2025264497",
+  "https://openalex.org/W2031401570",
+  "https://openalex.org/W2045736435",
+  "https://openalex.org/W2068422506",
+  "https://openalex.org/W2076965809",
+  "https://openalex.org/W2086358525",
+  "https://openalex.org/W2140727935",
+  "https://openalex.org/W2155968807",
+  "https://openalex.org/W2167373933",
+  "https://openalex.org/W2541515605",
+  "https://openalex.org/W4213366507",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Universal Logic Modules and Their Applications"
+}

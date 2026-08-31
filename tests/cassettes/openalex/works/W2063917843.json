@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 400,
+ "doi": "https://doi.org/10.1287/mnsc.12.3.206",
+ "id": "https://openalex.org/W2063917843",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W1490555279",
+  "https://openalex.org/W1605791080",
+  "https://openalex.org/W1974170715",
+  "https://openalex.org/W2056858451",
+  "https://openalex.org/W2070998053",
+  "https://openalex.org/W2141054642",
+  "https://openalex.org/W2327417466",
+  "https://openalex.org/W2329983323",
+  "https://openalex.org/W2796840860"
+ ],
+ "title": "Optimal Policy for a Multi-Product, Dynamic, Nonstationary Inventory Problem"
+}

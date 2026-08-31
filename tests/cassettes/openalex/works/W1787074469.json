@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 2152,
+ "doi": "https://doi.org/10.1007/3-540-49059-0_14",
+ "id": "https://openalex.org/W1787074469",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W185167655",
+  "https://openalex.org/W1490995582",
+  "https://openalex.org/W1501731334",
+  "https://openalex.org/W1503170978",
+  "https://openalex.org/W1511155470",
+  "https://openalex.org/W1517173520",
+  "https://openalex.org/W1538995403",
+  "https://openalex.org/W1540180960",
+  "https://openalex.org/W1573354578",
+  "https://openalex.org/W1600919542",
+  "https://openalex.org/W1605860778",
+  "https://openalex.org/W1733023992",
+  "https://openalex.org/W1975657455",
+  "https://openalex.org/W2003227046",
+  "https://openalex.org/W2061438988",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2080593426",
+  "https://openalex.org/W2090398333",
+  "https://openalex.org/W2135613306",
+  "https://openalex.org/W3045969830",
+  "https://openalex.org/W4253854487",
+  "https://openalex.org/W4300021588"
+ ],
+ "title": "Symbolic Model Checking without BDDs"
+}

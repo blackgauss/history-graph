@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 254,
+ "doi": "https://doi.org/10.1016/s0038-1098(97)10001-1",
+ "id": "https://openalex.org/W2065717634",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1965492493",
+  "https://openalex.org/W1966533239",
+  "https://openalex.org/W1979260239",
+  "https://openalex.org/W1983625254",
+  "https://openalex.org/W1988334222",
+  "https://openalex.org/W2001033462",
+  "https://openalex.org/W2003992904",
+  "https://openalex.org/W2004208778",
+  "https://openalex.org/W2024911740",
+  "https://openalex.org/W2054388650",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2076485024",
+  "https://openalex.org/W2087634531",
+  "https://openalex.org/W2088257021",
+  "https://openalex.org/W2096551755",
+  "https://openalex.org/W2126247801",
+  "https://openalex.org/W4239873278"
+ ],
+ "title": "Adiabatic quantum computation with Cooper pairs"
+}

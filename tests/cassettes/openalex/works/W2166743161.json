@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 286,
+ "doi": "https://doi.org/10.1145/988672.988676",
+ "id": "https://openalex.org/W2166743161",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W163244498",
+  "https://openalex.org/W1506099691",
+  "https://openalex.org/W1546842576",
+  "https://openalex.org/W1566984846",
+  "https://openalex.org/W1854214752",
+  "https://openalex.org/W1964579932",
+  "https://openalex.org/W2008620264",
+  "https://openalex.org/W2030453570",
+  "https://openalex.org/W2053049304",
+  "https://openalex.org/W2059713800",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2067338315",
+  "https://openalex.org/W2086453025",
+  "https://openalex.org/W2089192108",
+  "https://openalex.org/W2118009636",
+  "https://openalex.org/W2129620481",
+  "https://openalex.org/W2130610812",
+  "https://openalex.org/W2134308336",
+  "https://openalex.org/W2138621811",
+  "https://openalex.org/W2158601853",
+  "https://openalex.org/W2169557227",
+  "https://openalex.org/W2769133055",
+  "https://openalex.org/W4237841550"
+ ],
+ "title": "Impact of search engines on page popularity"
+}

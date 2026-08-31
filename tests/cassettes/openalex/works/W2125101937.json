@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 1760,
+ "doi": "https://doi.org/10.1109/iccv.1998.710701",
+ "id": "https://openalex.org/W2125101937",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1526351017",
+  "https://openalex.org/W1608339372",
+  "https://openalex.org/W1969294188",
+  "https://openalex.org/W1988445395",
+  "https://openalex.org/W2018304568",
+  "https://openalex.org/W2059975159",
+  "https://openalex.org/W2079082863",
+  "https://openalex.org/W2093191240",
+  "https://openalex.org/W2125148312",
+  "https://openalex.org/W2125994026",
+  "https://openalex.org/W2131339961",
+  "https://openalex.org/W2138584058",
+  "https://openalex.org/W2152825437",
+  "https://openalex.org/W2169371330",
+  "https://openalex.org/W2322316662",
+  "https://openalex.org/W2568842486",
+  "https://openalex.org/W2914885528",
+  "https://openalex.org/W2973818247",
+  "https://openalex.org/W3113130260",
+  "https://openalex.org/W3117722945",
+  "https://openalex.org/W4405139089",
+  "https://openalex.org/W6642652525",
+  "https://openalex.org/W6670356954",
+  "https://openalex.org/W6682747227"
+ ],
+ "title": "A metric for distributions with applications to image databases"
+}

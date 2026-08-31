@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 47,
+ "doi": null,
+ "id": "https://openalex.org/W2151802538",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W43103345",
+  "https://openalex.org/W1553313034",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2104364170",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2120486861",
+  "https://openalex.org/W2137291015"
+ ],
+ "title": "Training Methods for Adaptive Boosting of Neural Networks"
+}

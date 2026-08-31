@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 283,
+ "doi": "https://doi.org/10.1145/2107736.2107740",
+ "id": "https://openalex.org/W2009537245",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W150939725",
+  "https://openalex.org/W1589195347",
+  "https://openalex.org/W1985554184",
+  "https://openalex.org/W2068714596",
+  "https://openalex.org/W2115584760",
+  "https://openalex.org/W2169958062",
+  "https://openalex.org/W2173213060"
+ ],
+ "title": "Scaling up machine learning"
+}

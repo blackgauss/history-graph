@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 350,
+ "doi": "https://doi.org/10.1287/opre.12.2.300",
+ "id": "https://openalex.org/W2101011973",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W2009683816",
+  "https://openalex.org/W2012996908",
+  "https://openalex.org/W2020403120",
+  "https://openalex.org/W2027421115",
+  "https://openalex.org/W2063353399"
+ ],
+ "title": "On an Integer Program for a Delivery Problem"
+}

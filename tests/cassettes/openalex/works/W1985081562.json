@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 184,
+ "doi": "https://doi.org/10.1145/325737.325806",
+ "id": "https://openalex.org/W1985081562",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1587718046",
+  "https://openalex.org/W2012516036",
+  "https://openalex.org/W2071106922",
+  "https://openalex.org/W2162077280"
+ ],
+ "title": "Learning users' interests by unobtrusively observing their normal behavior"
+}

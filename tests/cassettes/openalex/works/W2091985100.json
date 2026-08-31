@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 33,
+ "doi": "https://doi.org/10.1145/214392.214395",
+ "id": "https://openalex.org/W2091985100",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1533901482",
+  "https://openalex.org/W2000562575",
+  "https://openalex.org/W2035002995",
+  "https://openalex.org/W2171926168"
+ ],
+ "title": "Algorithm 630"
+}

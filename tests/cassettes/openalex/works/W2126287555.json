@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 21,
+ "doi": null,
+ "id": "https://openalex.org/W2126287555",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W45099282",
+  "https://openalex.org/W147779991",
+  "https://openalex.org/W173348709",
+  "https://openalex.org/W181475459",
+  "https://openalex.org/W1567266381",
+  "https://openalex.org/W1983864916",
+  "https://openalex.org/W1996703648",
+  "https://openalex.org/W2040438443",
+  "https://openalex.org/W2048047354",
+  "https://openalex.org/W2062736856",
+  "https://openalex.org/W2077552060",
+  "https://openalex.org/W2125110383",
+  "https://openalex.org/W2594306101",
+  "https://openalex.org/W2594710030",
+  "https://openalex.org/W2756875954"
+ ],
+ "title": "An XML representation of DAE systems obtained from continuous-time Modelica models"
+}

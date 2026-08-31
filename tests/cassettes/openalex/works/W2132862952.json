@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 76,
+ "doi": "https://doi.org/10.1007/3-540-45105-6_41",
+ "id": "https://openalex.org/W2132862952",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1506497862",
+  "https://openalex.org/W1517018472",
+  "https://openalex.org/W1528012351",
+  "https://openalex.org/W1529799029",
+  "https://openalex.org/W1546584320",
+  "https://openalex.org/W1589901344",
+  "https://openalex.org/W1596135418",
+  "https://openalex.org/W1653273292",
+  "https://openalex.org/W1747702904",
+  "https://openalex.org/W1797409058",
+  "https://openalex.org/W1976115983",
+  "https://openalex.org/W2006303459",
+  "https://openalex.org/W2100097207",
+  "https://openalex.org/W2100211715",
+  "https://openalex.org/W2122762267",
+  "https://openalex.org/W2147147005",
+  "https://openalex.org/W2155791599",
+  "https://openalex.org/W2171181350",
+  "https://openalex.org/W2588677395",
+  "https://openalex.org/W2914048451",
+  "https://openalex.org/W6630885942"
+ ],
+ "title": "Evolving Keepaway Soccer Players through Task Decomposition"
+}

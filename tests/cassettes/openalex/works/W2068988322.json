@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 88,
+ "doi": "https://doi.org/10.1145/321264.321270",
+ "id": "https://openalex.org/W2068988322",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W2044633287",
+  "https://openalex.org/W6661467176"
+ ],
+ "title": "Computer Studies of Turing Machine Problems"
+}

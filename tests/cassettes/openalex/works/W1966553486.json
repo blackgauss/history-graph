@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 4088,
+ "doi": "https://doi.org/10.1145/138859.138867",
+ "id": "https://openalex.org/W1966553486",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1516049114",
+  "https://openalex.org/W1568230512",
+  "https://openalex.org/W1976379365",
+  "https://openalex.org/W2002110561",
+  "https://openalex.org/W2006299591",
+  "https://openalex.org/W2019580127",
+  "https://openalex.org/W2037717074",
+  "https://openalex.org/W2053772216",
+  "https://openalex.org/W2066636971",
+  "https://openalex.org/W4248319243"
+ ],
+ "title": "Using collaborative filtering to weave an information tapestry"
+}

@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 17,
+ "doi": "https://doi.org/10.1109/69.87978",
+ "id": "https://openalex.org/W2150503034",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1499217199",
+  "https://openalex.org/W1748095660",
+  "https://openalex.org/W1979912584",
+  "https://openalex.org/W1983295819",
+  "https://openalex.org/W1986353419",
+  "https://openalex.org/W1989002177",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2023467128",
+  "https://openalex.org/W2042328301",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2055999895",
+  "https://openalex.org/W2099993385",
+  "https://openalex.org/W2132692154",
+  "https://openalex.org/W2159209233",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W2295596515",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6629102967",
+  "https://openalex.org/W6637593805",
+  "https://openalex.org/W6655386031"
+ ],
+ "title": "Optimal secondary storage access sequence for performing relational join"
+}

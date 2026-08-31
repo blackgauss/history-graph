@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 81,
+ "doi": "https://doi.org/10.1137/0218026",
+ "id": "https://openalex.org/W2050917944",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W41104307",
+  "https://openalex.org/W1543281322",
+  "https://openalex.org/W1550402024",
+  "https://openalex.org/W1969377401",
+  "https://openalex.org/W1980584633",
+  "https://openalex.org/W1995067748",
+  "https://openalex.org/W2005220880",
+  "https://openalex.org/W2016042296",
+  "https://openalex.org/W2037712946",
+  "https://openalex.org/W2055978814",
+  "https://openalex.org/W2056084417",
+  "https://openalex.org/W2061496873",
+  "https://openalex.org/W4249958171"
+ ],
+ "title": "CNF-Satisfiability Test by Counting and Polynomial Average Time"
+}

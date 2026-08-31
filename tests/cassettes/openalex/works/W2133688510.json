@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 64,
+ "doi": "https://doi.org/10.1162/neco.1994.6.6.1155",
+ "id": "https://openalex.org/W2133688510",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1535681052",
+  "https://openalex.org/W1982370770",
+  "https://openalex.org/W2001165346",
+  "https://openalex.org/W2012796055",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2061079066",
+  "https://openalex.org/W2065134213",
+  "https://openalex.org/W2081965739",
+  "https://openalex.org/W2106944545",
+  "https://openalex.org/W2108789285",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W2121553911",
+  "https://openalex.org/W2137983211",
+  "https://openalex.org/W2156960699",
+  "https://openalex.org/W2161017408",
+  "https://openalex.org/W3146803896",
+  "https://openalex.org/W4254816979"
+ ],
+ "title": "First-Order Recurrent Neural Networks and Deterministic Finite State Automata"
+}

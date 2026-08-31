@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 35,
+ "doi": "https://doi.org/10.1109/tai.1996.560473",
+ "id": "https://openalex.org/W2156081053",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W32130834",
+  "https://openalex.org/W128763912",
+  "https://openalex.org/W220352195",
+  "https://openalex.org/W1498304098",
+  "https://openalex.org/W1985291745",
+  "https://openalex.org/W2031784867",
+  "https://openalex.org/W2092931458",
+  "https://openalex.org/W2144078201",
+  "https://openalex.org/W2321352375",
+  "https://openalex.org/W2332863838",
+  "https://openalex.org/W4236842166",
+  "https://openalex.org/W4301216918",
+  "https://openalex.org/W6605289955",
+  "https://openalex.org/W7002453468",
+  "https://openalex.org/W7066114505"
+ ],
+ "title": "Computing prime implicants by integer programming"
+}

@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 152,
+ "doi": "https://doi.org/10.1162/neco.1993.5.2.289",
+ "id": "https://openalex.org/W1971074050",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W43393710",
+  "https://openalex.org/W1516664043",
+  "https://openalex.org/W1733248925",
+  "https://openalex.org/W2020999234",
+  "https://openalex.org/W2037395945",
+  "https://openalex.org/W2041905826",
+  "https://openalex.org/W2042925217",
+  "https://openalex.org/W2066426992",
+  "https://openalex.org/W2079230516",
+  "https://openalex.org/W2122741244",
+  "https://openalex.org/W2123838014",
+  "https://openalex.org/W2135346645",
+  "https://openalex.org/W2151351982",
+  "https://openalex.org/W2157629899",
+  "https://openalex.org/W2591802459",
+  "https://openalex.org/W2887242076",
+  "https://openalex.org/W2993383518",
+  "https://openalex.org/W4240035482"
+ ],
+ "title": "Redundancy Reduction as a Strategy for Unsupervised Learning"
+}

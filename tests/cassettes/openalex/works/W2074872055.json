@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1090/s0002-9947-1970-0265157-x",
+ "id": "https://openalex.org/W2074872055",
+ "publication_year": 1970,
+ "referenced_works": [
+  "https://openalex.org/W878043872",
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1494497985",
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W1980065093",
+  "https://openalex.org/W1984820433",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2047937662",
+  "https://openalex.org/W2085705456",
+  "https://openalex.org/W2097898753",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W2127316662",
+  "https://openalex.org/W4236944103",
+  "https://openalex.org/W4243050924",
+  "https://openalex.org/W4247104071"
+ ],
+ "title": "Recursive functions modulo 𝐶𝑂-𝑟-maximal sets"
+}

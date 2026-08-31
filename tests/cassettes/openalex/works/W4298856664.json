@@ -1,0 +1,82 @@
+{
+ "cited_by_count": 1020,
+ "concepts": [
+  {
+   "display_name": "Economics",
+   "id": "https://openalex.org/C162324750",
+   "level": 0,
+   "score": 0.7161380052566528,
+   "wikidata": "https://www.wikidata.org/wiki/Q8134"
+  },
+  {
+   "display_name": "Neoclassical economics",
+   "id": "https://openalex.org/C133425853",
+   "level": 1,
+   "score": 0.32533133029937744,
+   "wikidata": "https://www.wikidata.org/wiki/Q60571"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 4,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 48,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1257/aer.98.5.i",
+ "id": "https://openalex.org/W4298856664",
+ "publication_year": 2008,
+ "referenced_works": [],
+ "title": "The American Economic Review"
+}

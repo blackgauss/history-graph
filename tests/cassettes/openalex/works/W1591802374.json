@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 122,
+ "doi": "https://doi.org/10.1007/978-3-540-24605-3_26",
+ "id": "https://openalex.org/W1591802374",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W14839205",
+  "https://openalex.org/W94249243",
+  "https://openalex.org/W230546785",
+  "https://openalex.org/W1513282478",
+  "https://openalex.org/W1582699959",
+  "https://openalex.org/W1973267383",
+  "https://openalex.org/W1999823208",
+  "https://openalex.org/W2031823362",
+  "https://openalex.org/W2033901233",
+  "https://openalex.org/W2058440744",
+  "https://openalex.org/W2118382442",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2155218845",
+  "https://openalex.org/W2607539118"
+ ],
+ "title": "Effective Preprocessing with Hyper-Resolution and Equality Reduction"
+}

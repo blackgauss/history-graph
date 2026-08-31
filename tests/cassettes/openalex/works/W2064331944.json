@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 50,
+ "doi": "https://doi.org/10.1016/0010-4809(83)90040-x",
+ "id": "https://openalex.org/W2064331944",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W334725163",
+  "https://openalex.org/W1968181674",
+  "https://openalex.org/W1974034498",
+  "https://openalex.org/W1991683275",
+  "https://openalex.org/W2003998669",
+  "https://openalex.org/W2010858612",
+  "https://openalex.org/W2036304687",
+  "https://openalex.org/W2078713358",
+  "https://openalex.org/W2100911240",
+  "https://openalex.org/W2323747984",
+  "https://openalex.org/W4243794693",
+  "https://openalex.org/W4245206327",
+  "https://openalex.org/W4298859464",
+  "https://openalex.org/W6611535699"
+ ],
+ "title": "The effect of assuming independence in applying Bayes' Theorem to risk estimation and classification in diagnosis"
+}

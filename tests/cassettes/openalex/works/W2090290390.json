@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.5555/800129.804195",
+ "id": "https://openalex.org/W2090290390",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1983849809",
+  "https://openalex.org/W2038627227",
+  "https://openalex.org/W2071730048",
+  "https://openalex.org/W2156443685",
+  "https://openalex.org/W2293825829"
+ ],
+ "title": "A simultaneous, radix four, I2L multiplier mechanized via repeated addition"
+}

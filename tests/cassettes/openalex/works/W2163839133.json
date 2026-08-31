@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 161,
+ "doi": "https://doi.org/10.1109/9.754828",
+ "id": "https://openalex.org/W2163839133",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1548148540",
+  "https://openalex.org/W1593028398",
+  "https://openalex.org/W1963970719",
+  "https://openalex.org/W1965640670",
+  "https://openalex.org/W1991914862",
+  "https://openalex.org/W2009906306",
+  "https://openalex.org/W2018839384",
+  "https://openalex.org/W2076164917",
+  "https://openalex.org/W2152830946",
+  "https://openalex.org/W2154183166",
+  "https://openalex.org/W2564372822",
+  "https://openalex.org/W4292872153",
+  "https://openalex.org/W4298290699"
+ ],
+ "title": "Feedback limitations in nonlinear systems: from Bode integrals to cheap control"
+}

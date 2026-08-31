@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 153,
+ "doi": "https://doi.org/10.1137/0313063",
+ "id": "https://openalex.org/W2149707114",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W79060570",
+  "https://openalex.org/W183133782",
+  "https://openalex.org/W206693723",
+  "https://openalex.org/W598880424",
+  "https://openalex.org/W1019257519",
+  "https://openalex.org/W1552064164",
+  "https://openalex.org/W1668826802",
+  "https://openalex.org/W1976732633",
+  "https://openalex.org/W2001536360",
+  "https://openalex.org/W2007577080",
+  "https://openalex.org/W2018365141",
+  "https://openalex.org/W2020540597",
+  "https://openalex.org/W2043157047",
+  "https://openalex.org/W2060345757",
+  "https://openalex.org/W2067726964",
+  "https://openalex.org/W2079073804",
+  "https://openalex.org/W2083731191",
+  "https://openalex.org/W2094649962",
+  "https://openalex.org/W2128860070",
+  "https://openalex.org/W2140275726",
+  "https://openalex.org/W2167278726",
+  "https://openalex.org/W2799137445"
+ ],
+ "title": "Martingales on Jump Processes. I: Representation Results"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 144,
+ "doi": "https://doi.org/10.1145/357162.357163",
+ "id": "https://openalex.org/W2053374874",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W240652978",
+  "https://openalex.org/W1783527871",
+  "https://openalex.org/W1789713128",
+  "https://openalex.org/W1980529102",
+  "https://openalex.org/W1989631754",
+  "https://openalex.org/W1994593991",
+  "https://openalex.org/W2027418104",
+  "https://openalex.org/W2043942869",
+  "https://openalex.org/W2047482026",
+  "https://openalex.org/W2081733938",
+  "https://openalex.org/W2089411529",
+  "https://openalex.org/W2103953153",
+  "https://openalex.org/W2110425399",
+  "https://openalex.org/W2138846095",
+  "https://openalex.org/W2144884804",
+  "https://openalex.org/W3137092842",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W4211008702",
+  "https://openalex.org/W4252364404",
+  "https://openalex.org/W4253790205"
+ ],
+ "title": "Synchronization in Distributed Programs"
+}

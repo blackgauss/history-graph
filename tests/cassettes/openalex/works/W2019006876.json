@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 92,
+ "doi": "https://doi.org/10.1016/s0893-6080(05)80077-2",
+ "id": "https://openalex.org/W2019006876",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W2067570388",
+  "https://openalex.org/W2075665712",
+  "https://openalex.org/W2333836441",
+  "https://openalex.org/W2478030348",
+  "https://openalex.org/W2487904117",
+  "https://openalex.org/W3207342693"
+ ],
+ "title": "A learning algorithm for multilayered neural networks based on linear least squares problems"
+}

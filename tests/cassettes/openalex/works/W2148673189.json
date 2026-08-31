@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 1989,
+ "doi": "https://doi.org/10.1002/j.1538-7305.1965.tb04146.x",
+ "id": "https://openalex.org/W2148673189",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W1969186119",
+  "https://openalex.org/W1994863634",
+  "https://openalex.org/W2056898464",
+  "https://openalex.org/W2058937865",
+  "https://openalex.org/W2106378689",
+  "https://openalex.org/W2399100674",
+  "https://openalex.org/W6676094908"
+ ],
+ "title": "Computer Solutions of the Traveling Salesman Problem"
+}

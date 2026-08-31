@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 674,
+ "doi": "https://doi.org/10.1162/neco.1989.1.2.263",
+ "id": "https://openalex.org/W2143503258",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1597286183",
+  "https://openalex.org/W1971129545",
+  "https://openalex.org/W1996647346",
+  "https://openalex.org/W2007431958",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2024060531",
+  "https://openalex.org/W2028629011",
+  "https://openalex.org/W2042492924",
+  "https://openalex.org/W2117671523",
+  "https://openalex.org/W2579481419",
+  "https://openalex.org/W2725061391",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3121926921",
+  "https://openalex.org/W3133056632"
+ ],
+ "title": "Learning State Space Trajectories in Recurrent Neural Networks"
+}

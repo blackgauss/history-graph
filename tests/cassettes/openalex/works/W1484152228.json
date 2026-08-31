@@ -1,0 +1,53 @@
+{
+ "cited_by_count": 30,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2013
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W1484152228",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1581020010",
+  "https://openalex.org/W1954834360",
+  "https://openalex.org/W1975164066",
+  "https://openalex.org/W1975378045",
+  "https://openalex.org/W1975833254",
+  "https://openalex.org/W1975943500",
+  "https://openalex.org/W1978696336",
+  "https://openalex.org/W1985899049",
+  "https://openalex.org/W2017218908",
+  "https://openalex.org/W2033898593",
+  "https://openalex.org/W2034883132",
+  "https://openalex.org/W2045754948",
+  "https://openalex.org/W2046057486",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2061816303",
+  "https://openalex.org/W2063145239",
+  "https://openalex.org/W2068115726",
+  "https://openalex.org/W2071667058",
+  "https://openalex.org/W2083091948",
+  "https://openalex.org/W2094208470",
+  "https://openalex.org/W2102636809",
+  "https://openalex.org/W2110013180",
+  "https://openalex.org/W2122235514",
+  "https://openalex.org/W2143529993",
+  "https://openalex.org/W2143712715",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W2164712528",
+  "https://openalex.org/W2171819270",
+  "https://openalex.org/W2612690410",
+  "https://openalex.org/W3123388428"
+ ],
+ "title": "Auctions, Matching and the Law of Aggregate Demand"
+}

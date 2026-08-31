@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 122,
+ "doi": "https://doi.org/10.1007/s002110050051",
+ "id": "https://openalex.org/W2039980464",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W166906646",
+  "https://openalex.org/W1538314673",
+  "https://openalex.org/W2008032518",
+  "https://openalex.org/W2034374737",
+  "https://openalex.org/W2055940788",
+  "https://openalex.org/W2068179746",
+  "https://openalex.org/W2160812957",
+  "https://openalex.org/W2162870748",
+  "https://openalex.org/W2503709059"
+ ],
+ "title": "The uniform convergence of thin plate spline interpolation in two dimensions"
+}

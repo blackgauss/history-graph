@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.1109/tse.1989.559773",
+ "id": "https://openalex.org/W2074753105",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W116679589",
+  "https://openalex.org/W1977570286",
+  "https://openalex.org/W2001111520",
+  "https://openalex.org/W2008116177",
+  "https://openalex.org/W2020191321",
+  "https://openalex.org/W2020601345",
+  "https://openalex.org/W2023195086",
+  "https://openalex.org/W2066226422",
+  "https://openalex.org/W2073913766",
+  "https://openalex.org/W2082004608",
+  "https://openalex.org/W2093472843",
+  "https://openalex.org/W2111607006",
+  "https://openalex.org/W2122949840",
+  "https://openalex.org/W2123209274",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2155166680",
+  "https://openalex.org/W2167679350",
+  "https://openalex.org/W2169012378",
+  "https://openalex.org/W4239571647"
+ ],
+ "title": "Optimization Strategies for Relational Queries"
+}

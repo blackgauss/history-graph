@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 2211,
+ "doi": "https://doi.org/10.1142/9789812797926_0003",
+ "id": "https://openalex.org/W2127589108",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W152960899",
+  "https://openalex.org/W169539560",
+  "https://openalex.org/W1530666108",
+  "https://openalex.org/W2027298168",
+  "https://openalex.org/W2105689451",
+  "https://openalex.org/W2109759383",
+  "https://openalex.org/W2732415280",
+  "https://openalex.org/W3017143921"
+ ],
+ "title": "SIGNATURE VERIFICATION USING A “SIAMESE” TIME DELAY NEURAL NETWORK"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 63,
+ "doi": "https://doi.org/10.1016/0167-2789(90)90081-y",
+ "id": "https://openalex.org/W2016760105",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W649387755",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1510014385",
+  "https://openalex.org/W1535810436",
+  "https://openalex.org/W1984375561",
+  "https://openalex.org/W2024060531",
+  "https://openalex.org/W2042492924",
+  "https://openalex.org/W2046827412",
+  "https://openalex.org/W2060750942",
+  "https://openalex.org/W2086498405",
+  "https://openalex.org/W2151058089",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W6632223199",
+  "https://openalex.org/W6681686657"
+ ],
+ "title": "A stochastic version of the delta rule"
+}

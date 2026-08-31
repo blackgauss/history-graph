@@ -1,0 +1,70 @@
+{
+ "cited_by_count": 9433,
+ "counts_by_year": [
+  {
+   "cited_by_count": 173,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 536,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 502,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 541,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 318,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 285,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 321,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 345,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 371,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 396,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 391,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 421,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 483,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 557,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 550,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1007/b98874",
+ "id": "https://openalex.org/W4293775970",
+ "publication_year": 1999,
+ "referenced_works": [],
+ "title": "Numerical Optimization"
+}

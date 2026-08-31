@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 56,
+ "doi": "https://doi.org/10.1007/978-3-540-30227-8_53",
+ "id": "https://openalex.org/W1595386810",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W66725178",
+  "https://openalex.org/W1513137521",
+  "https://openalex.org/W1531082202",
+  "https://openalex.org/W1532674857",
+  "https://openalex.org/W1559664284",
+  "https://openalex.org/W1595386810",
+  "https://openalex.org/W1678943029",
+  "https://openalex.org/W1978356133",
+  "https://openalex.org/W2029176884",
+  "https://openalex.org/W2055477538",
+  "https://openalex.org/W2082963442",
+  "https://openalex.org/W2112448067",
+  "https://openalex.org/W2120926795",
+  "https://openalex.org/W2153372389",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2175599263",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W2618896829"
+ ],
+ "title": "Combining Decision Procedures for Sorted Theories"
+}

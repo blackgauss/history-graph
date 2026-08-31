@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 595,
+ "doi": "https://doi.org/10.1007/11499107_5",
+ "id": "https://openalex.org/W1950282396",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W80336116",
+  "https://openalex.org/W1496518193",
+  "https://openalex.org/W1503773079",
+  "https://openalex.org/W1518705996",
+  "https://openalex.org/W1519828433",
+  "https://openalex.org/W1580970166",
+  "https://openalex.org/W1591802374",
+  "https://openalex.org/W1596764664",
+  "https://openalex.org/W1996010294",
+  "https://openalex.org/W1998522266",
+  "https://openalex.org/W1999997889",
+  "https://openalex.org/W2046239089",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2111523115",
+  "https://openalex.org/W2115571162",
+  "https://openalex.org/W2119634222",
+  "https://openalex.org/W2133527541",
+  "https://openalex.org/W2140132043",
+  "https://openalex.org/W2146409874",
+  "https://openalex.org/W2155151982",
+  "https://openalex.org/W2225800216",
+  "https://openalex.org/W4231695381",
+  "https://openalex.org/W4234414781"
+ ],
+ "title": "Effective Preprocessing in SAT Through Variable and Clause Elimination"
+}

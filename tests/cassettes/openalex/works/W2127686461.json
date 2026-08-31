@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 92,
+ "doi": "https://doi.org/10.1080/00401706.1980.10486142",
+ "id": "https://openalex.org/W2127686461",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W8687480",
+  "https://openalex.org/W21843273",
+  "https://openalex.org/W55848811",
+  "https://openalex.org/W59146202",
+  "https://openalex.org/W1979424903",
+  "https://openalex.org/W1997864634",
+  "https://openalex.org/W2007031065",
+  "https://openalex.org/W2015967939",
+  "https://openalex.org/W2019044526",
+  "https://openalex.org/W2021634309",
+  "https://openalex.org/W2030147727",
+  "https://openalex.org/W2042574171",
+  "https://openalex.org/W2048765414",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2089318689",
+  "https://openalex.org/W2090480664",
+  "https://openalex.org/W2100911240",
+  "https://openalex.org/W2127982942",
+  "https://openalex.org/W2146207455",
+  "https://openalex.org/W2257174867",
+  "https://openalex.org/W2308181013",
+  "https://openalex.org/W2795656716",
+  "https://openalex.org/W4244497758"
+ ],
+ "title": "A Comparative Study of Kernel-Based Density Estimates for Categorical Data"
+}

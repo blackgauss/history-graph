@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 160,
+ "doi": "https://doi.org/10.1162/neco.1992.4.4.559",
+ "id": "https://openalex.org/W2081881941",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1507653370",
+  "https://openalex.org/W1980800189",
+  "https://openalex.org/W1982447763",
+  "https://openalex.org/W1995440707",
+  "https://openalex.org/W1997604630",
+  "https://openalex.org/W2003198209",
+  "https://openalex.org/W2024572865",
+  "https://openalex.org/W2042925217",
+  "https://openalex.org/W2066426992",
+  "https://openalex.org/W2122741244",
+  "https://openalex.org/W2151351982",
+  "https://openalex.org/W2166278041",
+  "https://openalex.org/W2167034998",
+  "https://openalex.org/W2235138579"
+ ],
+ "title": "Understanding Retinal Color Coding from First Principles"
+}

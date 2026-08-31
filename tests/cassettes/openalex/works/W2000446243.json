@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 804,
+ "doi": "https://doi.org/10.1103/physreva.59.169",
+ "id": "https://openalex.org/W2000446243",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1972603977",
+  "https://openalex.org/W1975613092",
+  "https://openalex.org/W1978553093",
+  "https://openalex.org/W2001619599",
+  "https://openalex.org/W2005253705",
+  "https://openalex.org/W2028390614",
+  "https://openalex.org/W2043293634",
+  "https://openalex.org/W2046635362",
+  "https://openalex.org/W2049471987",
+  "https://openalex.org/W2051051926",
+  "https://openalex.org/W2051869207",
+  "https://openalex.org/W2060887031",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2063635674",
+  "https://openalex.org/W2089983911",
+  "https://openalex.org/W2107914128",
+  "https://openalex.org/W2116858786"
+ ],
+ "title": "Quantum repeaters based on entanglement purification"
+}

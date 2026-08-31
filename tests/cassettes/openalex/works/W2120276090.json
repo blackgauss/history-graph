@@ -1,0 +1,102 @@
+{
+ "cited_by_count": 129,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1989323.1989389",
+ "id": "https://openalex.org/W2120276090",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W13759931",
+  "https://openalex.org/W1510252230",
+  "https://openalex.org/W1589496614",
+  "https://openalex.org/W1831560769",
+  "https://openalex.org/W1966573088",
+  "https://openalex.org/W1974420955",
+  "https://openalex.org/W2011792082",
+  "https://openalex.org/W2019186666",
+  "https://openalex.org/W2023458041",
+  "https://openalex.org/W2025387515",
+  "https://openalex.org/W2032852272",
+  "https://openalex.org/W2046996113",
+  "https://openalex.org/W2084011265",
+  "https://openalex.org/W2098235144",
+  "https://openalex.org/W2109149785",
+  "https://openalex.org/W2115503987",
+  "https://openalex.org/W2115622196",
+  "https://openalex.org/W2126443246",
+  "https://openalex.org/W2129088288",
+  "https://openalex.org/W2133712953",
+  "https://openalex.org/W2138531903",
+  "https://openalex.org/W2140894225",
+  "https://openalex.org/W2154815337",
+  "https://openalex.org/W2156475752",
+  "https://openalex.org/W2156488464",
+  "https://openalex.org/W2156972533",
+  "https://openalex.org/W2157022252",
+  "https://openalex.org/W2157666539",
+  "https://openalex.org/W2160715583",
+  "https://openalex.org/W2165207129",
+  "https://openalex.org/W2168075869",
+  "https://openalex.org/W2168665069",
+  "https://openalex.org/W2201552871",
+  "https://openalex.org/W4253103473",
+  "https://openalex.org/W6677231548"
+ ],
+ "title": "How soccer players would do stream joins"
+}

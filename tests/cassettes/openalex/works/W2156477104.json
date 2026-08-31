@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 314,
+ "doi": "https://doi.org/10.1006/jeth.1998.2501",
+ "id": "https://openalex.org/W2156477104",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1546841032",
+  "https://openalex.org/W1577338488",
+  "https://openalex.org/W1587188017",
+  "https://openalex.org/W1597691045",
+  "https://openalex.org/W1964166577",
+  "https://openalex.org/W1993885150",
+  "https://openalex.org/W2007271887",
+  "https://openalex.org/W2022839848",
+  "https://openalex.org/W2028275172",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2042798997",
+  "https://openalex.org/W2084752608",
+  "https://openalex.org/W2086071535",
+  "https://openalex.org/W2115565686",
+  "https://openalex.org/W2170965311",
+  "https://openalex.org/W3123211681",
+  "https://openalex.org/W4254985593",
+  "https://openalex.org/W4255421485",
+  "https://openalex.org/W4293820388",
+  "https://openalex.org/W6635187630",
+  "https://openalex.org/W7004858189"
+ ],
+ "title": "Multidimensional Mechanism Design for Auctions with Externalities"
+}

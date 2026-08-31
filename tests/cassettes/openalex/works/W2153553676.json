@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 218,
+ "doi": "https://doi.org/10.1007/978-1-4615-5923-8_19",
+ "id": "https://openalex.org/W2153553676",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W1942039577",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2060887031",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2091331782",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W2159566537",
+  "https://openalex.org/W2167927798",
+  "https://openalex.org/W2168676717",
+  "https://openalex.org/W3011907935",
+  "https://openalex.org/W3100206575",
+  "https://openalex.org/W6636396655",
+  "https://openalex.org/W6684539686",
+  "https://openalex.org/W6764172084"
+ ],
+ "title": "Quantum Error Correction with Imperfect Gates"
+}

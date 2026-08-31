@@ -1,0 +1,97 @@
+{
+ "cited_by_count": 278,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/872757.872765",
+ "id": "https://openalex.org/W2118924829",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W162964049",
+  "https://openalex.org/W1493149182",
+  "https://openalex.org/W1684311429",
+  "https://openalex.org/W1784244685",
+  "https://openalex.org/W1963951527",
+  "https://openalex.org/W1964857063",
+  "https://openalex.org/W2001474264",
+  "https://openalex.org/W2004110412",
+  "https://openalex.org/W2004154913",
+  "https://openalex.org/W2053075747",
+  "https://openalex.org/W2106163100",
+  "https://openalex.org/W2112452856",
+  "https://openalex.org/W2118828104",
+  "https://openalex.org/W2125101937",
+  "https://openalex.org/W2128869116",
+  "https://openalex.org/W2128967345",
+  "https://openalex.org/W2132461362",
+  "https://openalex.org/W2132520482",
+  "https://openalex.org/W2132837277",
+  "https://openalex.org/W2135499008",
+  "https://openalex.org/W2140894225",
+  "https://openalex.org/W2144771673",
+  "https://openalex.org/W2147232895",
+  "https://openalex.org/W2155370486",
+  "https://openalex.org/W2169593628",
+  "https://openalex.org/W2201552871",
+  "https://openalex.org/W2229915657",
+  "https://openalex.org/W2613161123",
+  "https://openalex.org/W2747485148",
+  "https://openalex.org/W4232534713",
+  "https://openalex.org/W4235359639",
+  "https://openalex.org/W4237172715",
+  "https://openalex.org/W4253103473",
+  "https://openalex.org/W6674674938"
+ ],
+ "title": "Approximate join processing over data streams"
+}

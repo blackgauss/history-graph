@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 229,
+ "doi": "https://doi.org/10.1147/sj.164.0363",
+ "id": "https://openalex.org/W2012802704",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W2034409909",
+  "https://openalex.org/W2055255408",
+  "https://openalex.org/W2091589574",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2145343598",
+  "https://openalex.org/W2154736051",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2166629703",
+  "https://openalex.org/W2901608006"
+ ],
+ "title": "Storage and access in relational data bases"
+}

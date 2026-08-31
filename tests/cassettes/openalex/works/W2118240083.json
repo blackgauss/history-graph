@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 6,
+ "doi": "https://doi.org/10.1109/cdc.2005.1583411",
+ "id": "https://openalex.org/W2118240083",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W2097984481",
+  "https://openalex.org/W2102837457",
+  "https://openalex.org/W2104379682",
+  "https://openalex.org/W2113703360",
+  "https://openalex.org/W2164239387"
+ ],
+ "title": "Implementation of a Fluctuation Smoothing Production Control Policy in IBM’s 200mm Wafer Fab"
+}

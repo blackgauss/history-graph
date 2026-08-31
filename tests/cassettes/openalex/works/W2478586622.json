@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 200,
+ "doi": "https://doi.org/10.1007/978-94-011-7577-7_41",
+ "id": "https://openalex.org/W2478586622",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1586568387",
+  "https://openalex.org/W1602967628",
+  "https://openalex.org/W1986101505",
+  "https://openalex.org/W1990983856",
+  "https://openalex.org/W1997957916",
+  "https://openalex.org/W2003922224",
+  "https://openalex.org/W2007046555",
+  "https://openalex.org/W2034541289",
+  "https://openalex.org/W2050447955",
+  "https://openalex.org/W2099264463",
+  "https://openalex.org/W2334095483",
+  "https://openalex.org/W2912227079",
+  "https://openalex.org/W3179730449",
+  "https://openalex.org/W6610515285"
+ ],
+ "title": "The Design of Robust Approximations to the Stochastic Differential Equations of Nonlinear Filtering"
+}

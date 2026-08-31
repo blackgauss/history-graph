@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 390,
+ "doi": "https://doi.org/10.1145/322123.322138",
+ "id": "https://openalex.org/W2045717693",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W164930380",
+  "https://openalex.org/W1982704699",
+  "https://openalex.org/W2001121794",
+  "https://openalex.org/W2004471951",
+  "https://openalex.org/W2051177275",
+  "https://openalex.org/W2070445904",
+  "https://openalex.org/W2122786581",
+  "https://openalex.org/W2125468385",
+  "https://openalex.org/W2126160338"
+ ],
+ "title": "Relations Among Complexity Measures"
+}

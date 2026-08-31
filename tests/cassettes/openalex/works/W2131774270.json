@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 10282,
+ "doi": "https://doi.org/10.1109/78.650093",
+ "id": "https://openalex.org/W2131774270",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W183625566",
+  "https://openalex.org/W1517386993",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1980501707",
+  "https://openalex.org/W1988520084",
+  "https://openalex.org/W2032210463",
+  "https://openalex.org/W2095539364",
+  "https://openalex.org/W2110871230",
+  "https://openalex.org/W2117671523",
+  "https://openalex.org/W2124229187",
+  "https://openalex.org/W2140539590",
+  "https://openalex.org/W2143503258",
+  "https://openalex.org/W2143908786",
+  "https://openalex.org/W2483962956",
+  "https://openalex.org/W2974222084",
+  "https://openalex.org/W4388297464",
+  "https://openalex.org/W6607561492"
+ ],
+ "title": "Bidirectional recurrent neural networks"
+}

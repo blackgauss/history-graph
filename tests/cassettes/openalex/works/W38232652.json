@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 5,
+ "doi": "https://doi.org/10.1007/978-1-4615-5669-5",
+ "id": "https://openalex.org/W38232652",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1523293200",
+  "https://openalex.org/W2076213179",
+  "https://openalex.org/W2950416404"
+ ],
+ "title": "Scalable High Performance Computing for Knowledge Discovery and Data Mining"
+}

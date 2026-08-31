@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 177,
+ "doi": "https://doi.org/10.5555/313559.313794",
+ "id": "https://openalex.org/W1963913579",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W4983232",
+  "https://openalex.org/W1597251915",
+  "https://openalex.org/W1966433910",
+  "https://openalex.org/W1991529951",
+  "https://openalex.org/W1996980357",
+  "https://openalex.org/W2001564241",
+  "https://openalex.org/W2002651865",
+  "https://openalex.org/W2050297836",
+  "https://openalex.org/W2054387247",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2068871408",
+  "https://openalex.org/W2103012681",
+  "https://openalex.org/W2138778293",
+  "https://openalex.org/W2164346692",
+  "https://openalex.org/W2169071224"
+ ],
+ "title": "On the satisfiability and maximum satisfiability of random 3-CNF formulas"
+}

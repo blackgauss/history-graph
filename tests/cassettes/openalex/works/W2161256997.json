@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 455,
+ "doi": "https://doi.org/10.1145/176789.176797",
+ "id": "https://openalex.org/W2161256997",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W121193193",
+  "https://openalex.org/W1239098644",
+  "https://openalex.org/W1530642502",
+  "https://openalex.org/W1550791699",
+  "https://openalex.org/W1585042987",
+  "https://openalex.org/W1622012679",
+  "https://openalex.org/W1975767562",
+  "https://openalex.org/W2102048877",
+  "https://openalex.org/W2105486835",
+  "https://openalex.org/W2113909127",
+  "https://openalex.org/W2140964982",
+  "https://openalex.org/W2148910835",
+  "https://openalex.org/W2155582674",
+  "https://openalex.org/W2156817947",
+  "https://openalex.org/W2161098150",
+  "https://openalex.org/W2164457256",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A softbot-based interface to the Internet"
+}

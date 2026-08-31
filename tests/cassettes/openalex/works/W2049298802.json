@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 32,
+ "doi": "https://doi.org/10.1103/physreve.52.1958",
+ "id": "https://openalex.org/W2049298802",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1510014385",
+  "https://openalex.org/W1647250361",
+  "https://openalex.org/W1966522529",
+  "https://openalex.org/W1968220402",
+  "https://openalex.org/W1988346983",
+  "https://openalex.org/W1997913984",
+  "https://openalex.org/W1999007984",
+  "https://openalex.org/W2002046620",
+  "https://openalex.org/W2018198423",
+  "https://openalex.org/W2028923186",
+  "https://openalex.org/W2034451938",
+  "https://openalex.org/W2038855047",
+  "https://openalex.org/W2044972994",
+  "https://openalex.org/W2048724845",
+  "https://openalex.org/W2055417373",
+  "https://openalex.org/W2068558570",
+  "https://openalex.org/W2090614046",
+  "https://openalex.org/W2092972566",
+  "https://openalex.org/W2120945536",
+  "https://openalex.org/W2141673775",
+  "https://openalex.org/W2150872430",
+  "https://openalex.org/W4248685136"
+ ],
+ "title": "Gradient descent learning in perceptrons: A review of its possibilities"
+}

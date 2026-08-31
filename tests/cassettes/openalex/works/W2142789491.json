@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 59,
+ "doi": "https://doi.org/10.1016/s0893-6080(02)00235-6",
+ "id": "https://openalex.org/W2142789491",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1515851193",
+  "https://openalex.org/W1595634327",
+  "https://openalex.org/W1981276685",
+  "https://openalex.org/W2012036715",
+  "https://openalex.org/W2097861969",
+  "https://openalex.org/W2109910161",
+  "https://openalex.org/W2113501460",
+  "https://openalex.org/W2150884987",
+  "https://openalex.org/W2158548602",
+  "https://openalex.org/W2160371091",
+  "https://openalex.org/W2162617871",
+  "https://openalex.org/W2168342951",
+  "https://openalex.org/W2598912124",
+  "https://openalex.org/W2911283634",
+  "https://openalex.org/W2912185451",
+  "https://openalex.org/W2914656440",
+  "https://openalex.org/W6683861395"
+ ],
+ "title": "Inter-module credit assignment in modular reinforcement learning"
+}
