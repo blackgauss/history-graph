@@ -79,11 +79,11 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--patents", action="store_true", help="record Google Patents queries")
     args = parser.parse_args(argv)
     which = args.thread or args.scihub or args.patents
-    if not args.scihub or which and args.thread:
+    if args.thread or not which:
         record_thread()
-    if not args.thread or which and args.scihub:
+    if args.scihub or (not which):
         record_scihub()
-    if not which or args.patents:
+    if args.patents:
         record_patents()
     return 0
 
