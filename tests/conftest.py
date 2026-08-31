@@ -30,3 +30,9 @@ def works_page(results: list[dict[str, Any]], next_cursor: str | None = None) ->
         "meta": {"count": len(results), "next_cursor": next_cursor},
         "results": results,
     }
+
+
+@pytest.fixture(autouse=True)
+def _curated_writes_allowed(monkeypatch: pytest.MonkeyPatch) -> None:
+    """Tests play the human unless a test delenvs to check the gate itself."""
+    monkeypatch.setenv("HG_ALLOW_CURATED_WRITES", "1")

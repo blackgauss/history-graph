@@ -65,6 +65,7 @@ def env(tmp_path: Path) -> dict[str, str]:
     (seed_dir / "thread.yaml").write_text(SCENARIO_YAML, encoding="utf-8")
     (seed_dir / "dois.txt").write_text("# seeds\n", encoding="utf-8")
     return {
+        "HG_ALLOW_CURATED_WRITES": "1",  # the scenario plays the human approving
         "PATH": os.environ["PATH"],
         "HOME": os.environ["HOME"],
         "HG_THREAD_DIR": str(raw_dir),
