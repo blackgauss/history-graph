@@ -59,7 +59,11 @@ def call(name: str, **kwargs: Any) -> Any:
 
 def test_thread_status_reports_counts(workspace: Path) -> None:
     status = call("thread_status")
-    assert status["papers"] == 11 and status["events"] == 41
+    thread_dir = workspace / "thread"
+    for key, name in (("papers", "papers.jsonl"), ("events", "events.jsonl")):
+        lines = (thread_dir / name).read_text(encoding="utf-8").splitlines()
+        assert status[key] == len([x for x in lines if x.strip()])
+    assert status["papers"] >= 11 and status["events"] >= 41
     assert status["unresolved_papers"] == []
 
 

@@ -604,6 +604,18 @@ def patent_prior_art(publication_number: str) -> str:
 
 
 @tool
+def lineage_dossier(work: str, depth: int = 2, limit: int = 8) -> str:
+    """A paper's biography + horizon in one call: ancestors (bridge-ranked),
+
+    downstream works by citation acceleration, the research schools it fuses,
+    and a 'story' markdown rendering. work = DOI, OpenAlex ID, or title."""
+    from .dossier import lineage_dossier as build
+
+    cache = Path(os.environ.get("HG_GRAPH_CACHE", "data/cache"))
+    return _cap(build(_openalex(), work, depth=depth, limit=limit, cache_dir=cache))
+
+
+@tool
 def citation_context(citing_work: str, cited_work: str) -> str:
     """How one work cites another (S2): snippet + intent (builds-upon/method/
 

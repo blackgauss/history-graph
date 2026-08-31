@@ -60,6 +60,8 @@ class GraphProbe:
         self.cache_path = cache_path
         self.works: dict[str, dict[str, Any]] = {}
         self.adjacency: dict[str, list[str]] = {}
+        self._refs: dict[str, list[str]] = {}
+        self._citing: dict[str, list[str]] = {}
         if cache_path and cache_path.exists():
             data = json.loads(cache_path.read_text(encoding="utf-8"))
             self.works.update(data.get("works", {}))
@@ -79,38 +81,56 @@ class GraphProbe:
             encoding="utf-8",
         )
 
-    def fetch_works(self, ids: list[str], *, force: bool = False) -> None:
-        missing = (
-            sorted(set(ids))
-            if force
-            else [i for i in sorted(set(ids)) if i not in self.works]
-        )
-        for start in range(0, len(missing), 50):
+    def fetch_works(self, ids: list[str], *, force: bool = False, select=None) -> None:
+        # NOTE: requests are keyed by the FULL sorted id set, never by the
+        # cache-derived subset -- otherwise replay drifts against the cassette
+        # whenever cache state differs (every id/field fetched is deduped by key).
+        wanted = sorted(set(ids))
+        if not force:
+            fresh = [i for i in wanted if i not in self.works]
+            if not fresh:
+                return
+        for start in range(0, len(wanted), 50):
             for work in self.client.get_works(
-                missing[start : start + 50], select=COMPACT_FIELDS
+                wanted[start : start + 50], select=select or COMPACT_FIELDS
             ):
-                self.works[bare(work["id"])] = _norm(work)
+                wid = bare(work["id"])
+                self.works[wid] = {**self.works.get(wid, {}), **_norm(work)}
+
+    def refs(self, wid: str) -> list[str]:
+        """Referenced works of wid (all, deterministic bare ids)."""
+        if wid not in self._refs:
+            work = self.works.get(wid) or {}
+            if "referenced_works" not in work:
+                self.fetch_works([wid], force=True, select=COMPACT_FIELDS)
+                work = self.works.get(wid) or {}
+            refs = [bare(r) for r in work.get("referenced_works") or []]  # noqa: E501
+            if refs:
+                self.fetch_works(refs)
+            self._refs[wid] = refs
+        return self._refs[wid]
+
+    def citing(self, wid: str) -> list[str]:
+        """Top-cited works citing wid (page-capped, bare ids)."""
+        if wid not in self._citing:
+            self._citing[wid] = [
+                bare(w["id"])
+                for w in sorted(
+                    self.client.iter_citing_works(
+                        wid, select=CITE_FIELDS, max_pages=1,
+                        per_page=max(40, self.citing_cap * 2),
+                    ),
+                    key=lambda w: (-int(w.get("cited_by_count") or 0), w["id"]),
+                )[: self.citing_cap]
+            ]
+        return self._citing[wid]
 
     def neighbors(self, wid: str) -> list[str]:
         """Deterministic neighbourhood: all references + top-cited citers."""
         if wid in self.adjacency:
             return self.adjacency[wid]
-        self.fetch_works([wid])
-        work = self.works.get(wid) or {}
-        refs = [bare(r) for r in work.get("referenced_works") or []]
-        if refs:
-            self.fetch_works(refs)
-        citing = [
-            bare(w["id"])
-            for w in sorted(
-                self.client.iter_citing_works(
-                    wid, select=CITE_FIELDS, max_pages=1, per_page=max(40, self.citing_cap * 2)
-                ),
-                key=lambda w: (-int(w.get("cited_by_count") or 0), w["id"]),
-            )[: self.citing_cap]
-        ]
         pool = sorted(
-            set(refs) | set(citing),
+            set(self.refs(wid)) | set(self.citing(wid)),
             key=lambda i: (-int((self.works.get(i) or {}).get("cited_by_count") or 0), i),
         )
         self.adjacency[wid] = pool

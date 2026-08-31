@@ -14,6 +14,8 @@ date,kind,sub,title,who
 1948,paper,,A Mathematical Theory of Communication,Claude Shannon
 1957,tech,,FORTRAN released,"John Backus, IBM"
 1959,patent,,Time-sharing patent filed,Christopher Strachey
+1963-09-09,patent,,US3287649A — Audio signal pattern perception device (perceptron),Frank Rosenblatt / Research Corp
+1965-05-27,patent,,US3395402A — Adaptive memory element (Memistor),Bernard Widrow / Memistor Corp
 1969,tech,,UNIX development begins at Bell Labs,"Ken Thompson, Dennis Ritchie"
 1972,tech,,C programming language created,"Dennis Ritchie, Bell Labs"
 1974-05,paper,,A Protocol for Packet Network Intercommunication (TCP),Vint Cerf & Bob Kahn
@@ -36,7 +38,9 @@ date,kind,sub,title,who
 2010,tech,,Spark open sourced by Matei Zaharia (UC Berkeley AMP Lab),
 2012-05-18,business,ipo,Facebook IPO,
 2013,paper,,Quantcast File System (QFS),Ovsiannikov et al.
+2013-12-09,patent,,US9514098B1 — Iteratively learning coreference embeddings of noun phrases,Google (Amarnag Subramanya et al.)
 2016,tech,,ByteDance launches Douyin/TikTok precursor,
 2017-06,paper,,Attention Is All You Need,"Vaswani et al., Google"
 2018,business,acquired,AT&T acquires AppNexus ($1.6B),
+2019-02-14,patent,,US11526680B2 — Pre-trained projection networks for transferable natural language representations,Google / Sujith Ravi
 2022-11-30,tech,,ChatGPT launches,

@@ -25,7 +25,7 @@ def main() -> int:
 
     report = mine.run_all(factory)
     for r in report["queries"]:
-        flag = "PASS" if r["ok"] else "FAIL"
+        flag = "SKIP" if r.get("skipped") else "PASS" if r["ok"] else "FAIL"
         print(f"{flag} {r['id']:<24} {json.dumps(r['observed'], sort_keys=True)[:110]}")
     import os
     diffs = mine.check_or_write_goldens(report, write=bool(os.environ.get("HG_UPDATE_GOLDENS")))

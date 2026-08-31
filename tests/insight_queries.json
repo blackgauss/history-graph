@@ -7,8 +7,13 @@
     "expect": {
       "found": true,
       "edges": 4,
-      "include": ["W103", "W102"],
-      "bridges": ["W103"],
+      "include": [
+        "W103",
+        "W102"
+      ],
+      "bridges": [
+        "W103"
+      ],
       "min_score": 0.4
     }
   },
@@ -17,7 +22,14 @@
     "fixture": "tests/fixtures/graph_ctr.json",
     "from": "10.1145/syn.2010fm",
     "to": "10.5555/syn.2017dfm",
-    "expect": {"found": true, "edges": 1, "include": ["W104", "W107"]}
+    "expect": {
+      "found": true,
+      "edges": 1,
+      "include": [
+        "W104",
+        "W107"
+      ]
+    }
   },
   {
     "id": "turing-thesis-bridge",
@@ -25,6 +37,21 @@
     "from": "10.1109/T-AIEE.1938.5057767",
     "to": "W2323777246",
     "max_nodes": 40,
-    "expect": {"found": true, "edges": 3, "include": ["W2323777246"]}
+    "expect": {
+      "found": true,
+      "edges": 3,
+      "include": [
+        "W2323777246"
+      ]
+    }
+  },
+  {
+    "id": "dossier-facebook-lessons",
+    "dossier": true,
+    "cassette": true,
+    "work": "10.1145/2648584.2648589",
+    "expect": {
+      "found": true
+    }
   }
 ]
