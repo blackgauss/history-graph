@@ -108,7 +108,8 @@ def _openalex() -> OpenAlexClient:
             _clients["openalex"] = openalex_client(record=mode == "record")
         else:
             _clients["openalex"] = OpenAlexClient(
-                mailto=os.environ.get("OPENALEX_MAILTO", "history-graph@localhost")
+                mailto=os.environ.get("OPENALEX_MAILTO", "history-graph@localhost"),
+                api_key=os.environ.get("OPENALEX_API_KEY"),
             )
     return _clients["openalex"]
 

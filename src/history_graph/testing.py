@@ -21,7 +21,7 @@ from .client import BASE_URL, OpenAlexClient, OpenAlexError
 from .scihub import SciHubClient
 
 CASSETTE_DIR = Path("tests/cassettes")
-_STRIP_PARAMS = {"mailto"}
+_STRIP_PARAMS = {"mailto", "api_key"}  # politeness/auth never part of the key
 _TRANSIENT_STATUSES = {429, 500, 502, 503, 504}
 _STORED_HEADERS = {"content-type", "retry-after", "location"}
 _INLINE_BODY_MAX = 48_000  # larger payloads land in deduped body files

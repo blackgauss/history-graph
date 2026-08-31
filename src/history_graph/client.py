@@ -56,6 +56,7 @@ class OpenAlexClient:
     def __init__(
         self,
         mailto: str | None = None,
+        api_key: str | None = None,
         *,
         http: httpx.Client | None = None,
         base_url: str = BASE_URL,
@@ -63,6 +64,7 @@ class OpenAlexClient:
         sleep: Callable[[float], None] = time.sleep,
     ) -> None:
         self._mailto = mailto
+        self._api_key = api_key
         self._http = http or httpx.Client(base_url=base_url, timeout=30.0)
         self._clock = clock
         self._sleep = sleep
@@ -83,6 +85,8 @@ class OpenAlexClient:
     @retry_transient
     def _fetch(self, path: str, params: Mapping[str, Any]) -> httpx.Response:
         merged: dict[str, Any] = {"mailto": self._mailto} if self._mailto else {}
+        if self._api_key:
+            merged["api_key"] = self._api_key
         merged.update(params)
         with instrument("http.openalex"):
             self._throttle()

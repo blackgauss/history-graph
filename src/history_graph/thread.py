@@ -125,7 +125,7 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
 
-    client = OpenAlexClient(mailto=args.mailto)
+    client = OpenAlexClient(mailto=args.mailto, api_key=os.environ.get("OPENALEX_API_KEY"))
     try:
         manifest = run_thread(client, args.seeds, args.raw_dir)
     finally:
