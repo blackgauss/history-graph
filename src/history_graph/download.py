@@ -15,6 +15,8 @@ import json
 import logging
 import os
 import re
+import shutil
+import subprocess
 from pathlib import Path
 from typing import Any, Protocol
 
@@ -29,6 +31,7 @@ logger = logging.getLogger(__name__)
 DEFAULT_INPUTS = (Path("data/thread/papers.jsonl"), Path("data/raw/works.jsonl"))
 DEFAULT_PDF_DIR = Path("data/pdfs")
 MANIFEST_FILE = "manifest.json"
+TEXT_DIR = "text"
 
 _DOI_PREFIXES = (
     "https://doi.org/",
@@ -72,6 +75,32 @@ def iter_dois(path: Path) -> list[str]:
 
 
 @instrumented("stage.download")
+def extract_pdf_texts(pdf_dir: Path) -> dict[str, Any]:
+    """Run pdftotext over every PDF into ``pdf_dir/text/`` (idempotent).
+
+    Skips silently when poppler's ``pdftotext`` is not installed so the dvc
+    stage stays portable; callers report the count.
+    """
+    binary = shutil.which("pdftotext")
+    if binary is None:
+        logger.warning("pdftotext not found - skipping full-text extraction")
+        return {"extracted": 0, "skipped_missing_binary": True}
+    text_dir = pdf_dir / TEXT_DIR
+    text_dir.mkdir(parents=True, exist_ok=True)
+    extracted = 0
+    for pdf in sorted(pdf_dir.glob("*.pdf")):
+        out = text_dir / (pdf.stem + ".txt")
+        if out.exists() and out.stat().st_mtime >= pdf.stat().st_mtime:
+            continue
+        try:
+            subprocess.run([binary, "-q", str(pdf), str(out)], check=True, timeout=120)
+            extracted += 1
+        except (subprocess.SubprocessError, OSError) as exc:
+            logger.warning("pdftotext failed for %s: %s", pdf, exc)
+            out.unlink(missing_ok=True)
+    return {"extracted": extracted, "skipped_missing_binary": False}
+
+
 def run_download(
     client: PdfFetcher,
     inputs: list[Path],
@@ -173,9 +202,12 @@ def main(argv: list[str] | None = None) -> int:
     finally:
         client.close()
 
+    texts = extract_pdf_texts(args.pdf_dir)
+
     print("PDF download complete:")
     for key, value in manifest.items():
         print(f"  {key}: {value}")
+    print(f"  texts_extracted: {texts['extracted']}")
     return 0
 
 

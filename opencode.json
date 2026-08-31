@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "history-graph": {
+      "type": "local",
+      "command": ["uv", "run", "python", "-m", "history_graph.mcp_server"],
+      "enabled": true,
+      "env": {}
+    }
+  }
+}

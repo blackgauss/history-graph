@@ -148,7 +148,11 @@ def scihub_client(name: str = "scihub", *, record: bool = False) -> SciHubClient
     """Sci-Hub client bound to a cassette, never sleeping between requests."""
     cassette = Cassette(name)
     if record:
-        live = httpx.Client(timeout=60.0, follow_redirects=True, headers={"User-Agent": "hg-test"})
+        from .scihub import USER_AGENT
+
+        live = httpx.Client(
+            timeout=60.0, follow_redirects=True, headers={"User-Agent": USER_AGENT}
+        )
         transport: httpx.BaseTransport = cassette.transport(recorder=live)
     else:
         transport = cassette.transport()

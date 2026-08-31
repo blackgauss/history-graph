@@ -5,6 +5,7 @@ description = "Academic lineage and patent-impact graph pipeline"
 requires-python = ">=3.12"
 dependencies = [
     "httpx>=0.27",
+    "mcp>=2.1.1",
     "polars>=1.44.0",
     "pyyaml>=6.0.3",
     "tenacity>=8.2",
