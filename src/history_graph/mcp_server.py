@@ -469,6 +469,20 @@ def promote_thread(slug: str, repro: bool = False) -> str:
     return _cap(summary)
 
 
+def _patents() -> Any:
+    if "patents" not in _clients:
+        mode = _cassette_mode()
+        if mode:
+            from .testing import patent_client
+
+            _clients["patents"] = patent_client(record=mode == "record")
+        else:
+            from .uspto import PatentSearchClient
+
+            _clients["patents"] = PatentSearchClient()
+    return _clients["patents"]
+
+
 # ----------------------------------------------------------------------- insight
 
 
@@ -493,6 +507,67 @@ def citation_path(
         cache_name=cache.name,
     )
     return _cap(result)
+
+
+@tool
+def search_patents(
+    query: str,
+    after_year: int | None = None,
+    before_year: int | None = None,
+    assignee: str | None = None,
+    inventor: str | None = None,
+    limit: int = 15,
+) -> str:
+    """Find patents (Google Patents full text, keyless).
+
+    Priority-date window helps for pre-1960 prior art; use with
+    propose_event(kind="patent", patent_no=...)."""
+    from .uspto import PatentError
+
+    try:
+        found = _patents().search(
+            query,
+            after=after_year,
+            before=before_year,
+            assignee=assignee,
+            inventor=inventor,
+            limit=limit,
+        )
+    except PatentError as exc:
+        return _cap({"error": str(exc)[:160]})
+    return _cap(found)
+
+
+@tool
+def patent_links(publication_number: str, page: int = 0) -> str:
+    """Citations around a patent: citing patents, plus (best-effort) academic
+
+    works citing it — the patent<->paper bridge OpenAlex usually lacks.
+    The academic half is captcha-prone; when walled the rest still returns."""
+    from .uspto import PatentError
+
+    out: dict[str, Any] = {"publication_number": publication_number}
+    try:
+        out["cited_by_patents"] = _patents().citing(publication_number, page=page)
+    except PatentError as exc:
+        out["cited_by_patents"] = {"error": str(exc)[:120]}
+    try:
+        out["cited_by_papers"] = _patents().scholar(publication_number, "forward")["works"]
+    except PatentError as exc:
+        out["cited_by_papers"] = None
+        out["scholar_note"] = str(exc)[:120]
+    return _cap(out)
+
+
+@tool
+def patent_prior_art(publication_number: str) -> str:
+    """Academic works the patent itself cites (examiner (backward scholar))."""
+    from .uspto import PatentError
+
+    try:
+        return _cap(_patents().scholar(publication_number, "backward"))
+    except PatentError as exc:
+        return _cap({"works": None, "note": str(exc)[:160]})
 
 
 @tool

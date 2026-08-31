@@ -25,6 +25,7 @@ Register with an MCP client (example for an `mcpServers` config):
 | group | tools |
 |---|---|
 | inspect | `thread_status`, `list_events`, `get_paper`, `list_citation_edges`, `list_curated_edges` |
+| patents | `search_patents` (full text + priority-date window + assignee), `patent_links` (citing patents + academic papers citing it), `patent_prior_art` (works the patent cites); Google-bot-walled responses say so, never pose as empty |
 | explore | `resolve_doi`, `find_by_title`, `references_of`, `citing_works` |
 | evidence | `search_fulltext` (extracted PDFs under `data/pdfs/text/`), `fetch_pdf` (sci-hub, 15s+ per request, captcha-retryable) |
 | propose | `propose_seed`, `propose_event` (schema-validated, evidence required) -> quarantine in `data/proposed/`; `list_proposals`, human-gated `apply_proposals` (`repro=True` appends then runs `dvc repro`) |
