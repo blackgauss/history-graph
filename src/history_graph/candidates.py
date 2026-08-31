@@ -71,18 +71,25 @@ def load_thread(slug: str, directory: Path = DEFAULT_CANDIDATE_DIR) -> dict[str,
 def resolve_entries(
     client: OpenAlexClient,
     entries: list[ThreadEntry],
-) -> tuple[dict[str, dict[str, Any]], list[str]]:
-    """Resolve thread entries to OpenAlex works; returns ({id: work}, unresolved)."""
+) -> tuple[dict[str, dict[str, Any]], list[dict[str, str]]]:
+    """Resolve entries to works. Unresolved carries a reason so a dead record
+    (confirmed absent) is never conflated with a failed probe (rate limit)."""
+    from .client import OpenAlexError
+
     resolved: dict[str, dict[str, Any]] = {}
-    unresolved: list[str] = []
+    unresolved: list[dict[str, str]] = []
     for entry in entries:
-        work = None
-        if entry.refs.doi:
-            work = client.get_work_by_doi(entry.refs.doi)
-        if work is None and entry.refs.title_search:
-            work = client.get_work_by_title(entry.refs.title_search)
+        try:
+            work = None
+            if entry.refs.doi:
+                work = client.get_work_by_doi(entry.refs.doi)
+            if work is None and entry.refs.title_search:
+                work = client.get_work_by_title(entry.refs.title_search)
+        except OpenAlexError as exc:
+            unresolved.append({"id": entry.id, "reason": "probe_error", "detail": str(exc)[:120]})
+            continue
         if work is None:
-            unresolved.append(entry.id)
+            unresolved.append({"id": entry.id, "reason": "dead", "detail": ""})
         else:
             resolved[entry.id] = work
     return resolved, unresolved
@@ -157,9 +164,11 @@ def score_thread(
     doc = yaml.safe_load(thread_path(slug, candidate_dir).read_text(encoding="utf-8"))
     entries = parse_thread({"entries": doc.get("entries", [])})
     resolved, unresolved = resolve_entries(client, entries)
-    by_year = sorted(entries, key=lambda e: e.year)
+    by_year = sorted(entries, key=lambda e: (e.year, e.id))
 
-    issues: list[str] = [f"unresolved: {i}" for i in unresolved]
+    dead = [u["id"] for u in unresolved if u["reason"] == "dead"]
+    probe_errors = [u["id"] for u in unresolved if u["reason"] == "probe_error"]
+    issues: list[str] = [f"dead record: {i}" for i in dead]
     ids = {e.id for e in entries}
     issues += [
         f"dangling related: {e.id}->{r}" for e in entries for r in e.related if r not in ids
@@ -176,37 +185,80 @@ def score_thread(
         if wa is None or wb is None:
             return "unresolved"
         if wa.get("id") in (wb.get("referenced_works") or []):
-            return "cites-backwards"  # later work cites the earlier one
+            return "cites-earlier" if b.year >= a.year else "citation-anachronism"
+        if wb.get("id") in (wa.get("referenced_works") or []):
+            return "cites-earlier" if a.year >= b.year else "citation-anachronism"
         if shared_refs(wa, wb):
             return "co-cited"  # common ancestors cited by both
-        return "metadata-blind"  # graph cannot see the link (or the link is wrong)
+        return "needs-text"  # plausible but unverifiable from metadata alone
 
-    declared = [(a, b) for a in entries for b in entries if b.id in a.related]
-    edges = [{"from": a.id, "to": b.id, "kind": pair_support(a, b)} for a, b in declared]
+    # thread edges = the story chain (chronological neighbours) + declared related
+    pairs = list(zip(by_year, by_year[1:], strict=False))
+    pairs += [(a, b) for a in entries for b in entries if b.id in a.related]
+    seen: set[frozenset[str]] = set()
+    edges: list[dict[str, Any]] = []
+    for a, b in pairs:
+        if frozenset((a.id, b.id)) in seen:
+            continue
+        seen.add(frozenset((a.id, b.id)))
+        edges.append({"from": a.id, "to": b.id, "kind": pair_support(a, b)})
     issues += [
-        f"backwards chronology: {a.id} ({a.year}) -> {b.id} ({b.year})"
-        for a, b in declared
-        if b.year < a.year
+        f"citation anachronism: {e['from']} <-> {e['to']}"
+        for e in edges if e["kind"] == "citation-anachronism"
     ]
-    supported = sum(e["kind"] in {"cites-backwards", "co-cited"} for e in edges)
-    metadata_blind = sum(e["kind"] == "metadata-blind" for e in edges)
-    co_cited = sum(e["kind"] == "co-cited" for e in edges)
+
+    # supported components: which entries the citation graph already connects
+    parent = {e.id: e.id for e in entries}
+
+    def find(x: str) -> str:
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    for e in edges:
+        if e["kind"] in {"cites-earlier", "co-cited"}:
+            parent[find(e["from"])] = find(e["to"])
+    for e in edges:
+        e["bridge"] = e["kind"] == "needs-text" and find(e["from"]) != find(e["to"])
+
+    needs_text = [
+        {
+            "from": e["from"], "to": e["to"], "bridge": e["bridge"],
+            **{side: (resolved.get(e[side]) or {}).get("doi", "") for side in ("from", "to")},
+        }
+        for e in edges if e["kind"] == "needs-text"
+    ]
+    needs_text.sort(key=lambda s: (not s["bridge"], s["from"], s["to"]))
+
+    supported = {
+        k: sum(e["kind"] == k for e in edges) for k in ("cites-earlier", "co-cited")
+    }
     evidence = sum(
         1 for e in entries
         if (e.notes and "evidence:" in e.notes) or e.refs.doi or e.refs.title_search
     )
+    verdict = "sound"
+    if issues:
+        verdict = "gaps"
+    elif probe_errors:
+        verdict = "retest"  # transient API failure: results incomplete, do not trust
+    elif any(s["bridge"] for s in needs_text):
+        verdict = "needs-text"  # components only connectable by full-text evidence
     return {
         "slug": slug,
         "entries": len(entries),
         "resolved": len(resolved),
-        "unresolved": unresolved,
+        "dead": dead,
+        "probe_errors": probe_errors,
         "edges": edges,
-        "supported": supported,
-        "co_cited": co_cited,
-        "metadata_blind": metadata_blind,
+        "supported": supported["cites-earlier"] + supported["co-cited"],
+        "cites_earlier": supported["cites-earlier"],
+        "co_cited": supported["co-cited"],
+        "needs_text": needs_text,
         "evidence_coverage": round(evidence / max(len(entries), 1), 2),
         "date_span": by_year[-1].year - by_year[0].year if entries else 0,
-        "verdict": "sound" if not issues else "gaps",
+        "verdict": verdict,
         "issues": issues,
     }
 

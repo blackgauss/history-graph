@@ -92,9 +92,10 @@ def test_propose_add_test_grow_promote(env):
     score = candidates.score_thread(env["client"], "lineage", candidate_dir=env["dir"])
     assert score["resolved"] >= 3
     kinds = {e["kind"] for e in score["edges"]}
-    # curated edges carry authorship/related links; support kinds are computable
-    assert kinds <= {"cites-backwards", "co-cited", "metadata-blind", "unresolved"}
+    assert kinds <= {"cites-earlier", "co-cited", "needs-text", "unresolved"}
     assert score["verdict"] in {"sound", "gaps"}
+    # the thread chain itself (chronological neighbours) is scored, not only 'related'
+    assert score["cites_earlier"] >= 1
 
     suggestions = candidates.frontier(env["client"], "lineage", candidate_dir=env["dir"])
     assert any(s["openalex_id"] == "W90" for s in suggestions)  # cites W2
@@ -146,3 +147,34 @@ def test_mcp_thread_tools_roundtrip(env, monkeypatch):
 def test_unknown_thread_errors_cleanly(env):
     with pytest.raises(FileNotFoundError):
         candidates.score_thread(env["client"], "nope", candidate_dir=env["dir"])
+
+
+def test_needs_text_bridge_flagged(env):
+    candidates.propose_thread(
+        env["client"], "blind", "B -> C", ["10.2/b", "10.3/c"], candidate_dir=env["dir"]
+    )
+    score = candidates.score_thread(env["client"], "blind", candidate_dir=env["dir"])
+    assert score["verdict"] == "needs-text"
+    assert len(score["needs_text"]) == 1 and score["needs_text"][0]["bridge"] is True
+
+
+def test_transient_failure_is_retest_not_dead(env, monkeypatch):
+    from history_graph.client import OpenAlexError
+
+    candidates.propose_thread(
+        env["client"], "flaky", "A -> B", ["10.2/b"], candidate_dir=env["dir"]
+    )
+    broken = FakeClient()
+
+    def boom(doi):
+        raise OpenAlexError("429 too many requests")
+
+    monkeypatch.setattr(broken, "get_work_by_doi", boom)
+    candidates.add_entries(
+        "flaky",
+        [{"id": "x", "date": "1940", "kind": "paper", "title": "X", "refs": {"doi": "10.7/x"}}],
+        candidate_dir=env["dir"],
+    )
+    score = candidates.score_thread(broken, "flaky", candidate_dir=env["dir"])
+    assert score["probe_errors"] and score["dead"] == []
+    assert score["verdict"] == "retest"

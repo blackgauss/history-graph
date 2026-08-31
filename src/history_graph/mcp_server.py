@@ -417,8 +417,8 @@ def list_candidate_threads() -> str:
 def test_thread(slug: str) -> str:
     """Deterministic scorecard: resolution, dangling links, chronology, gaps,
 
-    citation support per related edge (cites-backwards / co-cited /
-    metadata-blind), evidence coverage, verdict, issue list."""
+    per-edge support (cites-earlier / co-cited / needs-text / unresolved, with
+    a bridge flag for links only full text can settle), verdict, issues."""
     return _cap(candidates.score_thread(_openalex(), slug, candidate_dir=_candidate_dir()))
 
 
