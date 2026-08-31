@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 152,
+ "doi": null,
+ "id": "https://openalex.org/W1554228447",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W113037826",
+  "https://openalex.org/W136079928",
+  "https://openalex.org/W314751454",
+  "https://openalex.org/W1502318375",
+  "https://openalex.org/W1841612980",
+  "https://openalex.org/W2009980092",
+  "https://openalex.org/W2050347474",
+  "https://openalex.org/W2054736275",
+  "https://openalex.org/W2057647741",
+  "https://openalex.org/W2081102106",
+  "https://openalex.org/W2083125010",
+  "https://openalex.org/W2096527593",
+  "https://openalex.org/W2110788116",
+  "https://openalex.org/W2118269922",
+  "https://openalex.org/W2126413127",
+  "https://openalex.org/W2144666915",
+  "https://openalex.org/W2154322583",
+  "https://openalex.org/W2161694911",
+  "https://openalex.org/W2169447117",
+  "https://openalex.org/W2751199251",
+  "https://openalex.org/W3121343637",
+  "https://openalex.org/W3123141741"
+ ],
+ "title": "The Time Index: An Access Structure for Temporal Data"
+}

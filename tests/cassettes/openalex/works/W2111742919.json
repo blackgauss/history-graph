@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 344,
+ "doi": "https://doi.org/10.1145/990680.990705",
+ "id": "https://openalex.org/W2111742919",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W170259030",
+  "https://openalex.org/W1930212288",
+  "https://openalex.org/W1971903460",
+  "https://openalex.org/W1986805195",
+  "https://openalex.org/W2104532741",
+  "https://openalex.org/W2122179278",
+  "https://openalex.org/W2124705135",
+  "https://openalex.org/W4210597212",
+  "https://openalex.org/W4243443630",
+  "https://openalex.org/W4388892785"
+ ],
+ "title": "The platforms enabling wireless sensor networks"
+}

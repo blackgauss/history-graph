@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 108,
+ "doi": null,
+ "id": "https://openalex.org/W2156067405",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1503515926",
+  "https://openalex.org/W1507087299",
+  "https://openalex.org/W1515851193",
+  "https://openalex.org/W1526807135",
+  "https://openalex.org/W1594216983",
+  "https://openalex.org/W1613651675",
+  "https://openalex.org/W1966028617",
+  "https://openalex.org/W2048226872",
+  "https://openalex.org/W2056354534",
+  "https://openalex.org/W2112483970",
+  "https://openalex.org/W2121863487",
+  "https://openalex.org/W2160371091",
+  "https://openalex.org/W2911283634"
+ ],
+ "title": "Multi-time Models for Temporally Abstract Planning"
+}

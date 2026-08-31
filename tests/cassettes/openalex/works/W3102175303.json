@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 28,
+ "doi": null,
+ "id": "https://openalex.org/W3102175303",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W941208707",
+  "https://openalex.org/W1507768330",
+  "https://openalex.org/W1899006432",
+  "https://openalex.org/W1991135809",
+  "https://openalex.org/W1992244412",
+  "https://openalex.org/W2034666228",
+  "https://openalex.org/W2040971345",
+  "https://openalex.org/W2315744711",
+  "https://openalex.org/W2329031041",
+  "https://openalex.org/W2342433841",
+  "https://openalex.org/W2501012592",
+  "https://openalex.org/W3098466722",
+  "https://openalex.org/W4242447504",
+  "https://openalex.org/W4253314034"
+ ],
+ "title": "Boolean functions with small spectral norm"
+}

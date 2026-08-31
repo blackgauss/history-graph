@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 2,
+ "doi": "https://doi.org/10.48550/arxiv.1212.5926",
+ "id": "https://openalex.org/W2950150651",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W579720767",
+  "https://openalex.org/W1483871949",
+  "https://openalex.org/W1494628843",
+  "https://openalex.org/W1522020530",
+  "https://openalex.org/W1545063325",
+  "https://openalex.org/W1582617215",
+  "https://openalex.org/W1971489352",
+  "https://openalex.org/W1982302963",
+  "https://openalex.org/W1996982656",
+  "https://openalex.org/W1998923931",
+  "https://openalex.org/W2002189401",
+  "https://openalex.org/W2003340153",
+  "https://openalex.org/W2009906015",
+  "https://openalex.org/W2010577524",
+  "https://openalex.org/W2033136343",
+  "https://openalex.org/W2035794488",
+  "https://openalex.org/W2049220294",
+  "https://openalex.org/W2051852019",
+  "https://openalex.org/W2078449262",
+  "https://openalex.org/W2094089829",
+  "https://openalex.org/W2595348797",
+  "https://openalex.org/W2911730943",
+  "https://openalex.org/W2963218993",
+  "https://openalex.org/W3112903361"
+ ],
+ "title": "An introduction to $BV$ functions in Wiener spaces"
+}

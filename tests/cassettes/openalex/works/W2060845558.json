@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 49,
+ "doi": "https://doi.org/10.1287/moor.6.3.387",
+ "id": "https://openalex.org/W2060845558",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W23427529",
+  "https://openalex.org/W28126058",
+  "https://openalex.org/W1812051872",
+  "https://openalex.org/W1984761997",
+  "https://openalex.org/W2014690066",
+  "https://openalex.org/W2034172416",
+  "https://openalex.org/W2053491613",
+  "https://openalex.org/W2059712268",
+  "https://openalex.org/W2063217167",
+  "https://openalex.org/W2065249595",
+  "https://openalex.org/W2084630514",
+  "https://openalex.org/W2105288904",
+  "https://openalex.org/W2128860070",
+  "https://openalex.org/W2129913813",
+  "https://openalex.org/W2149914603",
+  "https://openalex.org/W2315999302",
+  "https://openalex.org/W2331937721",
+  "https://openalex.org/W2334892536"
+ ],
+ "title": "Flows in Queueing Networks: A Martingale Approach"
+}

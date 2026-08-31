@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 2875,
+ "doi": "https://doi.org/10.1016/0022-0531(75)90050-2",
+ "id": "https://openalex.org/W2129678216",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W1581324070",
+  "https://openalex.org/W1975833254",
+  "https://openalex.org/W1985194351",
+  "https://openalex.org/W1993313925",
+  "https://openalex.org/W1997653537",
+  "https://openalex.org/W2011066998",
+  "https://openalex.org/W2025926152",
+  "https://openalex.org/W2036910311",
+  "https://openalex.org/W2043715088",
+  "https://openalex.org/W2058012464",
+  "https://openalex.org/W2061403147",
+  "https://openalex.org/W2070875744",
+  "https://openalex.org/W2074436643",
+  "https://openalex.org/W2085112571",
+  "https://openalex.org/W2321984095",
+  "https://openalex.org/W2330714275"
+ ],
+ "title": "Strategy-proofness and Arrow's conditions: Existence and correspondence theorems for voting procedures and social welfare functions"
+}

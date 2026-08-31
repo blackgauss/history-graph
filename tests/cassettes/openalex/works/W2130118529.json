@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 41,
+ "doi": "https://doi.org/10.1109/12.45216",
+ "id": "https://openalex.org/W2130118529",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W25557007",
+  "https://openalex.org/W1495992860",
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W2012170251",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2083035009",
+  "https://openalex.org/W2086281270",
+  "https://openalex.org/W2312235895",
+  "https://openalex.org/W2326423996"
+ ],
+ "title": "A spectral lower bound technique for the size of decision trees and two-level AND/OR circuits"
+}

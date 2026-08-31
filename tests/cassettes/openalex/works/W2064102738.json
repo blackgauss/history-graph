@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1145/24820.24822",
+ "id": "https://openalex.org/W2064102738",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W31776649",
+  "https://openalex.org/W134694575",
+  "https://openalex.org/W1506707603",
+  "https://openalex.org/W1975414379",
+  "https://openalex.org/W2026896584",
+  "https://openalex.org/W2090336890",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2169012378"
+ ],
+ "title": "The effect of join selectives on optimal nesting order"
+}

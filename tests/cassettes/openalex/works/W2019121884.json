@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 124,
+ "doi": "https://doi.org/10.1109/sfcs.1985.15",
+ "id": "https://openalex.org/W2019121884",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W1964052655",
+  "https://openalex.org/W1969313096",
+  "https://openalex.org/W1977911709",
+  "https://openalex.org/W1991153938",
+  "https://openalex.org/W2041434139",
+  "https://openalex.org/W2060812095",
+  "https://openalex.org/W2066747384",
+  "https://openalex.org/W2081052144",
+  "https://openalex.org/W2114935567",
+  "https://openalex.org/W6641428112"
+ ],
+ "title": "Collective coin flipping, robust voting schemes and minima of Banzhaf values"
+}

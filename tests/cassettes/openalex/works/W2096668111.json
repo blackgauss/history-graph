@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 48,
+ "doi": "https://doi.org/10.1145/1114252.1114260",
+ "id": "https://openalex.org/W2096668111",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1492783156",
+  "https://openalex.org/W1532854657",
+  "https://openalex.org/W1568945110",
+  "https://openalex.org/W1570477871",
+  "https://openalex.org/W1602137482",
+  "https://openalex.org/W1987981153",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2016622853",
+  "https://openalex.org/W2038057969",
+  "https://openalex.org/W2054468361",
+  "https://openalex.org/W2055058950",
+  "https://openalex.org/W2070906137",
+  "https://openalex.org/W2095679548",
+  "https://openalex.org/W2110631345",
+  "https://openalex.org/W2114640218",
+  "https://openalex.org/W2122234783",
+  "https://openalex.org/W2130642985",
+  "https://openalex.org/W2138149927",
+  "https://openalex.org/W2155651153",
+  "https://openalex.org/W2165836188",
+  "https://openalex.org/W2172190421"
+ ],
+ "title": "Accelerating database operators using a network processor"
+}

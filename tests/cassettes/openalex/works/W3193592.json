@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 15,
+ "doi": null,
+ "id": "https://openalex.org/W3193592",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W127565347",
+  "https://openalex.org/W1479758177",
+  "https://openalex.org/W1489923637",
+  "https://openalex.org/W1491614438",
+  "https://openalex.org/W1524052889",
+  "https://openalex.org/W1535633065",
+  "https://openalex.org/W1555771259",
+  "https://openalex.org/W1582486264",
+  "https://openalex.org/W1600820878",
+  "https://openalex.org/W1978223872",
+  "https://openalex.org/W2002089154",
+  "https://openalex.org/W2016113382",
+  "https://openalex.org/W2038141781",
+  "https://openalex.org/W2088602194",
+  "https://openalex.org/W2097396421",
+  "https://openalex.org/W2109562174",
+  "https://openalex.org/W2117375083",
+  "https://openalex.org/W2121924470",
+  "https://openalex.org/W2122076344",
+  "https://openalex.org/W2155999156",
+  "https://openalex.org/W2168175391",
+  "https://openalex.org/W2328580899",
+  "https://openalex.org/W3175365780"
+ ],
+ "title": "Lambek Grammars, Tree Adjoining Grammars and Hyperedge Replacement Grammars"
+}

@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 88,
+ "doi": "https://doi.org/10.1145/1276958.1277155",
+ "id": "https://openalex.org/W2130329458",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W157907800",
+  "https://openalex.org/W298987871",
+  "https://openalex.org/W1546662014",
+  "https://openalex.org/W1554295153",
+  "https://openalex.org/W1962014236",
+  "https://openalex.org/W1980661496",
+  "https://openalex.org/W2008085228",
+  "https://openalex.org/W2013614800",
+  "https://openalex.org/W2020399841",
+  "https://openalex.org/W2036338631",
+  "https://openalex.org/W2111935653",
+  "https://openalex.org/W2124290836",
+  "https://openalex.org/W2138321920",
+  "https://openalex.org/W2140685838",
+  "https://openalex.org/W2144662207",
+  "https://openalex.org/W2153684665",
+  "https://openalex.org/W2155419435",
+  "https://openalex.org/W2169803171",
+  "https://openalex.org/W2541474486",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W2903186160",
+  "https://openalex.org/W3004042307",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A novel generative encoding for exploiting neural network sensor and output geometry"
+}

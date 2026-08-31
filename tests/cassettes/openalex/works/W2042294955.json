@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 142,
+ "doi": "https://doi.org/10.1016/s0020-0255(99)00075-4",
+ "id": "https://openalex.org/W2042294955",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W119885032",
+  "https://openalex.org/W187561358",
+  "https://openalex.org/W252026264",
+  "https://openalex.org/W602421515",
+  "https://openalex.org/W1484754041",
+  "https://openalex.org/W1501162218",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1565902562",
+  "https://openalex.org/W1582014272",
+  "https://openalex.org/W1582971263",
+  "https://openalex.org/W1585743408",
+  "https://openalex.org/W1590762254",
+  "https://openalex.org/W1607789910",
+  "https://openalex.org/W1970334706",
+  "https://openalex.org/W1981770353",
+  "https://openalex.org/W1997362234",
+  "https://openalex.org/W2016922426",
+  "https://openalex.org/W2017243522",
+  "https://openalex.org/W2027654459",
+  "https://openalex.org/W2035552233",
+  "https://openalex.org/W2087115982",
+  "https://openalex.org/W2340020088",
+  "https://openalex.org/W2488429230",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "α-RST: a generalization of rough set theory"
+}

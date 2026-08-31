@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 277,
+ "doi": "https://doi.org/10.1145/93597.93611",
+ "id": "https://openalex.org/W1968829657",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W117986637",
+  "https://openalex.org/W154166887",
+  "https://openalex.org/W1513100972",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1587364696",
+  "https://openalex.org/W1592355944",
+  "https://openalex.org/W1608665031",
+  "https://openalex.org/W1968829657",
+  "https://openalex.org/W1988144572",
+  "https://openalex.org/W2026896584",
+  "https://openalex.org/W2034401457",
+  "https://openalex.org/W2046437776",
+  "https://openalex.org/W2054338562",
+  "https://openalex.org/W2080240668",
+  "https://openalex.org/W2081457867",
+  "https://openalex.org/W2090336890",
+  "https://openalex.org/W2122949840",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2197881366",
+  "https://openalex.org/W3013030989",
+  "https://openalex.org/W3032572365",
+  "https://openalex.org/W3035692968",
+  "https://openalex.org/W4236656499",
+  "https://openalex.org/W4246899237"
+ ],
+ "title": "Practical selectivity estimation through adaptive sampling"
+}

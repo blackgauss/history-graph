@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1016/s0304-3975(98)00024-3",
+ "id": "https://openalex.org/W2150428320",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W167103126",
+  "https://openalex.org/W1487867650",
+  "https://openalex.org/W1514107022",
+  "https://openalex.org/W1544662935",
+  "https://openalex.org/W1587530052",
+  "https://openalex.org/W1974087219",
+  "https://openalex.org/W2007270285",
+  "https://openalex.org/W2010959827",
+  "https://openalex.org/W2014030742",
+  "https://openalex.org/W2025033165",
+  "https://openalex.org/W2034676877",
+  "https://openalex.org/W2039112578",
+  "https://openalex.org/W2117198618",
+  "https://openalex.org/W2150022661",
+  "https://openalex.org/W2154273644",
+  "https://openalex.org/W2156992159",
+  "https://openalex.org/W2494098337",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6606764478",
+  "https://openalex.org/W6630830007",
+  "https://openalex.org/W6635101248",
+  "https://openalex.org/W6647238647"
+ ],
+ "title": "Decidability of behavioural equivalence in unary PCF"
+}

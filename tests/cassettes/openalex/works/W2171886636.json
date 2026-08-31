@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 642,
+ "doi": "https://doi.org/10.1109/tct.1971.1083221",
+ "id": "https://openalex.org/W2171886636",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W2098168282",
+  "https://openalex.org/W2116054139",
+  "https://openalex.org/W2121696014",
+  "https://openalex.org/W3083584723",
+  "https://openalex.org/W4376546724",
+  "https://openalex.org/W7058702969"
+ ],
+ "title": "Simultaneous Numerical Solution of Differential-Algebraic Equations"
+}

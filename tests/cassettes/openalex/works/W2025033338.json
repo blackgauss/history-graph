@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 53,
+ "doi": "https://doi.org/10.1109/tc.1981.1675862",
+ "id": "https://openalex.org/W2025033338",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1861054566",
+  "https://openalex.org/W1976184281",
+  "https://openalex.org/W1985577799",
+  "https://openalex.org/W1992992747",
+  "https://openalex.org/W2025033338",
+  "https://openalex.org/W2111398461",
+  "https://openalex.org/W2113742150",
+  "https://openalex.org/W2139412640",
+  "https://openalex.org/W2156443685",
+  "https://openalex.org/W3138083660",
+  "https://openalex.org/W3150600874",
+  "https://openalex.org/W6681134052"
+ ],
+ "title": "Multiple-Valued Logic Charge-Coupled Devices"
+}

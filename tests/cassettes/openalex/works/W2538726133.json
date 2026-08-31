@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1109/nlpke.2003.1275931",
+ "id": "https://openalex.org/W2538726133",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W41924313",
+  "https://openalex.org/W214989851",
+  "https://openalex.org/W1700330385",
+  "https://openalex.org/W2101920689",
+  "https://openalex.org/W2126055319",
+  "https://openalex.org/W2134237567",
+  "https://openalex.org/W2165112885",
+  "https://openalex.org/W6601728941",
+  "https://openalex.org/W6608593210",
+  "https://openalex.org/W6684016952"
+ ],
+ "title": "A hierarchical approach for better estimation of unseen event likelihood in speech recognition"
+}

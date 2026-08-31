@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 77,
+ "doi": null,
+ "id": "https://openalex.org/W1521361710",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W16961182",
+  "https://openalex.org/W1552413915",
+  "https://openalex.org/W2002809076",
+  "https://openalex.org/W2012451016",
+  "https://openalex.org/W2022649148",
+  "https://openalex.org/W2039766717",
+  "https://openalex.org/W2043749813",
+  "https://openalex.org/W2087530244",
+  "https://openalex.org/W2143895421",
+  "https://openalex.org/W2148268719",
+  "https://openalex.org/W3121776085",
+  "https://openalex.org/W3122106534",
+  "https://openalex.org/W3123904525",
+  "https://openalex.org/W3125985736"
+ ],
+ "title": "Ex-Post Incentive Compatible Mechanism Design"
+}

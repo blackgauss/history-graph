@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 322,
+ "doi": "https://doi.org/10.1145/1117201.1117205",
+ "id": "https://openalex.org/W2133712953",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1518236483",
+  "https://openalex.org/W1563755196",
+  "https://openalex.org/W1597088765",
+  "https://openalex.org/W1603444000",
+  "https://openalex.org/W2075059680",
+  "https://openalex.org/W2097303307",
+  "https://openalex.org/W2100580949",
+  "https://openalex.org/W2111046960",
+  "https://openalex.org/W2111427553",
+  "https://openalex.org/W2116094656",
+  "https://openalex.org/W2138986335",
+  "https://openalex.org/W2141823036",
+  "https://openalex.org/W2156954556",
+  "https://openalex.org/W2162546785",
+  "https://openalex.org/W2162628682",
+  "https://openalex.org/W2167171398",
+  "https://openalex.org/W2170510975"
+ ],
+ "title": "Measuring the gap between FPGAs and ASICs"
+}

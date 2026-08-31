@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 26,
+ "doi": "https://doi.org/10.1137/0220069",
+ "id": "https://openalex.org/W2076342862",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1995067748",
+  "https://openalex.org/W2003306963",
+  "https://openalex.org/W2016042296",
+  "https://openalex.org/W2021126666",
+  "https://openalex.org/W2050917944",
+  "https://openalex.org/W2061496873"
+ ],
+ "title": "Elimination of Infrequent Variables Improves Average Case Performance of Satisfiability Algorithms"
+}

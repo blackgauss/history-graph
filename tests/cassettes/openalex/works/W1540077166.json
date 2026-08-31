@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 6,
+ "doi": "https://doi.org/10.1109/spdp.1990.143562",
+ "id": "https://openalex.org/W1540077166",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W36714722",
+  "https://openalex.org/W1493271454",
+  "https://openalex.org/W2101565698",
+  "https://openalex.org/W2112557722",
+  "https://openalex.org/W2145903063",
+  "https://openalex.org/W6629533677",
+  "https://openalex.org/W6676589355"
+ ],
+ "title": "Parallel join algorithms for nested relations on shared-memory multiprocessors"
+}

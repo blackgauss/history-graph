@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 332,
+ "doi": "https://doi.org/10.1109/istcs.1995.377033",
+ "id": "https://openalex.org/W2109039359",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1483204526",
+  "https://openalex.org/W1511716344",
+  "https://openalex.org/W2001564241",
+  "https://openalex.org/W2012329067",
+  "https://openalex.org/W2012605254",
+  "https://openalex.org/W2016232593",
+  "https://openalex.org/W2038225707",
+  "https://openalex.org/W2049371785",
+  "https://openalex.org/W2070982319",
+  "https://openalex.org/W2078289947",
+  "https://openalex.org/W2079473728",
+  "https://openalex.org/W2080905757",
+  "https://openalex.org/W2119397119",
+  "https://openalex.org/W2132302072",
+  "https://openalex.org/W2143391442",
+  "https://openalex.org/W2162018802",
+  "https://openalex.org/W6670750863"
+ ],
+ "title": "Approximating the value of two power proof systems, with applications to MAX 2SAT and MAX DICUT"
+}

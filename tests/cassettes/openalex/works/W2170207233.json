@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 27,
+ "doi": "https://doi.org/10.1109/icde.1989.47254",
+ "id": "https://openalex.org/W2170207233",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W947590608",
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1485858404",
+  "https://openalex.org/W1495330698",
+  "https://openalex.org/W1499217199",
+  "https://openalex.org/W1566351760",
+  "https://openalex.org/W1571185487",
+  "https://openalex.org/W1598078886",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W2000025733",
+  "https://openalex.org/W2009765223",
+  "https://openalex.org/W2031138923",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2114921219",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W2251518947",
+  "https://openalex.org/W4236476085",
+  "https://openalex.org/W6663491889",
+  "https://openalex.org/W6687965037"
+ ],
+ "title": "Limiting factors of join performance on parallel processors"
+}

@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 50,
+ "doi": null,
+ "id": "https://openalex.org/W4985749",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W35869410",
+  "https://openalex.org/W1986296546",
+  "https://openalex.org/W1999032440",
+  "https://openalex.org/W2005090831",
+  "https://openalex.org/W2017290750",
+  "https://openalex.org/W2081254453",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2103749128",
+  "https://openalex.org/W2111385661",
+  "https://openalex.org/W2120358419",
+  "https://openalex.org/W2742022539"
+ ],
+ "title": "Noise-Resistant Boolean-Functions are Juntas"
+}

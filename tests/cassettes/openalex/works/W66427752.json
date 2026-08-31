@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 485,
+ "doi": "https://doi.org/10.1007/978-3-319-10443-0_39",
+ "id": "https://openalex.org/W66427752",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W22040386",
+  "https://openalex.org/W175563506",
+  "https://openalex.org/W1597295622",
+  "https://openalex.org/W1983364832",
+  "https://openalex.org/W2007044705",
+  "https://openalex.org/W2095377654",
+  "https://openalex.org/W2098477387",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2163605009",
+  "https://openalex.org/W2169805405",
+  "https://openalex.org/W4249565903"
+ ],
+ "title": "Deep Learning Based Imaging Data Completion for Improved Brain Disease Diagnosis"
+}

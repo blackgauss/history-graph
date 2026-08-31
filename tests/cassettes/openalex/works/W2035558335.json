@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1016/0304-3975(78)90007-5",
+ "id": "https://openalex.org/W2035558335",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W44111308",
+  "https://openalex.org/W632099468",
+  "https://openalex.org/W1965251765",
+  "https://openalex.org/W1975592766",
+  "https://openalex.org/W1991961178",
+  "https://openalex.org/W2020242021",
+  "https://openalex.org/W2021141490",
+  "https://openalex.org/W2029823283",
+  "https://openalex.org/W2034013522",
+  "https://openalex.org/W2069890413",
+  "https://openalex.org/W2089442854",
+  "https://openalex.org/W2106640617",
+  "https://openalex.org/W2113069034",
+  "https://openalex.org/W2150311525",
+  "https://openalex.org/W2315181607",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W6620379980"
+ ],
+ "title": "Some lowness properties and computational complexity sequences"
+}

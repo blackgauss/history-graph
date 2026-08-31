@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 36,
+ "doi": "https://doi.org/10.1007/978-3-031-29642-0_2",
+ "id": "https://openalex.org/W4382566593",
+ "publication_year": 2023,
+ "referenced_works": [
+  "https://openalex.org/W161283806",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1533861849",
+  "https://openalex.org/W1573503290",
+  "https://openalex.org/W1677182931",
+  "https://openalex.org/W2030795735",
+  "https://openalex.org/W2037090034",
+  "https://openalex.org/W2102539288",
+  "https://openalex.org/W2111051539",
+  "https://openalex.org/W2113207845",
+  "https://openalex.org/W2131241448",
+  "https://openalex.org/W2134583763",
+  "https://openalex.org/W2194775991",
+  "https://openalex.org/W2622755869",
+  "https://openalex.org/W4205686602",
+  "https://openalex.org/W4238404964",
+  "https://openalex.org/W6604582312",
+  "https://openalex.org/W6674385629",
+  "https://openalex.org/W6676179485",
+  "https://openalex.org/W6682889407",
+  "https://openalex.org/W6753278433",
+  "https://openalex.org/W6992951189"
+ ],
+ "title": "The Backpropagation Algorithm"
+}

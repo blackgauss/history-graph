@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 76,
+ "doi": "https://doi.org/10.1109/lics.1989.39179",
+ "id": "https://openalex.org/W2121827343",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W69348146",
+  "https://openalex.org/W1536217426",
+  "https://openalex.org/W1588085858",
+  "https://openalex.org/W1864286575",
+  "https://openalex.org/W1988903622",
+  "https://openalex.org/W1994227541",
+  "https://openalex.org/W1997716585",
+  "https://openalex.org/W2033071128",
+  "https://openalex.org/W2048297078",
+  "https://openalex.org/W2069709605",
+  "https://openalex.org/W2073491323",
+  "https://openalex.org/W2075277371",
+  "https://openalex.org/W2076073997",
+  "https://openalex.org/W2138162238",
+  "https://openalex.org/W2201521779",
+  "https://openalex.org/W4233253115",
+  "https://openalex.org/W4234216897",
+  "https://openalex.org/W4241108585",
+  "https://openalex.org/W4242309855",
+  "https://openalex.org/W4246066583",
+  "https://openalex.org/W4246530160",
+  "https://openalex.org/W6687911799"
+ ],
+ "title": "On the complexity of epistemic reasoning"
+}

@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 85,
+ "doi": "https://doi.org/10.1007/978-3-540-32033-3_33",
+ "id": "https://openalex.org/W2097414162",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1489527380",
+  "https://openalex.org/W1490156001",
+  "https://openalex.org/W1512564652",
+  "https://openalex.org/W1549891365",
+  "https://openalex.org/W1567682528",
+  "https://openalex.org/W1568333198",
+  "https://openalex.org/W1589982562",
+  "https://openalex.org/W1606555018",
+  "https://openalex.org/W1972066244",
+  "https://openalex.org/W1986022261",
+  "https://openalex.org/W1986261983",
+  "https://openalex.org/W2000346568",
+  "https://openalex.org/W2036915776",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2153131284",
+  "https://openalex.org/W2479999086",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W2752885492",
+  "https://openalex.org/W2913314261",
+  "https://openalex.org/W2977967499",
+  "https://openalex.org/W3145128584"
+ ],
+ "title": "Proof-Producing Congruence Closure"
+}

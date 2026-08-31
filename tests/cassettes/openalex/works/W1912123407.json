@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 2925,
+ "doi": "https://doi.org/10.48550/arxiv.1302.4964",
+ "id": "https://openalex.org/W1912123407",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1487306946",
+  "https://openalex.org/W1517993545",
+  "https://openalex.org/W1538973122",
+  "https://openalex.org/W1586547218",
+  "https://openalex.org/W1605844890",
+  "https://openalex.org/W1619226191",
+  "https://openalex.org/W1625504505",
+  "https://openalex.org/W1669437150",
+  "https://openalex.org/W1678889691",
+  "https://openalex.org/W1906182963",
+  "https://openalex.org/W1992880122",
+  "https://openalex.org/W2008906462",
+  "https://openalex.org/W2022058268",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2083904924",
+  "https://openalex.org/W2129905273",
+  "https://openalex.org/W2136000097",
+  "https://openalex.org/W2141620354",
+  "https://openalex.org/W2149337551",
+  "https://openalex.org/W2328425223",
+  "https://openalex.org/W2797583072"
+ ],
+ "title": "Estimating Continuous Distributions in Bayesian Classifiers"
+}

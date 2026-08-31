@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 260,
+ "doi": "https://doi.org/10.1007/978-3-540-30143-1_4",
+ "id": "https://openalex.org/W1527422375",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1498585374",
+  "https://openalex.org/W1516506771",
+  "https://openalex.org/W1600189620",
+  "https://openalex.org/W1649901946",
+  "https://openalex.org/W1744212210",
+  "https://openalex.org/W1781758015",
+  "https://openalex.org/W2006071261",
+  "https://openalex.org/W2023955403",
+  "https://openalex.org/W2031006315",
+  "https://openalex.org/W2067064024",
+  "https://openalex.org/W2070333012",
+  "https://openalex.org/W2097174997",
+  "https://openalex.org/W2105510432",
+  "https://openalex.org/W2123770058",
+  "https://openalex.org/W2124486211",
+  "https://openalex.org/W2134006599",
+  "https://openalex.org/W2141686553",
+  "https://openalex.org/W2158909123",
+  "https://openalex.org/W2159919478"
+ ],
+ "title": "Fast Detection of Scanning Worm Infections"
+}

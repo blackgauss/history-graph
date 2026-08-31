@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 590,
+ "doi": "https://doi.org/10.1145/174130.174138",
+ "id": "https://openalex.org/W2042194938",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1545207161",
+  "https://openalex.org/W1571581645",
+  "https://openalex.org/W1998918799",
+  "https://openalex.org/W2009994177",
+  "https://openalex.org/W2017290750",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2031934066",
+  "https://openalex.org/W2036656440",
+  "https://openalex.org/W2045924252",
+  "https://openalex.org/W2057399436",
+  "https://openalex.org/W2060270693",
+  "https://openalex.org/W2061106457",
+  "https://openalex.org/W2070678975",
+  "https://openalex.org/W2093796999",
+  "https://openalex.org/W2103749128",
+  "https://openalex.org/W2117362057",
+  "https://openalex.org/W2130118529",
+  "https://openalex.org/W2142399242",
+  "https://openalex.org/W2157526632",
+  "https://openalex.org/W2428981601",
+  "https://openalex.org/W2742067887",
+  "https://openalex.org/W4238893454"
+ ],
+ "title": "Constant depth circuits, Fourier transform, and learnability"
+}

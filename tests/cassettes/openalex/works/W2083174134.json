@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 190,
+ "doi": "https://doi.org/10.1016/s0176-2680(98)00029-9",
+ "id": "https://openalex.org/W2083174134",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W192974490",
+  "https://openalex.org/W1539324953",
+  "https://openalex.org/W1567268738",
+  "https://openalex.org/W1590771910",
+  "https://openalex.org/W1965535796",
+  "https://openalex.org/W1966981267",
+  "https://openalex.org/W1992782716",
+  "https://openalex.org/W1993729355",
+  "https://openalex.org/W2002609306",
+  "https://openalex.org/W2038280165",
+  "https://openalex.org/W2039910667",
+  "https://openalex.org/W2060399289",
+  "https://openalex.org/W2060965809",
+  "https://openalex.org/W2073538628",
+  "https://openalex.org/W2090100275",
+  "https://openalex.org/W3022242413",
+  "https://openalex.org/W3049570326",
+  "https://openalex.org/W3123360751",
+  "https://openalex.org/W3124968586",
+  "https://openalex.org/W4237446404",
+  "https://openalex.org/W6632305867",
+  "https://openalex.org/W6633658296",
+  "https://openalex.org/W6635174856",
+  "https://openalex.org/W6800429324"
+ ],
+ "title": "The symmetric multiple prize all-pay auction with complete information"
+}

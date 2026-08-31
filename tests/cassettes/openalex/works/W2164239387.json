@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 393,
+ "doi": "https://doi.org/10.1109/66.311341",
+ "id": "https://openalex.org/W2164239387",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1548540712",
+  "https://openalex.org/W1998863535",
+  "https://openalex.org/W2016573888",
+  "https://openalex.org/W2018395339",
+  "https://openalex.org/W2020603302",
+  "https://openalex.org/W2082791325",
+  "https://openalex.org/W2092979010",
+  "https://openalex.org/W2097984481",
+  "https://openalex.org/W2100558740",
+  "https://openalex.org/W2106935862",
+  "https://openalex.org/W2148393763",
+  "https://openalex.org/W2155529449",
+  "https://openalex.org/W2511894128",
+  "https://openalex.org/W2800674339",
+  "https://openalex.org/W4210572675"
+ ],
+ "title": "Efficient scheduling policies to reduce mean and variance of cycle-time in semiconductor manufacturing plants"
+}

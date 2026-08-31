@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 31,
+ "doi": "https://doi.org/10.1016/s0304-3975(98)00140-6",
+ "id": "https://openalex.org/W2025717798",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W11030176",
+  "https://openalex.org/W55370226",
+  "https://openalex.org/W102335877",
+  "https://openalex.org/W1506554842",
+  "https://openalex.org/W1551782573",
+  "https://openalex.org/W1562780576",
+  "https://openalex.org/W1970227944",
+  "https://openalex.org/W1979206410",
+  "https://openalex.org/W2003295197",
+  "https://openalex.org/W2020671663",
+  "https://openalex.org/W2060852846",
+  "https://openalex.org/W2074026916",
+  "https://openalex.org/W2088735483",
+  "https://openalex.org/W2088941870",
+  "https://openalex.org/W2092367588",
+  "https://openalex.org/W2154273644",
+  "https://openalex.org/W6600423585",
+  "https://openalex.org/W6604201901",
+  "https://openalex.org/W6630450798",
+  "https://openalex.org/W6633112591",
+  "https://openalex.org/W6633620649"
+ ],
+ "title": "Semantical analysis of perpetual strategies in λ-calculus"
+}

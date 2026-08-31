@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 318,
+ "doi": null,
+ "id": "https://openalex.org/W150801922",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1483744472",
+  "https://openalex.org/W1524002271",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1553019137",
+  "https://openalex.org/W1848127982",
+  "https://openalex.org/W2020147322",
+  "https://openalex.org/W2024770506",
+  "https://openalex.org/W2097345556",
+  "https://openalex.org/W2109149785",
+  "https://openalex.org/W2120754641",
+  "https://openalex.org/W2125838338",
+  "https://openalex.org/W2143349571",
+  "https://openalex.org/W2150698190",
+  "https://openalex.org/W2151826520",
+  "https://openalex.org/W2153072229",
+  "https://openalex.org/W2153752143",
+  "https://openalex.org/W2157637666",
+  "https://openalex.org/W2164433331",
+  "https://openalex.org/W2170468103",
+  "https://openalex.org/W2201552871",
+  "https://openalex.org/W2296677182"
+ ],
+ "title": "Automatically Extracting Structure from Free Text Addresses."
+}

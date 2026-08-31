@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 244,
+ "doi": null,
+ "id": "https://openalex.org/W1517178556",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W176843356",
+  "https://openalex.org/W1507179106",
+  "https://openalex.org/W1510806966",
+  "https://openalex.org/W1513874326",
+  "https://openalex.org/W1520252399",
+  "https://openalex.org/W1525804336",
+  "https://openalex.org/W1529875955",
+  "https://openalex.org/W1591425412",
+  "https://openalex.org/W1594962278",
+  "https://openalex.org/W1670263352",
+  "https://openalex.org/W1999138184",
+  "https://openalex.org/W2004683093",
+  "https://openalex.org/W2059602918",
+  "https://openalex.org/W2077422877",
+  "https://openalex.org/W2094934653",
+  "https://openalex.org/W2119831128",
+  "https://openalex.org/W2129113961",
+  "https://openalex.org/W2132312105",
+  "https://openalex.org/W2136000097",
+  "https://openalex.org/W2142476588",
+  "https://openalex.org/W2149706766",
+  "https://openalex.org/W2158292827",
+  "https://openalex.org/W2440833291",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Learning trees and rules with set-valued features"
+}

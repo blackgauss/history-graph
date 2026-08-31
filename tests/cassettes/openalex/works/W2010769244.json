@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 1620,
+ "doi": "https://doi.org/10.1016/0022-5193(68)90079-9",
+ "id": "https://openalex.org/W2010769244",
+ "publication_year": 1968,
+ "referenced_works": [
+  "https://openalex.org/W62781412",
+  "https://openalex.org/W1485519071",
+  "https://openalex.org/W2053435856",
+  "https://openalex.org/W2054210322",
+  "https://openalex.org/W2070444834",
+  "https://openalex.org/W2074584233",
+  "https://openalex.org/W2079712291",
+  "https://openalex.org/W2081329744",
+  "https://openalex.org/W2083298149",
+  "https://openalex.org/W2484503790",
+  "https://openalex.org/W2489351825",
+  "https://openalex.org/W4240160783",
+  "https://openalex.org/W4243927151"
+ ],
+ "title": "Mathematical models for cellular interactions in development I. Filaments with one-sided inputs"
+}

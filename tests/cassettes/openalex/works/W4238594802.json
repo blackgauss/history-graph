@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 150,
+ "doi": "https://doi.org/10.1145/67544.66937",
+ "id": "https://openalex.org/W4238594802",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1512784552",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2123565672",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W4232672600",
+  "https://openalex.org/W4248862230",
+  "https://openalex.org/W4253586667",
+  "https://openalex.org/W6647326732"
+ ],
+ "title": "A performance evaluation of four parallel join algorithms in a shared-nothing multiprocessor environment"
+}

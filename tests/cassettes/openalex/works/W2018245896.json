@@ -1,0 +1,46 @@
+{
+ "cited_by_count": 12,
+ "counts_by_year": [
+  {
+   "cited_by_count": 3,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1016/j.tcs.2007.10.040",
+ "id": "https://openalex.org/W2018245896",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1531368347",
+  "https://openalex.org/W1548499993",
+  "https://openalex.org/W1964005287",
+  "https://openalex.org/W1976179404",
+  "https://openalex.org/W1986345564",
+  "https://openalex.org/W2002095701",
+  "https://openalex.org/W2002430844",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2024694589",
+  "https://openalex.org/W2047031390",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2135724610",
+  "https://openalex.org/W2149786846",
+  "https://openalex.org/W2166139632",
+  "https://openalex.org/W3036303723",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4251992612",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6641177048",
+  "https://openalex.org/W6644284242",
+  "https://openalex.org/W6647029131",
+  "https://openalex.org/W6662069907"
+ ],
+ "title": "Unconditional competitive auctions with copy and budget constraints"
+}

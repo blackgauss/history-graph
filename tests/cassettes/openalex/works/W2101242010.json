@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 80,
+ "doi": null,
+ "id": "https://openalex.org/W2101242010",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W32198084",
+  "https://openalex.org/W1549353711",
+  "https://openalex.org/W1826343992",
+  "https://openalex.org/W2009533501",
+  "https://openalex.org/W2038753858",
+  "https://openalex.org/W2091565802",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2119380668",
+  "https://openalex.org/W2341171179",
+  "https://openalex.org/W3011120880"
+ ],
+ "title": "Reinforcement learning algorithms for average-payoff markovian decision processes"
+}

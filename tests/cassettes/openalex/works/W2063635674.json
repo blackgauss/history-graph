@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 1286,
+ "doi": "https://doi.org/10.1103/physrevlett.77.2818",
+ "id": "https://openalex.org/W2063635674",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1992265536",
+  "https://openalex.org/W2003992904",
+  "https://openalex.org/W2006226307",
+  "https://openalex.org/W2007661134",
+  "https://openalex.org/W2020725861",
+  "https://openalex.org/W2026358914",
+  "https://openalex.org/W2028815089",
+  "https://openalex.org/W2043293634",
+  "https://openalex.org/W2051051926",
+  "https://openalex.org/W2054388650",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2062292260",
+  "https://openalex.org/W2154300278",
+  "https://openalex.org/W2166400453",
+  "https://openalex.org/W2561675875"
+ ],
+ "title": "Quantum Privacy Amplification and the Security of Quantum Cryptography over Noisy Channels"
+}

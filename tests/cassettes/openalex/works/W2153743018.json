@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 66,
+ "doi": null,
+ "id": "https://openalex.org/W2153743018",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1964862779",
+  "https://openalex.org/W1990359011",
+  "https://openalex.org/W1999555905",
+  "https://openalex.org/W1999696723",
+  "https://openalex.org/W2038774192",
+  "https://openalex.org/W2044744404",
+  "https://openalex.org/W2058815839",
+  "https://openalex.org/W2070453702",
+  "https://openalex.org/W2096713506",
+  "https://openalex.org/W2168175751"
+ ],
+ "title": "Optimal Stopping and Effective Machine Complexity in Learning"
+}

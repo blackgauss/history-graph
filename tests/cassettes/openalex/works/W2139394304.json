@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 42,
+ "doi": null,
+ "id": "https://openalex.org/W2139394304",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W112321980",
+  "https://openalex.org/W139620917",
+  "https://openalex.org/W1488730473",
+  "https://openalex.org/W1568042657",
+  "https://openalex.org/W2109910161",
+  "https://openalex.org/W2156737235",
+  "https://openalex.org/W2167647761",
+  "https://openalex.org/W3103182070"
+ ],
+ "title": "Hierarchical policy gradient algorithms"
+}

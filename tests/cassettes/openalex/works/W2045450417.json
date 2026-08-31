@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 217,
+ "doi": "https://doi.org/10.1007/bf01784719",
+ "id": "https://openalex.org/W2045450417",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W101255397",
+  "https://openalex.org/W405720545",
+  "https://openalex.org/W1504126702",
+  "https://openalex.org/W1525652524",
+  "https://openalex.org/W1963615255",
+  "https://openalex.org/W2042851811",
+  "https://openalex.org/W2061819031",
+  "https://openalex.org/W2071187449",
+  "https://openalex.org/W2110541436",
+  "https://openalex.org/W2117536183",
+  "https://openalex.org/W2118153508",
+  "https://openalex.org/W2144566188",
+  "https://openalex.org/W2226865276"
+ ],
+ "title": "Reaching agreement on processor-group membrship in synchronous distributed systems"
+}

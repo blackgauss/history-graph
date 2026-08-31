@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 115,
+ "doi": "https://doi.org/10.1109/focs.1961.39",
+ "id": "https://openalex.org/W2029297058",
+ "publication_year": 1961,
+ "referenced_works": [
+  "https://openalex.org/W2061055380",
+  "https://openalex.org/W2079873320",
+  "https://openalex.org/W2169059873",
+  "https://openalex.org/W6670577401"
+ ],
+ "title": "Truth functions realizable by single threshold organs"
+}

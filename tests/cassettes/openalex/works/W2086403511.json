@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 549,
+ "doi": "https://doi.org/10.1093/biomet/68.1.45",
+ "id": "https://openalex.org/W2086403511",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1500470240",
+  "https://openalex.org/W1506069954",
+  "https://openalex.org/W1515416301",
+  "https://openalex.org/W1598813349",
+  "https://openalex.org/W1968756969",
+  "https://openalex.org/W2026590277",
+  "https://openalex.org/W2046600124",
+  "https://openalex.org/W2046891729",
+  "https://openalex.org/W2058815839",
+  "https://openalex.org/W2061317273",
+  "https://openalex.org/W2142635246",
+  "https://openalex.org/W2168175751",
+  "https://openalex.org/W2317866228",
+  "https://openalex.org/W2328177468",
+  "https://openalex.org/W2403160433",
+  "https://openalex.org/W2751862591",
+  "https://openalex.org/W2796659280",
+  "https://openalex.org/W3147034027",
+  "https://openalex.org/W4235096090"
+ ],
+ "title": "An optimal selection of regression variables"
+}

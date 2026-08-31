@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 121,
+ "doi": "https://doi.org/10.5555/1070432.1070597",
+ "id": "https://openalex.org/W2001344406",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1964005287",
+  "https://openalex.org/W1979675141",
+  "https://openalex.org/W1988671533",
+  "https://openalex.org/W2005311763",
+  "https://openalex.org/W2047031390",
+  "https://openalex.org/W2077902449",
+  "https://openalex.org/W2093825590",
+  "https://openalex.org/W2097477220",
+  "https://openalex.org/W2115905049",
+  "https://openalex.org/W2116067849",
+  "https://openalex.org/W2126170153",
+  "https://openalex.org/W2169401877"
+ ],
+ "title": "Near-optimal online auctions"
+}

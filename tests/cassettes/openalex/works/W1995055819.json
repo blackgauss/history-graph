@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 124,
+ "doi": "https://doi.org/10.1145/307400.307419",
+ "id": "https://openalex.org/W1995055819",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1483771899",
+  "https://openalex.org/W1605688901",
+  "https://openalex.org/W1971947347",
+  "https://openalex.org/W1975846642",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2024046085",
+  "https://openalex.org/W2032210760",
+  "https://openalex.org/W2070534370",
+  "https://openalex.org/W2093717447",
+  "https://openalex.org/W2106332767",
+  "https://openalex.org/W2295350107",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W4299637698"
+ ],
+ "title": "An adaptive version of the boost by majority algorithm"
+}

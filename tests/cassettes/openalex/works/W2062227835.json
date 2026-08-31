@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 1287,
+ "doi": "https://doi.org/10.1109/icassp.2013.6639346",
+ "id": "https://openalex.org/W2062227835",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W137106866",
+  "https://openalex.org/W1665214252",
+  "https://openalex.org/W1904365287",
+  "https://openalex.org/W1993882792",
+  "https://openalex.org/W2025768430",
+  "https://openalex.org/W2076794394",
+  "https://openalex.org/W2105099419",
+  "https://openalex.org/W2131241448",
+  "https://openalex.org/W2132037657",
+  "https://openalex.org/W2147768505",
+  "https://openalex.org/W2155117693",
+  "https://openalex.org/W2160815625",
+  "https://openalex.org/W2163605009",
+  "https://openalex.org/W2184045248",
+  "https://openalex.org/W2403195671",
+  "https://openalex.org/W2546302380",
+  "https://openalex.org/W2618530766",
+  "https://openalex.org/W6637242042",
+  "https://openalex.org/W6640036494",
+  "https://openalex.org/W6678911119",
+  "https://openalex.org/W6684191040"
+ ],
+ "title": "Improving deep neural networks for LVCSR using rectified linear units and dropout"
+}

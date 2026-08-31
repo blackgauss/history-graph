@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 245,
+ "doi": "https://doi.org/10.1145/348.318590",
+ "id": "https://openalex.org/W1970196737",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W33105676",
+  "https://openalex.org/W145062577",
+  "https://openalex.org/W1479972033",
+  "https://openalex.org/W1527457771",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1972897119",
+  "https://openalex.org/W1983959468",
+  "https://openalex.org/W1986456068",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2021078717",
+  "https://openalex.org/W2045786907",
+  "https://openalex.org/W2055255408",
+  "https://openalex.org/W2084248338",
+  "https://openalex.org/W2084674736",
+  "https://openalex.org/W2094711531",
+  "https://openalex.org/W2133384222",
+  "https://openalex.org/W2159111714",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W6670601843"
+ ],
+ "title": "Join and Semijoin Algorithms for a Multiprocessor Database Machine"
+}

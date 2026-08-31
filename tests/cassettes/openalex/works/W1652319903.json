@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 356,
+ "doi": null,
+ "id": "https://openalex.org/W1652319903",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W108157922",
+  "https://openalex.org/W170339164",
+  "https://openalex.org/W1531097117",
+  "https://openalex.org/W1966553486",
+  "https://openalex.org/W1999047234",
+  "https://openalex.org/W2006551346",
+  "https://openalex.org/W2031636842",
+  "https://openalex.org/W2061312249",
+  "https://openalex.org/W2066636486"
+ ],
+ "title": "Implicit Feedback for Recommender Systems"
+}

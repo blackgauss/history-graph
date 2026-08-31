@@ -1,0 +1,402 @@
+{
+ "abstract_inverted_index": {
+  "A": [
+   0
+  ],
+  "Some": [
+   44
+  ],
+  "The": [
+   17
+  ],
+  "accounting,": [
+   55
+  ],
+  "and": [
+   35,
+   38,
+   49,
+   56
+  ],
+  "are": [
+   47,
+   58
+  ],
+  "as": [
+   52
+  ],
+  "checking,": [
+   34
+  ],
+  "connections.": [
+   43
+  ],
+  "considered,": [
+   48
+  ],
+  "control,": [
+   31
+  ],
+  "creation": [
+   37
+  ],
+  "destruction": [
+   39
+  ],
+  "different": [
+   11
+  ],
+  "end-to-end": [
+   32
+  ],
+  "error": [
+   33
+  ],
+  "exist": [
+   9
+  ],
+  "exposed.": [
+   59
+  ],
+  "failures,": [
+   28
+  ],
+  "flow": [
+   30
+  ],
+  "for": [
+   20
+  ],
+  "implementation": [
+   45
+  ],
+  "in": [
+   10,
+   22
+  ],
+  "individual": [
+   23
+  ],
+  "internetwork": [
+   53
+  ],
+  "is": [
+   15
+  ],
+  "issues": [
+   46
+  ],
+  "logical": [
+   41
+  ],
+  "network": [
+   24
+  ],
+  "networks": [
+   14
+  ],
+  "of": [
+   6,
+   40
+  ],
+  "packet": [
+   12,
+   25
+  ],
+  "presented.": [
+   16
+  ],
+  "problems": [
+   50
+  ],
+  "process-to-process": [
+   42
+  ],
+  "protocol": [
+   1,
+   18
+  ],
+  "provides": [
+   19
+  ],
+  "resources": [
+   7
+  ],
+  "routing,": [
+   54
+  ],
+  "sequencing,": [
+   29
+  ],
+  "sharing": [
+   5
+  ],
+  "sizes,": [
+   26
+  ],
+  "such": [
+   51
+  ],
+  "supports": [
+   3
+  ],
+  "switching": [
+   13
+  ],
+  "that": [
+   2,
+   8
+  ],
+  "the": [
+   4,
+   36
+  ],
+  "timeouts": [
+   57
+  ],
+  "transmission": [
+   27
+  ],
+  "variation": [
+   21
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I97018004"
+     ],
+     "raw_affiliation_string": "Dept. of Comp. Science and Elec. Engr.,Stanford Univ.,Stanford, CA"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I97018004"
+     ],
+     "raw_affiliation_string": "Department of Computer Science and Electrical Engineering, University of Stanford, Stanford, CA, USA"
+    }
+   ],
+   "author": {
+    "display_name": "Vinton G. Cerf",
+    "id": "https://openalex.org/A5083922056",
+    "orcid": "https://orcid.org/0000-0002-0629-093X"
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Stanford University",
+     "id": "https://openalex.org/I97018004",
+     "lineage": [
+      "https://openalex.org/I97018004"
+     ],
+     "ror": "https://ror.org/00f54p054",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Dept. of Comp. Science and Elec. Engr.,Stanford Univ.,Stanford, CA",
+    "Department of Computer Science and Electrical Engineering, University of Stanford, Stanford, CA, USA"
+   ],
+   "raw_author_name": "V. Cerf",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1280581677"
+     ],
+     "raw_affiliation_string": "Information Processing Technology Office, Department of Defense, Advanced Research Projects Agency, Arlington, VA, USA"
+    }
+   ],
+   "author": {
+    "display_name": "Robert E. Kahn",
+    "id": "https://openalex.org/A5113732030",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Defense Advanced Research Projects Agency",
+     "id": "https://openalex.org/I1280581677",
+     "lineage": [
+      "https://openalex.org/I1280581677",
+      "https://openalex.org/I1296703163",
+      "https://openalex.org/I1330347796"
+     ],
+     "ror": "https://ror.org/02caytj08",
+     "type": "government"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Information Processing Technology Office, Department of Defense, Advanced Research Projects Agency, Arlington, VA, USA"
+   ],
+   "raw_author_name": "R. Kahn",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 822,
+ "counts_by_year": [
+  {
+   "cited_by_count": 15,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tcom.1974.1092259",
+ "funders": [
+  {
+   "display_name": "National Center for Theoretical Sciences",
+   "id": "https://openalex.org/F4320311041",
+   "ror": "https://ror.org/02mfp0b67"
+  },
+  {
+   "display_name": "Advanced Research Projects Agency",
+   "id": "https://openalex.org/F4320332815",
+   "ror": "https://ror.org/02caytj08"
+  }
+ ],
+ "id": "https://openalex.org/W2174359540",
+ "ids": {
+  "doi": "https://doi.org/10.1109/tcom.1974.1092259",
+  "mag": "2174359540",
+  "openalex": "https://openalex.org/W2174359540"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1109/tcom.1974.1092259",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1109/tcom.1974.1092259",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "IEEE Transactions on Communications",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "IEEE Transactions on Communications",
+   "host_organization": "https://openalex.org/P4310316002",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310316002",
+    "https://openalex.org/P4310319808"
+   ],
+   "host_organization_lineage_names": [
+    "IEEE Communications Society",
+    "Institute of Electrical and Electronics Engineers"
+   ],
+   "host_organization_name": "IEEE Communications Society",
+   "id": "https://openalex.org/S196647941",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0090-6778",
+    "1558-0857"
+   ],
+   "issn_l": "0090-6778",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W1990487726",
+  "https://openalex.org/W2100025176",
+  "https://openalex.org/W2104451404",
+  "https://openalex.org/W2105452827",
+  "https://openalex.org/W2111237194",
+  "https://openalex.org/W2128952948",
+  "https://openalex.org/W2131624837",
+  "https://openalex.org/W2145224361",
+  "https://openalex.org/W2160339200",
+  "https://openalex.org/W2178204534",
+  "https://openalex.org/W3014789883"
+ ],
+ "related_works": [
+  "https://openalex.org/W2544304074",
+  "https://openalex.org/W2368891221",
+  "https://openalex.org/W2101888805",
+  "https://openalex.org/W2379825848",
+  "https://openalex.org/W1842751480",
+  "https://openalex.org/W2158612383",
+  "https://openalex.org/W4289133127",
+  "https://openalex.org/W3011083237",
+  "https://openalex.org/W2005981682",
+  "https://openalex.org/W2020881714"
+ ],
+ "title": "A Protocol for Packet Network Intercommunication",
+ "type": "article"
+}

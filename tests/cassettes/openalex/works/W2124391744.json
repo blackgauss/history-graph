@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 72,
+ "doi": "https://doi.org/10.1145/1064413.1064423",
+ "id": "https://openalex.org/W2124391744",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W937455145",
+  "https://openalex.org/W1990487726",
+  "https://openalex.org/W2100025176",
+  "https://openalex.org/W2104451404",
+  "https://openalex.org/W2105452827",
+  "https://openalex.org/W2111237194",
+  "https://openalex.org/W2128952948",
+  "https://openalex.org/W2131624837",
+  "https://openalex.org/W2145224361",
+  "https://openalex.org/W2159501677",
+  "https://openalex.org/W2160339200",
+  "https://openalex.org/W2178204534",
+  "https://openalex.org/W6679563767"
+ ],
+ "title": "A protocol for packet network intercommunication"
+}

@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 171,
+ "doi": null,
+ "id": "https://openalex.org/W2125412267",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W160784936",
+  "https://openalex.org/W1491572923",
+  "https://openalex.org/W1533544838",
+  "https://openalex.org/W1562345870",
+  "https://openalex.org/W1625504505",
+  "https://openalex.org/W1906182963",
+  "https://openalex.org/W1999700404",
+  "https://openalex.org/W2129907507"
+ ],
+ "title": "Static versus dynamic sampling for data mining"
+}

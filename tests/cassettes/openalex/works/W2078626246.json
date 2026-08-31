@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 1409,
+ "doi": "https://doi.org/10.1016/0893-6080(89)90014-2",
+ "id": "https://openalex.org/W2078626246",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1971947347",
+  "https://openalex.org/W1972368510",
+  "https://openalex.org/W1996773027",
+  "https://openalex.org/W2010069926",
+  "https://openalex.org/W2013306999",
+  "https://openalex.org/W2017257315",
+  "https://openalex.org/W2042264548",
+  "https://openalex.org/W2042492924",
+  "https://openalex.org/W2046432185",
+  "https://openalex.org/W2101927907",
+  "https://openalex.org/W2130839218",
+  "https://openalex.org/W2165746994",
+  "https://openalex.org/W2432567885",
+  "https://openalex.org/W2505936072",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4389349034",
+  "https://openalex.org/W6679474409",
+  "https://openalex.org/W6684219624"
+ ],
+ "title": "Neural networks and principal component analysis: Learning from examples without local minima"
+}

@@ -1,0 +1,354 @@
+{
+ "abstract_inverted_index": {
+  "A": [
+   0
+  ],
+  "GFS": [
+   26,
+   36,
+   73
+  ],
+  "Google": [
+   5
+  ],
+  "HDFS": [
+   38
+  ],
+  "HDFS,": [
+   28
+  ],
+  "HDFS.": [
+   75
+  ],
+  "Hadoop": [
+   9
+  ],
+  "This": [
+   58
+  ],
+  "Using": [
+   18
+  ],
+  "allows": [
+   29
+  ],
+  "analysis": [
+   2
+  ],
+  "and": [
+   8,
+   23,
+   27,
+   37,
+   65,
+   70,
+   74
+  ],
+  "architecture": [
+   22,
+   64
+  ],
+  "are": [
+   39
+  ],
+  "between": [
+   4,
+   72
+  ],
+  "big": [
+   55
+  ],
+  "both": [
+   35
+  ],
+  "clusters": [
+   53
+  ],
+  "comarision": [
+   19
+  ],
+  "common": [
+   68
+  ],
+  "comparative": [
+   1
+  ],
+  "conducted": [
+   14
+  ],
+  "considered": [
+   40
+  ],
+  "data": [
+   56
+  ],
+  "dealing": [
+   50
+  ],
+  "deduce": [
+   33
+  ],
+  "development": [
+   24
+  ],
+  "differences": [
+   71
+  ],
+  "distributed": [
+   10,
+   46
+  ],
+  "features": [
+   69
+  ],
+  "file": [
+   6,
+   11,
+   47
+  ],
+  "for": [
+   21,
+   49
+  ],
+  "help": [
+   61
+  ],
+  "highlight": [
+   66
+  ],
+  "huge": [
+   52
+  ],
+  "in": [
+   15
+  ],
+  "lives.": [
+   57
+  ],
+  "most": [
+   44
+  ],
+  "of": [
+   25,
+   42
+  ],
+  "study": [
+   3,
+   59
+  ],
+  "study.": [
+   17
+  ],
+  "system": [
+   7,
+   12
+  ],
+  "systems": [
+   48
+  ],
+  "techniques": [
+   20
+  ],
+  "that": [
+   34
+  ],
+  "the": [
+   43,
+   63,
+   67
+  ],
+  "this": [
+   16
+  ],
+  "to": [
+   32
+  ],
+  "two": [
+   41
+  ],
+  "understand": [
+   62
+  ],
+  "us": [
+   30
+  ],
+  "use": [
+   31
+  ],
+  "used": [
+   45
+  ],
+  "was": [
+   13
+  ],
+  "where": [
+   54
+  ],
+  "will": [
+   60
+  ],
+  "with": [
+   51
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I60770847"
+     ],
+     "raw_affiliation_string": "Department of Compuer Science, Notre Dame University-Louaize, P.O. Box 72, Zouk Mosbeh, Zouk Mikayel, Lebanon"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I60770847"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, Notre Dame University-Louaize, P.O. Box 72, Zouk Mosbeh, Zouk Mikayel, Lebanon"
+    }
+   ],
+   "author": {
+    "display_name": "Nader Gemayel",
+    "id": "https://openalex.org/A5008634517",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "LB"
+   ],
+   "institutions": [
+    {
+     "country_code": "LB",
+     "display_name": "Notre Dame University – Louaize",
+     "id": "https://openalex.org/I60770847",
+     "lineage": [
+      "https://openalex.org/I60770847"
+     ],
+     "ror": "https://ror.org/030br0314",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Department of Compuer Science, Notre Dame University-Louaize, P.O. Box 72, Zouk Mosbeh, Zouk Mikayel, Lebanon",
+    "Department of Computer Science, Notre Dame University-Louaize, P.O. Box 72, Zouk Mosbeh, Zouk Mikayel, Lebanon"
+   ],
+   "raw_author_name": "Nader Gemayel"
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.3923/rjit.2016.66.74",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.3923/rjit.2016.66.74",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://scialert.net/qredirect.php?doi=rjit.2016.66.74&linkid=pdf",
+  "raw_source_name": "Research Journal of Information Technology",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Research Journal of Information Technology",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S4210211647",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "1815-7432",
+    "2151-7959"
+   ],
+   "issn_l": "1815-7432",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 12,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2017
+  }
+ ],
+ "doi": "https://doi.org/10.3923/rjit.2016.66.74",
+ "funders": [],
+ "id": "https://openalex.org/W2520897901",
+ "ids": {
+  "doi": "https://doi.org/10.3923/rjit.2016.66.74",
+  "mag": "2520897901",
+  "openalex": "https://openalex.org/W2520897901"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": true,
+  "oa_status": "diamond",
+  "oa_url": "https://scialert.net/qredirect.php?doi=rjit.2016.66.74&linkid=pdf"
+ },
+ "primary_location": {
+  "id": "doi:10.3923/rjit.2016.66.74",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.3923/rjit.2016.66.74",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://scialert.net/qredirect.php?doi=rjit.2016.66.74&linkid=pdf",
+  "raw_source_name": "Research Journal of Information Technology",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Research Journal of Information Technology",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S4210211647",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "1815-7432",
+    "2151-7959"
+   ],
+   "issn_l": "1815-7432",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2016,
+ "referenced_works": [
+  "https://openalex.org/W1984638510"
+ ],
+ "related_works": [
+  "https://openalex.org/W3042976586",
+  "https://openalex.org/W753420207",
+  "https://openalex.org/W1480425691",
+  "https://openalex.org/W2353896575",
+  "https://openalex.org/W1550839482",
+  "https://openalex.org/W2379000728",
+  "https://openalex.org/W2368354671",
+  "https://openalex.org/W2389631998",
+  "https://openalex.org/W2362483455",
+  "https://openalex.org/W2355113374"
+ ],
+ "title": "Analyzing Google File System and Hadoop Distributed File System",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 17,
+ "doi": "https://doi.org/10.1016/s0049-237x(08)71511-8",
+ "id": "https://openalex.org/W1449003082",
+ "publication_year": 1967,
+ "referenced_works": [
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1967629533",
+  "https://openalex.org/W1971553070",
+  "https://openalex.org/W2037416374",
+  "https://openalex.org/W2042499838",
+  "https://openalex.org/W2057392475",
+  "https://openalex.org/W2070390550",
+  "https://openalex.org/W2105112555",
+  "https://openalex.org/W2565632284",
+  "https://openalex.org/W4249457683"
+ ],
+ "title": "Recursively Enumerable Degrees and the Degrees Less Than 0(1)"
+}

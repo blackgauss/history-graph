@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 180,
+ "doi": "https://doi.org/10.1109/72.377990",
+ "id": "https://openalex.org/W2146440428",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1976604713",
+  "https://openalex.org/W1993387039",
+  "https://openalex.org/W2073040595",
+  "https://openalex.org/W2076118331",
+  "https://openalex.org/W2133671888",
+  "https://openalex.org/W2133826976",
+  "https://openalex.org/W2135293965",
+  "https://openalex.org/W2161020850",
+  "https://openalex.org/W2439605829",
+  "https://openalex.org/W3003694668",
+  "https://openalex.org/W4239414618"
+ ],
+ "title": "Improving model accuracy using optimal linear combinations of trained neural networks"
+}

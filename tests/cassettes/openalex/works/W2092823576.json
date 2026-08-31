@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1109/icdar.2011.24",
+ "id": "https://openalex.org/W2092823576",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W1493595169",
+  "https://openalex.org/W1505098308",
+  "https://openalex.org/W1542278998",
+  "https://openalex.org/W1554833030",
+  "https://openalex.org/W1932188282",
+  "https://openalex.org/W2042524007",
+  "https://openalex.org/W2079735306",
+  "https://openalex.org/W2093088940",
+  "https://openalex.org/W2109645316",
+  "https://openalex.org/W2111676986",
+  "https://openalex.org/W2119847746",
+  "https://openalex.org/W2122585011",
+  "https://openalex.org/W2127141656",
+  "https://openalex.org/W2165491210",
+  "https://openalex.org/W2751095748",
+  "https://openalex.org/W6629645474",
+  "https://openalex.org/W6630241115",
+  "https://openalex.org/W6632237287",
+  "https://openalex.org/W6676799209",
+  "https://openalex.org/W6743780831"
+ ],
+ "title": "Keyword Spotting in Online Handwritten Documents Containing Text and Non-text Using BLSTM Neural Networks"
+}

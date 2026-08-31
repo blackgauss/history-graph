@@ -1,0 +1,45 @@
+{
+ "cited_by_count": 2084,
+ "counts_by_year": [
+  {
+   "cited_by_count": 147,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 316,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 301,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 362,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 304,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 297,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 216,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 119,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2018
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3219819.3219823",
+ "id": "https://openalex.org/W2723293840",
+ "publication_year": 2018,
+ "title": "Deep Interest Network for Click-Through Rate Prediction"
+}

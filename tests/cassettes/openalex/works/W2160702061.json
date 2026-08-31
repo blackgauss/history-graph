@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 69,
+ "doi": "https://doi.org/10.1007/s00453-005-1190-x",
+ "id": "https://openalex.org/W2160702061",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1492077731",
+  "https://openalex.org/W1546043666",
+  "https://openalex.org/W1978849867",
+  "https://openalex.org/W1986933829",
+  "https://openalex.org/W1990869735",
+  "https://openalex.org/W1994408974",
+  "https://openalex.org/W2009303716",
+  "https://openalex.org/W2037223718",
+  "https://openalex.org/W2067963342",
+  "https://openalex.org/W2076648698",
+  "https://openalex.org/W2083865199",
+  "https://openalex.org/W2085938855",
+  "https://openalex.org/W2111046894",
+  "https://openalex.org/W2111417015",
+  "https://openalex.org/W2123734234",
+  "https://openalex.org/W2142062934",
+  "https://openalex.org/W2156934532",
+  "https://openalex.org/W2162656786",
+  "https://openalex.org/W6669530861",
+  "https://openalex.org/W6671709790"
+ ],
+ "title": "Maximizing throughput in multi-queue switches"
+}

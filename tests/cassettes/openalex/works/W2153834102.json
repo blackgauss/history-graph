@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 204,
+ "doi": "https://doi.org/10.1109/2.781635",
+ "id": "https://openalex.org/W2153834102",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W115903057",
+  "https://openalex.org/W1973006075",
+  "https://openalex.org/W1976129448",
+  "https://openalex.org/W1993482412",
+  "https://openalex.org/W2020147322",
+  "https://openalex.org/W2033626294",
+  "https://openalex.org/W2042875144",
+  "https://openalex.org/W2155960838",
+  "https://openalex.org/W2296677182",
+  "https://openalex.org/W4229903866",
+  "https://openalex.org/W4249047728",
+  "https://openalex.org/W4251617391",
+  "https://openalex.org/W6604649011",
+  "https://openalex.org/W6683512683"
+ ],
+ "title": "Interactive data analysis: the Control project"
+}

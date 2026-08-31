@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 164,
+ "doi": "https://doi.org/10.1145/1582716.1582783",
+ "id": "https://openalex.org/W2118726720",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W5159712",
+  "https://openalex.org/W1497150730",
+  "https://openalex.org/W1524103123",
+  "https://openalex.org/W1595621695",
+  "https://openalex.org/W1978115992",
+  "https://openalex.org/W1992428285",
+  "https://openalex.org/W2075854425",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2132107743",
+  "https://openalex.org/W2153773928",
+  "https://openalex.org/W2294934895"
+ ],
+ "title": "Vertical paxos and primary-backup replication"
+}

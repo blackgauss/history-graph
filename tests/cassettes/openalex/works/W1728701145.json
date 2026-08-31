@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 768,
+ "doi": "https://doi.org/10.17487/rfc1058",
+ "id": "https://openalex.org/W1728701145",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W1612333575",
+  "https://openalex.org/W1852011619",
+  "https://openalex.org/W2105896399",
+  "https://openalex.org/W6636517011",
+  "https://openalex.org/W6639097482",
+  "https://openalex.org/W6675999175",
+  "https://openalex.org/W6704298589",
+  "https://openalex.org/W6737445176",
+  "https://openalex.org/W6781618339"
+ ],
+ "title": "Routing Information Protocol"
+}

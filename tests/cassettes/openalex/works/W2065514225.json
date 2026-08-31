@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 21,
+ "doi": "https://doi.org/10.1002/nav.3800050304",
+ "id": "https://openalex.org/W2065514225",
+ "publication_year": 1958,
+ "referenced_works": [
+  "https://openalex.org/W2032433450",
+  "https://openalex.org/W2046848762",
+  "https://openalex.org/W2094819979",
+  "https://openalex.org/W2158550687",
+  "https://openalex.org/W2315251483",
+  "https://openalex.org/W2323337813",
+  "https://openalex.org/W2326954772",
+  "https://openalex.org/W2562324301",
+  "https://openalex.org/W2800137643",
+  "https://openalex.org/W4213363274",
+  "https://openalex.org/W4243854733"
+ ],
+ "title": "Nonlinear network flows and convex programming over incidence matrices"
+}

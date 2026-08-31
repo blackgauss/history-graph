@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1109/icde.1986.7266231",
+ "id": "https://openalex.org/W2162641124",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1503711371",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1982279067",
+  "https://openalex.org/W2004348626",
+  "https://openalex.org/W2012286840",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2087966340",
+  "https://openalex.org/W2149173084",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W3189934495"
+ ],
+ "title": "An extension of access paths to improve joins and selections"
+}

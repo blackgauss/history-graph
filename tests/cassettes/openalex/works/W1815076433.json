@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 3801,
+ "doi": "https://doi.org/10.48550/arxiv.1211.5063",
+ "id": "https://openalex.org/W1815076433",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W196214544",
+  "https://openalex.org/W1408639475",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1606347560",
+  "https://openalex.org/W1819710477",
+  "https://openalex.org/W1971129545",
+  "https://openalex.org/W2001263627",
+  "https://openalex.org/W2029030701",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2094681793",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2108597081",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W2118706537",
+  "https://openalex.org/W2122585011",
+  "https://openalex.org/W2133656308",
+  "https://openalex.org/W2146502635",
+  "https://openalex.org/W2171355207",
+  "https://openalex.org/W2171865010",
+  "https://openalex.org/W2185726469",
+  "https://openalex.org/W2252143850",
+  "https://openalex.org/W2941943687",
+  "https://openalex.org/W2949427968"
+ ],
+ "title": "On the difficulty of training Recurrent Neural Networks"
+}

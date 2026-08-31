@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 11944,
+ "doi": "https://doi.org/10.1037/h0042519",
+ "id": "https://openalex.org/W2040870580",
+ "publication_year": 1958,
+ "referenced_works": [
+  "https://openalex.org/W22297218",
+  "https://openalex.org/W1570445666",
+  "https://openalex.org/W1995341919",
+  "https://openalex.org/W2042559059",
+  "https://openalex.org/W2043486465",
+  "https://openalex.org/W2065389787",
+  "https://openalex.org/W2078200762",
+  "https://openalex.org/W2126451342",
+  "https://openalex.org/W2319567444",
+  "https://openalex.org/W2476597994",
+  "https://openalex.org/W2495102332",
+  "https://openalex.org/W2495558415",
+  "https://openalex.org/W2497735908",
+  "https://openalex.org/W3027165077",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "The perceptron: A probabilistic model for information storage and organization in the brain."
+}

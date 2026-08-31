@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 942,
+ "doi": null,
+ "id": "https://openalex.org/W2107789863",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1994197834",
+  "https://openalex.org/W2069883713",
+  "https://openalex.org/W2104997912",
+  "https://openalex.org/W2110798204",
+  "https://openalex.org/W2116064496",
+  "https://openalex.org/W2116284136",
+  "https://openalex.org/W2122922389",
+  "https://openalex.org/W2130325614",
+  "https://openalex.org/W2133257461",
+  "https://openalex.org/W2133285226",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2142570735",
+  "https://openalex.org/W2145823193",
+  "https://openalex.org/W2145889472",
+  "https://openalex.org/W2157059077",
+  "https://openalex.org/W2165720259",
+  "https://openalex.org/W2172174689",
+  "https://openalex.org/W2963909185"
+ ],
+ "title": "Unsupervised feature learning for audio classification using convolutional deep belief networks"
+}

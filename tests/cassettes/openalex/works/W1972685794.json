@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 80,
+ "doi": "https://doi.org/10.1090/s0002-9947-1963-0155747-3",
+ "id": "https://openalex.org/W1972685794",
+ "publication_year": 1963,
+ "referenced_works": [
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1967629533",
+  "https://openalex.org/W2015965037",
+  "https://openalex.org/W2042499838",
+  "https://openalex.org/W2057392475",
+  "https://openalex.org/W2060075008"
+ ],
+ "title": "Recursive enumerability and the jump operator"
+}

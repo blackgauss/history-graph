@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 145,
+ "doi": "https://doi.org/10.1214/aop/1024404285",
+ "id": "https://openalex.org/W2049220294",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W31298062",
+  "https://openalex.org/W157613944",
+  "https://openalex.org/W1568481205",
+  "https://openalex.org/W1970185960",
+  "https://openalex.org/W1971431476",
+  "https://openalex.org/W1990770240",
+  "https://openalex.org/W2010161771",
+  "https://openalex.org/W2063966194",
+  "https://openalex.org/W2092426748"
+ ],
+ "title": "An isoperimetric inequality on the discrete cube, and an elementary proof of the isoperimetric inequality in Gauss space"
+}

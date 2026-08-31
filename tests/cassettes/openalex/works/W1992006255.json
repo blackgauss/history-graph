@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 360,
+ "doi": "https://doi.org/10.1007/3-540-52148-8_30",
+ "id": "https://openalex.org/W1992006255",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W421997344",
+  "https://openalex.org/W1975013071",
+  "https://openalex.org/W1982528015",
+  "https://openalex.org/W2020562001",
+  "https://openalex.org/W2034570505",
+  "https://openalex.org/W2127862840",
+  "https://openalex.org/W2129873456",
+  "https://openalex.org/W2248636244",
+  "https://openalex.org/W3165781521",
+  "https://openalex.org/W4252150202"
+ ],
+ "title": "Verification of synchronous sequential machines based on symbolic execution"
+}

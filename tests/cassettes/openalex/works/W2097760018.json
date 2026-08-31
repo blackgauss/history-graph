@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1049/piee.1976.0024",
+ "id": "https://openalex.org/W2097760018",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W562597577",
+  "https://openalex.org/W562841063",
+  "https://openalex.org/W566259392",
+  "https://openalex.org/W1528486370",
+  "https://openalex.org/W2319160178",
+  "https://openalex.org/W2751018126"
+ ],
+ "title": "Application of multioutput threshold-logic gates to digital-network design"
+}

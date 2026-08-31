@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 100,
+ "doi": "https://doi.org/10.1016/0304-3975(83)90136-6",
+ "id": "https://openalex.org/W2090790829",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W1134781054",
+  "https://openalex.org/W1594912681",
+  "https://openalex.org/W1595372275",
+  "https://openalex.org/W1970227944",
+  "https://openalex.org/W1972921902",
+  "https://openalex.org/W2019376542",
+  "https://openalex.org/W2034589435",
+  "https://openalex.org/W2075824323",
+  "https://openalex.org/W2093541252",
+  "https://openalex.org/W2097311580",
+  "https://openalex.org/W2110797966",
+  "https://openalex.org/W2115610240",
+  "https://openalex.org/W2166822586",
+  "https://openalex.org/W2969873114",
+  "https://openalex.org/W4211265583",
+  "https://openalex.org/W4237061074",
+  "https://openalex.org/W4249075482",
+  "https://openalex.org/W6627340223",
+  "https://openalex.org/W6635495208",
+  "https://openalex.org/W6674999329",
+  "https://openalex.org/W6676953516",
+  "https://openalex.org/W6830820625",
+  "https://openalex.org/W7006633503"
+ ],
+ "title": "The completeness theorem for typing λ-terms"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 692,
+ "doi": "https://doi.org/10.21236/ada446612",
+ "id": "https://openalex.org/W1527961683",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W14647670",
+  "https://openalex.org/W64525249",
+  "https://openalex.org/W1525264034",
+  "https://openalex.org/W1993909409",
+  "https://openalex.org/W2005373714",
+  "https://openalex.org/W2011831586",
+  "https://openalex.org/W2044743392",
+  "https://openalex.org/W2049994230",
+  "https://openalex.org/W2066709184",
+  "https://openalex.org/W2111427271",
+  "https://openalex.org/W2119045813",
+  "https://openalex.org/W2120500054",
+  "https://openalex.org/W2153545488",
+  "https://openalex.org/W2155595717"
+ ],
+ "title": "A Hierarchical Internet Object Cache"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 17,
+ "doi": null,
+ "id": "https://openalex.org/W2127342049",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1929325575",
+  "https://openalex.org/W1982370770",
+  "https://openalex.org/W2016457936",
+  "https://openalex.org/W2016760105",
+  "https://openalex.org/W2035570353",
+  "https://openalex.org/W2111406701",
+  "https://openalex.org/W2144513243",
+  "https://openalex.org/W2155189051",
+  "https://openalex.org/W2171843308"
+ ],
+ "title": "Effects of Noise on Convergence and Generalization in Recurrent Networks"
+}

@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 38,
+ "doi": "https://doi.org/10.1145/1066157.1066199",
+ "id": "https://openalex.org/W2144982736",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1510252230",
+  "https://openalex.org/W1512675310",
+  "https://openalex.org/W1631295847",
+  "https://openalex.org/W1826290430",
+  "https://openalex.org/W1963951527",
+  "https://openalex.org/W1964857063",
+  "https://openalex.org/W1985264830",
+  "https://openalex.org/W1987225815",
+  "https://openalex.org/W1989725425",
+  "https://openalex.org/W1995997000",
+  "https://openalex.org/W2023977759",
+  "https://openalex.org/W2118924829",
+  "https://openalex.org/W2124507579",
+  "https://openalex.org/W2128869116",
+  "https://openalex.org/W2140894225",
+  "https://openalex.org/W2151575925",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W4237172715"
+ ],
+ "title": "On joining and caching stochastic streams"
+}

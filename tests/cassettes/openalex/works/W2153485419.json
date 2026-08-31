@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 467,
+ "doi": "https://doi.org/10.1145/322234.322238",
+ "id": "https://openalex.org/W2153485419",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W12586210",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1975714036",
+  "https://openalex.org/W1979514837",
+  "https://openalex.org/W2013012235",
+  "https://openalex.org/W2020601345",
+  "https://openalex.org/W2038882122",
+  "https://openalex.org/W2159111714",
+  "https://openalex.org/W2169012378",
+  "https://openalex.org/W2185907055"
+ ],
+ "title": "Using Semi-Joins to Solve Relational Queries"
+}

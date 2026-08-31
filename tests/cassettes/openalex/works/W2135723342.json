@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1109/phycmp.1994.363697",
+ "id": "https://openalex.org/W2135723342",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1967045838",
+  "https://openalex.org/W1999903620",
+  "https://openalex.org/W2012206667",
+  "https://openalex.org/W2047832257",
+  "https://openalex.org/W2065054794",
+  "https://openalex.org/W2085426595",
+  "https://openalex.org/W2090450138",
+  "https://openalex.org/W2137748572",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2149158279",
+  "https://openalex.org/W2168676717",
+  "https://openalex.org/W2620802715",
+  "https://openalex.org/W3011907935",
+  "https://openalex.org/W4240708464",
+  "https://openalex.org/W4248356056",
+  "https://openalex.org/W6662072640",
+  "https://openalex.org/W6738622781"
+ ],
+ "title": "Can quantum computers have simple Hamiltonians?"
+}

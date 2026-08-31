@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 807,
+ "doi": null,
+ "id": "https://openalex.org/W4983232",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1488300202",
+  "https://openalex.org/W1620410031",
+  "https://openalex.org/W1667614912",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2022695609",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2050297836",
+  "https://openalex.org/W2054387247",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2069767473",
+  "https://openalex.org/W2070017679",
+  "https://openalex.org/W2084642537",
+  "https://openalex.org/W2088377032",
+  "https://openalex.org/W2126420408",
+  "https://openalex.org/W2133085881",
+  "https://openalex.org/W2170826919"
+ ],
+ "title": "Hard and easy distributions of SAT problems"
+}

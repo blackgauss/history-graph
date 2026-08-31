@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 6450,
+ "doi": "https://doi.org/10.1007/978-3-540-78800-3_24",
+ "id": "https://openalex.org/W1480909796",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W26772505",
+  "https://openalex.org/W1552077729",
+  "https://openalex.org/W1959256509",
+  "https://openalex.org/W1979619055",
+  "https://openalex.org/W2055477538",
+  "https://openalex.org/W2082000355",
+  "https://openalex.org/W2107794009",
+  "https://openalex.org/W2110780548",
+  "https://openalex.org/W2121707639",
+  "https://openalex.org/W2125967324",
+  "https://openalex.org/W2143331802",
+  "https://openalex.org/W2157499124",
+  "https://openalex.org/W2165100126",
+  "https://openalex.org/W2494986075",
+  "https://openalex.org/W2999818597",
+  "https://openalex.org/W3098346725",
+  "https://openalex.org/W4254762831"
+ ],
+ "title": "Z3: An Efficient SMT Solver"
+}

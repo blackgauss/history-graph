@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 35,
+ "doi": "https://doi.org/10.2748/tmj/1178243670",
+ "id": "https://openalex.org/W2016565257",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W935469873",
+  "https://openalex.org/W1974015768",
+  "https://openalex.org/W2005766859",
+  "https://openalex.org/W2015668743",
+  "https://openalex.org/W2022050879",
+  "https://openalex.org/W2031610435",
+  "https://openalex.org/W2047576185",
+  "https://openalex.org/W2064491369",
+  "https://openalex.org/W2073836879",
+  "https://openalex.org/W2085792234",
+  "https://openalex.org/W2100253381",
+  "https://openalex.org/W4229899344",
+  "https://openalex.org/W4234338300",
+  "https://openalex.org/W4245242564",
+  "https://openalex.org/W4247329993"
+ ],
+ "title": "Multipliers for Walsh-Fourier series"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 40,
+ "doi": "https://doi.org/10.1007/978-3-030-60754-8_27",
+ "id": "https://openalex.org/W1673019083",
+ "publication_year": 2020,
+ "referenced_works": [
+  "https://openalex.org/W1891181203",
+  "https://openalex.org/W1986507557",
+  "https://openalex.org/W1989996695",
+  "https://openalex.org/W2014485295",
+  "https://openalex.org/W2042940455",
+  "https://openalex.org/W2068871408",
+  "https://openalex.org/W2078929687",
+  "https://openalex.org/W2081256580",
+  "https://openalex.org/W2087038607",
+  "https://openalex.org/W2110503949",
+  "https://openalex.org/W2797387734",
+  "https://openalex.org/W2949874440",
+  "https://openalex.org/W3102754027",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Noise Stability of Weighted Majority"
+}

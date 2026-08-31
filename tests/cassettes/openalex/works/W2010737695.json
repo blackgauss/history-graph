@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.1017/s0960129599002923",
+ "id": "https://openalex.org/W2010737695",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W159715351",
+  "https://openalex.org/W1518331780",
+  "https://openalex.org/W1554278997",
+  "https://openalex.org/W2044758536",
+  "https://openalex.org/W2054969282",
+  "https://openalex.org/W2090046646",
+  "https://openalex.org/W2114705282",
+  "https://openalex.org/W2154273644",
+  "https://openalex.org/W2211325406",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A general method for proving the normalization theorem for first and second order typed λ-calculi"
+}

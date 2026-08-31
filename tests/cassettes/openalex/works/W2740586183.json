@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 850,
+ "doi": "https://doi.org/10.2307/2348005",
+ "id": "https://openalex.org/W2740586183",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W184430818",
+  "https://openalex.org/W1611898144",
+  "https://openalex.org/W1983071150",
+  "https://openalex.org/W2001050541",
+  "https://openalex.org/W2023147062",
+  "https://openalex.org/W2054038456",
+  "https://openalex.org/W2064403537",
+  "https://openalex.org/W2126999940",
+  "https://openalex.org/W2317866228",
+  "https://openalex.org/W2402279677",
+  "https://openalex.org/W2504744665",
+  "https://openalex.org/W2795568776"
+ ],
+ "title": "A Note on the Use of Principal Components in Regression"
+}

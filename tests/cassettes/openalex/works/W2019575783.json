@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 1303,
+ "doi": "https://doi.org/10.1214/aos/1028144844",
+ "id": "https://openalex.org/W2019575783",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W2002113995",
+  "https://openalex.org/W2013784666",
+  "https://openalex.org/W2029420412",
+  "https://openalex.org/W2056392803",
+  "https://openalex.org/W2087347434",
+  "https://openalex.org/W2102201073",
+  "https://openalex.org/W2156909104",
+  "https://openalex.org/W2166163519",
+  "https://openalex.org/W4233372644",
+  "https://openalex.org/W6684823039"
+ ],
+ "title": "Classification by pairwise coupling"
+}

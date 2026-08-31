@@ -1,0 +1,117 @@
+{
+ "cited_by_count": 820,
+ "counts_by_year": [
+  {
+   "cited_by_count": 17,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 54,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 69,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1257/0002828054825466",
+ "id": "https://openalex.org/W2096375861",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W566586761",
+  "https://openalex.org/W1513281941",
+  "https://openalex.org/W1581020010",
+  "https://openalex.org/W1954834360",
+  "https://openalex.org/W1975164066",
+  "https://openalex.org/W1975378045",
+  "https://openalex.org/W1975833254",
+  "https://openalex.org/W1975943500",
+  "https://openalex.org/W1978696336",
+  "https://openalex.org/W1985899049",
+  "https://openalex.org/W2010725720",
+  "https://openalex.org/W2017218908",
+  "https://openalex.org/W2033684259",
+  "https://openalex.org/W2034883132",
+  "https://openalex.org/W2045754948",
+  "https://openalex.org/W2046057486",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2061816303",
+  "https://openalex.org/W2062139011",
+  "https://openalex.org/W2063145239",
+  "https://openalex.org/W2068115726",
+  "https://openalex.org/W2071667058",
+  "https://openalex.org/W2083091948",
+  "https://openalex.org/W2094208470",
+  "https://openalex.org/W2102636809",
+  "https://openalex.org/W2110013180",
+  "https://openalex.org/W2120452336",
+  "https://openalex.org/W2125034671",
+  "https://openalex.org/W2143529993",
+  "https://openalex.org/W2158281340",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W2162195070",
+  "https://openalex.org/W2164712528",
+  "https://openalex.org/W2165079522",
+  "https://openalex.org/W2171819270",
+  "https://openalex.org/W2238215542",
+  "https://openalex.org/W3121616661",
+  "https://openalex.org/W3121830259",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3123388428",
+  "https://openalex.org/W3125357055",
+  "https://openalex.org/W3125537905",
+  "https://openalex.org/W3125789561",
+  "https://openalex.org/W3125810850",
+  "https://openalex.org/W4213020422",
+  "https://openalex.org/W4255355362"
+ ],
+ "title": "Matching with Contracts"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 237,
+ "counts_by_year": [
+  {
+   "cited_by_count": 54,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 102,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 30,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1109/twc.2022.3204438",
+ "id": "https://openalex.org/W4295700726",
+ "publication_year": 2022,
+ "title": "UAV Trajectory Planning for AoI-Minimal Data Collection in UAV-Aided IoT Networks by Transformer"
+}

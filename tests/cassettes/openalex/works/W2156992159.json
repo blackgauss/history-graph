@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 72,
+ "doi": "https://doi.org/10.1016/s0304-3975(00)00194-8",
+ "id": "https://openalex.org/W2156992159",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1514107022",
+  "https://openalex.org/W1543173511",
+  "https://openalex.org/W1570378810",
+  "https://openalex.org/W1589628946",
+  "https://openalex.org/W1965297988",
+  "https://openalex.org/W1965557765",
+  "https://openalex.org/W1977216954",
+  "https://openalex.org/W2007270285",
+  "https://openalex.org/W2024189573",
+  "https://openalex.org/W2039112578",
+  "https://openalex.org/W2044646445",
+  "https://openalex.org/W2102483439",
+  "https://openalex.org/W2165446401",
+  "https://openalex.org/W6630830007"
+ ],
+ "title": "Finitary PCF is not decidable"
+}

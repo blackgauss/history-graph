@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 309,
+ "doi": "https://doi.org/10.1214/aos/1176345872",
+ "id": "https://openalex.org/W2020914331",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W61071295",
+  "https://openalex.org/W1966468104",
+  "https://openalex.org/W1983768315",
+  "https://openalex.org/W1985905466",
+  "https://openalex.org/W2004984506",
+  "https://openalex.org/W2033135151",
+  "https://openalex.org/W2067848592",
+  "https://openalex.org/W2081950518",
+  "https://openalex.org/W2086891822",
+  "https://openalex.org/W2103200724",
+  "https://openalex.org/W2137645797",
+  "https://openalex.org/W2796649821",
+  "https://openalex.org/W3038830718"
+ ],
+ "title": "On the Estimation of a Probability Density Function by the Maximum Penalized Likelihood Method"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1080/00207218408938846",
+ "id": "https://openalex.org/W1965757415",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1978066222",
+  "https://openalex.org/W2047107562",
+  "https://openalex.org/W2050252385",
+  "https://openalex.org/W2081107873",
+  "https://openalex.org/W2128188929",
+  "https://openalex.org/W2152019064"
+ ],
+ "title": "Quaternary threshold logic full-adder circuit with complementary inputs†"
+}

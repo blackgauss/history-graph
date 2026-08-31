@@ -1,0 +1,109 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Frans Halsstraat 21, Haarlem, Holland"
+    }
+   ],
+   "author": {
+    "display_name": "P. A. Erades",
+    "id": "https://openalex.org/A5045709886",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Frans Halsstraat 21, Haarlem, Holland"
+   ],
+   "raw_author_name": "P. A. Erades",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 8,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2016
+  }
+ ],
+ "doi": "https://doi.org/10.1080/00138385308596913",
+ "funders": [],
+ "id": "https://openalex.org/W1975333239",
+ "ids": {
+  "doi": "https://doi.org/10.1080/00138385308596913",
+  "mag": "1975333239",
+  "openalex": "https://openalex.org/W1975333239"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1080/00138385308596913",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1080/00138385308596913",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "English Studies",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "English Studies",
+   "host_organization": "https://openalex.org/P4310319847",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319847",
+    "https://openalex.org/P4310320547"
+   ],
+   "host_organization_lineage_names": [
+    "Routledge",
+    "Taylor & Francis"
+   ],
+   "host_organization_name": "Routledge",
+   "id": "https://openalex.org/S9470471",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0013-838X",
+    "1744-4217"
+   ],
+   "issn_l": "0013-838X",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 1953,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W2390279801",
+  "https://openalex.org/W2358668433",
+  "https://openalex.org/W2376932109",
+  "https://openalex.org/W2001405890",
+  "https://openalex.org/W2382290278",
+  "https://openalex.org/W2478288626",
+  "https://openalex.org/W2009384968",
+  "https://openalex.org/W2124840601",
+  "https://openalex.org/W2811289096"
+ ],
+ "title": "Points of modern English Syntax XXIV",
+ "type": "article"
+}

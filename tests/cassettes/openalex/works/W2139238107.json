@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 156,
+ "doi": "https://doi.org/10.1145/582095.582120",
+ "id": "https://openalex.org/W2139238107",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W59130053",
+  "https://openalex.org/W82574028",
+  "https://openalex.org/W1505165377",
+  "https://openalex.org/W1566656512",
+  "https://openalex.org/W1975714036",
+  "https://openalex.org/W1981523076",
+  "https://openalex.org/W1998512182",
+  "https://openalex.org/W2002649781",
+  "https://openalex.org/W2023663289",
+  "https://openalex.org/W2075940460",
+  "https://openalex.org/W2110810394",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2132490332",
+  "https://openalex.org/W2149708428",
+  "https://openalex.org/W2162068127",
+  "https://openalex.org/W2337180559",
+  "https://openalex.org/W2915738127"
+ ],
+ "title": "Normal forms and relational database operators"
+}

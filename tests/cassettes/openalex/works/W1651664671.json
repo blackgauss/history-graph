@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1016/s1474-6670(17)69028-1",
+ "id": "https://openalex.org/W1651664671",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W1578004187",
+  "https://openalex.org/W2008539673",
+  "https://openalex.org/W2027973061",
+  "https://openalex.org/W2093304251",
+  "https://openalex.org/W3216359602",
+  "https://openalex.org/W6652408335"
+ ],
+ "title": "Synthesis of Model Reference Adaptive Systems by Liapunov's Second Method"
+}

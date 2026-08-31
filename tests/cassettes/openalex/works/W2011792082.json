@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 51,
+ "doi": "https://doi.org/10.1109/mm.2007.92",
+ "id": "https://openalex.org/W2011792082",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1499156209",
+  "https://openalex.org/W1523051745",
+  "https://openalex.org/W1597755753",
+  "https://openalex.org/W1978507093",
+  "https://openalex.org/W1998040188",
+  "https://openalex.org/W2083868341",
+  "https://openalex.org/W2101431901",
+  "https://openalex.org/W2120820413",
+  "https://openalex.org/W2121840029",
+  "https://openalex.org/W2122086266",
+  "https://openalex.org/W2136084694",
+  "https://openalex.org/W2138711634",
+  "https://openalex.org/W2140752352",
+  "https://openalex.org/W2144199167",
+  "https://openalex.org/W2162546785",
+  "https://openalex.org/W2172212694",
+  "https://openalex.org/W2464495522",
+  "https://openalex.org/W3150534153"
+ ],
+ "title": "Synchronization through Communication in a Massively Parallel Processor Array"
+}

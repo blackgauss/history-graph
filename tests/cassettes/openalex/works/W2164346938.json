@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 30,
+ "doi": "https://doi.org/10.1109/tc.1979.1675410",
+ "id": "https://openalex.org/W2164346938",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1842403939",
+  "https://openalex.org/W1994125175",
+  "https://openalex.org/W2038627227",
+  "https://openalex.org/W2155955306",
+  "https://openalex.org/W2156443685",
+  "https://openalex.org/W2184331568",
+  "https://openalex.org/W6686552122"
+ ],
+ "title": "Logic Design of Multivalued I2L Logic Circuits"
+}

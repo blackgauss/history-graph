@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 163,
+ "doi": "https://doi.org/10.1080/00207178608933679",
+ "id": "https://openalex.org/W2089667489",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W2000352206",
+  "https://openalex.org/W2001221332",
+  "https://openalex.org/W2020398394",
+  "https://openalex.org/W2125812768",
+  "https://openalex.org/W2146586049",
+  "https://openalex.org/W2162725061",
+  "https://openalex.org/W2798813531"
+ ],
+ "title": "Convergence rate of least-squares identification and adaptive control for stochastic systems†"
+}

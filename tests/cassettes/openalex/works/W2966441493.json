@@ -1,0 +1,45 @@
+{
+ "cited_by_count": 243,
+ "counts_by_year": [
+  {
+   "cited_by_count": 4,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 62,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2018
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tcomm.2019.2931538",
+ "id": "https://openalex.org/W2966441493",
+ "publication_year": 2019,
+ "title": "Joint Status Sampling and Updating for Minimizing Age of Information in the Internet of Things"
+}

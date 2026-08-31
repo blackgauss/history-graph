@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 338,
+ "doi": "https://doi.org/10.1145/6314.6315",
+ "id": "https://openalex.org/W2169486917",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1509415190",
+  "https://openalex.org/W1514983296",
+  "https://openalex.org/W1554541706",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2008633193",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2023195086",
+  "https://openalex.org/W2026896584",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2047906824",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2054338562",
+  "https://openalex.org/W2124170481",
+  "https://openalex.org/W2129303183",
+  "https://openalex.org/W2163772659",
+  "https://openalex.org/W2168863325"
+ ],
+ "title": "Join processing in database systems with large main memories"
+}

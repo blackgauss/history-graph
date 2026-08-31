@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 1562,
+ "doi": "https://doi.org/10.1007/978-3-642-40763-5_51",
+ "id": "https://openalex.org/W22040386",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1523493493",
+  "https://openalex.org/W1531100875",
+  "https://openalex.org/W1601963269",
+  "https://openalex.org/W1607581237",
+  "https://openalex.org/W1792334496",
+  "https://openalex.org/W1995460724",
+  "https://openalex.org/W2016981185",
+  "https://openalex.org/W2022508996",
+  "https://openalex.org/W2026893473",
+  "https://openalex.org/W2071925767",
+  "https://openalex.org/W2076118331",
+  "https://openalex.org/W2085038509",
+  "https://openalex.org/W2101926813",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2122394460",
+  "https://openalex.org/W2140706056",
+  "https://openalex.org/W2141125852",
+  "https://openalex.org/W2148461049",
+  "https://openalex.org/W2149194912",
+  "https://openalex.org/W2156163116",
+  "https://openalex.org/W2167510172"
+ ],
+ "title": "Mitosis Detection in Breast Cancer Histology Images with Deep Neural Networks"
+}

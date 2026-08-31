@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1103/physreve.55.7434",
+ "id": "https://openalex.org/W2037173892",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1963579675",
+  "https://openalex.org/W1997913984",
+  "https://openalex.org/W1999007984",
+  "https://openalex.org/W2012499774",
+  "https://openalex.org/W2028923186",
+  "https://openalex.org/W2033606703",
+  "https://openalex.org/W2049298802",
+  "https://openalex.org/W2054804336",
+  "https://openalex.org/W2056763477",
+  "https://openalex.org/W2066383691",
+  "https://openalex.org/W2090614046",
+  "https://openalex.org/W2156909104",
+  "https://openalex.org/W3017143921",
+  "https://openalex.org/W4206686222",
+  "https://openalex.org/W4248685136"
+ ],
+ "title": "Finite size scaling of the Bayesian perceptron"
+}

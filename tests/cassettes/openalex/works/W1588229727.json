@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 45,
+ "doi": null,
+ "id": "https://openalex.org/W1588229727",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1500284251",
+  "https://openalex.org/W1553313034",
+  "https://openalex.org/W1966522529",
+  "https://openalex.org/W2062714872",
+  "https://openalex.org/W2106491486",
+  "https://openalex.org/W2126291774",
+  "https://openalex.org/W2146766088",
+  "https://openalex.org/W2148603752",
+  "https://openalex.org/W2531834939",
+  "https://openalex.org/W2797917140"
+ ],
+ "title": "Bayes Point Machines: Estimating the Bayes Point in Kernel Space"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 58,
+ "doi": null,
+ "id": "https://openalex.org/W198254689",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1500250067",
+  "https://openalex.org/W1555524669",
+  "https://openalex.org/W1560572489",
+  "https://openalex.org/W1591726984",
+  "https://openalex.org/W1631043763",
+  "https://openalex.org/W1667574996",
+  "https://openalex.org/W1990890881",
+  "https://openalex.org/W2090403712",
+  "https://openalex.org/W2099213660",
+  "https://openalex.org/W2114152285",
+  "https://openalex.org/W2121773050",
+  "https://openalex.org/W2164458342",
+  "https://openalex.org/W2499957903"
+ ],
+ "title": "A semantic web approach to feature modeling and verification"
+}

@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 4517,
+ "doi": "https://doi.org/10.48550/arxiv.1301.7363",
+ "id": "https://openalex.org/W2110325612",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1524704912",
+  "https://openalex.org/W1557657228",
+  "https://openalex.org/W1567331820",
+  "https://openalex.org/W1802230853",
+  "https://openalex.org/W1864566053",
+  "https://openalex.org/W1956559956",
+  "https://openalex.org/W2031636842",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2066590388",
+  "https://openalex.org/W2155106456",
+  "https://openalex.org/W2341865734"
+ ],
+ "title": "Empirical Analysis of Predictive Algorithms for Collaborative Filtering"
+}

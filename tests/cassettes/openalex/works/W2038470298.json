@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 75,
+ "doi": "https://doi.org/10.1016/0167-6377(94)00049-c",
+ "id": "https://openalex.org/W2038470298",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W134180184",
+  "https://openalex.org/W1415442047",
+  "https://openalex.org/W1511309372",
+  "https://openalex.org/W1960351623",
+  "https://openalex.org/W2027973721",
+  "https://openalex.org/W2036645045",
+  "https://openalex.org/W2069105274",
+  "https://openalex.org/W2106154968",
+  "https://openalex.org/W2125697860",
+  "https://openalex.org/W2331476099"
+ ],
+ "title": "Equilibrium strategies for queues with impatient customers"
+}

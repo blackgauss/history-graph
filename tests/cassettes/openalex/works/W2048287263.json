@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 122,
+ "doi": "https://doi.org/10.1109/tac.1985.1103963",
+ "id": "https://openalex.org/W2048287263",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1580334350",
+  "https://openalex.org/W1998319784",
+  "https://openalex.org/W2000352206",
+  "https://openalex.org/W2006157226",
+  "https://openalex.org/W2020398394",
+  "https://openalex.org/W2052287684",
+  "https://openalex.org/W2090040967",
+  "https://openalex.org/W2125812768",
+  "https://openalex.org/W2148401037",
+  "https://openalex.org/W2154831602",
+  "https://openalex.org/W2162725061",
+  "https://openalex.org/W2266709005",
+  "https://openalex.org/W2750485037"
+ ],
+ "title": "Adaptive control with the stochastic approximation algorithm: Geometry and convergence"
+}

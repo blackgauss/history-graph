@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 3405,
+ "doi": "https://doi.org/10.1007/bf01404567",
+ "id": "https://openalex.org/W3000332379",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W61851564",
+  "https://openalex.org/W1506069954",
+  "https://openalex.org/W1979519992",
+  "https://openalex.org/W1986280275",
+  "https://openalex.org/W1990381576",
+  "https://openalex.org/W1995544102",
+  "https://openalex.org/W2002355073",
+  "https://openalex.org/W2004757960",
+  "https://openalex.org/W2061507475",
+  "https://openalex.org/W2078841894",
+  "https://openalex.org/W2085877024",
+  "https://openalex.org/W2094438648",
+  "https://openalex.org/W2121203842",
+  "https://openalex.org/W2131817259",
+  "https://openalex.org/W2137645797",
+  "https://openalex.org/W2140170995",
+  "https://openalex.org/W2801179766",
+  "https://openalex.org/W2897129259",
+  "https://openalex.org/W3193681908",
+  "https://openalex.org/W4236416186"
+ ],
+ "title": "Smoothing noisy data with spline functions"
+}

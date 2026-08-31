@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 224,
+ "doi": "https://doi.org/10.1103/physreva.56.2567",
+ "id": "https://openalex.org/W2000470073",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1975508948",
+  "https://openalex.org/W2005869501",
+  "https://openalex.org/W2025859287",
+  "https://openalex.org/W2088324731",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2095529659",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2116858786",
+  "https://openalex.org/W2763302490"
+ ],
+ "title": "Approximate quantum error correction can lead to better codes"
+}

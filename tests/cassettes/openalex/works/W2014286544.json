@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 170,
+ "doi": "https://doi.org/10.1021/nl052110f",
+ "id": "https://openalex.org/W2014286544",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1586668292",
+  "https://openalex.org/W1968898258",
+  "https://openalex.org/W1985555064",
+  "https://openalex.org/W1987416224",
+  "https://openalex.org/W1989380830",
+  "https://openalex.org/W2022829874",
+  "https://openalex.org/W2024983953",
+  "https://openalex.org/W2047507725",
+  "https://openalex.org/W2100903675",
+  "https://openalex.org/W2111290124",
+  "https://openalex.org/W2124779113",
+  "https://openalex.org/W2126701892",
+  "https://openalex.org/W2144087168"
+ ],
+ "title": "Circuit Fabrication at 17 nm Half-Pitch by Nanoimprint Lithography"
+}

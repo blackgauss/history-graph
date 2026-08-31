@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 37,
+ "doi": "https://doi.org/10.2307/2272830",
+ "id": "https://openalex.org/W2015707592",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1965251765",
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W1979221298",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2049442092",
+  "https://openalex.org/W2055051664",
+  "https://openalex.org/W2117832390",
+  "https://openalex.org/W2315181607",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W6662858503"
+ ],
+ "title": "Nowhere simple sets and the lattice of recursively enumerable sets"
+}

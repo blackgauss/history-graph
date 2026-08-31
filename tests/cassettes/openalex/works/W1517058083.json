@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 80,
+ "doi": null,
+ "id": "https://openalex.org/W1517058083",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W87905120",
+  "https://openalex.org/W1600885892",
+  "https://openalex.org/W1817525120",
+  "https://openalex.org/W1968403323",
+  "https://openalex.org/W1986319134",
+  "https://openalex.org/W1999460852",
+  "https://openalex.org/W2016456293",
+  "https://openalex.org/W2075457099",
+  "https://openalex.org/W2098238324",
+  "https://openalex.org/W2101594312",
+  "https://openalex.org/W2108420563",
+  "https://openalex.org/W2115503987",
+  "https://openalex.org/W2117487426",
+  "https://openalex.org/W2135499008",
+  "https://openalex.org/W2145667392",
+  "https://openalex.org/W2146584949",
+  "https://openalex.org/W2147544162",
+  "https://openalex.org/W2154925912",
+  "https://openalex.org/W2161569281",
+  "https://openalex.org/W2172286195"
+ ],
+ "title": "Challenges and experience in prototyping a multi-modal stream analytic and monitoring application on System S"
+}

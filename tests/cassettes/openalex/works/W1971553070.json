@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 65,
+ "doi": "https://doi.org/10.1090/s0002-9947-1969-0241295-4",
+ "id": "https://openalex.org/W1971553070",
+ "publication_year": 1969,
+ "referenced_works": [
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1973392890",
+  "https://openalex.org/W2015965037",
+  "https://openalex.org/W2035004935",
+  "https://openalex.org/W2036225116",
+  "https://openalex.org/W2037416374",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2051601785",
+  "https://openalex.org/W2053099695",
+  "https://openalex.org/W2055051664",
+  "https://openalex.org/W2062249564",
+  "https://openalex.org/W2093546192",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W2127316662",
+  "https://openalex.org/W2158059264",
+  "https://openalex.org/W2562830775",
+  "https://openalex.org/W2913148016",
+  "https://openalex.org/W4241081383",
+  "https://openalex.org/W4241435086",
+  "https://openalex.org/W6659377737"
+ ],
+ "title": "On the degrees of index sets. II"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 582,
+ "doi": "https://doi.org/10.1109/72.80210",
+ "id": "https://openalex.org/W2169554323",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1535810436",
+  "https://openalex.org/W1554104828",
+  "https://openalex.org/W1964168965",
+  "https://openalex.org/W1977013337",
+  "https://openalex.org/W1977333505",
+  "https://openalex.org/W2037269865",
+  "https://openalex.org/W2040219769",
+  "https://openalex.org/W2083417201",
+  "https://openalex.org/W2118020555",
+  "https://openalex.org/W2122111042",
+  "https://openalex.org/W2146200922",
+  "https://openalex.org/W2160133692",
+  "https://openalex.org/W2161596194",
+  "https://openalex.org/W2789091931",
+  "https://openalex.org/W3140783435",
+  "https://openalex.org/W4241814927",
+  "https://openalex.org/W4300402905",
+  "https://openalex.org/W6632223199",
+  "https://openalex.org/W6748619650"
+ ],
+ "title": "Probabilistic neural networks and the polynomial Adaline as complementary techniques for classification"
+}

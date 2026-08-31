@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 18,
+ "doi": null,
+ "id": "https://openalex.org/W2228981282",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W69407335",
+  "https://openalex.org/W1513366687",
+  "https://openalex.org/W1553701556",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1597910678",
+  "https://openalex.org/W1678889691",
+  "https://openalex.org/W2032427901",
+  "https://openalex.org/W2109293916",
+  "https://openalex.org/W2506703326"
+ ],
+ "title": "Efficient SQL-Querying Method for Data Mining in Large Data Bases"
+}

@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 27,
+ "doi": "https://doi.org/10.7146/dpb.v22i432.6748",
+ "id": "https://openalex.org/W1915676028",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1992774725",
+  "https://openalex.org/W2125389748",
+  "https://openalex.org/W2135520967",
+  "https://openalex.org/W4212997115"
+ ],
+ "title": "Exact Calculation of the Product of the Hessian Matrix of Feed-Forward Network Error Functions and a Vector in 0(N) Time"
+}

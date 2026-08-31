@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 83,
+ "doi": "https://doi.org/10.1080/00207176608921439",
+ "id": "https://openalex.org/W2168314873",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W1977068366",
+  "https://openalex.org/W1997957916",
+  "https://openalex.org/W2034541289",
+  "https://openalex.org/W2054664076",
+  "https://openalex.org/W2104462234",
+  "https://openalex.org/W2140353194",
+  "https://openalex.org/W3143006029"
+ ],
+ "title": "Stochastic Optimal Control with Noisy Observations †"
+}

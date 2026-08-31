@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1090/s0002-9939-1977-0446931-5",
+ "id": "https://openalex.org/W1979221298",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1589239154",
+  "https://openalex.org/W1965251765",
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W1984887166",
+  "https://openalex.org/W2024348511",
+  "https://openalex.org/W2055051664",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W2117832390",
+  "https://openalex.org/W2150311525",
+  "https://openalex.org/W2315181607",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W4236944103",
+  "https://openalex.org/W4241435086",
+  "https://openalex.org/W4246124948"
+ ],
+ "title": "Determining automorphisms of the recursively enumerable sets"
+}

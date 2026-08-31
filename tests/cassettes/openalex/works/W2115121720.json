@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 93,
+ "doi": null,
+ "id": "https://openalex.org/W2115121720",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W58921469",
+  "https://openalex.org/W182116912",
+  "https://openalex.org/W1529008516",
+  "https://openalex.org/W1969166509",
+  "https://openalex.org/W1984205520",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2118426468",
+  "https://openalex.org/W2166082022",
+  "https://openalex.org/W2784022806"
+ ],
+ "title": "Reinforcement Learning in Markovian and Non-Markovian Environments"
+}

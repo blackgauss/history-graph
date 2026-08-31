@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 74,
+ "doi": "https://doi.org/10.1090/s0002-9904-1974-13350-1",
+ "id": "https://openalex.org/W1965251765",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W3231172",
+  "https://openalex.org/W1965251765",
+  "https://openalex.org/W1972685794",
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W2029823283",
+  "https://openalex.org/W2036225116",
+  "https://openalex.org/W2037416374",
+  "https://openalex.org/W2042742137",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2048588931",
+  "https://openalex.org/W2055051664",
+  "https://openalex.org/W2062249564",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W2117832390",
+  "https://openalex.org/W2150311525",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W4236944103",
+  "https://openalex.org/W4241435086",
+  "https://openalex.org/W4252466355",
+  "https://openalex.org/W6600136389",
+  "https://openalex.org/W6659377737"
+ ],
+ "title": "Automorphisms of the lattice of recursively enumerable sets"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 135,
+ "doi": "https://doi.org/10.1145/2463372.2463509",
+ "id": "https://openalex.org/W2038794597",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W131197043",
+  "https://openalex.org/W165295313",
+  "https://openalex.org/W961347149",
+  "https://openalex.org/W1504196453",
+  "https://openalex.org/W1638598220",
+  "https://openalex.org/W1968113145",
+  "https://openalex.org/W2011562875",
+  "https://openalex.org/W2030101996",
+  "https://openalex.org/W2081547991",
+  "https://openalex.org/W2084323233",
+  "https://openalex.org/W2108729336",
+  "https://openalex.org/W2130329458",
+  "https://openalex.org/W2132266610",
+  "https://openalex.org/W2141860972",
+  "https://openalex.org/W2148067905",
+  "https://openalex.org/W6676449312",
+  "https://openalex.org/W6679521103"
+ ],
+ "title": "Evolving large-scale neural networks for vision-based reinforcement learning"
+}

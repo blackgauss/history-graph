@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 1024,
+ "doi": "https://doi.org/10.1016/0743-1066(84)90014-1",
+ "id": "https://openalex.org/W2011992362",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1530765221",
+  "https://openalex.org/W1535681052",
+  "https://openalex.org/W1998113645",
+  "https://openalex.org/W1999647826",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2312502266",
+  "https://openalex.org/W2331953749",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W4301662502",
+  "https://openalex.org/W6644040475",
+  "https://openalex.org/W6650045434",
+  "https://openalex.org/W6659573362"
+ ],
+ "title": "Linear-time algorithms for testing the satisfiability of propositional horn formulae"
+}

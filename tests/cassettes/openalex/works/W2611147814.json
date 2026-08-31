@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 4849,
+ "doi": "https://doi.org/10.1007/bf02579150",
+ "id": "https://openalex.org/W2611147814",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1571051474",
+  "https://openalex.org/W2012329067",
+  "https://openalex.org/W2026745357",
+  "https://openalex.org/W2033040247",
+  "https://openalex.org/W2127470768",
+  "https://openalex.org/W3026407818",
+  "https://openalex.org/W4301216918"
+ ],
+ "title": "A new polynomial-time algorithm for linear programming"
+}

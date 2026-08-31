@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 173,
+ "doi": "https://doi.org/10.1145/74074.74087",
+ "id": "https://openalex.org/W2079749988",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1504821298",
+  "https://openalex.org/W1599036690",
+  "https://openalex.org/W2007661134",
+  "https://openalex.org/W2009562587",
+  "https://openalex.org/W2020316223",
+  "https://openalex.org/W2038654250",
+  "https://openalex.org/W2336770924",
+  "https://openalex.org/W2338754939",
+  "https://openalex.org/W3138570583"
+ ],
+ "title": "Experimental quantum cryptography: the dawn of a new era for quantum cryptography: the experimental prototype is working]"
+}

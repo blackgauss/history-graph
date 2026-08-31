@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 73,
+ "doi": "https://doi.org/10.1016/j.entcs.2006.12.022",
+ "id": "https://openalex.org/W2108530105",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1483522989",
+  "https://openalex.org/W1489391022",
+  "https://openalex.org/W1495266209",
+  "https://openalex.org/W1496518193",
+  "https://openalex.org/W1505368563",
+  "https://openalex.org/W1513300473",
+  "https://openalex.org/W1519854356",
+  "https://openalex.org/W1558152194",
+  "https://openalex.org/W1597057550",
+  "https://openalex.org/W1668569556",
+  "https://openalex.org/W1787074469",
+  "https://openalex.org/W1836852804",
+  "https://openalex.org/W1982129592",
+  "https://openalex.org/W1998084650",
+  "https://openalex.org/W2046239089",
+  "https://openalex.org/W2099860748",
+  "https://openalex.org/W2133527541",
+  "https://openalex.org/W2158027086",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6638020115",
+  "https://openalex.org/W6679878532"
+ ],
+ "title": "Compressing BMC Encodings with QBF"
+}

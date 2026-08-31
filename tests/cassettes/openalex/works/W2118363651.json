@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 16,
+ "doi": null,
+ "id": "https://openalex.org/W2118363651",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W2017257315",
+  "https://openalex.org/W2097863906",
+  "https://openalex.org/W2106884367",
+  "https://openalex.org/W2114187834",
+  "https://openalex.org/W2165225968",
+  "https://openalex.org/W3017143921"
+ ],
+ "title": "Unsupervised Learning of Mixtures of Multiple Causes in Binary Data"
+}

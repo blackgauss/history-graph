@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 280,
+ "doi": "https://doi.org/10.1016/0304-3975(81)90040-2",
+ "id": "https://openalex.org/W2059054133",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1975548675",
+  "https://openalex.org/W2023266231",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W4213232664"
+ ],
+ "title": "The undecidability of the second-order unification problem"
+}

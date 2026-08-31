@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 109,
+ "doi": "https://doi.org/10.1016/s0196-8858(02)00024-6",
+ "id": "https://openalex.org/W2073310493",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1502986712",
+  "https://openalex.org/W1574576267",
+  "https://openalex.org/W1976165847",
+  "https://openalex.org/W1986296546",
+  "https://openalex.org/W2001765616",
+  "https://openalex.org/W2043819676",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2334237942",
+  "https://openalex.org/W3123116846"
+ ],
+ "title": "Boolean functions whose Fourier transform is concentrated on the first two levels"
+}

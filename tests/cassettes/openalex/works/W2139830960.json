@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 7,
+ "doi": null,
+ "id": "https://openalex.org/W2139830960",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1486611887",
+  "https://openalex.org/W2154273644",
+  "https://openalex.org/W2214437647",
+  "https://openalex.org/W2401954397",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W2905135108"
+ ],
+ "title": "\\nEnumerators of lambda terms are reducing constructively"
+}

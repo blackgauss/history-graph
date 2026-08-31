@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 96,
+ "doi": "https://doi.org/10.1109/sice.1998.742993",
+ "id": "https://openalex.org/W1844959353",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W217432794",
+  "https://openalex.org/W612593197",
+  "https://openalex.org/W1998481530",
+  "https://openalex.org/W2034562813",
+  "https://openalex.org/W2142635246",
+  "https://openalex.org/W2315023263",
+  "https://openalex.org/W4300945981"
+ ],
+ "title": "GMDH neural network algorithm using the heuristic self-organization method and its application to the pattern identification problem"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 79,
+ "doi": "https://doi.org/10.1016/0166-218x(93)90126-9",
+ "id": "https://openalex.org/W2068124818",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1849101968",
+  "https://openalex.org/W1971361630",
+  "https://openalex.org/W1984876737",
+  "https://openalex.org/W1994022788",
+  "https://openalex.org/W2001823786",
+  "https://openalex.org/W2010029425",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2029538739",
+  "https://openalex.org/W2066946967",
+  "https://openalex.org/W2075943509",
+  "https://openalex.org/W2084544490",
+  "https://openalex.org/W2154952480",
+  "https://openalex.org/W2165758113",
+  "https://openalex.org/W4213201446",
+  "https://openalex.org/W4238284510",
+  "https://openalex.org/W4238893454",
+  "https://openalex.org/W4302591315",
+  "https://openalex.org/W6650504489",
+  "https://openalex.org/W6667180670"
+ ],
+ "title": "A result of Vapnik with applications"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 763,
+ "doi": "https://doi.org/10.1109/ijcnn.2011.6033589",
+ "id": "https://openalex.org/W2125085157",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W109176799",
+  "https://openalex.org/W1968422655",
+  "https://openalex.org/W1985760370",
+  "https://openalex.org/W2026942141",
+  "https://openalex.org/W2098666383",
+  "https://openalex.org/W2111502429",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2117876524",
+  "https://openalex.org/W2127230474",
+  "https://openalex.org/W2131020982",
+  "https://openalex.org/W2131171972",
+  "https://openalex.org/W2139061569",
+  "https://openalex.org/W2153189297",
+  "https://openalex.org/W2168117308",
+  "https://openalex.org/W2546302380",
+  "https://openalex.org/W6679022428",
+  "https://openalex.org/W7005897313"
+ ],
+ "title": "Traffic sign recognition with multi-scale Convolutional Networks"
+}

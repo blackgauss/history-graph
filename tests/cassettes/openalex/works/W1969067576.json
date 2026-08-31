@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 415,
+ "doi": "https://doi.org/10.1016/j.patcog.2004.01.013",
+ "id": "https://openalex.org/W1969067576",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1524093576",
+  "https://openalex.org/W1988029749"
+ ],
+ "title": "GPU implementation of neural networks"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 664,
+ "doi": "https://doi.org/10.1109/sfcs.1993.366852",
+ "id": "https://openalex.org/W2160083149",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W180111340",
+  "https://openalex.org/W1982704699",
+  "https://openalex.org/W1987588691",
+  "https://openalex.org/W1993688167",
+  "https://openalex.org/W2002501531",
+  "https://openalex.org/W2045717693",
+  "https://openalex.org/W2049016755",
+  "https://openalex.org/W2079401865",
+  "https://openalex.org/W2095533469",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W2122786581",
+  "https://openalex.org/W2123375920",
+  "https://openalex.org/W2136111664",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2151089673",
+  "https://openalex.org/W2154839628",
+  "https://openalex.org/W2156313614",
+  "https://openalex.org/W2179731956"
+ ],
+ "title": "Quantum circuit complexity"
+}

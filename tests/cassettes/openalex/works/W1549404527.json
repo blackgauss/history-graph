@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 268,
+ "doi": null,
+ "id": "https://openalex.org/W1549404527",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1496288774",
+  "https://openalex.org/W1545155892",
+  "https://openalex.org/W1574797275",
+  "https://openalex.org/W1595234309",
+  "https://openalex.org/W1988311692",
+  "https://openalex.org/W1992503234",
+  "https://openalex.org/W2035300188",
+  "https://openalex.org/W2037205293",
+  "https://openalex.org/W2098534118",
+  "https://openalex.org/W2111586962",
+  "https://openalex.org/W2125936380",
+  "https://openalex.org/W2132410967",
+  "https://openalex.org/W2153953370",
+  "https://openalex.org/W2154837369",
+  "https://openalex.org/W2168104306",
+  "https://openalex.org/W2211352702",
+  "https://openalex.org/W2338300812"
+ ],
+ "title": "Don't Be Lazy, Be Consistent: Postgres-R, A New Way to Implement Database Replication"
+}

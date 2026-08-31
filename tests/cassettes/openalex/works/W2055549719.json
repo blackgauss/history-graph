@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 43,
+ "doi": "https://doi.org/10.1109/52.391838",
+ "id": "https://openalex.org/W2055549719",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1521496944",
+  "https://openalex.org/W1570577480",
+  "https://openalex.org/W1974013238",
+  "https://openalex.org/W2019235968",
+  "https://openalex.org/W2021842840",
+  "https://openalex.org/W2030841914",
+  "https://openalex.org/W2033337919",
+  "https://openalex.org/W2051959027",
+  "https://openalex.org/W2087147784",
+  "https://openalex.org/W2982723241",
+  "https://openalex.org/W4298263761"
+ ],
+ "title": "High-level mathematical modeling and programming"
+}

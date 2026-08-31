@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 499,
+ "doi": null,
+ "id": "https://openalex.org/W2964067969",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W22861983",
+  "https://openalex.org/W1408639475",
+  "https://openalex.org/W1682403713",
+  "https://openalex.org/W1904365287",
+  "https://openalex.org/W2036963181",
+  "https://openalex.org/W2047057213",
+  "https://openalex.org/W2097998348",
+  "https://openalex.org/W2099049980",
+  "https://openalex.org/W2156387975",
+  "https://openalex.org/W2163302275",
+  "https://openalex.org/W2183112036",
+  "https://openalex.org/W2319212760",
+  "https://openalex.org/W2546302380",
+  "https://openalex.org/W3037950864"
+ ],
+ "title": "An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks"
+}

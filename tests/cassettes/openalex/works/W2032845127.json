@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 34,
+ "doi": "https://doi.org/10.1088/0954-898x_1_3_002",
+ "id": "https://openalex.org/W2032845127",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W6768484",
+  "https://openalex.org/W94523489",
+  "https://openalex.org/W1480487340",
+  "https://openalex.org/W1780630101",
+  "https://openalex.org/W1969341260",
+  "https://openalex.org/W1976990135",
+  "https://openalex.org/W2001619934",
+  "https://openalex.org/W2026393324",
+  "https://openalex.org/W2068566145",
+  "https://openalex.org/W2069683962",
+  "https://openalex.org/W2100358124",
+  "https://openalex.org/W2135346934",
+  "https://openalex.org/W2137983211",
+  "https://openalex.org/W2301676159",
+  "https://openalex.org/W2327048920",
+  "https://openalex.org/W2796765386",
+  "https://openalex.org/W3015981925",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Exploiting prior knowledge in network optimization: an illustration from medical prognosis"
+}

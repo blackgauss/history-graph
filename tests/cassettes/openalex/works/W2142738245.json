@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 175,
+ "doi": "https://doi.org/10.1137/0906042",
+ "id": "https://openalex.org/W2142738245",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W141418607",
+  "https://openalex.org/W1854226152",
+  "https://openalex.org/W1976222070",
+  "https://openalex.org/W1994722534",
+  "https://openalex.org/W2003363022",
+  "https://openalex.org/W2017659682",
+  "https://openalex.org/W2018850201",
+  "https://openalex.org/W2026258334",
+  "https://openalex.org/W2031390949",
+  "https://openalex.org/W2035990937",
+  "https://openalex.org/W2059586807",
+  "https://openalex.org/W2059808679",
+  "https://openalex.org/W2062294426",
+  "https://openalex.org/W2065000345",
+  "https://openalex.org/W2078675418",
+  "https://openalex.org/W2086518770",
+  "https://openalex.org/W2117686912",
+  "https://openalex.org/W2122565324",
+  "https://openalex.org/W2145126461",
+  "https://openalex.org/W2154589350",
+  "https://openalex.org/W2316564661",
+  "https://openalex.org/W4251656402"
+ ],
+ "title": "Preconditioning of Truncated-Newton Methods"
+}

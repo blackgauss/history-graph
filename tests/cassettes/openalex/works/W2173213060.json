@@ -1,0 +1,192 @@
+{
+ "cited_by_count": 18633,
+ "concepts": [
+  {
+   "display_name": "Petabyte",
+   "id": "https://openalex.org/C13600138",
+   "level": 3,
+   "score": 0.9152945280075073,
+   "wikidata": "https://www.wikidata.org/wiki/Q8799"
+  },
+  {
+   "display_name": "Computer science",
+   "id": "https://openalex.org/C41008148",
+   "level": 0,
+   "score": 0.8925561904907227,
+   "wikidata": "https://www.wikidata.org/wiki/Q21198"
+  },
+  {
+   "display_name": "Computation",
+   "id": "https://openalex.org/C45374587",
+   "level": 2,
+   "score": 0.5662506818771362,
+   "wikidata": "https://www.wikidata.org/wiki/Q12525525"
+  },
+  {
+   "display_name": "Variety (cybernetics)",
+   "id": "https://openalex.org/C136197465",
+   "level": 2,
+   "score": 0.5441691279411316,
+   "wikidata": "https://www.wikidata.org/wiki/Q1729295"
+  },
+  {
+   "display_name": "Programming paradigm",
+   "id": "https://openalex.org/C34165917",
+   "level": 2,
+   "score": 0.5378875136375427,
+   "wikidata": "https://www.wikidata.org/wiki/Q188267"
+  },
+  {
+   "display_name": "Function (biology)",
+   "id": "https://openalex.org/C14036430",
+   "level": 2,
+   "score": 0.4425894618034363,
+   "wikidata": "https://www.wikidata.org/wiki/Q3736076"
+  },
+  {
+   "display_name": "Parallel computing",
+   "id": "https://openalex.org/C173608175",
+   "level": 1,
+   "score": 0.3977789282798767,
+   "wikidata": "https://www.wikidata.org/wiki/Q232661"
+  },
+  {
+   "display_name": "Operating system",
+   "id": "https://openalex.org/C111919701",
+   "level": 1,
+   "score": 0.38476651906967163,
+   "wikidata": "https://www.wikidata.org/wiki/Q9135"
+  },
+  {
+   "display_name": "Distributed computing",
+   "id": "https://openalex.org/C120314980",
+   "level": 1,
+   "score": 0.3548569679260254,
+   "wikidata": "https://www.wikidata.org/wiki/Q180634"
+  },
+  {
+   "display_name": "Big data",
+   "id": "https://openalex.org/C75684735",
+   "level": 2,
+   "score": 0.32425105571746826,
+   "wikidata": "https://www.wikidata.org/wiki/Q858810"
+  },
+  {
+   "display_name": "Artificial intelligence",
+   "id": "https://openalex.org/C154945302",
+   "level": 1,
+   "score": 0.15563496947288513,
+   "wikidata": "https://www.wikidata.org/wiki/Q11660"
+  },
+  {
+   "display_name": "Programming language",
+   "id": "https://openalex.org/C199360897",
+   "level": 1,
+   "score": 0.1353224515914917,
+   "wikidata": "https://www.wikidata.org/wiki/Q9143"
+  },
+  {
+   "display_name": "Biology",
+   "id": "https://openalex.org/C86803240",
+   "level": 0,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q420"
+  },
+  {
+   "display_name": "Evolutionary biology",
+   "id": "https://openalex.org/C78458016",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q840400"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 159,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 364,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 359,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 382,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 465,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 677,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 892,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1199,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 1385,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 1494,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 1809,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 2004,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 1926,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 1675,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 1337,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1327452.1327492",
+ "id": "https://openalex.org/W2173213060",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1510543252",
+  "https://openalex.org/W1776654319",
+  "https://openalex.org/W1988243929",
+  "https://openalex.org/W2026015769",
+  "https://openalex.org/W2044534358",
+  "https://openalex.org/W2045271686",
+  "https://openalex.org/W2058972589",
+  "https://openalex.org/W2073965851",
+  "https://openalex.org/W2082693041",
+  "https://openalex.org/W2087977509",
+  "https://openalex.org/W2104644701",
+  "https://openalex.org/W2109722477",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2122465391",
+  "https://openalex.org/W2133338501",
+  "https://openalex.org/W2133718097",
+  "https://openalex.org/W2143462372",
+  "https://openalex.org/W2148317584",
+  "https://openalex.org/W2159761515",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W4238584892"
+ ],
+ "title": "MapReduce"
+}

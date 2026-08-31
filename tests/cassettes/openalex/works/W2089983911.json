@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 231,
+ "doi": "https://doi.org/10.1103/physrevlett.78.4293",
+ "id": "https://openalex.org/W2089983911",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1966533239",
+  "https://openalex.org/W1978553093",
+  "https://openalex.org/W1984691108",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2003992904",
+  "https://openalex.org/W2005869501",
+  "https://openalex.org/W2017077355",
+  "https://openalex.org/W2020725861",
+  "https://openalex.org/W2027926771",
+  "https://openalex.org/W2042474962",
+  "https://openalex.org/W2046296382",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2087634531",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2116858786"
+ ],
+ "title": "Ideal Quantum Communication over Noisy Channels: A Quantum Optical Implementation"
+}

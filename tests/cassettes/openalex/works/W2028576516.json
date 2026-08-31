@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 245,
+ "doi": "https://doi.org/10.1002/net.3230050405",
+ "id": "https://openalex.org/W2028576516",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W1980985059",
+  "https://openalex.org/W2024892575",
+  "https://openalex.org/W2086252904",
+  "https://openalex.org/W2115049345",
+  "https://openalex.org/W2118825986",
+  "https://openalex.org/W2123208065",
+  "https://openalex.org/W2130662965",
+  "https://openalex.org/W2167925113",
+  "https://openalex.org/W4213060883",
+  "https://openalex.org/W6656659535"
+ ],
+ "title": "Minimum cuts and related problems"
+}

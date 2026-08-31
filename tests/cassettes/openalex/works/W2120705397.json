@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1109/icde.1989.47205",
+ "id": "https://openalex.org/W2120705397",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W147240463",
+  "https://openalex.org/W1514871965",
+  "https://openalex.org/W1549076666",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W2005132320",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2020191321",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2089692469",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2156267397",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W2562939696",
+  "https://openalex.org/W2761991821",
+  "https://openalex.org/W4236195087",
+  "https://openalex.org/W4236538909",
+  "https://openalex.org/W6605949649",
+  "https://openalex.org/W6632800669",
+  "https://openalex.org/W6633089140",
+  "https://openalex.org/W6663491889"
+ ],
+ "title": "Composition of database relations"
+}

@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 56,
+ "doi": "https://doi.org/10.1007/978-3-540-77105-0_15",
+ "id": "https://openalex.org/W2250285668",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1484951415",
+  "https://openalex.org/W1769120835",
+  "https://openalex.org/W1825072153",
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W1982280823",
+  "https://openalex.org/W1983916623",
+  "https://openalex.org/W2012493317",
+  "https://openalex.org/W2013304545",
+  "https://openalex.org/W2015324401",
+  "https://openalex.org/W2037684294",
+  "https://openalex.org/W2038263585",
+  "https://openalex.org/W2044081853",
+  "https://openalex.org/W2109336437",
+  "https://openalex.org/W2117340018",
+  "https://openalex.org/W2119914577",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W2131552728",
+  "https://openalex.org/W2135724610",
+  "https://openalex.org/W2155551092",
+  "https://openalex.org/W2164792208",
+  "https://openalex.org/W2564127794",
+  "https://openalex.org/W3124857404",
+  "https://openalex.org/W4234293831",
+  "https://openalex.org/W4234344924"
+ ],
+ "title": "Stochastic Models for Budget Optimization in Search-Based Advertising"
+}

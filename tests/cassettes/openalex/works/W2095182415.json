@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 94,
+ "doi": "https://doi.org/10.1145/322203.322204",
+ "id": "https://openalex.org/W2095182415",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W27784635",
+  "https://openalex.org/W186505535",
+  "https://openalex.org/W1597841211",
+  "https://openalex.org/W2000346568",
+  "https://openalex.org/W2015874281",
+  "https://openalex.org/W2028074529",
+  "https://openalex.org/W2072380992",
+  "https://openalex.org/W2153131284",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2293235079",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Reasoning About Recursively Defined Data Structures"
+}

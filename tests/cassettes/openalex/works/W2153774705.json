@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 803,
+ "doi": "https://doi.org/10.1287/opre.13.1.94",
+ "id": "https://openalex.org/W2153774705",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W2032938251",
+  "https://openalex.org/W2035873292",
+  "https://openalex.org/W2044060832",
+  "https://openalex.org/W2060322444",
+  "https://openalex.org/W2060453713",
+  "https://openalex.org/W2085478109",
+  "https://openalex.org/W2105560970",
+  "https://openalex.org/W2138798999",
+  "https://openalex.org/W2144946856"
+ ],
+ "title": "Multistage Cutting Stock Problems of Two and More Dimensions"
+}

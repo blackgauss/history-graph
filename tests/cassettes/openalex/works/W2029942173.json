@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 13,
+ "doi": "https://doi.org/10.1145/1183614.1183755",
+ "id": "https://openalex.org/W2029942173",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W27994497",
+  "https://openalex.org/W2040546864",
+  "https://openalex.org/W2170741935"
+ ],
+ "title": "Measuring the meaning in time series clustering of text search queries"
+}

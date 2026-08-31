@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 6421,
+ "doi": "https://doi.org/10.1145/1143844.1143874",
+ "id": "https://openalex.org/W1976526581",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W30904744",
+  "https://openalex.org/W32160621",
+  "https://openalex.org/W47392883",
+  "https://openalex.org/W102413479",
+  "https://openalex.org/W1499467920",
+  "https://openalex.org/W1502122916",
+  "https://openalex.org/W1524761913",
+  "https://openalex.org/W1552767446",
+  "https://openalex.org/W1574901103",
+  "https://openalex.org/W2070771761",
+  "https://openalex.org/W2083905053",
+  "https://openalex.org/W2117030594",
+  "https://openalex.org/W2120100126",
+  "https://openalex.org/W2121075864",
+  "https://openalex.org/W2155653793",
+  "https://openalex.org/W2162652393",
+  "https://openalex.org/W2166474856",
+  "https://openalex.org/W2167793421",
+  "https://openalex.org/W2185735208",
+  "https://openalex.org/W2187973725",
+  "https://openalex.org/W2460102615",
+  "https://openalex.org/W2752885492"
+ ],
+ "title": "The relationship between Precision-Recall and ROC curves"
+}

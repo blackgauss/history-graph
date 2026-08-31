@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 207,
+ "doi": "https://doi.org/10.1145/1060745.1060827",
+ "id": "https://openalex.org/W2151470713",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1520752616",
+  "https://openalex.org/W1562405179",
+  "https://openalex.org/W1587314265",
+  "https://openalex.org/W1764421085",
+  "https://openalex.org/W1854214752",
+  "https://openalex.org/W1922170032",
+  "https://openalex.org/W1981086745",
+  "https://openalex.org/W1994727615",
+  "https://openalex.org/W2000273502",
+  "https://openalex.org/W2014478203",
+  "https://openalex.org/W2039976898",
+  "https://openalex.org/W2138621811",
+  "https://openalex.org/W2147152072",
+  "https://openalex.org/W2161118554",
+  "https://openalex.org/W2165469059",
+  "https://openalex.org/W2169263924",
+  "https://openalex.org/W2970618185",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "PageRank as a function of the damping factor"
+}

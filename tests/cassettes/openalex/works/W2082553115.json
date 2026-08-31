@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 334,
+ "doi": "https://doi.org/10.5555/545381.545465",
+ "id": "https://openalex.org/W2082553115",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1489255272",
+  "https://openalex.org/W1593563200",
+  "https://openalex.org/W1989218322",
+  "https://openalex.org/W2119885577",
+  "https://openalex.org/W2132520482",
+  "https://openalex.org/W2161463763"
+ ],
+ "title": "Sampling from a moving window over streaming data"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1109/pgec.1964.263747",
+ "id": "https://openalex.org/W2046391850",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W1965111891",
+  "https://openalex.org/W2003204582",
+  "https://openalex.org/W2099893975",
+  "https://openalex.org/W2113377145",
+  "https://openalex.org/W2126490707",
+  "https://openalex.org/W2167373933"
+ ],
+ "title": "Some Properties of Ternary Threshold Logic"
+}

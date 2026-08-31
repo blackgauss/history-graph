@@ -1,0 +1,400 @@
+{
+ "abstract_inverted_index": {
+  "(1815-1864),": [
+   2
+  ],
+  "/": [
+   81
+  ],
+  "0": [
+   39
+  ],
+  "1": [
+   41
+  ],
+  "1-p": [
+   65
+  ],
+  "1854.": [
+   18
+  ],
+  "249:": [
+   62,
+   67
+  ],
+  "320-337:": [
+   78
+  ],
+  "37:": [
+   20
+  ],
+  "47:": [
+   25
+  ],
+  "48:": [
+   37,
+   43
+  ],
+  "49:": [
+   51
+  ],
+  "=": [
+   64,
+   71
+  ],
+  "Anti": [
+   45
+  ],
+  "B)": [
+   70
+  ],
+  "Boole": [
+   1
+  ],
+  "Boole's": [
+   54,
+   73
+  ],
+  "Comment:": [
+   47
+  ],
+  "Def.": [
+   38,
+   44
+  ],
+  "Download": [
+   79
+  ],
+  "English": [
+   6
+  ],
+  "Error:": [
+   31
+  ],
+  "Foundation": [
+   21
+  ],
+  "George": [
+   0
+  ],
+  "IJMTT": [
+   35
+  ],
+  "Multiplication": [
+   26
+  ],
+  "Peano's": [
+   29
+  ],
+  "To": [
+   48
+  ],
+  "X.": [
+   46
+  ],
+  "a": [
+   3
+  ],
+  "algebraic": [
+   15
+  ],
+  "also:": [
+   83
+  ],
+  "among": [
+   33
+  ],
+  "and": [
+   9,
+   40,
+   69
+  ],
+  "archive.org": [
+   84,
+   85
+  ],
+  "at": [
+   80
+  ],
+  "axiom.": [
+   30
+  ],
+  "axioms": [
+   55
+  ],
+  "by": [
+   27
+  ],
+  "causality": [
+   76
+  ],
+  "contradictionis": [
+   53
+  ],
+  "his": [
+   12
+  ],
+  "in": [
+   17
+  ],
+  "largely": [
+   4
+  ],
+  "logic": [
+   16,
+   23
+  ],
+  "logician,": [
+   10
+  ],
+  "mathematician,": [
+   7
+  ],
+  "monographs": [
+   13
+  ],
+  "of": [
+   22,
+   56,
+   59,
+   75
+  ],
+  "on": [
+   14
+  ],
+  "other": [
+   34
+  ],
+  "p(A": [
+   68
+  ],
+  "p(A)*p(B)": [
+   72
+  ],
+  "p.": [
+   19,
+   24,
+   36,
+   42,
+   50,
+   61,
+   66
+  ],
+  "philosopher,": [
+   8
+  ],
+  "pp.": [
+   77
+  ],
+  "principium": [
+   52
+  ],
+  "probability": [
+   60
+  ],
+  "published": [
+   11
+  ],
+  "q": [
+   63
+  ],
+  "restricted.": [
+   49
+  ],
+  "see": [
+   32,
+   82
+  ],
+  "self-taught": [
+   5
+  ],
+  "the": [
+   57
+  ],
+  "theory": [
+   58,
+   74
+  ],
+  "zero.": [
+   28
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "George Boole",
+    "id": "https://openalex.org/A5076382518",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "George Boole",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.5281/zenodo.6183662",
+  "is_accepted": false,
+  "is_oa": true,
+  "is_published": false,
+  "landing_page_url": "https://doi.org/10.5281/zenodo.6183662",
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "pdf_url": null,
+  "raw_source_name": null,
+  "raw_type": "Book",
+  "source": {
+   "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+   "host_organization": "https://openalex.org/I67311998",
+   "host_organization_lineage": [
+    "https://openalex.org/I67311998"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "European Organization for Nuclear Research",
+   "id": "https://openalex.org/S4306400562",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": null
+ },
+ "cited_by_count": 608,
+ "counts_by_year": [
+  {
+   "cited_by_count": 4,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 35,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.5962/bhl.title.29413",
+ "funders": [],
+ "id": "https://openalex.org/W1563590311",
+ "ids": {
+  "doi": "https://doi.org/10.5962/bhl.title.29413",
+  "mag": "1563590311",
+  "openalex": "https://openalex.org/W1563590311"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": true,
+  "is_oa": true,
+  "oa_status": "green",
+  "oa_url": "https://doi.org/10.5281/zenodo.6183662"
+ },
+ "primary_location": {
+  "id": "doi:10.7551/mitpress/12274.003.0006",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.7551/mitpress/12274.003.0006",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Ideas That Created the Future",
+  "raw_type": "book-chapter",
+  "source": {
+   "display_name": "The MIT Press eBooks",
+   "host_organization": "https://openalex.org/P4310315718",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310315718",
+    "https://openalex.org/P4310316440"
+   ],
+   "host_organization_lineage_names": [
+    "The MIT Press",
+    "Massachusetts Institute of Technology"
+   ],
+   "host_organization_name": "The MIT Press",
+   "id": "https://openalex.org/S4306463997",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "ebook platform"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 1854,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2914728526",
+  "https://openalex.org/W2486886792",
+  "https://openalex.org/W1968293352",
+  "https://openalex.org/W1784765900",
+  "https://openalex.org/W1578044518",
+  "https://openalex.org/W2745756257",
+  "https://openalex.org/W2275166338",
+  "https://openalex.org/W2126163471",
+  "https://openalex.org/W2169250070",
+  "https://openalex.org/W2317286377",
+  "https://openalex.org/W2912565176",
+  "https://openalex.org/W2053619330",
+  "https://openalex.org/W1997704656",
+  "https://openalex.org/W2797148637",
+  "https://openalex.org/W1995875735",
+  "https://openalex.org/W2316690834",
+  "https://openalex.org/W2046942789",
+  "https://openalex.org/W2126160338",
+  "https://openalex.org/W2114804254",
+  "https://openalex.org/W3105002147"
+ ],
+ "title": "An Investigation of the Laws of Thought on Which Are Founded the Mathematical Theories of Logic and Probabilities (1854)",
+ "type": "book-chapter"
+}

@@ -1,0 +1,92 @@
+{
+ "cited_by_count": 546,
+ "counts_by_year": [
+  {
+   "cited_by_count": 4,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1162/089976699300016106",
+ "id": "https://openalex.org/W2172195373",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1500698297",
+  "https://openalex.org/W1571836963",
+  "https://openalex.org/W1966280301",
+  "https://openalex.org/W1981276685",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2059944969",
+  "https://openalex.org/W2084927986",
+  "https://openalex.org/W2088101562",
+  "https://openalex.org/W2097477220",
+  "https://openalex.org/W2104364170",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2119103742",
+  "https://openalex.org/W2135686858",
+  "https://openalex.org/W2149254401",
+  "https://openalex.org/W2152761983",
+  "https://openalex.org/W2170407887",
+  "https://openalex.org/W2175482000",
+  "https://openalex.org/W2797051019",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W4212774754",
+  "https://openalex.org/W4212883601"
+ ],
+ "title": "Prediction Games and Arcing Algorithms"
+}

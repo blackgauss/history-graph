@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 325,
+ "doi": "https://doi.org/10.1145/217474.217583",
+ "id": "https://openalex.org/W2127271657",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1595607623",
+  "https://openalex.org/W1975335740",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2095826301",
+  "https://openalex.org/W2095999202",
+  "https://openalex.org/W2113598105",
+  "https://openalex.org/W2114584926",
+  "https://openalex.org/W2127420616",
+  "https://openalex.org/W2138838211",
+  "https://openalex.org/W2145090412",
+  "https://openalex.org/W2167435507"
+ ],
+ "title": "Verification of arithmetic circuits with binary moment diagrams"
+}

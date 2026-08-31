@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 999,
+ "doi": null,
+ "id": "https://openalex.org/W44465109",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1497256448",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W2149256131",
+  "https://openalex.org/W3207342693"
+ ],
+ "title": "Training feedforward neural networks using genetic algorithms"
+}

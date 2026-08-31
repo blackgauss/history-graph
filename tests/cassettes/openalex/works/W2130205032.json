@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 66,
+ "doi": "https://doi.org/10.1177/003754976400300608",
+ "id": "https://openalex.org/W2130205032",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W1970905335",
+  "https://openalex.org/W2024962142",
+  "https://openalex.org/W2033084685",
+  "https://openalex.org/W2035088936",
+  "https://openalex.org/W2072534266",
+  "https://openalex.org/W2080858874",
+  "https://openalex.org/W2092112887",
+  "https://openalex.org/W2104494879",
+  "https://openalex.org/W2137531595"
+ ],
+ "title": "A survey of Digital Simulation: Digital Analog Simulator Programs"
+}

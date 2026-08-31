@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 2415,
+ "doi": "https://doi.org/10.7551/mitpress/2319.001.0001",
+ "id": "https://openalex.org/W1829244603",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1519972603",
+  "https://openalex.org/W1529646094",
+  "https://openalex.org/W1567828704",
+  "https://openalex.org/W1756661417",
+  "https://openalex.org/W1991450942",
+  "https://openalex.org/W1999862696",
+  "https://openalex.org/W2019376542",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2112920894",
+  "https://openalex.org/W2134112335",
+  "https://openalex.org/W2163976959",
+  "https://openalex.org/W2166822586",
+  "https://openalex.org/W2168529278",
+  "https://openalex.org/W2788557412"
+ ],
+ "title": "The Definition of Standard ML"
+}

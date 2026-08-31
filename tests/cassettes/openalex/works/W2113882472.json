@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 591,
+ "doi": null,
+ "id": "https://openalex.org/W2113882472",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W53470755",
+  "https://openalex.org/W153697471",
+  "https://openalex.org/W1487855905",
+  "https://openalex.org/W1520833703",
+  "https://openalex.org/W1547466200",
+  "https://openalex.org/W1572697648",
+  "https://openalex.org/W1599216479",
+  "https://openalex.org/W1614345895",
+  "https://openalex.org/W1989574962",
+  "https://openalex.org/W2105784366",
+  "https://openalex.org/W2115027220",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2126697816",
+  "https://openalex.org/W2129905273",
+  "https://openalex.org/W2140362372",
+  "https://openalex.org/W2163532598",
+  "https://openalex.org/W2170702935",
+  "https://openalex.org/W2796339269",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W3146590433"
+ ],
+ "title": "Extracting Tree-Structured Representations of Trained Networks"
+}

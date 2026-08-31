@@ -1,0 +1,153 @@
+{
+ "cited_by_count": 7181,
+ "concepts": [
+  {
+   "display_name": "Mathematics",
+   "id": "https://openalex.org/C33923547",
+   "level": 0,
+   "score": 0.7232399582862854,
+   "wikidata": "https://www.wikidata.org/wiki/Q395"
+  },
+  {
+   "display_name": "Statistics",
+   "id": "https://openalex.org/C105795698",
+   "level": 1,
+   "score": 0.5505431890487671,
+   "wikidata": "https://www.wikidata.org/wiki/Q12483"
+  },
+  {
+   "display_name": "Estimation theory",
+   "id": "https://openalex.org/C167928553",
+   "level": 2,
+   "score": 0.5044683218002319,
+   "wikidata": "https://www.wikidata.org/wiki/Q1376021"
+  },
+  {
+   "display_name": "Estimation",
+   "id": "https://openalex.org/C96250715",
+   "level": 2,
+   "score": 0.503856360912323,
+   "wikidata": "https://www.wikidata.org/wiki/Q965330"
+  },
+  {
+   "display_name": "Location parameter",
+   "id": "https://openalex.org/C18294631",
+   "level": 3,
+   "score": 0.4552740454673767,
+   "wikidata": "https://www.wikidata.org/wiki/Q2621185"
+  },
+  {
+   "display_name": "Applied mathematics",
+   "id": "https://openalex.org/C28826006",
+   "level": 1,
+   "score": 0.40802520513534546,
+   "wikidata": "https://www.wikidata.org/wiki/Q33521"
+  },
+  {
+   "display_name": "Econometrics",
+   "id": "https://openalex.org/C149782125",
+   "level": 1,
+   "score": 0.39751580357551575,
+   "wikidata": "https://www.wikidata.org/wiki/Q160039"
+  },
+  {
+   "display_name": "Estimator",
+   "id": "https://openalex.org/C185429906",
+   "level": 2,
+   "score": 0.15841513872146606,
+   "wikidata": "https://www.wikidata.org/wiki/Q1130160"
+  },
+  {
+   "display_name": "Economics",
+   "id": "https://openalex.org/C162324750",
+   "level": 0,
+   "score": 0.05833372473716736,
+   "wikidata": "https://www.wikidata.org/wiki/Q8134"
+  },
+  {
+   "display_name": "Management",
+   "id": "https://openalex.org/C187736073",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q2920921"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 456,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 455,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 351,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 396,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 311,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 523,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 538,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 422,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 356,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 264,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 265,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 233,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 246,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 175,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 161,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1214/aoms/1177703732",
+ "id": "https://openalex.org/W2046033161",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W1595541099",
+  "https://openalex.org/W1967228187",
+  "https://openalex.org/W1992722272",
+  "https://openalex.org/W2034767804",
+  "https://openalex.org/W2065230098",
+  "https://openalex.org/W2148347826",
+  "https://openalex.org/W2798461040",
+  "https://openalex.org/W3044681081",
+  "https://openalex.org/W3211966597",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Robust Estimation of a Location Parameter"
+}

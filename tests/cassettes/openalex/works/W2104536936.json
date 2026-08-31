@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 82,
+ "doi": "https://doi.org/10.1109/istcs.1995.377032",
+ "id": "https://openalex.org/W2104536936",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W89342378",
+  "https://openalex.org/W1583038314",
+  "https://openalex.org/W1599026900",
+  "https://openalex.org/W2018925011",
+  "https://openalex.org/W2029859729",
+  "https://openalex.org/W2033361557",
+  "https://openalex.org/W2053086236",
+  "https://openalex.org/W2057504000",
+  "https://openalex.org/W2080132708",
+  "https://openalex.org/W2094878497",
+  "https://openalex.org/W2097206148",
+  "https://openalex.org/W2132605415",
+  "https://openalex.org/W2141815340",
+  "https://openalex.org/W2143391442",
+  "https://openalex.org/W2152221184",
+  "https://openalex.org/W2164137075",
+  "https://openalex.org/W4256317935",
+  "https://openalex.org/W6635778417",
+  "https://openalex.org/W6664686552"
+ ],
+ "title": "Some improvements to total degree tests"
+}

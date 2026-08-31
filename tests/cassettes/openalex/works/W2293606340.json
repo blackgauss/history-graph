@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 72,
+ "doi": "https://doi.org/10.1109/lics.2001.932479",
+ "id": "https://openalex.org/W2293606340",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W147971832",
+  "https://openalex.org/W1511590542",
+  "https://openalex.org/W1534850143",
+  "https://openalex.org/W1546619436",
+  "https://openalex.org/W1553543780",
+  "https://openalex.org/W1567682528",
+  "https://openalex.org/W1575118279",
+  "https://openalex.org/W1582571943",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W2000346568",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2036915776",
+  "https://openalex.org/W2082354652",
+  "https://openalex.org/W2153131284",
+  "https://openalex.org/W2164778826"
+ ],
+ "title": "Deconstructing Shostak"
+}

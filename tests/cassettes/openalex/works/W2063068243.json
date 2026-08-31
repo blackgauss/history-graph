@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 613,
+ "doi": "https://doi.org/10.1002/spe.4380090105",
+ "id": "https://openalex.org/W2063068243",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W159082583",
+  "https://openalex.org/W655501358",
+  "https://openalex.org/W1525140360",
+  "https://openalex.org/W1601555688",
+  "https://openalex.org/W2067911767",
+  "https://openalex.org/W2074769340",
+  "https://openalex.org/W2113683593",
+  "https://openalex.org/W2113757735",
+  "https://openalex.org/W4213378034",
+  "https://openalex.org/W6669309895"
+ ],
+ "title": "A new implementation technique for applicative languages"
+}

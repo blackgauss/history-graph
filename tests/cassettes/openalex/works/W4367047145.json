@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 153,
+ "counts_by_year": [
+  {
+   "cited_by_count": 41,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3543507.3583434",
+ "id": "https://openalex.org/W4367047145",
+ "publication_year": 2023,
+ "title": "Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders"
+}

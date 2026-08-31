@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 388,
+ "doi": "https://doi.org/10.1145/238061.238163",
+ "id": "https://openalex.org/W2097477220",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1974892965",
+  "https://openalex.org/W1982813377",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2050660892",
+  "https://openalex.org/W2070534370",
+  "https://openalex.org/W2071573426",
+  "https://openalex.org/W2093717447",
+  "https://openalex.org/W2093825590",
+  "https://openalex.org/W2097886040",
+  "https://openalex.org/W2129113961",
+  "https://openalex.org/W2134422938",
+  "https://openalex.org/W2153190668",
+  "https://openalex.org/W2168281471",
+  "https://openalex.org/W2611627047",
+  "https://openalex.org/W4255572858",
+  "https://openalex.org/W4301106181"
+ ],
+ "title": "Game theory, on-line prediction and boosting"
+}

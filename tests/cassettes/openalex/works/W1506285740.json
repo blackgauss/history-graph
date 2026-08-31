@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 9394,
+ "doi": null,
+ "id": "https://openalex.org/W1506285740",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W20184837",
+  "https://openalex.org/W97619142",
+  "https://openalex.org/W1487801850",
+  "https://openalex.org/W1499049447",
+  "https://openalex.org/W1556507321",
+  "https://openalex.org/W1565236324",
+  "https://openalex.org/W1601529450",
+  "https://openalex.org/W1787564306",
+  "https://openalex.org/W1948199107",
+  "https://openalex.org/W1992880122",
+  "https://openalex.org/W2073308541",
+  "https://openalex.org/W2100406636",
+  "https://openalex.org/W2138426500",
+  "https://openalex.org/W2159080219",
+  "https://openalex.org/W2166559705",
+  "https://openalex.org/W2323746689",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Fast Algorithms for Mining Association Rules in Large Databases"
+}

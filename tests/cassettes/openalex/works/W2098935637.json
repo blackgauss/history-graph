@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 1746,
+ "doi": "https://doi.org/10.1145/1376616.1376726",
+ "id": "https://openalex.org/W2098935637",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1964857063",
+  "https://openalex.org/W1981420413",
+  "https://openalex.org/W2006600991",
+  "https://openalex.org/W2053524377",
+  "https://openalex.org/W2100830825",
+  "https://openalex.org/W2103201239",
+  "https://openalex.org/W2119714163",
+  "https://openalex.org/W2153704625",
+  "https://openalex.org/W2154894831",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W2436525433",
+  "https://openalex.org/W2751199251",
+  "https://openalex.org/W4237172715",
+  "https://openalex.org/W4238556425",
+  "https://openalex.org/W6678120442",
+  "https://openalex.org/W6743659760"
+ ],
+ "title": "Pig latin"
+}

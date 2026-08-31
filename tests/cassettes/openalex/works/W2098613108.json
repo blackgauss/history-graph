@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 7639,
+ "doi": "https://doi.org/10.1049/ip-f-2.1993.0015",
+ "id": "https://openalex.org/W2098613108",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1977569390",
+  "https://openalex.org/W1980792219",
+  "https://openalex.org/W2036323349",
+  "https://openalex.org/W2039921094",
+  "https://openalex.org/W2042296034",
+  "https://openalex.org/W2093871828",
+  "https://openalex.org/W2099867508",
+  "https://openalex.org/W2122512809",
+  "https://openalex.org/W2129905273",
+  "https://openalex.org/W2171618211",
+  "https://openalex.org/W2331182131",
+  "https://openalex.org/W4233014035"
+ ],
+ "title": "Novel approach to nonlinear/non-Gaussian Bayesian state estimation"
+}

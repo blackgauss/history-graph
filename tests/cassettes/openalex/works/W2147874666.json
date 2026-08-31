@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 91,
+ "doi": "https://doi.org/10.1109/72.248466",
+ "id": "https://openalex.org/W2147874666",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W124100583",
+  "https://openalex.org/W1980290744",
+  "https://openalex.org/W2055386158",
+  "https://openalex.org/W2135520967",
+  "https://openalex.org/W2143956139",
+  "https://openalex.org/W2149846618",
+  "https://openalex.org/W3195224592"
+ ],
+ "title": "Curvature-driven smoothing: a learning algorithm for feedforward networks"
+}

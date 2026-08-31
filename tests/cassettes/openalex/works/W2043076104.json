@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 108,
+ "doi": "https://doi.org/10.1162/neco.1997.9.5.1143",
+ "id": "https://openalex.org/W2043076104",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1533169541",
+  "https://openalex.org/W1544729927",
+  "https://openalex.org/W2005201432",
+  "https://openalex.org/W2029538739",
+  "https://openalex.org/W2038390905",
+  "https://openalex.org/W2063261057",
+  "https://openalex.org/W2071223680",
+  "https://openalex.org/W2090614046",
+  "https://openalex.org/W2095734615",
+  "https://openalex.org/W2112081648",
+  "https://openalex.org/W2166116275",
+  "https://openalex.org/W4200283578",
+  "https://openalex.org/W4238284510"
+ ],
+ "title": "A Bound on the Error of Cross Validation Using the Approximation and Estimation Rates, with Consequences for the Training-Test Split"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 185,
+ "doi": "https://doi.org/10.1109/tassp.1984.1164346",
+ "id": "https://openalex.org/W2044002522",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1578796561",
+  "https://openalex.org/W1628049834",
+  "https://openalex.org/W1950316085",
+  "https://openalex.org/W1966264494",
+  "https://openalex.org/W1968127489",
+  "https://openalex.org/W1984034733",
+  "https://openalex.org/W2022554507",
+  "https://openalex.org/W2085792571",
+  "https://openalex.org/W2097645910",
+  "https://openalex.org/W2114283721",
+  "https://openalex.org/W2122350663",
+  "https://openalex.org/W2134383396",
+  "https://openalex.org/W2138054245",
+  "https://openalex.org/W2150418026",
+  "https://openalex.org/W2150593711",
+  "https://openalex.org/W2160013257",
+  "https://openalex.org/W2164240509",
+  "https://openalex.org/W2998892371",
+  "https://openalex.org/W3035139526",
+  "https://openalex.org/W6772764035",
+  "https://openalex.org/W6779487094"
+ ],
+ "title": "Product code vector quantizers for waveform and voice coding"
+}

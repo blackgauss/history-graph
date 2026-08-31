@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 1267,
+ "doi": null,
+ "id": "https://openalex.org/W1966280301",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W89419892",
+  "https://openalex.org/W1492088121",
+  "https://openalex.org/W1510806966",
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1539741229",
+  "https://openalex.org/W1555677953",
+  "https://openalex.org/W1567276288",
+  "https://openalex.org/W1597462085",
+  "https://openalex.org/W1676820704",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2113546432",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W3174988039"
+ ],
+ "title": "Bagging, boosting, and C4.S"
+}

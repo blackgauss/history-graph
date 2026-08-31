@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 26,
+ "doi": "https://doi.org/10.1145/964001.964008",
+ "id": "https://openalex.org/W1978523506",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W938873559",
+  "https://openalex.org/W1523977407",
+  "https://openalex.org/W1557561422",
+  "https://openalex.org/W1580977539",
+  "https://openalex.org/W2003977428",
+  "https://openalex.org/W2041453592",
+  "https://openalex.org/W2069323522",
+  "https://openalex.org/W2073216698",
+  "https://openalex.org/W2079404512",
+  "https://openalex.org/W2101254143",
+  "https://openalex.org/W2120113841",
+  "https://openalex.org/W2123727486",
+  "https://openalex.org/W2124764481",
+  "https://openalex.org/W2315234012",
+  "https://openalex.org/W4291439952",
+  "https://openalex.org/W6633355477",
+  "https://openalex.org/W6668541719",
+  "https://openalex.org/W6677914159"
+ ],
+ "title": "Isomorphisms of generic recursive polynomial types"
+}

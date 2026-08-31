@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 335,
+ "doi": null,
+ "id": "https://openalex.org/W2141568518",
+ "publication_year": 1969,
+ "referenced_works": [
+  "https://openalex.org/W1587442892",
+  "https://openalex.org/W1594912681",
+  "https://openalex.org/W2530006810"
+ ],
+ "title": "Lambda-calculus models of programming languages."
+}

@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1145/253260.253349",
+ "id": "https://openalex.org/W2137139964",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1495007564",
+  "https://openalex.org/W1544843123",
+  "https://openalex.org/W1548200121",
+  "https://openalex.org/W1820949069",
+  "https://openalex.org/W1952843833",
+  "https://openalex.org/W1997657677",
+  "https://openalex.org/W2049342105",
+  "https://openalex.org/W2079656678",
+  "https://openalex.org/W2114270519",
+  "https://openalex.org/W2122416857",
+  "https://openalex.org/W2126413127",
+  "https://openalex.org/W2148554095"
+ ],
+ "title": "Wave-indices"
+}

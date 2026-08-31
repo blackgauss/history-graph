@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 566,
+ "doi": "https://doi.org/10.1145/1059981.1059982",
+ "id": "https://openalex.org/W2123937625",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W67418649",
+  "https://openalex.org/W1517993545",
+  "https://openalex.org/W1522744294",
+  "https://openalex.org/W1652319903",
+  "https://openalex.org/W1846765585",
+  "https://openalex.org/W1864566053",
+  "https://openalex.org/W1928061009",
+  "https://openalex.org/W1985081562",
+  "https://openalex.org/W1999047234",
+  "https://openalex.org/W2006551346",
+  "https://openalex.org/W2007807439",
+  "https://openalex.org/W2008906462",
+  "https://openalex.org/W2047221353",
+  "https://openalex.org/W2053584122",
+  "https://openalex.org/W2061503185",
+  "https://openalex.org/W2084213692",
+  "https://openalex.org/W2170112109",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6663913501"
+ ],
+ "title": "Evaluating implicit measures to improve web search"
+}

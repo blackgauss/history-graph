@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 138,
+ "doi": "https://doi.org/10.1002/mma.1670030139",
+ "id": "https://openalex.org/W2168955138",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W55317091",
+  "https://openalex.org/W426191182",
+  "https://openalex.org/W571588236",
+  "https://openalex.org/W1972211452",
+  "https://openalex.org/W1979980771",
+  "https://openalex.org/W2040197074",
+  "https://openalex.org/W2085877024",
+  "https://openalex.org/W2111214521",
+  "https://openalex.org/W2121203842",
+  "https://openalex.org/W2322564723",
+  "https://openalex.org/W3028173968",
+  "https://openalex.org/W3103241044",
+  "https://openalex.org/W3123714093",
+  "https://openalex.org/W3130260481",
+  "https://openalex.org/W4211145850",
+  "https://openalex.org/W4230953281",
+  "https://openalex.org/W4240240566",
+  "https://openalex.org/W4246228454",
+  "https://openalex.org/W4256616349",
+  "https://openalex.org/W4378363317",
+  "https://openalex.org/W6676508707"
+ ],
+ "title": "On spherical spline interpolation and approximation"
+}

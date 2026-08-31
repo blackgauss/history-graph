@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 62,
+ "doi": "https://doi.org/10.1145/1374376.1374451",
+ "id": "https://openalex.org/W2147306258",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1504694836",
+  "https://openalex.org/W1540827405",
+  "https://openalex.org/W1555791054",
+  "https://openalex.org/W1974466705",
+  "https://openalex.org/W1982381767",
+  "https://openalex.org/W2004001705",
+  "https://openalex.org/W2012365979",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2026103826",
+  "https://openalex.org/W2027528470",
+  "https://openalex.org/W2029058452",
+  "https://openalex.org/W2042194938",
+  "https://openalex.org/W2050570613",
+  "https://openalex.org/W2087745889",
+  "https://openalex.org/W2095546965",
+  "https://openalex.org/W2106458073",
+  "https://openalex.org/W2110400261",
+  "https://openalex.org/W2129018774",
+  "https://openalex.org/W2143101939",
+  "https://openalex.org/W2148825261",
+  "https://openalex.org/W4214821481",
+  "https://openalex.org/W4238893454"
+ ],
+ "title": "Agnostically learning decision trees"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 101,
+ "doi": "https://doi.org/10.1080/09500349414552351",
+ "id": "https://openalex.org/W2079429651",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W192161780",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W1993138363",
+  "https://openalex.org/W2012206667",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2057841638",
+  "https://openalex.org/W2059442002",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2085634981",
+  "https://openalex.org/W2089442854",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2151089673",
+  "https://openalex.org/W2179731956",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W4214950786",
+  "https://openalex.org/W4244685374",
+  "https://openalex.org/W6608031758",
+  "https://openalex.org/W6812079725",
+  "https://openalex.org/W6814838528",
+  "https://openalex.org/W6831274217"
+ ],
+ "title": "Oracle Quantum Computing"
+}

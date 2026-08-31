@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 102,
+ "doi": null,
+ "id": "https://openalex.org/W2165217207",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1487148666",
+  "https://openalex.org/W1489095897",
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W2057619148",
+  "https://openalex.org/W2114766824",
+  "https://openalex.org/W2147800946",
+  "https://openalex.org/W2155195660",
+  "https://openalex.org/W2162836072",
+  "https://openalex.org/W3017143921"
+ ],
+ "title": "Structural Risk Minimization for Character Recognition"
+}

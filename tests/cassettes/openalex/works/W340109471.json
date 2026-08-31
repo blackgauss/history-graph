@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 38,
+ "doi": null,
+ "id": "https://openalex.org/W340109471",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1483339275",
+  "https://openalex.org/W1485990531",
+  "https://openalex.org/W1552559776",
+  "https://openalex.org/W1582095330",
+  "https://openalex.org/W1597140906",
+  "https://openalex.org/W1606647729",
+  "https://openalex.org/W1978169673",
+  "https://openalex.org/W1999647826",
+  "https://openalex.org/W2002176884",
+  "https://openalex.org/W2005920582",
+  "https://openalex.org/W2022355674",
+  "https://openalex.org/W2040575807",
+  "https://openalex.org/W2062485819",
+  "https://openalex.org/W2073491323",
+  "https://openalex.org/W2076073997",
+  "https://openalex.org/W2093824806",
+  "https://openalex.org/W2118324648",
+  "https://openalex.org/W2121280267",
+  "https://openalex.org/W2160811334",
+  "https://openalex.org/W2610670723",
+  "https://openalex.org/W2970205057"
+ ],
+ "title": "On the Complexity of Fragments of Modal Logics"
+}

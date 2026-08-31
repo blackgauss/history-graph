@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 12,
+ "doi": null,
+ "id": "https://openalex.org/W2109849264",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W42705453",
+  "https://openalex.org/W1520426560",
+  "https://openalex.org/W1520448186",
+  "https://openalex.org/W1585129016",
+  "https://openalex.org/W2083380015",
+  "https://openalex.org/W2128765501",
+  "https://openalex.org/W2146547746",
+  "https://openalex.org/W2152895903",
+  "https://openalex.org/W2153758647",
+  "https://openalex.org/W2161369142",
+  "https://openalex.org/W2987657883"
+ ],
+ "title": "Gaussian Fields for Approximate Inference in Layered Sigmoid Belief Networks"
+}

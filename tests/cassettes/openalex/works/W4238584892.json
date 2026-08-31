@@ -1,0 +1,80 @@
+{
+ "cited_by_count": 1391,
+ "counts_by_year": [
+  {
+   "cited_by_count": 42,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 63,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 67,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 71,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 80,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 75,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 99,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 70,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 61,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 92,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 91,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/945445.945450",
+ "id": "https://openalex.org/W4238584892",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W2005373714",
+  "https://openalex.org/W2088221489",
+  "https://openalex.org/W2115457697",
+  "https://openalex.org/W2131645490",
+  "https://openalex.org/W2133338501",
+  "https://openalex.org/W2149609142",
+  "https://openalex.org/W4230805115",
+  "https://openalex.org/W4232342695",
+  "https://openalex.org/W4248578633"
+ ],
+ "title": "The Google file system"
+}

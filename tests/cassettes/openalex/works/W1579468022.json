@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 35,
+ "doi": "https://doi.org/10.1007/11679363_113",
+ "id": "https://openalex.org/W1579468022",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W154703073",
+  "https://openalex.org/W1489238841",
+  "https://openalex.org/W1522950143",
+  "https://openalex.org/W1541874989",
+  "https://openalex.org/W1562790570",
+  "https://openalex.org/W1579943259",
+  "https://openalex.org/W1962553732",
+  "https://openalex.org/W1966897054",
+  "https://openalex.org/W1970618826",
+  "https://openalex.org/W2020753833",
+  "https://openalex.org/W2087089000",
+  "https://openalex.org/W2110657565",
+  "https://openalex.org/W2114280699",
+  "https://openalex.org/W2114537044",
+  "https://openalex.org/W2135503775",
+  "https://openalex.org/W2141652941",
+  "https://openalex.org/W2146857194",
+  "https://openalex.org/W2156516654",
+  "https://openalex.org/W2157093409",
+  "https://openalex.org/W2206857820",
+  "https://openalex.org/W3016001898",
+  "https://openalex.org/W4253187718"
+ ],
+ "title": "Cross-Entropy Optimization for Independent Process Analysis"
+}

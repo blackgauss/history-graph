@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 273,
+ "doi": "https://doi.org/10.1016/s1474-6670(17)69024-4",
+ "id": "https://openalex.org/W1669478466",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W632810548",
+  "https://openalex.org/W1994368767",
+  "https://openalex.org/W1997927852",
+  "https://openalex.org/W2040493578",
+  "https://openalex.org/W2049917002",
+  "https://openalex.org/W2061974495",
+  "https://openalex.org/W2071411056",
+  "https://openalex.org/W2321541861",
+  "https://openalex.org/W2524449277",
+  "https://openalex.org/W2610338436",
+  "https://openalex.org/W2743472384",
+  "https://openalex.org/W2797671267",
+  "https://openalex.org/W2886269107",
+  "https://openalex.org/W2887985166",
+  "https://openalex.org/W4206928837",
+  "https://openalex.org/W4211264795",
+  "https://openalex.org/W4236121430",
+  "https://openalex.org/W4253972805",
+  "https://openalex.org/W6648825870",
+  "https://openalex.org/W6649614378",
+  "https://openalex.org/W6666172237",
+  "https://openalex.org/W6753949767",
+  "https://openalex.org/W6754068760",
+  "https://openalex.org/W6807190441"
+ ],
+ "title": "Numerical Identification of Linear Dynamic Systems from Normal Operating Records"
+}

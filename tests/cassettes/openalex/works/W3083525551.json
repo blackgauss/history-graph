@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 24,
+ "doi": "https://doi.org/10.1002/rsa.20062",
+ "id": "https://openalex.org/W3083525551",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W639289183",
+  "https://openalex.org/W1505739153",
+  "https://openalex.org/W2044829130",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2099111195",
+  "https://openalex.org/W2103749128",
+  "https://openalex.org/W2106833918",
+  "https://openalex.org/W2145840445",
+  "https://openalex.org/W2334237942",
+  "https://openalex.org/W2497378839",
+  "https://openalex.org/W2643352875",
+  "https://openalex.org/W2949874440",
+  "https://openalex.org/W2950582514",
+  "https://openalex.org/W4214858887",
+  "https://openalex.org/W4301441647"
+ ],
+ "title": "Coin flipping from a cosmic source: On error correction of truly random bits"
+}

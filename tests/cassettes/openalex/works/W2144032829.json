@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 739,
+ "doi": "https://doi.org/10.1057/9781137024381_1",
+ "id": "https://openalex.org/W2144032829",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W2056858451",
+  "https://openalex.org/W2127576890",
+  "https://openalex.org/W2325019975",
+  "https://openalex.org/W2327417466",
+  "https://openalex.org/W4300175769"
+ ],
+ "title": "The Optimality of (S,s) Policies in the Dynamic Inventory Problem"
+}

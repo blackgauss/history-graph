@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 461,
+ "doi": "https://doi.org/10.1049/cp:19991091",
+ "id": "https://openalex.org/W2058475745",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W152693800",
+  "https://openalex.org/W1602667807",
+  "https://openalex.org/W1859781365",
+  "https://openalex.org/W1993145550",
+  "https://openalex.org/W2093404847",
+  "https://openalex.org/W2103971661",
+  "https://openalex.org/W2106491486",
+  "https://openalex.org/W2148603752",
+  "https://openalex.org/W2282078507"
+ ],
+ "title": "Support vector learning for ordinal regression"
+}

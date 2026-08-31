@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 13,
+ "doi": "https://doi.org/10.1109/tc.1986.1676715",
+ "id": "https://openalex.org/W2056485317",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W2066932",
+  "https://openalex.org/W185793834",
+  "https://openalex.org/W1484361520",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W2002045271",
+  "https://openalex.org/W2010111173",
+  "https://openalex.org/W2017495322",
+  "https://openalex.org/W2026731931",
+  "https://openalex.org/W2033465751",
+  "https://openalex.org/W2035629491",
+  "https://openalex.org/W2042328301",
+  "https://openalex.org/W2069334575",
+  "https://openalex.org/W2072293288",
+  "https://openalex.org/W2072733814",
+  "https://openalex.org/W2074302481",
+  "https://openalex.org/W2084674736",
+  "https://openalex.org/W2121074202",
+  "https://openalex.org/W2132692154",
+  "https://openalex.org/W4245079735",
+  "https://openalex.org/W6600089149",
+  "https://openalex.org/W6601762959",
+  "https://openalex.org/W6628773567"
+ ],
+ "title": "A Special-Function Unit for Sorting and Sort-Based Database Operations"
+}

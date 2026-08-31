@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 37,
+ "doi": null,
+ "id": "https://openalex.org/W2152895903",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W42705453",
+  "https://openalex.org/W1481229783",
+  "https://openalex.org/W1520448186",
+  "https://openalex.org/W1575578922",
+  "https://openalex.org/W2083380015",
+  "https://openalex.org/W2104163628",
+  "https://openalex.org/W2109787716",
+  "https://openalex.org/W2110553242",
+  "https://openalex.org/W2133231442",
+  "https://openalex.org/W2151457493",
+  "https://openalex.org/W2161369142",
+  "https://openalex.org/W2342801318",
+  "https://openalex.org/W2725061391"
+ ],
+ "title": "Tractable Variational Structures for Approximating Graphical Models"
+}

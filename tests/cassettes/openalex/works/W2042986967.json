@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 3832,
+ "doi": "https://doi.org/10.1287/opre.21.2.498",
+ "id": "https://openalex.org/W2042986967",
+ "publication_year": 1973,
+ "referenced_works": [
+  "https://openalex.org/W164048508",
+  "https://openalex.org/W1969186119",
+  "https://openalex.org/W1992928037",
+  "https://openalex.org/W2009803313",
+  "https://openalex.org/W2037455079",
+  "https://openalex.org/W2056898464",
+  "https://openalex.org/W2058937865",
+  "https://openalex.org/W2106378689",
+  "https://openalex.org/W2142022975",
+  "https://openalex.org/W2148673189",
+  "https://openalex.org/W2161455936"
+ ],
+ "title": "An Effective Heuristic Algorithm for the Traveling-Salesman Problem"
+}

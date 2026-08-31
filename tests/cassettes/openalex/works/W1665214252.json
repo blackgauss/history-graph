@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 13236,
+ "doi": null,
+ "id": "https://openalex.org/W1665214252",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W145818128",
+  "https://openalex.org/W1509928947",
+  "https://openalex.org/W1782590233",
+  "https://openalex.org/W1810424324",
+  "https://openalex.org/W1994197834",
+  "https://openalex.org/W2064082346",
+  "https://openalex.org/W2099866409",
+  "https://openalex.org/W2100002341",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2114153178",
+  "https://openalex.org/W2115761837",
+  "https://openalex.org/W2116064496",
+  "https://openalex.org/W2134557905",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2149845449",
+  "https://openalex.org/W2157364932",
+  "https://openalex.org/W2158164339",
+  "https://openalex.org/W2165225968",
+  "https://openalex.org/W2536626143",
+  "https://openalex.org/W2546302380",
+  "https://openalex.org/W2613634265"
+ ],
+ "title": "Rectified Linear Units Improve Restricted Boltzmann Machines"
+}

@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 2196,
+ "doi": "https://doi.org/10.1007/978-94-011-5014-9_12",
+ "id": "https://openalex.org/W2567948266",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W581152777",
+  "https://openalex.org/W1580495158",
+  "https://openalex.org/W1991278573",
+  "https://openalex.org/W2024476015",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2117853077",
+  "https://openalex.org/W3193262203"
+ ],
+ "title": "A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants"
+}

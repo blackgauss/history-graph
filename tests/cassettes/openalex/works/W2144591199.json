@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 12,
+ "doi": "https://doi.org/10.1145/378239.378486",
+ "id": "https://openalex.org/W2144591199",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1969470284",
+  "https://openalex.org/W2010065567",
+  "https://openalex.org/W2011972404",
+  "https://openalex.org/W2042524671",
+  "https://openalex.org/W2047650874",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2144633290",
+  "https://openalex.org/W2167435507"
+ ],
+ "title": "Computing logic-stage delays using circuit simulation and symbolic elmore analysis"
+}

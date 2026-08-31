@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 3935,
+ "doi": "https://doi.org/10.1109/icnn.1993.298623",
+ "id": "https://openalex.org/W2143908786",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W50076749",
+  "https://openalex.org/W293134581",
+  "https://openalex.org/W1541007220",
+  "https://openalex.org/W2083918846",
+  "https://openalex.org/W2160208155",
+  "https://openalex.org/W2695777493",
+  "https://openalex.org/W4300402905",
+  "https://openalex.org/W6601962754"
+ ],
+ "title": "A direct adaptive method for faster backpropagation learning: the RPROP algorithm"
+}

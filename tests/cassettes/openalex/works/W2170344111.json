@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 1549,
+ "doi": "https://doi.org/10.1145/511446.511513",
+ "id": "https://openalex.org/W2170344111",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1562405179",
+  "https://openalex.org/W2006119904",
+  "https://openalex.org/W2051834357",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2067438047",
+  "https://openalex.org/W2069153192",
+  "https://openalex.org/W2079672501",
+  "https://openalex.org/W2086368750",
+  "https://openalex.org/W2096041903",
+  "https://openalex.org/W2130610812",
+  "https://openalex.org/W2138621811",
+  "https://openalex.org/W2140350208",
+  "https://openalex.org/W2295428206",
+  "https://openalex.org/W2398953749",
+  "https://openalex.org/W4240407914",
+  "https://openalex.org/W6712818525"
+ ],
+ "title": "Topic-sensitive PageRank"
+}

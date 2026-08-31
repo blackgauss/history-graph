@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 45,
+ "doi": "https://doi.org/10.1109/tac.1984.1103594",
+ "id": "https://openalex.org/W2138152497",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1510122527",
+  "https://openalex.org/W2048716085",
+  "https://openalex.org/W2077730310",
+  "https://openalex.org/W2078543085",
+  "https://openalex.org/W2081559824",
+  "https://openalex.org/W2140998418",
+  "https://openalex.org/W2142522228",
+  "https://openalex.org/W2159316361",
+  "https://openalex.org/W2160188132",
+  "https://openalex.org/W4254127125"
+ ],
+ "title": "On the gain margin of nonlinear and optimal regulators"
+}

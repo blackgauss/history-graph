@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 891,
+ "doi": "https://doi.org/10.1145/582318.582321",
+ "id": "https://openalex.org/W2066799613",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W2067021215",
+  "https://openalex.org/W2092276439",
+  "https://openalex.org/W2161694911",
+  "https://openalex.org/W2165558283",
+  "https://openalex.org/W2901608006",
+  "https://openalex.org/W4211218333"
+ ],
+ "title": "The K-D-B-tree"
+}

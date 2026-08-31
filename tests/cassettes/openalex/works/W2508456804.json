@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 18,
+ "doi": "https://doi.org/10.2307/2346350",
+ "id": "https://openalex.org/W2508456804",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1981251392",
+  "https://openalex.org/W2026590277",
+  "https://openalex.org/W2034562813",
+  "https://openalex.org/W2061317273",
+  "https://openalex.org/W2112081648",
+  "https://openalex.org/W2317866228",
+  "https://openalex.org/W2484345041",
+  "https://openalex.org/W2508100462",
+  "https://openalex.org/W2797697237"
+ ],
+ "title": "On Model Selection Based on Validation with Applications to Pressure and Temperature Prognosis"
+}

@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 25,
+ "doi": "https://doi.org/10.1109/icde.1989.47211",
+ "id": "https://openalex.org/W2123565672",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W85239337",
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1497748148",
+  "https://openalex.org/W1514983296",
+  "https://openalex.org/W1604899648",
+  "https://openalex.org/W1973084299",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2133384222",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W2988759555",
+  "https://openalex.org/W6629717275"
+ ],
+ "title": "Query execution for large relations on functional disk system"
+}

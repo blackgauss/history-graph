@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 9,
+ "doi": null,
+ "id": "https://openalex.org/W2107074774",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W188340045",
+  "https://openalex.org/W1530657611",
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1546328101",
+  "https://openalex.org/W1964826896",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2019671617",
+  "https://openalex.org/W2031417520",
+  "https://openalex.org/W2031585281",
+  "https://openalex.org/W2036827307",
+  "https://openalex.org/W2071846104",
+  "https://openalex.org/W2125053431",
+  "https://openalex.org/W2154952480",
+  "https://openalex.org/W2160999252",
+  "https://openalex.org/W2165758113"
+ ],
+ "title": "Neural Networks with Quadratic VC Dimension"
+}

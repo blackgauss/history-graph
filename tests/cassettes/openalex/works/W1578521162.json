@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 113,
+ "doi": null,
+ "id": "https://openalex.org/W1578521162",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1592847719",
+  "https://openalex.org/W1599347336",
+  "https://openalex.org/W1958163169",
+  "https://openalex.org/W2107726111",
+  "https://openalex.org/W2109910161",
+  "https://openalex.org/W2121517924",
+  "https://openalex.org/W2126566174",
+  "https://openalex.org/W2143435603",
+  "https://openalex.org/W2160371091",
+  "https://openalex.org/W2548352678",
+  "https://openalex.org/W3011120880"
+ ],
+ "title": "Hierarchical Reinforcement Learning Based on Subgoal Discovery and Subpolicy Specialization"
+}

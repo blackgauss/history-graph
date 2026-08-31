@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 275,
+ "doi": "https://doi.org/10.1007/978-3-540-27813-9_49",
+ "id": "https://openalex.org/W1515278398",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W14816984",
+  "https://openalex.org/W26772505",
+  "https://openalex.org/W121750629",
+  "https://openalex.org/W1531082202",
+  "https://openalex.org/W1596722521",
+  "https://openalex.org/W1856928967",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W2105157994",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2621468397",
+  "https://openalex.org/W3037997346"
+ ],
+ "title": "CVC Lite: A New Implementation of the Cooperating Validity Checker"
+}

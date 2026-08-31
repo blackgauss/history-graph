@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 83,
+ "doi": "https://doi.org/10.1145/322276.322280",
+ "id": "https://openalex.org/W2006564766",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1495302482",
+  "https://openalex.org/W1968137129",
+  "https://openalex.org/W1975714036",
+  "https://openalex.org/W1981597405",
+  "https://openalex.org/W1985581502",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2032386524",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2047776098",
+  "https://openalex.org/W2089176231",
+  "https://openalex.org/W2110810394",
+  "https://openalex.org/W2125223317",
+  "https://openalex.org/W2135105491",
+  "https://openalex.org/W2162068127",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2168578744",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W6608031758"
+ ],
+ "title": "On the Complexity of Testing Implications of Functional and Join Dependencies"
+}

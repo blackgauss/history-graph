@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 131,
+ "doi": null,
+ "id": "https://openalex.org/W1859938857",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W110443600",
+  "https://openalex.org/W1487077715",
+  "https://openalex.org/W2009533501",
+  "https://openalex.org/W2060458867",
+  "https://openalex.org/W2071106922",
+  "https://openalex.org/W2113457868",
+  "https://openalex.org/W2118948426",
+  "https://openalex.org/W2341171179",
+  "https://openalex.org/W2529266789",
+  "https://openalex.org/W2981264952"
+ ],
+ "title": "A Machine Learning Architecture for Optimizing Web Search Engines"
+}

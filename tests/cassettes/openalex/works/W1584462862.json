@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 52,
+ "doi": "https://doi.org/10.1007/bfb0020178",
+ "id": "https://openalex.org/W1584462862",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2029538739",
+  "https://openalex.org/W2070534370",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W4238284510",
+  "https://openalex.org/W4248437541"
+ ],
+ "title": "A boosting algorithm for regression"
+}

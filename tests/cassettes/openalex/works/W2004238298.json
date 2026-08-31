@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 393,
+ "doi": "https://doi.org/10.1086/261670",
+ "id": "https://openalex.org/W2004238298",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W638453110",
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1547358889",
+  "https://openalex.org/W1589766538",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2015527784",
+  "https://openalex.org/W2018308897",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2030385040",
+  "https://openalex.org/W2066809750",
+  "https://openalex.org/W2074940005",
+  "https://openalex.org/W2075191824",
+  "https://openalex.org/W2103477867",
+  "https://openalex.org/W2110759951",
+  "https://openalex.org/W2124270520",
+  "https://openalex.org/W2775631102",
+  "https://openalex.org/W3122169863",
+  "https://openalex.org/W4251083239",
+  "https://openalex.org/W4252521556",
+  "https://openalex.org/W4367840191"
+ ],
+ "title": "Why Are Vickrey Auctions Rare?"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 50,
+ "doi": "https://doi.org/10.1109/spl.2009.4914907",
+ "id": "https://openalex.org/W2154815337",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1510442823",
+  "https://openalex.org/W1978507093",
+  "https://openalex.org/W1996247193",
+  "https://openalex.org/W2026409874",
+  "https://openalex.org/W2095760815",
+  "https://openalex.org/W2137228810",
+  "https://openalex.org/W2144007792",
+  "https://openalex.org/W2162289995",
+  "https://openalex.org/W2171695156",
+  "https://openalex.org/W3148792289",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6630562493",
+  "https://openalex.org/W6674747466"
+ ],
+ "title": "Cube: A 512-FPGA cluster"
+}

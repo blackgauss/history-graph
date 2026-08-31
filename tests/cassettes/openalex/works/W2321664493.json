@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1126/science.316.5825.688c",
+ "id": "https://openalex.org/W2321664493",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1931792391",
+  "https://openalex.org/W1992139304",
+  "https://openalex.org/W2065313971",
+  "https://openalex.org/W2114937283",
+  "https://openalex.org/W2322604896"
+ ],
+ "title": "Prototype Resilient, Self-Modeling Robots"
+}

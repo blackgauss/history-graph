@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 348,
+ "doi": "https://doi.org/10.1016/s0888-613x(96)00074-6",
+ "id": "https://openalex.org/W2082131185",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W67858951",
+  "https://openalex.org/W1504694836",
+  "https://openalex.org/W1508620301",
+  "https://openalex.org/W1582971263",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1597910678",
+  "https://openalex.org/W1704669313",
+  "https://openalex.org/W2000613518",
+  "https://openalex.org/W2032427901",
+  "https://openalex.org/W2114580434",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2159191485",
+  "https://openalex.org/W2321327062",
+  "https://openalex.org/W2325945387",
+  "https://openalex.org/W2612166593",
+  "https://openalex.org/W2998778915",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W4249215961",
+  "https://openalex.org/W4255833381",
+  "https://openalex.org/W6602774077",
+  "https://openalex.org/W6630390386",
+  "https://openalex.org/W6635631993",
+  "https://openalex.org/W6683538737"
+ ],
+ "title": "Global discretization of continuous attributes as preprocessing for machine learning"
+}

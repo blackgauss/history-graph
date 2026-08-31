@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 279,
+ "doi": "https://doi.org/10.1305/ndjfl/1093883253",
+ "id": "https://openalex.org/W2085670481",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1488538795",
+  "https://openalex.org/W1555746345",
+  "https://openalex.org/W1594912681",
+  "https://openalex.org/W1974396457",
+  "https://openalex.org/W1996404651",
+  "https://openalex.org/W2119240423",
+  "https://openalex.org/W6643723014",
+  "https://openalex.org/W6649247312",
+  "https://openalex.org/W6674017671",
+  "https://openalex.org/W6677711427",
+  "https://openalex.org/W6824895264"
+ ],
+ "title": "An extension of the basic functionality theory for the $\\lambda$-calculus."
+}

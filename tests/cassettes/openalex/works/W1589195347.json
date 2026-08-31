@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 85,
+ "doi": "https://doi.org/10.3233/his-2004-11-210",
+ "id": "https://openalex.org/W1589195347",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W731271",
+  "https://openalex.org/W192659748",
+  "https://openalex.org/W1537612705",
+  "https://openalex.org/W1573228426",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1899006432",
+  "https://openalex.org/W2103753221",
+  "https://openalex.org/W2111692891",
+  "https://openalex.org/W2113647549",
+  "https://openalex.org/W2123504579",
+  "https://openalex.org/W2131774383",
+  "https://openalex.org/W2149706766",
+  "https://openalex.org/W2161899637",
+  "https://openalex.org/W2799002609",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W3121299688",
+  "https://openalex.org/W3139831614",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A Framework for Learning from Distributed Data Using Sufficient Statistics and Its Application to Learning Decision Trees"
+}

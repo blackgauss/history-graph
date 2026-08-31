@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 95,
+ "doi": "https://doi.org/10.1016/b978-0-12-386870-1.50014-9",
+ "id": "https://openalex.org/W70474044",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W620074466",
+  "https://openalex.org/W1490994218",
+  "https://openalex.org/W1590338406",
+  "https://openalex.org/W1974322345",
+  "https://openalex.org/W1988524997",
+  "https://openalex.org/W1997891615",
+  "https://openalex.org/W2005317356",
+  "https://openalex.org/W2045071555",
+  "https://openalex.org/W2058826515",
+  "https://openalex.org/W2071483197",
+  "https://openalex.org/W2073914480",
+  "https://openalex.org/W2088091599",
+  "https://openalex.org/W2091260227",
+  "https://openalex.org/W2106160186",
+  "https://openalex.org/W2128745083",
+  "https://openalex.org/W2170863032",
+  "https://openalex.org/W2203317094",
+  "https://openalex.org/W2329291360",
+  "https://openalex.org/W2597500246",
+  "https://openalex.org/W4210588171",
+  "https://openalex.org/W4245046265",
+  "https://openalex.org/W6619428086",
+  "https://openalex.org/W6734835776",
+  "https://openalex.org/W6826199686"
+ ],
+ "title": "Fast, Rigorous Factorization and Discrete Logarithm Algorithms"
+}

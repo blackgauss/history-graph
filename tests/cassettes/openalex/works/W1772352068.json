@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 65,
+ "doi": "https://doi.org/10.1109/tc.1977.1674821",
+ "id": "https://openalex.org/W1772352068",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1973956072",
+  "https://openalex.org/W1995711497",
+  "https://openalex.org/W1996025757",
+  "https://openalex.org/W2050863253",
+  "https://openalex.org/W2071730048",
+  "https://openalex.org/W2078241308",
+  "https://openalex.org/W2121878622",
+  "https://openalex.org/W2140379224",
+  "https://openalex.org/W2275424417",
+  "https://openalex.org/W3014473719",
+  "https://openalex.org/W6775559581"
+ ],
+ "title": "Design of Ternary COS/MOS Memory and Sequential Circuits"
+}

@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 99,
+ "doi": "https://doi.org/10.1145/1835804.1835811",
+ "id": "https://openalex.org/W1968049117",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1515851193",
+  "https://openalex.org/W1528949297",
+  "https://openalex.org/W1570963478",
+  "https://openalex.org/W1998498767",
+  "https://openalex.org/W2069317438",
+  "https://openalex.org/W2100922150",
+  "https://openalex.org/W2108114251",
+  "https://openalex.org/W2117423367",
+  "https://openalex.org/W2119850747",
+  "https://openalex.org/W2121863487",
+  "https://openalex.org/W2125045187",
+  "https://openalex.org/W2126714083",
+  "https://openalex.org/W2312609093",
+  "https://openalex.org/W2990138404",
+  "https://openalex.org/W3011120880"
+ ],
+ "title": "Exploitation and exploration in a performance based contextual advertising system"
+}

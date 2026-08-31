@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1016/0004-3702(74)90027-7",
+ "id": "https://openalex.org/W2035964492",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W131746183",
+  "https://openalex.org/W1488252886",
+  "https://openalex.org/W1970001627",
+  "https://openalex.org/W1977778027",
+  "https://openalex.org/W1996847178",
+  "https://openalex.org/W2062315995",
+  "https://openalex.org/W2161608691",
+  "https://openalex.org/W2283097928",
+  "https://openalex.org/W2322002063",
+  "https://openalex.org/W2798944292",
+  "https://openalex.org/W3198350258",
+  "https://openalex.org/W4234872648",
+  "https://openalex.org/W6605279354",
+  "https://openalex.org/W6629403180",
+  "https://openalex.org/W6689185299",
+  "https://openalex.org/W6695797845"
+ ],
+ "title": "A comparison and evaluation of three machine learning procedures as applied to the game of checkers"
+}

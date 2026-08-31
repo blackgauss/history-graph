@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 350,
+ "doi": "https://doi.org/10.1177/105971239400300102",
+ "id": "https://openalex.org/W1979356863",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W63718161",
+  "https://openalex.org/W135895241",
+  "https://openalex.org/W141999170",
+  "https://openalex.org/W165295313",
+  "https://openalex.org/W1497256448",
+  "https://openalex.org/W1522240684",
+  "https://openalex.org/W1562393358",
+  "https://openalex.org/W1577932924",
+  "https://openalex.org/W1581066146",
+  "https://openalex.org/W2027475699",
+  "https://openalex.org/W2074397232",
+  "https://openalex.org/W2075969192",
+  "https://openalex.org/W2084641489",
+  "https://openalex.org/W2092192451",
+  "https://openalex.org/W2094902224",
+  "https://openalex.org/W2111116266",
+  "https://openalex.org/W2561216571",
+  "https://openalex.org/W2731634768",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W2998349125"
+ ],
+ "title": "Learning and Evolution in Neural Networks"
+}

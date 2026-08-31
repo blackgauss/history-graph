@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 101,
+ "doi": "https://doi.org/10.1016/s0022-0531(04)00042-1",
+ "id": "https://openalex.org/W2171819270",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W389907844",
+  "https://openalex.org/W1975943500",
+  "https://openalex.org/W1978696336",
+  "https://openalex.org/W2030177837",
+  "https://openalex.org/W2070749268",
+  "https://openalex.org/W2083057706",
+  "https://openalex.org/W2089514831",
+  "https://openalex.org/W2091887239",
+  "https://openalex.org/W2125034671",
+  "https://openalex.org/W2126206231",
+  "https://openalex.org/W2127529398",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W2165079522"
+ ],
+ "title": "Core many-to-one matchings by fixed-point methods"
+}

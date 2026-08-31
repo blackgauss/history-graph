@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 1367,
+ "doi": "https://doi.org/10.1016/s0022-0000(70)80006-x",
+ "id": "https://openalex.org/W1982129592",
+ "publication_year": 1970,
+ "referenced_works": [
+  "https://openalex.org/W1817451992",
+  "https://openalex.org/W1963576748",
+  "https://openalex.org/W1984391920",
+  "https://openalex.org/W2014357220",
+  "https://openalex.org/W2015666295",
+  "https://openalex.org/W2024698235",
+  "https://openalex.org/W2051977983",
+  "https://openalex.org/W2089442854",
+  "https://openalex.org/W2532500577",
+  "https://openalex.org/W6654129986",
+  "https://openalex.org/W6656426813",
+  "https://openalex.org/W6728847550"
+ ],
+ "title": "Relationships between nondeterministic and deterministic tape complexities"
+}

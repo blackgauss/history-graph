@@ -1,0 +1,68 @@
+{
+ "cited_by_count": 104,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.5555/1109557.1109677",
+ "id": "https://openalex.org/W2294210014",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1769120835",
+  "https://openalex.org/W1964005287",
+  "https://openalex.org/W1986345564",
+  "https://openalex.org/W2001344406",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2041211404",
+  "https://openalex.org/W2047031390",
+  "https://openalex.org/W2069134712",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2097708839",
+  "https://openalex.org/W2099584630",
+  "https://openalex.org/W2117941477",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2131951207",
+  "https://openalex.org/W2135682453",
+  "https://openalex.org/W2135724610"
+ ],
+ "title": "Knapsack auctions"
+}

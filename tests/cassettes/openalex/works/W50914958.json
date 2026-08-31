@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 49,
+ "doi": null,
+ "id": "https://openalex.org/W50914958",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W187405143",
+  "https://openalex.org/W947590608",
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1553031737",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W1982516219",
+  "https://openalex.org/W1989002177",
+  "https://openalex.org/W2003758875",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2026959969",
+  "https://openalex.org/W2031138923",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2078528123",
+  "https://openalex.org/W2155166680",
+  "https://openalex.org/W2169486917"
+ ],
+ "title": "Hash-based join algorithms for multiprocessor computers with shared memory"
+}

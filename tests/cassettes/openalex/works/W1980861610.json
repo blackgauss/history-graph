@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 472,
+ "doi": "https://doi.org/10.1016/s0020-7373(88)80032-4",
+ "id": "https://openalex.org/W1980861610",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W35700824",
+  "https://openalex.org/W201128564",
+  "https://openalex.org/W944186692",
+  "https://openalex.org/W1023941163",
+  "https://openalex.org/W1550858237",
+  "https://openalex.org/W1580664491",
+  "https://openalex.org/W1589328884",
+  "https://openalex.org/W1968255854",
+  "https://openalex.org/W1995875735",
+  "https://openalex.org/W2013271430",
+  "https://openalex.org/W2028095785",
+  "https://openalex.org/W2093047214",
+  "https://openalex.org/W2110293626",
+  "https://openalex.org/W2917563394",
+  "https://openalex.org/W2993383518",
+  "https://openalex.org/W4255833381",
+  "https://openalex.org/W6608216678",
+  "https://openalex.org/W6648982606",
+  "https://openalex.org/W6657409507",
+  "https://openalex.org/W6823423454"
+ ],
+ "title": "Rough sets: probabilistic versus deterministic approach"
+}

@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 375,
+ "doi": "https://doi.org/10.1137/0726042",
+ "id": "https://openalex.org/W2153532571",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W5536954",
+  "https://openalex.org/W288255560",
+  "https://openalex.org/W424742634",
+  "https://openalex.org/W1603599251",
+  "https://openalex.org/W1987336415",
+  "https://openalex.org/W2045968916",
+  "https://openalex.org/W2047307302",
+  "https://openalex.org/W2050218775",
+  "https://openalex.org/W2060003020",
+  "https://openalex.org/W2062294426",
+  "https://openalex.org/W2090963365",
+  "https://openalex.org/W2112820497",
+  "https://openalex.org/W2312922691",
+  "https://openalex.org/W3141890267",
+  "https://openalex.org/W4299512035"
+ ],
+ "title": "A Tool for the Analysis of Quasi-Newton Methods with Application to Unconstrained Minimization"
+}

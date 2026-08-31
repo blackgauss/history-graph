@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 268,
+ "doi": "https://doi.org/10.1109/ijcnn.2000.859366",
+ "id": "https://openalex.org/W2118209142",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W65738273",
+  "https://openalex.org/W1487806714",
+  "https://openalex.org/W1490573914",
+  "https://openalex.org/W1518342559",
+  "https://openalex.org/W1939394412",
+  "https://openalex.org/W1996613571",
+  "https://openalex.org/W2005758492",
+  "https://openalex.org/W2006493416",
+  "https://openalex.org/W2028342611",
+  "https://openalex.org/W2150811404",
+  "https://openalex.org/W2156985538",
+  "https://openalex.org/W2160484851",
+  "https://openalex.org/W4236959802",
+  "https://openalex.org/W6631157276",
+  "https://openalex.org/W6640662098"
+ ],
+ "title": "The growing hierarchical self-organizing map"
+}

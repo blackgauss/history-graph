@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 31,
+ "doi": "https://doi.org/10.1017/s0963548300001590",
+ "id": "https://openalex.org/W2151140339",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1597271110",
+  "https://openalex.org/W1636182933",
+  "https://openalex.org/W1667614912",
+  "https://openalex.org/W1963913579",
+  "https://openalex.org/W1969966778",
+  "https://openalex.org/W1985250014",
+  "https://openalex.org/W2051580875",
+  "https://openalex.org/W2094482767",
+  "https://openalex.org/W2138778293",
+  "https://openalex.org/W2164346692",
+  "https://openalex.org/W2905110430",
+  "https://openalex.org/W4206742702"
+ ],
+ "title": "On Random 3-sat"
+}

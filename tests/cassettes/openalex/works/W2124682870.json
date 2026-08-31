@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 86,
+ "doi": "https://doi.org/10.1007/11559306_9",
+ "id": "https://openalex.org/W2124682870",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W205961229",
+  "https://openalex.org/W1482537125",
+  "https://openalex.org/W1486829726",
+  "https://openalex.org/W1490156001",
+  "https://openalex.org/W1534716074",
+  "https://openalex.org/W1823736747",
+  "https://openalex.org/W1949482742",
+  "https://openalex.org/W1964119857",
+  "https://openalex.org/W1966095943",
+  "https://openalex.org/W1993836075",
+  "https://openalex.org/W2048936605",
+  "https://openalex.org/W2118382442",
+  "https://openalex.org/W2142481893",
+  "https://openalex.org/W2150529683",
+  "https://openalex.org/W2154689462",
+  "https://openalex.org/W2162284942",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2165775376",
+  "https://openalex.org/W2227557434",
+  "https://openalex.org/W2752885492",
+  "https://openalex.org/W2977967499",
+  "https://openalex.org/W2987077139",
+  "https://openalex.org/W3145128584",
+  "https://openalex.org/W4242057943"
+ ],
+ "title": "An Efficient Decision Procedure for UTVPI Constraints"
+}

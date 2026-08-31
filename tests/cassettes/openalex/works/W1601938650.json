@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 207,
+ "doi": "https://doi.org/10.1007/3-540-58495-1_35",
+ "id": "https://openalex.org/W1601938650",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W31970964",
+  "https://openalex.org/W1510644453",
+  "https://openalex.org/W1553701556",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1582971263",
+  "https://openalex.org/W1596324102",
+  "https://openalex.org/W2071415224",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2151355822",
+  "https://openalex.org/W2168197043",
+  "https://openalex.org/W2491671861",
+  "https://openalex.org/W2526346152",
+  "https://openalex.org/W4232953319",
+  "https://openalex.org/W4245066853",
+  "https://openalex.org/W4248793972",
+  "https://openalex.org/W4293867665"
+ ],
+ "title": "Dynamic reducts as a tool for extracting laws from decisions tables"
+}

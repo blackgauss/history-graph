@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 118,
+ "doi": "https://doi.org/10.1006/jfan.1997.3187",
+ "id": "https://openalex.org/W1974349322",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1506465796",
+  "https://openalex.org/W1521152689",
+  "https://openalex.org/W1918761114",
+  "https://openalex.org/W1972670046",
+  "https://openalex.org/W1973286131",
+  "https://openalex.org/W2044213199",
+  "https://openalex.org/W2061328864",
+  "https://openalex.org/W2067708435",
+  "https://openalex.org/W2077810240",
+  "https://openalex.org/W2089329494",
+  "https://openalex.org/W2315893912",
+  "https://openalex.org/W2327680971",
+  "https://openalex.org/W2334237942",
+  "https://openalex.org/W6672836229"
+ ],
+ "title": "On Modified Logarithmic Sobolev Inequalities for Bernoulli and Poisson Measures"
+}

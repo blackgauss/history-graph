@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 198,
+ "doi": "https://doi.org/10.1007/bfb0026682",
+ "id": "https://openalex.org/W1503605645",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W85229681",
+  "https://openalex.org/W203696055",
+  "https://openalex.org/W1503605645",
+  "https://openalex.org/W1507034068",
+  "https://openalex.org/W1512628935",
+  "https://openalex.org/W1516193414",
+  "https://openalex.org/W1590476178",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1595468493",
+  "https://openalex.org/W1598696986",
+  "https://openalex.org/W1605695115",
+  "https://openalex.org/W1864487875",
+  "https://openalex.org/W1955600018",
+  "https://openalex.org/W1976611840",
+  "https://openalex.org/W1983661866",
+  "https://openalex.org/W2099111195",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2128128566",
+  "https://openalex.org/W2128420091",
+  "https://openalex.org/W2134696506",
+  "https://openalex.org/W2146935111",
+  "https://openalex.org/W2170913656",
+  "https://openalex.org/W2982720039",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Pruning decision trees with misclassification costs"
+}

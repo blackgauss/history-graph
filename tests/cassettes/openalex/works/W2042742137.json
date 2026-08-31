@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 16,
+ "doi": "https://doi.org/10.2307/2270255",
+ "id": "https://openalex.org/W2042742137",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W1980065093",
+  "https://openalex.org/W2055051664",
+  "https://openalex.org/W2074872055",
+  "https://openalex.org/W2085705456",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W4231545044",
+  "https://openalex.org/W4241435086",
+  "https://openalex.org/W6813216934"
+ ],
+ "title": "Some theorems on R-maximal sets and major subsets of recursively enumerable sets"
+}

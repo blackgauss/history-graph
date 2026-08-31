@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 356,
+ "doi": "https://doi.org/10.1162/neco.1994.6.6.1289",
+ "id": "https://openalex.org/W2084362125",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1622484071",
+  "https://openalex.org/W2009784977",
+  "https://openalex.org/W2046485094",
+  "https://openalex.org/W2080021732",
+  "https://openalex.org/W2093717447",
+  "https://openalex.org/W2095891604",
+  "https://openalex.org/W2109779438",
+  "https://openalex.org/W2114083375",
+  "https://openalex.org/W2117799453",
+  "https://openalex.org/W2119113516",
+  "https://openalex.org/W2135293965",
+  "https://openalex.org/W2140535827",
+  "https://openalex.org/W2142399242",
+  "https://openalex.org/W2142471335",
+  "https://openalex.org/W2154231986",
+  "https://openalex.org/W2154579312",
+  "https://openalex.org/W2157526632",
+  "https://openalex.org/W2158928168",
+  "https://openalex.org/W2159435100",
+  "https://openalex.org/W2159901481",
+  "https://openalex.org/W2166501286",
+  "https://openalex.org/W3004732066"
+ ],
+ "title": "Boosting and Other Ensemble Methods"
+}

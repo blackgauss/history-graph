@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 20,
+ "doi": "https://doi.org/10.48550/arxiv.quant-ph/9905009",
+ "id": "https://openalex.org/W2949539126",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1916886752",
+  "https://openalex.org/W1985623009",
+  "https://openalex.org/W2144623882",
+  "https://openalex.org/W2159648561"
+ ],
+ "title": "Practical quantum cryptography for secure free-space communications"
+}

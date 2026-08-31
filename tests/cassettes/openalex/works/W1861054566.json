@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.1109/tc.1979.1675265",
+ "id": "https://openalex.org/W1861054566",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W5742563",
+  "https://openalex.org/W1994125175",
+  "https://openalex.org/W2000709659",
+  "https://openalex.org/W2064360209",
+  "https://openalex.org/W2133473915",
+  "https://openalex.org/W2156443685",
+  "https://openalex.org/W2480933208",
+  "https://openalex.org/W3081837301"
+ ],
+ "title": "A Design for Multiple-Valued Logic Gates Based on MESFET's"
+}

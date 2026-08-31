@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 114,
+ "doi": "https://doi.org/10.1002/(sici)1098-2418(1999010)14:1<63::aid-rsa3>3.0.co;2-7",
+ "id": "https://openalex.org/W1988522098",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1559492868",
+  "https://openalex.org/W1994823074",
+  "https://openalex.org/W2006544720",
+  "https://openalex.org/W2012724629",
+  "https://openalex.org/W2037787045",
+  "https://openalex.org/W2060664509",
+  "https://openalex.org/W2077154649",
+  "https://openalex.org/W2082249316",
+  "https://openalex.org/W2130956934"
+ ],
+ "title": "A Sharp Threshold fork-Colorability"
+}

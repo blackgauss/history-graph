@@ -1,0 +1,402 @@
+{
+ "abstract_inverted_index": {
+  "A": [
+   25
+  ],
+  "The": [
+   0,
+   46,
+   61
+  ],
+  "a": [
+   9,
+   19,
+   32,
+   55,
+   71
+  ],
+  "algorithm": [
+   27,
+   62
+  ],
+  "and": [
+   14,
+   70
+  ],
+  "another": [
+   7
+  ],
+  "be": [
+   39
+  ],
+  "become.": [
+   84
+  ],
+  "before": [
+   6
+  ],
+  "bound": [
+   72
+  ],
+  "can": [
+   38,
+   83
+  ],
+  "clocks": [
+   36,
+   82
+  ],
+  "clocks,": [
+   69
+  ],
+  "concept": [
+   1
+  ],
+  "define": [
+   18
+  ],
+  "derived": [
+   74
+  ],
+  "distributed": [
+   10,
+   26
+  ],
+  "event": [
+   4
+  ],
+  "events.": [
+   24,
+   45
+  ],
+  "examined,": [
+   13
+  ],
+  "far": [
+   77
+  ],
+  "for": [
+   30,
+   57,
+   66
+  ],
+  "given": [
+   29
+  ],
+  "happening": [
+   5
+  ],
+  "how": [
+   76
+  ],
+  "illustrated": [
+   53
+  ],
+  "in": [
+   8
+  ],
+  "is": [
+   12,
+   15,
+   28,
+   52,
+   63,
+   73
+  ],
+  "logical": [
+   35
+  ],
+  "method": [
+   56
+  ],
+  "of": [
+   2,
+   22,
+   34,
+   48,
+   79
+  ],
+  "on": [
+   75
+  ],
+  "one": [
+   3
+  ],
+  "order": [
+   43
+  ],
+  "ordering": [
+   21,
+   51
+  ],
+  "out": [
+   78
+  ],
+  "partial": [
+   20
+  ],
+  "physical": [
+   68
+  ],
+  "problems.": [
+   60
+  ],
+  "shown": [
+   16
+  ],
+  "solving": [
+   58
+  ],
+  "specialized": [
+   65
+  ],
+  "synchronization": [
+   59
+  ],
+  "synchronizing": [
+   31,
+   67
+  ],
+  "synchrony": [
+   80
+  ],
+  "system": [
+   11,
+   33
+  ],
+  "the": [
+   23,
+   44,
+   49,
+   81
+  ],
+  "then": [
+   64
+  ],
+  "to": [
+   17,
+   41
+  ],
+  "total": [
+   50
+  ],
+  "totally": [
+   42
+  ],
+  "use": [
+   47
+  ],
+  "used": [
+   40
+  ],
+  "which": [
+   37
+  ],
+  "with": [
+   54
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210152550"
+     ],
+     "raw_affiliation_string": "Massachusetts Computer Associates, Inc"
+    }
+   ],
+   "author": {
+    "display_name": "Leslie Lamport",
+    "id": "https://openalex.org/A5040623453",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Abt Global (United States)",
+     "id": "https://openalex.org/I4210152550",
+     "lineage": [
+      "https://openalex.org/I4210152550"
+     ],
+     "ror": "https://ror.org/0502afh35",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Massachusetts Computer Associates, Inc"
+   ],
+   "raw_author_name": "Leslie Lamport",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.1145/359545.359563",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1145/359545.359563",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/359545.359563",
+  "raw_source_name": "Communications of the ACM",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Communications of the ACM",
+   "host_organization": "https://openalex.org/P4310319798",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319798"
+   ],
+   "host_organization_lineage_names": [
+    "Association for Computing Machinery"
+   ],
+   "host_organization_name": "Association for Computing Machinery",
+   "id": "https://openalex.org/S103482838",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0001-0782",
+    "1557-7317"
+   ],
+   "issn_l": "0001-0782",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 8477,
+ "counts_by_year": [
+  {
+   "cited_by_count": 77,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 114,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 112,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 129,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 117,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 208,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 213,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 307,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 301,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 262,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 303,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 296,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 313,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 310,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 286,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/359545.359563",
+ "funders": [],
+ "id": "https://openalex.org/W3137220996",
+ "ids": {
+  "doi": "https://doi.org/10.1145/359545.359563",
+  "mag": "3137220996",
+  "openalex": "https://openalex.org/W3137220996"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": true,
+  "oa_status": "bronze",
+  "oa_url": "https://dl.acm.org/doi/pdf/10.1145/359545.359563"
+ },
+ "primary_location": {
+  "id": "doi:10.1145/359545.359563",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1145/359545.359563",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/359545.359563",
+  "raw_source_name": "Communications of the ACM",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Communications of the ACM",
+   "host_organization": "https://openalex.org/P4310319798",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319798"
+   ],
+   "host_organization_lineage_names": [
+    "Association for Computing Machinery"
+   ],
+   "host_organization_name": "Association for Computing Machinery",
+   "id": "https://openalex.org/S103482838",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0001-0782",
+    "1557-7317"
+   ],
+   "issn_l": "0001-0782",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W2047482026",
+  "https://openalex.org/W2140958645"
+ ],
+ "related_works": [
+  "https://openalex.org/W2116519977",
+  "https://openalex.org/W1981446230",
+  "https://openalex.org/W2365128652",
+  "https://openalex.org/W1581301957",
+  "https://openalex.org/W2356659732",
+  "https://openalex.org/W2315567295",
+  "https://openalex.org/W3202423486",
+  "https://openalex.org/W2071365237",
+  "https://openalex.org/W2356421920",
+  "https://openalex.org/W2114908129"
+ ],
+ "title": "Time, clocks, and the ordering of events in a distributed system",
+ "type": "article"
+}

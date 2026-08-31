@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 293,
+ "doi": "https://doi.org/10.1137/0302009",
+ "id": "https://openalex.org/W2050447955",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W2003812970",
+  "https://openalex.org/W2054664076",
+  "https://openalex.org/W2057136109",
+  "https://openalex.org/W2063996763",
+  "https://openalex.org/W2077083187",
+  "https://openalex.org/W2083402998",
+  "https://openalex.org/W2324309783"
+ ],
+ "title": "On the Differential Equations Satisfied by Conditional Probablitity Densities of Markov Processes, with Applications"
+}

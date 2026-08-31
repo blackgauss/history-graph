@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1017/s0305004100071000",
+ "id": "https://openalex.org/W2065656919",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W30877724",
+  "https://openalex.org/W1485265639",
+  "https://openalex.org/W1559907478",
+  "https://openalex.org/W1968502532",
+  "https://openalex.org/W2012737252",
+  "https://openalex.org/W2068434577",
+  "https://openalex.org/W2077543318",
+  "https://openalex.org/W2083262561",
+  "https://openalex.org/W2160812957",
+  "https://openalex.org/W2478030348",
+  "https://openalex.org/W2785984608"
+ ],
+ "title": "On radial basis approximation on periodic grids"
+}

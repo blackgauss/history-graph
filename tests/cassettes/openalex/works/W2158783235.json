@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 60,
+ "doi": "https://doi.org/10.1109/38.79451",
+ "id": "https://openalex.org/W2158783235",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W2007457167",
+  "https://openalex.org/W2034694694",
+  "https://openalex.org/W2055196116",
+  "https://openalex.org/W2080262992",
+  "https://openalex.org/W2125078521",
+  "https://openalex.org/W2133499498",
+  "https://openalex.org/W2157254270",
+  "https://openalex.org/W2610685016",
+  "https://openalex.org/W2791199946",
+  "https://openalex.org/W2984140258",
+  "https://openalex.org/W4242123375",
+  "https://openalex.org/W4246423046",
+  "https://openalex.org/W4255692800"
+ ],
+ "title": "Visualizing multivariate functions, data, and distributions"
+}

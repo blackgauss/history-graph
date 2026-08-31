@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 400,
+ "doi": "https://doi.org/10.2307/2004840",
+ "id": "https://openalex.org/W4241367446",
+ "publication_year": 1970,
+ "referenced_works": [
+  "https://openalex.org/W288255560",
+  "https://openalex.org/W787997266",
+  "https://openalex.org/W1977048690",
+  "https://openalex.org/W1977822596",
+  "https://openalex.org/W1998483963",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2026393324",
+  "https://openalex.org/W2038210983",
+  "https://openalex.org/W2160332416",
+  "https://openalex.org/W2165752517",
+  "https://openalex.org/W2318609557",
+  "https://openalex.org/W4230107568",
+  "https://openalex.org/W4231147569",
+  "https://openalex.org/W4244218767",
+  "https://openalex.org/W4244434127",
+  "https://openalex.org/W4245812215",
+  "https://openalex.org/W4251454664",
+  "https://openalex.org/W6644482598"
+ ],
+ "title": "Conditioning of Quasi-Newton Methods for Function Minimization"
+}

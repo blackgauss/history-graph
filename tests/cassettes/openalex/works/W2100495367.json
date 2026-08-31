@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 21229,
+ "doi": "https://doi.org/10.1126/science.1127647",
+ "id": "https://openalex.org/W2100495367",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W2001141328",
+  "https://openalex.org/W2021774695",
+  "https://openalex.org/W2032647857",
+  "https://openalex.org/W2053186076",
+  "https://openalex.org/W2121122425",
+  "https://openalex.org/W2128084896",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2147152072",
+  "https://openalex.org/W6636528393"
+ ],
+ "title": "Reducing the Dimensionality of Data with Neural Networks"
+}

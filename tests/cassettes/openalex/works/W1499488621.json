@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 87,
+ "doi": "https://doi.org/10.1007/978-3-540-24721-0_17",
+ "id": "https://openalex.org/W1499488621",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W54431521",
+  "https://openalex.org/W1498688164",
+  "https://openalex.org/W1557629507",
+  "https://openalex.org/W2000882627",
+  "https://openalex.org/W2005876630",
+  "https://openalex.org/W2055647675",
+  "https://openalex.org/W2080003993",
+  "https://openalex.org/W2099529102",
+  "https://openalex.org/W2116939169",
+  "https://openalex.org/W2117163857",
+  "https://openalex.org/W2118229393",
+  "https://openalex.org/W2168865081",
+  "https://openalex.org/W2170064878",
+  "https://openalex.org/W2172253171",
+  "https://openalex.org/W4234459169",
+  "https://openalex.org/W4252618483",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "An Operational Semantics for Stateflow"
+}

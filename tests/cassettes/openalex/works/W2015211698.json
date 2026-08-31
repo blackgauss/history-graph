@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 122,
+ "doi": "https://doi.org/10.1016/0097-3165(86)90060-9",
+ "id": "https://openalex.org/W2015211698",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W2025484786",
+  "https://openalex.org/W2031391696",
+  "https://openalex.org/W2043427324",
+  "https://openalex.org/W2114935093"
+ ],
+ "title": "Minimal non-two-colorable hypergraphs and minimal unsatisfiable formulas"
+}

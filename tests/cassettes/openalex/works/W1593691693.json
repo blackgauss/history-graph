@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 51,
+ "doi": "https://doi.org/10.1007/978-3-540-72788-0_32",
+ "id": "https://openalex.org/W1593691693",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1489527380",
+  "https://openalex.org/W1510595267",
+  "https://openalex.org/W1515175581",
+  "https://openalex.org/W1515278398",
+  "https://openalex.org/W1520105804",
+  "https://openalex.org/W1556566737",
+  "https://openalex.org/W1556687538",
+  "https://openalex.org/W1593288312",
+  "https://openalex.org/W1605748995",
+  "https://openalex.org/W1630321466",
+  "https://openalex.org/W2053580308",
+  "https://openalex.org/W2096307462",
+  "https://openalex.org/W2125967324",
+  "https://openalex.org/W2139906094",
+  "https://openalex.org/W2151398141",
+  "https://openalex.org/W2486285674",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W6629352142"
+ ],
+ "title": "A Simple and Flexible Way of Computing Small Unsatisfiable Cores in SAT Modulo Theories"
+}

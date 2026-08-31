@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 121,
+ "doi": "https://doi.org/10.2307/3003591",
+ "id": "https://openalex.org/W1602708939",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1492263715",
+  "https://openalex.org/W1545172390",
+  "https://openalex.org/W1976163311",
+  "https://openalex.org/W1980030032",
+  "https://openalex.org/W1988576875",
+  "https://openalex.org/W1996695448",
+  "https://openalex.org/W2002198854",
+  "https://openalex.org/W2004717837",
+  "https://openalex.org/W2011524901",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2024286166",
+  "https://openalex.org/W2050169315",
+  "https://openalex.org/W2077544064",
+  "https://openalex.org/W2094910871",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2127522328",
+  "https://openalex.org/W2798490245"
+ ],
+ "title": "Incentive Mechanisms for Priority Queuing Problems"
+}

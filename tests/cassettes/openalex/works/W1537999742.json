@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 2,
+ "doi": "https://doi.org/10.48550/arxiv.1302.1162",
+ "id": "https://openalex.org/W1537999742",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1559492868",
+  "https://openalex.org/W1891181203",
+  "https://openalex.org/W2100856114",
+  "https://openalex.org/W2963226739"
+ ],
+ "title": "On Sharp Thresholds of Monotone Properties: Bourgain's Proof Revisited"
+}

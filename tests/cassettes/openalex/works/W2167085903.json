@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 40,
+ "doi": "https://doi.org/10.1109/tac.2002.1000280",
+ "id": "https://openalex.org/W2167085903",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W172260396",
+  "https://openalex.org/W1585638233",
+  "https://openalex.org/W2032173185",
+  "https://openalex.org/W2048679451",
+  "https://openalex.org/W2113789941",
+  "https://openalex.org/W2132922421",
+  "https://openalex.org/W2174883827",
+  "https://openalex.org/W2177402764",
+  "https://openalex.org/W2179840881",
+  "https://openalex.org/W2180359187",
+  "https://openalex.org/W2562809365",
+  "https://openalex.org/W3210839039",
+  "https://openalex.org/W4233358567",
+  "https://openalex.org/W4238260041"
+ ],
+ "title": "On avoiding vertexization of robustness problems: the approximate feasibility concept"
+}

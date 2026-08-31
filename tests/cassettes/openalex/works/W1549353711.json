@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 318,
+ "doi": "https://doi.org/10.1016/b978-1-55860-307-3.50045-9",
+ "id": "https://openalex.org/W1549353711",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W32403112",
+  "https://openalex.org/W50296447",
+  "https://openalex.org/W1488696015",
+  "https://openalex.org/W1491843047",
+  "https://openalex.org/W1500245617",
+  "https://openalex.org/W1557517019",
+  "https://openalex.org/W1569296262",
+  "https://openalex.org/W1590305264",
+  "https://openalex.org/W1603765807",
+  "https://openalex.org/W1610678877",
+  "https://openalex.org/W1931792391",
+  "https://openalex.org/W1986389067",
+  "https://openalex.org/W2012036715",
+  "https://openalex.org/W2028145673",
+  "https://openalex.org/W2035446426",
+  "https://openalex.org/W2075379212",
+  "https://openalex.org/W2096630263",
+  "https://openalex.org/W2334782222",
+  "https://openalex.org/W2570679607",
+  "https://openalex.org/W3011120880",
+  "https://openalex.org/W4233817995",
+  "https://openalex.org/W4298856952",
+  "https://openalex.org/W6636530465",
+  "https://openalex.org/W6703110798"
+ ],
+ "title": "A Reinforcement Learning Method for Maximizing Undiscounted Rewards"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 441,
+ "doi": "https://doi.org/10.1109/sffcs.1999.814612",
+ "id": "https://openalex.org/W2126442135",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W18803657",
+  "https://openalex.org/W1508239681",
+  "https://openalex.org/W1509587667",
+  "https://openalex.org/W1526568622",
+  "https://openalex.org/W1568972291",
+  "https://openalex.org/W1582552841",
+  "https://openalex.org/W1596411313",
+  "https://openalex.org/W1820801893",
+  "https://openalex.org/W1920638964",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2014111643",
+  "https://openalex.org/W2121766240",
+  "https://openalex.org/W2134514766",
+  "https://openalex.org/W2161678469",
+  "https://openalex.org/W2295428206",
+  "https://openalex.org/W2751862591",
+  "https://openalex.org/W2753933954",
+  "https://openalex.org/W2947000318",
+  "https://openalex.org/W4211196448",
+  "https://openalex.org/W4231916799"
+ ],
+ "title": "A probabilistic algorithm for k-SAT and constraint satisfaction problems"
+}

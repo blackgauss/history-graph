@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 120,
+ "doi": "https://doi.org/10.1016/0020-0190(79)90152-2",
+ "id": "https://openalex.org/W2090133546",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1967036113",
+  "https://openalex.org/W2064577184"
+ ],
+ "title": "Linear programming is log-space hard for P"
+}

@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 50,
+ "doi": "https://doi.org/10.1162/neco.1995.7.3.549",
+ "id": "https://openalex.org/W2151907713",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W65738273",
+  "https://openalex.org/W1533169541",
+  "https://openalex.org/W1578739277",
+  "https://openalex.org/W2040739363",
+  "https://openalex.org/W2051719061",
+  "https://openalex.org/W2102409316",
+  "https://openalex.org/W2107053213",
+  "https://openalex.org/W2132747970",
+  "https://openalex.org/W2146465837",
+  "https://openalex.org/W2150065638",
+  "https://openalex.org/W2159550702",
+  "https://openalex.org/W2346626577"
+ ],
+ "title": "Learning Population Codes by Minimizing Description Length"
+}

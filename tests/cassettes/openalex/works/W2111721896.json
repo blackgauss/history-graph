@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 80,
+ "doi": "https://doi.org/10.1109/18.746807",
+ "id": "https://openalex.org/W2111721896",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1557038167",
+  "https://openalex.org/W1969246646",
+  "https://openalex.org/W2014706286",
+  "https://openalex.org/W2016744140",
+  "https://openalex.org/W2021404493",
+  "https://openalex.org/W2115355654",
+  "https://openalex.org/W2117002761",
+  "https://openalex.org/W2128751442",
+  "https://openalex.org/W2167413626",
+  "https://openalex.org/W2763302490"
+ ],
+ "title": "Quantum codes of minimum distance two"
+}

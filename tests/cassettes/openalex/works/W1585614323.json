@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 127,
+ "doi": null,
+ "id": "https://openalex.org/W1585614323",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W14629651",
+  "https://openalex.org/W48085440",
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1490731164",
+  "https://openalex.org/W1497748148",
+  "https://openalex.org/W1602737477",
+  "https://openalex.org/W1604899648",
+  "https://openalex.org/W1893387912",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W1980991874",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2031138923",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2078528123",
+  "https://openalex.org/W2115919907",
+  "https://openalex.org/W2123565672",
+  "https://openalex.org/W2128912667",
+  "https://openalex.org/W2150842834",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2164309468",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W2170207233",
+  "https://openalex.org/W2200275386"
+ ],
+ "title": "Bucket Spreading Parallel Hash: A New, Robust, Parallel Hash Join Method for Data Skew in the Super Database Computer (SDC)"
+}

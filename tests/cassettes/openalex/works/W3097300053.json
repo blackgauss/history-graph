@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 1203,
+ "counts_by_year": [
+  {
+   "cited_by_count": 157,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 408,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 367,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 218,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2021
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3535101",
+ "id": "https://openalex.org/W3097300053",
+ "publication_year": 2022,
+ "title": "Graph Neural Networks in Recommender Systems: A Survey"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 96,
+ "doi": "https://doi.org/10.1007/3-540-48683-6_40",
+ "id": "https://openalex.org/W1542298067",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1570783318",
+  "https://openalex.org/W1572729891",
+  "https://openalex.org/W1680001562",
+  "https://openalex.org/W1686347472",
+  "https://openalex.org/W1741528175",
+  "https://openalex.org/W1827056974",
+  "https://openalex.org/W2118154221",
+  "https://openalex.org/W2124515106",
+  "https://openalex.org/W2153131284",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Exploiting Positive Equality in a Logic of Equality with Uninterpreted Functions"
+}

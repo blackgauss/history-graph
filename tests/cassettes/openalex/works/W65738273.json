@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 9578,
+ "doi": "https://doi.org/10.1007/bf00337288",
+ "id": "https://openalex.org/W65738273",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W237969607",
+  "https://openalex.org/W950082919",
+  "https://openalex.org/W1539686131",
+  "https://openalex.org/W1969882682",
+  "https://openalex.org/W1972536405",
+  "https://openalex.org/W1992476998",
+  "https://openalex.org/W1993050927",
+  "https://openalex.org/W2008353316",
+  "https://openalex.org/W2008920566",
+  "https://openalex.org/W2017811812",
+  "https://openalex.org/W2038557584",
+  "https://openalex.org/W2040881053",
+  "https://openalex.org/W2061039862",
+  "https://openalex.org/W2067637531",
+  "https://openalex.org/W2102993821",
+  "https://openalex.org/W2113653296",
+  "https://openalex.org/W2253776861",
+  "https://openalex.org/W2432567885",
+  "https://openalex.org/W2887242076",
+  "https://openalex.org/W4232220759",
+  "https://openalex.org/W4233045210",
+  "https://openalex.org/W4237454176",
+  "https://openalex.org/W4243787453",
+  "https://openalex.org/W6701351347"
+ ],
+ "title": "Self-organized formation of topologically correct feature maps"
+}

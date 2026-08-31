@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 474,
+ "doi": null,
+ "id": "https://openalex.org/W2120972216",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W2024060531",
+  "https://openalex.org/W2034562813",
+  "https://openalex.org/W2766736793"
+ ],
+ "title": "Comparing Biases for Minimal Network Construction with Back-Propagation"
+}

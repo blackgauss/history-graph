@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 6,
+ "doi": "https://doi.org/10.1016/0306-4379(86)90021-9",
+ "id": "https://openalex.org/W2048954306",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W167616429",
+  "https://openalex.org/W1967992696",
+  "https://openalex.org/W1973291079",
+  "https://openalex.org/W1982525351",
+  "https://openalex.org/W1982801868",
+  "https://openalex.org/W2003499043",
+  "https://openalex.org/W2023195086",
+  "https://openalex.org/W2032386524",
+  "https://openalex.org/W2054417407",
+  "https://openalex.org/W2059844260",
+  "https://openalex.org/W2077484291",
+  "https://openalex.org/W2080042338",
+  "https://openalex.org/W2094711531",
+  "https://openalex.org/W2153485419",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2171094216",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W2788164529",
+  "https://openalex.org/W2966001939",
+  "https://openalex.org/W6606777235",
+  "https://openalex.org/W6645888200",
+  "https://openalex.org/W6669918185"
+ ],
+ "title": "Taxonomy and formal properties of distributed joins"
+}

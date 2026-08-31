@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 77,
+ "doi": "https://doi.org/10.1145/1066157.1066232",
+ "id": "https://openalex.org/W2157469509",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1544423111",
+  "https://openalex.org/W1553736982",
+  "https://openalex.org/W1646696449",
+  "https://openalex.org/W2002110561",
+  "https://openalex.org/W2015180052",
+  "https://openalex.org/W2023977759",
+  "https://openalex.org/W2052464302",
+  "https://openalex.org/W2099395665",
+  "https://openalex.org/W2101207848",
+  "https://openalex.org/W2102018241",
+  "https://openalex.org/W2107343618",
+  "https://openalex.org/W2115264714",
+  "https://openalex.org/W2122174571",
+  "https://openalex.org/W2126982545",
+  "https://openalex.org/W2132244350",
+  "https://openalex.org/W2135216003",
+  "https://openalex.org/W2139450737",
+  "https://openalex.org/W2140894225",
+  "https://openalex.org/W2148275477",
+  "https://openalex.org/W2149576945",
+  "https://openalex.org/W2162553498",
+  "https://openalex.org/W2163834250",
+  "https://openalex.org/W2169593628"
+ ],
+ "title": "Update-pattern-aware modeling and processing of continuous queries"
+}

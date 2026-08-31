@@ -1,0 +1,177 @@
+{
+ "abstract_inverted_index": {
+  "Hamburgi": [
+   0
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Carl Friedrich Gauss",
+    "id": null,
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Carl Friedrich Gauss",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "pmh:oai:bibliotekacyfrowa.pl:96383",
+  "is_accepted": false,
+  "is_oa": true,
+  "is_published": false,
+  "landing_page_url": "https://bibliotekacyfrowa.pl/dlibra/publication/103039/edition/96383/content",
+  "license": "cc-by-sa",
+  "license_id": "https://openalex.org/licenses/cc-by-sa",
+  "pdf_url": null,
+  "raw_source_name": "D63",
+  "raw_type": null,
+  "source": {
+   "display_name": "Cultural heritage in the research of the University Library in Wroclaw (University of Wroclaw)",
+   "host_organization": "https://openalex.org/I27912750",
+   "host_organization_lineage": [
+    "https://openalex.org/I27912750"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "Wrocław University of Environmental and Life Sciences",
+   "id": "https://openalex.org/S4306401752",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": "submittedVersion"
+ },
+ "cited_by_count": 374,
+ "counts_by_year": [
+  {
+   "cited_by_count": 15,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1017/cbo9781139058285.001",
+ "funders": [],
+ "id": "https://openalex.org/W1589810931",
+ "ids": {
+  "doi": "https://doi.org/10.1017/cbo9781139058285.001",
+  "mag": "1589810931",
+  "openalex": "https://openalex.org/W1589810931"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": true,
+  "is_oa": true,
+  "oa_status": "green",
+  "oa_url": "https://bibliotekacyfrowa.pl/dlibra/publication/103039/edition/96383/content"
+ },
+ "primary_location": {
+  "id": "doi:10.1017/cbo9781139058285.001",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1017/cbo9781139058285.001",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Werke",
+  "raw_type": "book-chapter",
+  "source": {
+   "display_name": "Cambridge University Press eBooks",
+   "host_organization": "https://openalex.org/P4310311721",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310311721",
+    "https://openalex.org/P4310311702"
+   ],
+   "host_organization_lineage_names": [
+    "Cambridge University Press",
+    "University of Cambridge"
+   ],
+   "host_organization_name": "Cambridge University Press",
+   "id": "https://openalex.org/S4306462995",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "ebook platform"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W2485853914"
+ ],
+ "related_works": [
+  "https://openalex.org/W2899084033",
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W3049356719",
+  "https://openalex.org/W2077865380",
+  "https://openalex.org/W2138503431",
+  "https://openalex.org/W1710126152",
+  "https://openalex.org/W2765597752",
+  "https://openalex.org/W2789488587",
+  "https://openalex.org/W2039952445",
+  "https://openalex.org/W2958642381"
+ ],
+ "title": "THEORIA MOTUS CORPORUM COELESTIUM IN SECTIONIBUS CONICIS SOLEM AMBIENTIUM",
+ "type": "book-chapter"
+}

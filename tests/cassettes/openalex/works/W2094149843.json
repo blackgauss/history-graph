@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 386,
+ "doi": "https://doi.org/10.1016/0893-9659(91)90080-f",
+ "id": "https://openalex.org/W2094149843",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1484739396",
+  "https://openalex.org/W1506437980",
+  "https://openalex.org/W1649899421",
+  "https://openalex.org/W1973756824",
+  "https://openalex.org/W1977197990",
+  "https://openalex.org/W2017125617",
+  "https://openalex.org/W2071846104",
+  "https://openalex.org/W2116594222",
+  "https://openalex.org/W2143127637",
+  "https://openalex.org/W2999905431",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6608369384",
+  "https://openalex.org/W6677708283",
+  "https://openalex.org/W6681105243"
+ ],
+ "title": "Turing computability with neural nets"
+}

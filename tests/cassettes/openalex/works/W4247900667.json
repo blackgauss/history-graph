@@ -1,0 +1,121 @@
+{
+ "abstract_inverted_index": {
+  "CircuitsIII.": [
+   8
+  ],
+  "CircuitsIV.": [
+   12
+  ],
+  "ExamplesReferences": [
+   17
+  ],
+  "Illustrative": [
+   16
+  ],
+  "IntroductionII.": [
+   5
+  ],
+  "Multi-Terminal": [
+   9
+  ],
+  "NetworksV.": [
+   15
+  ],
+  "Non-Series-Parallel": [
+   11
+  ],
+  "Series-Parallel": [
+   6
+  ],
+  "Synthesis": [
+   13
+  ],
+  "This": [
+   0
+  ],
+  "Two-Terminal": [
+   7
+  ],
+  "and": [
+   10
+  ],
+  "chapter": [
+   1
+  ],
+  "contains": [
+   2
+  ],
+  "of": [
+   14
+  ],
+  "sections": [
+   3
+  ],
+  "titled:I.": [
+   4
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Claude E. Shannon",
+    "id": null,
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Claude E. Shannon",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": "https://doi.org/10.1109/9780470544242.ch31",
+ "funders": [],
+ "id": "https://openalex.org/W4247900667",
+ "ids": {
+  "doi": "https://doi.org/10.1109/9780470544242.ch31",
+  "openalex": "https://openalex.org/W4247900667"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1109/9780470544242.ch31",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1109/9780470544242.ch31",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Claude E. Shannon",
+  "raw_type": "book-chapter",
+  "source": null,
+  "version": "publishedVersion"
+ },
+ "publication_year": 2009,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2539674285",
+  "https://openalex.org/W1998322187",
+  "https://openalex.org/W2091387920",
+  "https://openalex.org/W2487581613",
+  "https://openalex.org/W4388113162",
+  "https://openalex.org/W4210762222",
+  "https://openalex.org/W411258524",
+  "https://openalex.org/W2050186363",
+  "https://openalex.org/W4285250011",
+  "https://openalex.org/W2490684934"
+ ],
+ "title": "A Symbolic Analysis of Relay and Switching Circuits - Transactions American Institute of Electrical Engineers, vol. 57, 1938. (Paper number 3880, recommended by the AlEE committees on communication and basic sciences and presented at the AlEE summer convention, Washington, D.C., June 2024, 1938. Manuscript submitted March I, 1938; made available for preprinting May 27, 1938.)",
+ "type": "book-chapter"
+}

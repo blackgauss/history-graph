@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 885,
+ "doi": null,
+ "id": "https://openalex.org/W1595483645",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W80823096",
+  "https://openalex.org/W92805021",
+  "https://openalex.org/W174448985",
+  "https://openalex.org/W1491843047",
+  "https://openalex.org/W1504212531",
+  "https://openalex.org/W1529303739",
+  "https://openalex.org/W1535810436",
+  "https://openalex.org/W1565134770",
+  "https://openalex.org/W1569296262",
+  "https://openalex.org/W1586504939",
+  "https://openalex.org/W1969166509",
+  "https://openalex.org/W1997449813",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2052117683",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2119717200",
+  "https://openalex.org/W2157445228",
+  "https://openalex.org/W3011120880"
+ ],
+ "title": "Reinforcement learning for robots using neural networks"
+}

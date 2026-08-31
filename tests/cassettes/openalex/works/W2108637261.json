@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 598,
+ "doi": null,
+ "id": "https://openalex.org/W2108637261",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W18004407",
+  "https://openalex.org/W145815032",
+  "https://openalex.org/W1556434751",
+  "https://openalex.org/W1600919542",
+  "https://openalex.org/W1667614912",
+  "https://openalex.org/W2038118137",
+  "https://openalex.org/W2043829066",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2119815134",
+  "https://openalex.org/W2121273320",
+  "https://openalex.org/W2153096231",
+  "https://openalex.org/W2155218845",
+  "https://openalex.org/W2165372647",
+  "https://openalex.org/W2567722231"
+ ],
+ "title": "Using CSP look-back techniques to solve real-world SAT instances"
+}

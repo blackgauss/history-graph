@@ -1,0 +1,103 @@
+{
+ "cited_by_count": 1247,
+ "counts_by_year": [
+  {
+   "cited_by_count": 19,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 35,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 82,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 54,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 59,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 57,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 62,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 57,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1086/261272",
+ "id": "https://openalex.org/W2131988597",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1546248354",
+  "https://openalex.org/W1981329484",
+  "https://openalex.org/W1988140906",
+  "https://openalex.org/W2004736275",
+  "https://openalex.org/W2005263243",
+  "https://openalex.org/W2008751404",
+  "https://openalex.org/W2017097737",
+  "https://openalex.org/W2021026447",
+  "https://openalex.org/W2024694589",
+  "https://openalex.org/W2031232003",
+  "https://openalex.org/W2033898593",
+  "https://openalex.org/W2048888597",
+  "https://openalex.org/W2057147139",
+  "https://openalex.org/W2068115726",
+  "https://openalex.org/W2068138034",
+  "https://openalex.org/W2069816448",
+  "https://openalex.org/W2070551486",
+  "https://openalex.org/W2071667058",
+  "https://openalex.org/W2125034671",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W2161411850",
+  "https://openalex.org/W2413627237",
+  "https://openalex.org/W2416717385",
+  "https://openalex.org/W2422065127",
+  "https://openalex.org/W3124026818",
+  "https://openalex.org/W3145662859",
+  "https://openalex.org/W4205138129",
+  "https://openalex.org/W4206841599",
+  "https://openalex.org/W4230379331",
+  "https://openalex.org/W4233770772",
+  "https://openalex.org/W4235234911",
+  "https://openalex.org/W4255709949"
+ ],
+ "title": "The Evolution of the Labor Market for Medical Interns and Residents: A Case Study in Game Theory"
+}

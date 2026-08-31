@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 109,
+ "doi": "https://doi.org/10.48550/arxiv.1301.2296",
+ "id": "https://openalex.org/W1606147224",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1513861746",
+  "https://openalex.org/W1515272691",
+  "https://openalex.org/W1526875812",
+  "https://openalex.org/W1528056001",
+  "https://openalex.org/W1560512119",
+  "https://openalex.org/W1565763124",
+  "https://openalex.org/W1575388622",
+  "https://openalex.org/W2086238730",
+  "https://openalex.org/W2098678088",
+  "https://openalex.org/W2125838338",
+  "https://openalex.org/W2129031807",
+  "https://openalex.org/W2132588110",
+  "https://openalex.org/W2147496287",
+  "https://openalex.org/W2158122241",
+  "https://openalex.org/W2159080219",
+  "https://openalex.org/W2175160295"
+ ],
+ "title": "The Factored Frontier Algorithm for Approximate Inference in DBNs"
+}

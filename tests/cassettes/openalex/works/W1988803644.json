@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 23,
+ "doi": "https://doi.org/10.1007/s003659900082",
+ "id": "https://openalex.org/W1988803644",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1538314673",
+  "https://openalex.org/W1582706191",
+  "https://openalex.org/W1596926139",
+  "https://openalex.org/W2022694751",
+  "https://openalex.org/W2039402388",
+  "https://openalex.org/W2039980464",
+  "https://openalex.org/W2060100114",
+  "https://openalex.org/W2060583847",
+  "https://openalex.org/W2160812957",
+  "https://openalex.org/W2323534891"
+ ],
+ "title": "A Bound on the Approximation Order of Surface Splines"
+}

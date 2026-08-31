@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 47,
+ "doi": null,
+ "id": "https://openalex.org/W2182304831",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W1515020792",
+  "https://openalex.org/W1554120378",
+  "https://openalex.org/W1697053819",
+  "https://openalex.org/W1964155876",
+  "https://openalex.org/W2094387729",
+  "https://openalex.org/W2099866409",
+  "https://openalex.org/W2115096495",
+  "https://openalex.org/W2118933070",
+  "https://openalex.org/W2119717200",
+  "https://openalex.org/W2124914669",
+  "https://openalex.org/W2130801532",
+  "https://openalex.org/W2134042548",
+  "https://openalex.org/W2136163184",
+  "https://openalex.org/W2139418546",
+  "https://openalex.org/W2145805610",
+  "https://openalex.org/W2155027007",
+  "https://openalex.org/W2159008857",
+  "https://openalex.org/W2161914416",
+  "https://openalex.org/W2165225968",
+  "https://openalex.org/W2172968643",
+  "https://openalex.org/W2295700201",
+  "https://openalex.org/W3103182070"
+ ],
+ "title": "Actor-Critic Reinforcement Learning with Energy-Based Policies"
+}

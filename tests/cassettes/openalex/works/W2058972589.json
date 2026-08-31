@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 1366,
+ "doi": "https://doi.org/10.1145/62044.62050",
+ "id": "https://openalex.org/W2058972589",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1530456100",
+  "https://openalex.org/W1594652978",
+  "https://openalex.org/W1964602554",
+  "https://openalex.org/W2007643787",
+  "https://openalex.org/W2024631575",
+  "https://openalex.org/W2081942300",
+  "https://openalex.org/W2088676085",
+  "https://openalex.org/W2107997203",
+  "https://openalex.org/W2127726530",
+  "https://openalex.org/W2141420453",
+  "https://openalex.org/W2158365276",
+  "https://openalex.org/W6676403885"
+ ],
+ "title": "Efficient dispersal of information for security, load balancing, and fault tolerance"
+}

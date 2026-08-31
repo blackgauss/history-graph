@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 462,
+ "doi": "https://doi.org/10.1109/tac.1966.1098361",
+ "id": "https://openalex.org/W2060739390",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W2027391133",
+  "https://openalex.org/W2032131170",
+  "https://openalex.org/W2046874050",
+  "https://openalex.org/W2093304251",
+  "https://openalex.org/W2102160278",
+  "https://openalex.org/W3216359602",
+  "https://openalex.org/W4249534223",
+  "https://openalex.org/W6804064014"
+ ],
+ "title": "Liapunov redesign of model reference adaptive control systems"
+}

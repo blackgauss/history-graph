@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 116,
+ "doi": "https://doi.org/10.1016/0021-9045(90)90079-6",
+ "id": "https://openalex.org/W2040325046",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W136985557",
+  "https://openalex.org/W608841976",
+  "https://openalex.org/W641232363",
+  "https://openalex.org/W1480101757",
+  "https://openalex.org/W1500279823",
+  "https://openalex.org/W1538314673",
+  "https://openalex.org/W1559907478",
+  "https://openalex.org/W1572940464",
+  "https://openalex.org/W1973092800",
+  "https://openalex.org/W1989018521",
+  "https://openalex.org/W2033287169",
+  "https://openalex.org/W2036856385",
+  "https://openalex.org/W2064543119",
+  "https://openalex.org/W2074797641",
+  "https://openalex.org/W2129194819",
+  "https://openalex.org/W2503709059",
+  "https://openalex.org/W2567032824",
+  "https://openalex.org/W4301293629",
+  "https://openalex.org/W4302321252",
+  "https://openalex.org/W6620650853",
+  "https://openalex.org/W6634221303",
+  "https://openalex.org/W6679447400"
+ ],
+ "title": "Polyharmonic cardinal splines"
+}

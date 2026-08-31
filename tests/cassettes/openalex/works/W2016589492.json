@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 4490,
+ "doi": "https://doi.org/10.1162/neco.1989.1.2.270",
+ "id": "https://openalex.org/W2016589492",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1529155465",
+  "https://openalex.org/W1881179843",
+  "https://openalex.org/W1984205520",
+  "https://openalex.org/W1984375561",
+  "https://openalex.org/W1994405449",
+  "https://openalex.org/W2062870975",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W2119796132",
+  "https://openalex.org/W2128084896",
+  "https://openalex.org/W2143503258",
+  "https://openalex.org/W2160853866",
+  "https://openalex.org/W2731782018",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3133056632"
+ ],
+ "title": "A Learning Algorithm for Continually Running Fully Recurrent Neural Networks"
+}

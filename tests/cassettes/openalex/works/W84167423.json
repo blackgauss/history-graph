@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 38,
+ "doi": "https://doi.org/10.48550/arxiv.1301.6710",
+ "id": "https://openalex.org/W84167423",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W14369269",
+  "https://openalex.org/W111281073",
+  "https://openalex.org/W1493197711",
+  "https://openalex.org/W1524704912",
+  "https://openalex.org/W1817561967",
+  "https://openalex.org/W1844165822",
+  "https://openalex.org/W1981251392",
+  "https://openalex.org/W2006681603",
+  "https://openalex.org/W2008906462",
+  "https://openalex.org/W2029727941",
+  "https://openalex.org/W2068782468",
+  "https://openalex.org/W2069469807",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2098487665",
+  "https://openalex.org/W2102098892",
+  "https://openalex.org/W2112081648",
+  "https://openalex.org/W2132596095",
+  "https://openalex.org/W2159080219",
+  "https://openalex.org/W2168175751",
+  "https://openalex.org/W2170112109",
+  "https://openalex.org/W2294584261",
+  "https://openalex.org/W2477633158",
+  "https://openalex.org/W2796293253",
+  "https://openalex.org/W2974222084"
+ ],
+ "title": "On Supervised Selection of Bayesian Networks"
+}

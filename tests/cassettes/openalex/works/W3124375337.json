@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 62,
+ "doi": "https://doi.org/10.1111/j.1467-937x.2004.00305.x",
+ "id": "https://openalex.org/W3124375337",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W16961182",
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1531805758",
+  "https://openalex.org/W1575503998",
+  "https://openalex.org/W1592694813",
+  "https://openalex.org/W2015170234",
+  "https://openalex.org/W2022649148",
+  "https://openalex.org/W2043749813",
+  "https://openalex.org/W2045214143",
+  "https://openalex.org/W2067758411",
+  "https://openalex.org/W2148268719",
+  "https://openalex.org/W3122883512",
+  "https://openalex.org/W4252712612"
+ ],
+ "title": "Informational Size and Efficient Auctions"
+}

@@ -1,0 +1,190 @@
+{
+ "cited_by_count": 7582,
+ "concepts": [
+  {
+   "display_name": "Boosting (machine learning)",
+   "id": "https://openalex.org/C46686674",
+   "level": 2,
+   "score": 0.9155815243721008,
+   "wikidata": "https://www.wikidata.org/wiki/Q466303"
+  },
+  {
+   "display_name": "AdaBoost",
+   "id": "https://openalex.org/C141404830",
+   "level": 3,
+   "score": 0.8779236078262329,
+   "wikidata": "https://www.wikidata.org/wiki/Q2823869"
+  },
+  {
+   "display_name": "Computer science",
+   "id": "https://openalex.org/C41008148",
+   "level": 0,
+   "score": 0.7250111699104309,
+   "wikidata": "https://www.wikidata.org/wiki/Q21198"
+  },
+  {
+   "display_name": "Artificial intelligence",
+   "id": "https://openalex.org/C154945302",
+   "level": 1,
+   "score": 0.7061063051223755,
+   "wikidata": "https://www.wikidata.org/wiki/Q11660"
+  },
+  {
+   "display_name": "Machine learning",
+   "id": "https://openalex.org/C119857082",
+   "level": 1,
+   "score": 0.6963480710983276,
+   "wikidata": "https://www.wikidata.org/wiki/Q2539"
+  },
+  {
+   "display_name": "Ensemble learning",
+   "id": "https://openalex.org/C45942800",
+   "level": 2,
+   "score": 0.5334221720695496,
+   "wikidata": "https://www.wikidata.org/wiki/Q245652"
+  },
+  {
+   "display_name": "Gradient boosting",
+   "id": "https://openalex.org/C70153297",
+   "level": 3,
+   "score": 0.4937148988246918,
+   "wikidata": "https://www.wikidata.org/wiki/Q5591907"
+  },
+  {
+   "display_name": "Algorithm",
+   "id": "https://openalex.org/C11413529",
+   "level": 1,
+   "score": 0.47209662199020386,
+   "wikidata": "https://www.wikidata.org/wiki/Q8366"
+  },
+  {
+   "display_name": "Classifier (UML)",
+   "id": "https://openalex.org/C95623464",
+   "level": 2,
+   "score": 0.4701920747756958,
+   "wikidata": "https://www.wikidata.org/wiki/Q1096149"
+  },
+  {
+   "display_name": "Decision tree",
+   "id": "https://openalex.org/C84525736",
+   "level": 2,
+   "score": 0.4569029211997986,
+   "wikidata": "https://www.wikidata.org/wiki/Q831366"
+  },
+  {
+   "display_name": "Random forest",
+   "id": "https://openalex.org/C169258074",
+   "level": 2,
+   "score": 0.4342806339263916,
+   "wikidata": "https://www.wikidata.org/wiki/Q245748"
+  },
+  {
+   "display_name": "k-nearest neighbors algorithm",
+   "id": "https://openalex.org/C113238511",
+   "level": 2,
+   "score": 0.42471233010292053,
+   "wikidata": "https://www.wikidata.org/wiki/Q1071612"
+  },
+  {
+   "display_name": "Training set",
+   "id": "https://openalex.org/C51632099",
+   "level": 2,
+   "score": 0.4197715222835541,
+   "wikidata": "https://www.wikidata.org/wiki/Q3985153"
+  },
+  {
+   "display_name": "Pattern recognition (psychology)",
+   "id": "https://openalex.org/C153180895",
+   "level": 2,
+   "score": 0.3684953451156616,
+   "wikidata": "https://www.wikidata.org/wiki/Q7148389"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 90,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 159,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 193,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 409,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 400,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 380,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 352,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 324,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 330,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 388,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 382,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 370,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 435,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W2112076978",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W116380033",
+  "https://openalex.org/W1500698297",
+  "https://openalex.org/W1504694836",
+  "https://openalex.org/W1670263352",
+  "https://openalex.org/W1966280301",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2048448061",
+  "https://openalex.org/W2070534370",
+  "https://openalex.org/W2084362125",
+  "https://openalex.org/W2093717447",
+  "https://openalex.org/W2104364170",
+  "https://openalex.org/W2111746072",
+  "https://openalex.org/W2119113516",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2126177819",
+  "https://openalex.org/W2132166479",
+  "https://openalex.org/W2137291015",
+  "https://openalex.org/W2166501286",
+  "https://openalex.org/W2912934387"
+ ],
+ "title": "Experiments with a new boosting algorithm"
+}

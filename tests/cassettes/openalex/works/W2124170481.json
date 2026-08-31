@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 206,
+ "doi": null,
+ "id": "https://openalex.org/W2124170481",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W19461966",
+  "https://openalex.org/W1581551991",
+  "https://openalex.org/W1808157072",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1976284552",
+  "https://openalex.org/W1983959468",
+  "https://openalex.org/W1986456068",
+  "https://openalex.org/W2003441663",
+  "https://openalex.org/W2026731931",
+  "https://openalex.org/W2066104460",
+  "https://openalex.org/W2129303183",
+  "https://openalex.org/W2132692154",
+  "https://openalex.org/W2141389982",
+  "https://openalex.org/W3198160809"
+ ],
+ "title": "Parallel Algorithms for the Execution of Relational Database Operations"
+}

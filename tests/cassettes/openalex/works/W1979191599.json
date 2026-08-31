@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 213,
+ "doi": "https://doi.org/10.1162/neco.1989.1.3.412",
+ "id": "https://openalex.org/W1979191599",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W593934247",
+  "https://openalex.org/W1501657095",
+  "https://openalex.org/W1560922264",
+  "https://openalex.org/W1983568184",
+  "https://openalex.org/W2007780422",
+  "https://openalex.org/W2073237809",
+  "https://openalex.org/W2106884367",
+  "https://openalex.org/W2122741244",
+  "https://openalex.org/W4240035482"
+ ],
+ "title": "Finding Minimum Entropy Codes"
+}

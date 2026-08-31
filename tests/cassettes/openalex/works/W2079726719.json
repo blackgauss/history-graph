@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 394,
+ "doi": "https://doi.org/10.1109/mm.2006.49",
+ "id": "https://openalex.org/W2079726719",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1483560374",
+  "https://openalex.org/W1603868614",
+  "https://openalex.org/W1983096721",
+  "https://openalex.org/W2005825210",
+  "https://openalex.org/W2039581078",
+  "https://openalex.org/W2059807497",
+  "https://openalex.org/W2116497098",
+  "https://openalex.org/W2131049560",
+  "https://openalex.org/W2136591630",
+  "https://openalex.org/W2153169188",
+  "https://openalex.org/W2159535674",
+  "https://openalex.org/W4230084366",
+  "https://openalex.org/W4292169167"
+ ],
+ "title": "Cell Multiprocessor Communication Network: Built for Speed"
+}

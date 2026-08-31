@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 120,
+ "doi": "https://doi.org/10.1049/el:19970427",
+ "id": "https://openalex.org/W1993227085",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W2001466659",
+  "https://openalex.org/W2006226307",
+  "https://openalex.org/W2020404240",
+  "https://openalex.org/W2053824283",
+  "https://openalex.org/W2092148287",
+  "https://openalex.org/W2108551367",
+  "https://openalex.org/W2987687226",
+  "https://openalex.org/W3037517441",
+  "https://openalex.org/W3122977249",
+  "https://openalex.org/W4214950786"
+ ],
+ "title": "Interferometry with Faraday mirrors for quantumcryptography"
+}

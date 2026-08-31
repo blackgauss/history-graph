@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 290,
+ "doi": "https://doi.org/10.1007/bf00114731",
+ "id": "https://openalex.org/W2610686804",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W32403112",
+  "https://openalex.org/W1491843047",
+  "https://openalex.org/W1557517019",
+  "https://openalex.org/W1569296262",
+  "https://openalex.org/W1586189497",
+  "https://openalex.org/W1595483645",
+  "https://openalex.org/W1966517492",
+  "https://openalex.org/W2035446426",
+  "https://openalex.org/W2048226872",
+  "https://openalex.org/W2091565802",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2112483970",
+  "https://openalex.org/W2158091072",
+  "https://openalex.org/W2182044576",
+  "https://openalex.org/W3011120880",
+  "https://openalex.org/W3139377883",
+  "https://openalex.org/W4245108548",
+  "https://openalex.org/W6775686901",
+  "https://openalex.org/W6780394890",
+  "https://openalex.org/W6792155000"
+ ],
+ "title": "Incremental multi-step Q-learning"
+}

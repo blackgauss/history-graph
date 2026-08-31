@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 731,
+ "doi": "https://doi.org/10.1145/100216.100262",
+ "id": "https://openalex.org/W2162656786",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1975216035",
+  "https://openalex.org/W2023146810",
+  "https://openalex.org/W2041645394",
+  "https://openalex.org/W2056760235",
+  "https://openalex.org/W2062259223",
+  "https://openalex.org/W2073083283",
+  "https://openalex.org/W2082859480",
+  "https://openalex.org/W2166858292",
+  "https://openalex.org/W4237420033",
+  "https://openalex.org/W6643823946",
+  "https://openalex.org/W6664587208"
+ ],
+ "title": "An optimal algorithm for on-line bipartite matching"
+}

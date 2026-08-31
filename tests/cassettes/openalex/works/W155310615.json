@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 2,
+ "doi": "https://doi.org/10.1007/978-3-0348-9321-3_7",
+ "id": "https://openalex.org/W155310615",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1576259048",
+  "https://openalex.org/W1988744163",
+  "https://openalex.org/W2051317140",
+  "https://openalex.org/W2068877527",
+  "https://openalex.org/W2172525224",
+  "https://openalex.org/W3140461181",
+  "https://openalex.org/W4233387389",
+  "https://openalex.org/W4302391531",
+  "https://openalex.org/W7070922619"
+ ],
+ "title": "Local Smoothing for Scattered and Noisy Data"
+}

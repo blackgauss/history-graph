@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 731,
+ "doi": "https://doi.org/10.1145/1345448.1345465",
+ "id": "https://openalex.org/W2061212083",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1992270714",
+  "https://openalex.org/W2042281163",
+  "https://openalex.org/W2080512030",
+  "https://openalex.org/W2085937320",
+  "https://openalex.org/W2099866409",
+  "https://openalex.org/W2164354502",
+  "https://openalex.org/W2172249709",
+  "https://openalex.org/W2341535507",
+  "https://openalex.org/W2736148341",
+  "https://openalex.org/W4232980324",
+  "https://openalex.org/W4313729856",
+  "https://openalex.org/W6703949738"
+ ],
+ "title": "Lessons from the Netflix prize challenge"
+}

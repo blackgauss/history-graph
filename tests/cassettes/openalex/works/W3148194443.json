@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 452,
+ "doi": "https://doi.org/10.1109/ijcnn.1989.118723",
+ "id": "https://openalex.org/W3148194443",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1529008516",
+  "https://openalex.org/W1535810436",
+  "https://openalex.org/W1573503290",
+  "https://openalex.org/W2482792214",
+  "https://openalex.org/W2578352087",
+  "https://openalex.org/W6632223199",
+  "https://openalex.org/W6638068850"
+ ],
+ "title": "The truck backer-upper: an example of self-learning in neural networks"
+}

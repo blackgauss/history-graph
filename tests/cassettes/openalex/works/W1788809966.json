@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 169,
+ "doi": null,
+ "id": "https://openalex.org/W1788809966",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W60189517",
+  "https://openalex.org/W86575217",
+  "https://openalex.org/W131378802",
+  "https://openalex.org/W1518461880",
+  "https://openalex.org/W2096199223",
+  "https://openalex.org/W2106129230",
+  "https://openalex.org/W2139759436",
+  "https://openalex.org/W2146502635",
+  "https://openalex.org/W2148825261",
+  "https://openalex.org/W2296319761"
+ ],
+ "title": "Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization"
+}

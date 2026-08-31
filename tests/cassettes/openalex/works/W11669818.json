@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 144,
+ "doi": null,
+ "id": "https://openalex.org/W11669818",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1998718301",
+  "https://openalex.org/W2070742144",
+  "https://openalex.org/W2119045813"
+ ],
+ "title": "Varieties of Concurrency Control in IMS/VS Fast Path."
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 107,
+ "doi": "https://doi.org/10.1016/0003-4843(76)90016-4",
+ "id": "https://openalex.org/W2033957959",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W44111308",
+  "https://openalex.org/W2037416374",
+  "https://openalex.org/W2055051664",
+  "https://openalex.org/W2070390550",
+  "https://openalex.org/W2082637799",
+  "https://openalex.org/W2320833443",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W4244676972",
+  "https://openalex.org/W6904822238"
+ ],
+ "title": "A recursively enumerable degree which will not split over all lesser ones"
+}

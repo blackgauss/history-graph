@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 55,
+ "doi": "https://doi.org/10.5555/365411.365760",
+ "id": "https://openalex.org/W2001508095",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1534497489",
+  "https://openalex.org/W1650993530",
+  "https://openalex.org/W1978732816",
+  "https://openalex.org/W2000931246",
+  "https://openalex.org/W2004472922",
+  "https://openalex.org/W2006424894"
+ ],
+ "title": "The phase transition in 1-in-k SAT and NAE 3-SAT"
+}

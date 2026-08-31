@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 169,
+ "doi": null,
+ "id": "https://openalex.org/W2535123820",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W113430924",
+  "https://openalex.org/W1967921672",
+  "https://openalex.org/W1976618413",
+  "https://openalex.org/W2106813372",
+  "https://openalex.org/W2115979064",
+  "https://openalex.org/W2118079529",
+  "https://openalex.org/W2165395308",
+  "https://openalex.org/W2167680278",
+  "https://openalex.org/W2170120409",
+  "https://openalex.org/W2341535507"
+ ],
+ "title": "Variational Bayesian Approach to Movie Rating Prediction"
+}

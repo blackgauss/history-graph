@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 1134,
+ "doi": null,
+ "id": "https://openalex.org/W2218318129",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1994197834",
+  "https://openalex.org/W2072128103",
+  "https://openalex.org/W2078626246",
+  "https://openalex.org/W2105464873",
+  "https://openalex.org/W2110798204",
+  "https://openalex.org/W2111406701",
+  "https://openalex.org/W2111494971",
+  "https://openalex.org/W2130325614",
+  "https://openalex.org/W2133257461",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2140262144",
+  "https://openalex.org/W2145094598",
+  "https://openalex.org/W2159291644",
+  "https://openalex.org/W2164122462",
+  "https://openalex.org/W2504871398",
+  "https://openalex.org/W2546302380",
+  "https://openalex.org/W3118608800"
+ ],
+ "title": "Contractive Auto-Encoders: Explicit Invariance During Feature Extraction"
+}

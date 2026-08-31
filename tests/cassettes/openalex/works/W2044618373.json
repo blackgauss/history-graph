@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 45,
+ "doi": "https://doi.org/10.1145/800196.805973",
+ "id": "https://openalex.org/W2044618373",
+ "publication_year": 1967,
+ "referenced_works": [
+  "https://openalex.org/W1984408652",
+  "https://openalex.org/W2159405924"
+ ],
+ "title": "Treating hierarchical data structures in the SDC Time-Shared Data Management System (TDMS)"
+}

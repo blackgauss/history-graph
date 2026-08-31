@@ -1,0 +1,619 @@
+{
+ "abstract_inverted_index": {
+  "In": [
+   22,
+   42,
+   63
+  ],
+  "The": [
+   83
+  ],
+  "With": [
+   0
+  ],
+  "a": [
+   47
+  ],
+  "and": [
+   40,
+   58,
+   75
+  ],
+  "architecture": [
+   36
+  ],
+  "are": [
+   28
+  ],
+  "as": [
+   95
+  ],
+  "becomes": [
+   12
+  ],
+  "by": [
+   79
+  ],
+  "can": [
+   69
+  ],
+  "capacity": [
+   72
+  ],
+  "cloud": [
+   20
+  ],
+  "computing.": [
+   21
+  ],
+  "data": [
+   4,
+   16,
+   87
+  ],
+  "development,": [
+   26
+  ],
+  "distributed": [
+   9,
+   23,
+   48
+  ],
+  "experiments,": [
+   65
+  ],
+  "fault": [
+   80
+  ],
+  "file": [
+   10,
+   24
+  ],
+  "hard": [
+   32
+  ],
+  "important": [
+   15
+  ],
+  "in": [
+   19,
+   91
+  ],
+  "including": [
+   51
+  ],
+  "increase": [
+   70,
+   76
+  ],
+  "increases": [
+   6
+  ],
+  "is": [
+   88
+  ],
+  "little": [
+   90
+  ],
+  "management": [
+   60
+  ],
+  "many": [
+   29
+  ],
+  "mechanism.": [
+   82
+  ],
+  "mechanisms.": [
+   62
+  ],
+  "metadata": [
+   54,
+   74
+  ],
+  "metaserver": [
+   49,
+   52,
+   56,
+   59
+  ],
+  "most": [
+   14
+  ],
+  "need": [
+   2
+  ],
+  "nowadays,": [
+   8
+  ],
+  "of": [
+   3,
+   73,
+   85
+  ],
+  "our": [
+   43,
+   64
+  ],
+  "overhead": [
+   84
+  ],
+  "propose": [
+   46
+  ],
+  "proposed": [
+   67,
+   93
+  ],
+  "provide": [
+   38
+  ],
+  "read/write": [
+   86
+  ],
+  "recovery": [
+   61
+  ],
+  "recovery,": [
+   57
+  ],
+  "refine": [
+   34
+  ],
+  "reliability": [
+   78
+  ],
+  "reliability.": [
+   41
+  ],
+  "replication,": [
+   55
+  ],
+  "researchers": [
+   30
+  ],
+  "scalability": [
+   39
+  ],
+  "scale-out,": [
+   53
+  ],
+  "storage": [
+   5,
+   17
+  ],
+  "system": [
+   11,
+   18,
+   25,
+   50,
+   68,
+   94
+  ],
+  "the": [
+   1,
+   13,
+   35,
+   66,
+   71,
+   77,
+   92
+  ],
+  "there": [
+   27
+  ],
+  "to": [
+   33,
+   37
+  ],
+  "tolerance": [
+   81
+  ],
+  "tremendously": [
+   7
+  ],
+  "very": [
+   89
+  ],
+  "we": [
+   45
+  ],
+  "well.": [
+   96
+  ],
+  "work": [
+   31
+  ],
+  "work,": [
+   44
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I25846049"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, National Tsing Hua University, Taiwan"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I25846049"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan#TAB#"
+    }
+   ],
+   "author": {
+    "display_name": "Su-Shien Ho",
+    "id": "https://openalex.org/A5001379792",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "TW"
+   ],
+   "institutions": [
+    {
+     "country_code": "TW",
+     "display_name": "National Tsing Hua University",
+     "id": "https://openalex.org/I25846049",
+     "lineage": [
+      "https://openalex.org/I25846049"
+     ],
+     "ror": "https://ror.org/00zdnkx70",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science, National Tsing Hua University, Taiwan",
+    "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan#TAB#"
+   ],
+   "raw_author_name": "Su-Shien Ho",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I25846049"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, National Tsing Hua University, Taiwan"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I25846049"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan#TAB#"
+    }
+   ],
+   "author": {
+    "display_name": "Chun-Feng Wu",
+    "id": "https://openalex.org/A5064046587",
+    "orcid": "https://orcid.org/0000-0002-6367-0517"
+   },
+   "author_position": "middle",
+   "countries": [
+    "TW"
+   ],
+   "institutions": [
+    {
+     "country_code": "TW",
+     "display_name": "National Tsing Hua University",
+     "id": "https://openalex.org/I25846049",
+     "lineage": [
+      "https://openalex.org/I25846049"
+     ],
+     "ror": "https://ror.org/00zdnkx70",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science, National Tsing Hua University, Taiwan",
+    "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan#TAB#"
+   ],
+   "raw_author_name": "Chun-Feng Wu",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I25846049"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, National Tsing Hua University, Taiwan"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I25846049"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan#TAB#"
+    }
+   ],
+   "author": {
+    "display_name": "Jiazheng Zhou",
+    "id": "https://openalex.org/A5101788479",
+    "orcid": "https://orcid.org/0000-0003-2182-7499"
+   },
+   "author_position": "middle",
+   "countries": [
+    "TW"
+   ],
+   "institutions": [
+    {
+     "country_code": "TW",
+     "display_name": "National Tsing Hua University",
+     "id": "https://openalex.org/I25846049",
+     "lineage": [
+      "https://openalex.org/I25846049"
+     ],
+     "ror": "https://ror.org/00zdnkx70",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science, National Tsing Hua University, Taiwan",
+    "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan#TAB#"
+   ],
+   "raw_author_name": "Jiazheng Zhou",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Department of Computer Science and Technology, Tsinghua University, Beijing, China"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Dept. of Computer Science & Technology, Tsinghua University, Beijing, China#TAB#"
+    }
+   ],
+   "author": {
+    "display_name": "Wenguang Chen",
+    "id": "https://openalex.org/A5103141832",
+    "orcid": "https://orcid.org/0000-0002-4281-1018"
+   },
+   "author_position": "middle",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "Tsinghua University",
+     "id": "https://openalex.org/I99065089",
+     "lineage": [
+      "https://openalex.org/I99065089"
+     ],
+     "ror": "https://ror.org/03cve4549",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science and Technology, Tsinghua University, Beijing, China",
+    "Dept. of Computer Science & Technology, Tsinghua University, Beijing, China#TAB#"
+   ],
+   "raw_author_name": "Wenguang Chen",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I59460038"
+     ],
+     "raw_affiliation_string": "Department of Computer Science and Information Engineering, Chung Hua University, Taiwan"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I59460038"
+     ],
+     "raw_affiliation_string": "Department of Computer Science and Information Engineering, Chung Hua University, Hsinchu, Taiwan#TAB#"
+    }
+   ],
+   "author": {
+    "display_name": "Ching‐Hsien Hsu",
+    "id": "https://openalex.org/A5035377793",
+    "orcid": "https://orcid.org/0000-0002-2440-2771"
+   },
+   "author_position": "middle",
+   "countries": [
+    "TW"
+   ],
+   "institutions": [
+    {
+     "country_code": "TW",
+     "display_name": "Chung Hua University",
+     "id": "https://openalex.org/I59460038",
+     "lineage": [
+      "https://openalex.org/I59460038"
+     ],
+     "ror": "https://ror.org/01yzz0f51",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science and Information Engineering, Chung Hua University, Taiwan",
+    "Department of Computer Science and Information Engineering, Chung Hua University, Hsinchu, Taiwan#TAB#"
+   ],
+   "raw_author_name": "Ching-Hsien Hsu",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I91807558"
+     ],
+     "raw_affiliation_string": "Department of Computer Science and Information Engineering, National Cheng Kung University, Taiwan"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I91807558"
+     ],
+     "raw_affiliation_string": "Department of Computer Science and Information Engineering, National Cheng Kung University , Tainan, Taiwan"
+    }
+   ],
+   "author": {
+    "display_name": "Hung‐Chang Hsiao",
+    "id": "https://openalex.org/A5081412901",
+    "orcid": "https://orcid.org/0000-0001-9613-7455"
+   },
+   "author_position": "middle",
+   "countries": [
+    "TW"
+   ],
+   "institutions": [
+    {
+     "country_code": "TW",
+     "display_name": "National Cheng Kung University",
+     "id": "https://openalex.org/I91807558",
+     "lineage": [
+      "https://openalex.org/I91807558"
+     ],
+     "ror": "https://ror.org/01b8kcc49",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science and Information Engineering, National Cheng Kung University, Taiwan",
+    "Department of Computer Science and Information Engineering, National Cheng Kung University , Tainan, Taiwan"
+   ],
+   "raw_author_name": "Hung-Chang Hsiao",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I25846049"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, National Tsing Hua University, Taiwan"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I25846049"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan#TAB#"
+    }
+   ],
+   "author": {
+    "display_name": "Yeh‐Ching Chung",
+    "id": "https://openalex.org/A5043627040",
+    "orcid": "https://orcid.org/0000-0002-8704-9821"
+   },
+   "author_position": "last",
+   "countries": [
+    "TW"
+   ],
+   "institutions": [
+    {
+     "country_code": "TW",
+     "display_name": "National Tsing Hua University",
+     "id": "https://openalex.org/I25846049",
+     "lineage": [
+      "https://openalex.org/I25846049"
+     ],
+     "ror": "https://ror.org/00zdnkx70",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science, National Tsing Hua University, Taiwan",
+    "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan#TAB#"
+   ],
+   "raw_author_name": "Yeh-Ching Chung",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 2,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2017
+  }
+ ],
+ "doi": "https://doi.org/10.1109/compsac.2015.109",
+ "funders": [],
+ "id": "https://openalex.org/W1675339843",
+ "ids": {
+  "doi": "https://doi.org/10.1109/compsac.2015.109",
+  "mag": "1675339843",
+  "openalex": "https://openalex.org/W1675339843"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1109/compsac.2015.109",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1109/compsac.2015.109",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "2015 IEEE 39th Annual Computer Software and Applications Conference",
+  "raw_type": "proceedings-article",
+  "source": null,
+  "version": "publishedVersion"
+ },
+ "publication_year": 2015,
+ "referenced_works": [
+  "https://openalex.org/W26797728",
+  "https://openalex.org/W154253821",
+  "https://openalex.org/W307036055",
+  "https://openalex.org/W1516720694",
+  "https://openalex.org/W1629652666",
+  "https://openalex.org/W1836955865",
+  "https://openalex.org/W1971766881",
+  "https://openalex.org/W1999984505",
+  "https://openalex.org/W2000394291",
+  "https://openalex.org/W2004958263",
+  "https://openalex.org/W2087946700",
+  "https://openalex.org/W2104292367",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2119738171",
+  "https://openalex.org/W2139703052",
+  "https://openalex.org/W2148575324",
+  "https://openalex.org/W2964143852",
+  "https://openalex.org/W6606324823",
+  "https://openalex.org/W6636565893",
+  "https://openalex.org/W6650418438",
+  "https://openalex.org/W6675860932"
+ ],
+ "related_works": [
+  "https://openalex.org/W3042976586",
+  "https://openalex.org/W1480425691",
+  "https://openalex.org/W2793311029",
+  "https://openalex.org/W2488366707",
+  "https://openalex.org/W4313272304",
+  "https://openalex.org/W151134225",
+  "https://openalex.org/W2286596378",
+  "https://openalex.org/W2131894525",
+  "https://openalex.org/W4285137472",
+  "https://openalex.org/W2511483174"
+ ],
+ "title": "Distributed Metaserver Mechanism and Recovery Mechanism Support in Quantcast File System",
+ "type": "conference-paper"
+}

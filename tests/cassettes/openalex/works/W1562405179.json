@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 293,
+ "doi": null,
+ "id": "https://openalex.org/W1562405179",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1207115811",
+  "https://openalex.org/W1489992655",
+  "https://openalex.org/W1605217017",
+  "https://openalex.org/W1659541576",
+  "https://openalex.org/W1981202432",
+  "https://openalex.org/W1987393840",
+  "https://openalex.org/W1987777228",
+  "https://openalex.org/W2006119904",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2295428206",
+  "https://openalex.org/W2398953749",
+  "https://openalex.org/W2753710282"
+ ],
+ "title": "Efficient Computation of PageRank"
+}

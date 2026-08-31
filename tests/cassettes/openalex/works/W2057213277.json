@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 2509,
+ "doi": "https://doi.org/10.1073/pnas.86.5.1698",
+ "id": "https://openalex.org/W2057213277",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W181468950",
+  "https://openalex.org/W287185551",
+  "https://openalex.org/W1526180724",
+  "https://openalex.org/W1572182480",
+  "https://openalex.org/W1964491812",
+  "https://openalex.org/W1967114919",
+  "https://openalex.org/W1970685891",
+  "https://openalex.org/W1971163115",
+  "https://openalex.org/W1976926038",
+  "https://openalex.org/W1978667192",
+  "https://openalex.org/W1994912152",
+  "https://openalex.org/W2001888365",
+  "https://openalex.org/W2008057002",
+  "https://openalex.org/W2053836029",
+  "https://openalex.org/W2056934252",
+  "https://openalex.org/W2064351423",
+  "https://openalex.org/W2108564062",
+  "https://openalex.org/W2114876443",
+  "https://openalex.org/W2406280156",
+  "https://openalex.org/W2409387507",
+  "https://openalex.org/W2464620196",
+  "https://openalex.org/W2765638876",
+  "https://openalex.org/W3142790270"
+ ],
+ "title": "Stimulus-specific neuronal oscillations in orientation columns of cat visual cortex."
+}

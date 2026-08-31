@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 142,
+ "counts_by_year": [
+  {
+   "cited_by_count": 36,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 84,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 21,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1109/access.2024.3349952",
+ "id": "https://openalex.org/W4390590855",
+ "publication_year": 2024,
+ "title": "A Survey of Text Classification With Transformers: How Wide? How Large? How Long? How Accurate? How Expensive? How Safe?"
+}

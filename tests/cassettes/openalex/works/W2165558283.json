@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 7579,
+ "doi": "https://doi.org/10.1145/361002.361007",
+ "id": "https://openalex.org/W2165558283",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W1974393942",
+  "https://openalex.org/W1996641400",
+  "https://openalex.org/W2008196645",
+  "https://openalex.org/W2024668293",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W4247557026"
+ ],
+ "title": "Multidimensional binary search trees used for associative searching"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 18,
+ "doi": "https://doi.org/10.1109/icde.1984.7271313",
+ "id": "https://openalex.org/W2103585798",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1539164172",
+  "https://openalex.org/W2003499043",
+  "https://openalex.org/W2020174888",
+  "https://openalex.org/W2059844260",
+  "https://openalex.org/W2095037822",
+  "https://openalex.org/W2169012378"
+ ],
+ "title": "Distributed query evaluation in local area networks"
+}

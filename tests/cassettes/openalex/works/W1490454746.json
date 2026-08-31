@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 1074,
+ "doi": "https://doi.org/10.1207/s15516709cog0901_5",
+ "id": "https://openalex.org/W1490454746",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1733248925",
+  "https://openalex.org/W1967011375",
+  "https://openalex.org/W1995341919",
+  "https://openalex.org/W2010315761",
+  "https://openalex.org/W2068868410",
+  "https://openalex.org/W2073257493",
+  "https://openalex.org/W2103170504",
+  "https://openalex.org/W2113653296",
+  "https://openalex.org/W2118919066",
+  "https://openalex.org/W2887242076",
+  "https://openalex.org/W4233994241",
+  "https://openalex.org/W4251731575"
+ ],
+ "title": "Feature Discovery by Competitive Learning*"
+}

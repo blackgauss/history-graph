@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 644,
+ "doi": "https://doi.org/10.1109/ijcnn.2000.861302",
+ "id": "https://openalex.org/W2100649405",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1526055535",
+  "https://openalex.org/W1981276685",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2086756055",
+  "https://openalex.org/W2102058908",
+  "https://openalex.org/W2116261113",
+  "https://openalex.org/W2154890045",
+  "https://openalex.org/W2161921398",
+  "https://openalex.org/W4212774754",
+  "https://openalex.org/W7001503682"
+ ],
+ "title": "Recurrent nets that time and count"
+}

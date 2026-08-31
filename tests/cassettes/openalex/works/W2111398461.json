@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 17,
+ "doi": "https://doi.org/10.1109/jssc.1977.1050940",
+ "id": "https://openalex.org/W2111398461",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1857334912",
+  "https://openalex.org/W1965220500",
+  "https://openalex.org/W2293825829",
+  "https://openalex.org/W3041253875",
+  "https://openalex.org/W3104479764",
+  "https://openalex.org/W6639371622",
+  "https://openalex.org/W6780495372",
+  "https://openalex.org/W6786276349"
+ ],
+ "title": "Digital charge-coupled logic (DCCL)"
+}

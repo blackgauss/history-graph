@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 55,
+ "doi": "https://doi.org/10.1214/aos/1176348382",
+ "id": "https://openalex.org/W2004971231",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W430350199",
+  "https://openalex.org/W1677387685",
+  "https://openalex.org/W1705752413",
+  "https://openalex.org/W1973885534",
+  "https://openalex.org/W2006258746",
+  "https://openalex.org/W2006733863",
+  "https://openalex.org/W2009200425",
+  "https://openalex.org/W2010029425",
+  "https://openalex.org/W2039720429",
+  "https://openalex.org/W2058879737",
+  "https://openalex.org/W2065398693",
+  "https://openalex.org/W2069727739",
+  "https://openalex.org/W2616762518",
+  "https://openalex.org/W2802739963",
+  "https://openalex.org/W3127711384"
+ ],
+ "title": "One-Armed Bandit Problems with Covariates"
+}

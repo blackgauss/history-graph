@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 213,
+ "doi": "https://doi.org/10.1109/jssc.1972.1052891",
+ "id": "https://openalex.org/W2121368330",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W2139865161",
+  "https://openalex.org/W2152241293",
+  "https://openalex.org/W4248003211"
+ ],
+ "title": "Integrated injection logic: a new approach to LSI"
+}

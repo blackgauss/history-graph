@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 7607,
+ "doi": "https://doi.org/10.1007/bf02650179",
+ "id": "https://openalex.org/W2179731956",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W1505071796",
+  "https://openalex.org/W1549431774",
+  "https://openalex.org/W1997093580",
+  "https://openalex.org/W2009082062",
+  "https://openalex.org/W2033618121",
+  "https://openalex.org/W2070725510",
+  "https://openalex.org/W2085643350",
+  "https://openalex.org/W2230232462",
+  "https://openalex.org/W2323950924"
+ ],
+ "title": "Simulating physics with computers"
+}

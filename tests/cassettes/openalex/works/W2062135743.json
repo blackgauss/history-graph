@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 136,
+ "doi": "https://doi.org/10.1016/0003-4843(77)90015-8",
+ "id": "https://openalex.org/W2062135743",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1816556148",
+  "https://openalex.org/W1987623954",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2059568104",
+  "https://openalex.org/W2063706894",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W4205118706",
+  "https://openalex.org/W4239785804",
+  "https://openalex.org/W4242679002",
+  "https://openalex.org/W4248052256",
+  "https://openalex.org/W6638331819",
+  "https://openalex.org/W6665536099",
+  "https://openalex.org/W6677681940",
+  "https://openalex.org/W6815558393",
+  "https://openalex.org/W6818414978"
+ ],
+ "title": "Recursively enumerable vector spaces"
+}

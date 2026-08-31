@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 504,
+ "doi": null,
+ "id": "https://openalex.org/W2160371091",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W111328409",
+  "https://openalex.org/W1526807135",
+  "https://openalex.org/W1589977616",
+  "https://openalex.org/W1610678877",
+  "https://openalex.org/W2012036715",
+  "https://openalex.org/W2100684997",
+  "https://openalex.org/W2103626435",
+  "https://openalex.org/W2150884987",
+  "https://openalex.org/W3011120880",
+  "https://openalex.org/W3022436500"
+ ],
+ "title": "Feudal Reinforcement Learning"
+}

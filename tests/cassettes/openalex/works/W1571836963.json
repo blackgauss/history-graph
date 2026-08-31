@@ -1,0 +1,86 @@
+{
+ "cited_by_count": 604,
+ "counts_by_year": [
+  {
+   "cited_by_count": 12,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 35,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 59,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 57,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 56,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W1571836963",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1515620500",
+  "https://openalex.org/W1522059164",
+  "https://openalex.org/W1539097253",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W1995945562",
+  "https://openalex.org/W2006235059",
+  "https://openalex.org/W2043076104",
+  "https://openalex.org/W2084362125",
+  "https://openalex.org/W2093717447",
+  "https://openalex.org/W2102201073",
+  "https://openalex.org/W2104364170",
+  "https://openalex.org/W2111814036",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2166501286",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W2914369697",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W3140461181"
+ ],
+ "title": "Improving Regressors using Boosting Techniques"
+}

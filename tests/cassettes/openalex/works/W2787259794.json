@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 768,
+ "doi": "https://doi.org/10.3233/icg-1995-18207",
+ "id": "https://openalex.org/W2787259794",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1512592747",
+  "https://openalex.org/W2109779438",
+  "https://openalex.org/W2133473403",
+  "https://openalex.org/W2138178898",
+  "https://openalex.org/W2154642048",
+  "https://openalex.org/W2159920598",
+  "https://openalex.org/W2202514763",
+  "https://openalex.org/W3146803896",
+  "https://openalex.org/W3207342693"
+ ],
+ "title": "Temporal Difference Learning and TD-Gammon"
+}

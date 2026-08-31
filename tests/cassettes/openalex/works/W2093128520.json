@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 116,
+ "doi": "https://doi.org/10.1007/bf01585160",
+ "id": "https://openalex.org/W2093128520",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W226144781",
+  "https://openalex.org/W2000472767",
+  "https://openalex.org/W2002636386",
+  "https://openalex.org/W2003160050",
+  "https://openalex.org/W2009955311",
+  "https://openalex.org/W2013415302",
+  "https://openalex.org/W2017180575",
+  "https://openalex.org/W2077783414",
+  "https://openalex.org/W2080333071",
+  "https://openalex.org/W2103985627",
+  "https://openalex.org/W2112960677",
+  "https://openalex.org/W2114616381",
+  "https://openalex.org/W2128208761",
+  "https://openalex.org/W2150529683",
+  "https://openalex.org/W2401610261"
+ ],
+ "title": "Tight bounds and 2-approximation algorithms for integer programs with two variables per inequality"
+}

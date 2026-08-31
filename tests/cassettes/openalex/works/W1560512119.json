@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 1469,
+ "doi": "https://doi.org/10.48550/arxiv.1301.6725",
+ "id": "https://openalex.org/W1560512119",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1493379661",
+  "https://openalex.org/W1505477995",
+  "https://openalex.org/W1520448186",
+  "https://openalex.org/W1561981064",
+  "https://openalex.org/W1600397135",
+  "https://openalex.org/W1834893312",
+  "https://openalex.org/W1980452149",
+  "https://openalex.org/W1999321705",
+  "https://openalex.org/W1999432334",
+  "https://openalex.org/W2086238730",
+  "https://openalex.org/W2129031807",
+  "https://openalex.org/W2134700719",
+  "https://openalex.org/W2159080219",
+  "https://openalex.org/W2161001955",
+  "https://openalex.org/W2175160295",
+  "https://openalex.org/W2987657883",
+  "https://openalex.org/W3103862435"
+ ],
+ "title": "Loopy Belief Propagation for Approximate Inference: An Empirical Study"
+}

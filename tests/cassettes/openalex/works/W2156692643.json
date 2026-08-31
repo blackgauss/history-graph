@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 45,
+ "doi": null,
+ "id": "https://openalex.org/W2156692643",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W183625566",
+  "https://openalex.org/W1718064325",
+  "https://openalex.org/W2007857129",
+  "https://openalex.org/W2055226387",
+  "https://openalex.org/W2140766383"
+ ],
+ "title": "RecNorm: Simultaneous Normalisation and Classification applied to Speech Recognition"
+}

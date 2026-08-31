@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 101,
+ "doi": "https://doi.org/10.1007/bf00265223",
+ "id": "https://openalex.org/W2122786581",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W129139257",
+  "https://openalex.org/W1540038024",
+  "https://openalex.org/W1982704699",
+  "https://openalex.org/W2004471951"
+ ],
+ "title": "The network complexity and the Turing machine complexity of finite functions"
+}

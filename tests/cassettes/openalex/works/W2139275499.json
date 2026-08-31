@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 7,
+ "doi": null,
+ "id": "https://openalex.org/W2139275499",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1510002295",
+  "https://openalex.org/W1520448186",
+  "https://openalex.org/W1593793857",
+  "https://openalex.org/W1969249504",
+  "https://openalex.org/W1990755770",
+  "https://openalex.org/W2048489451",
+  "https://openalex.org/W2069097920",
+  "https://openalex.org/W2109091716",
+  "https://openalex.org/W2152895903"
+ ],
+ "title": "Second Order Approximations for Probability Models"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 16,
+ "doi": null,
+ "id": "https://openalex.org/W2150964576",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1600397135",
+  "https://openalex.org/W2121606987",
+  "https://openalex.org/W2128765501",
+  "https://openalex.org/W2129031807",
+  "https://openalex.org/W2134700719",
+  "https://openalex.org/W2149185827",
+  "https://openalex.org/W2158122241",
+  "https://openalex.org/W2159080219",
+  "https://openalex.org/W2160668024",
+  "https://openalex.org/W2161001955"
+ ],
+ "title": "An Analysis of Turbo Decoding with Gaussian Densities"
+}

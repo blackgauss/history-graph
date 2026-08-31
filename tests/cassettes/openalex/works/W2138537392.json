@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 2610,
+ "doi": "https://doi.org/10.1162/106365603321828970",
+ "id": "https://openalex.org/W2138537392",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W206440355",
+  "https://openalex.org/W1490714575",
+  "https://openalex.org/W1498178627",
+  "https://openalex.org/W1628796138",
+  "https://openalex.org/W1970717464",
+  "https://openalex.org/W1976625337",
+  "https://openalex.org/W2002161478",
+  "https://openalex.org/W2041296635",
+  "https://openalex.org/W2105217850",
+  "https://openalex.org/W2112036188",
+  "https://openalex.org/W2137514952"
+ ],
+ "title": "Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES)"
+}

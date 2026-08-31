@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 46,
+ "doi": "https://doi.org/10.1145/2502524.2502532",
+ "id": "https://openalex.org/W1981290083",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W2085865324",
+  "https://openalex.org/W2088356556",
+  "https://openalex.org/W2098916117",
+  "https://openalex.org/W2102104695",
+  "https://openalex.org/W2112930335",
+  "https://openalex.org/W2113523706",
+  "https://openalex.org/W2120423655",
+  "https://openalex.org/W2137514195",
+  "https://openalex.org/W2140464472",
+  "https://openalex.org/W2165216595",
+  "https://openalex.org/W2168720173",
+  "https://openalex.org/W3004737220",
+  "https://openalex.org/W3142014825"
+ ],
+ "title": "Collision free autonomous ground traffic"
+}

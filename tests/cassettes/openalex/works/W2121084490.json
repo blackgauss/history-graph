@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 610,
+ "doi": "https://doi.org/10.1109/rtas.2008.15",
+ "id": "https://openalex.org/W2121084490",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W110344943",
+  "https://openalex.org/W186079101",
+  "https://openalex.org/W1521189389",
+  "https://openalex.org/W1584498424",
+  "https://openalex.org/W1903863260",
+  "https://openalex.org/W2097657196",
+  "https://openalex.org/W2108777122",
+  "https://openalex.org/W2130403046",
+  "https://openalex.org/W2135505702",
+  "https://openalex.org/W2168452204",
+  "https://openalex.org/W2188585406",
+  "https://openalex.org/W2355550369",
+  "https://openalex.org/W3002162509",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4386536312",
+  "https://openalex.org/W6604493068",
+  "https://openalex.org/W6674620956",
+  "https://openalex.org/W6686944488",
+  "https://openalex.org/W6773491027"
+ ],
+ "title": "WirelessHART: Applying Wireless Technology in Real-Time Industrial Process Control"
+}

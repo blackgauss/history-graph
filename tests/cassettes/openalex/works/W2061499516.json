@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 156,
+ "doi": "https://doi.org/10.1007/bf00974166",
+ "id": "https://openalex.org/W2061499516",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W6059654",
+  "https://openalex.org/W1721465822",
+  "https://openalex.org/W1804524409",
+  "https://openalex.org/W1995387874",
+  "https://openalex.org/W1995434614",
+  "https://openalex.org/W2003103143",
+  "https://openalex.org/W2026675255",
+  "https://openalex.org/W2074229945",
+  "https://openalex.org/W2085317013",
+  "https://openalex.org/W2126160338",
+  "https://openalex.org/W2251410821",
+  "https://openalex.org/W2796173924",
+  "https://openalex.org/W4232288974",
+  "https://openalex.org/W4244205768",
+  "https://openalex.org/W4301663117"
+ ],
+ "title": "On implementing a computation"
+}

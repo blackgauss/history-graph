@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 262,
+ "doi": "https://doi.org/10.1145/872757.872854",
+ "id": "https://openalex.org/W1986319134",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1646696449",
+  "https://openalex.org/W1831808549",
+  "https://openalex.org/W2124298185"
+ ],
+ "title": "STREAM"
+}

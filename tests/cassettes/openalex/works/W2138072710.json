@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 24,
+ "doi": "https://doi.org/10.1109/cacsd.2004.1393892",
+ "id": "https://openalex.org/W2138072710",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W2084233036",
+  "https://openalex.org/W2097944741",
+  "https://openalex.org/W2099139589",
+  "https://openalex.org/W2199818558",
+  "https://openalex.org/W6640872959",
+  "https://openalex.org/W6688083898"
+ ],
+ "title": "A MATLAB toolbox for robustness analysis"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1109/tc.1980.1675631",
+ "id": "https://openalex.org/W1730001569",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1975708519",
+  "https://openalex.org/W1981663184",
+  "https://openalex.org/W1983849809",
+  "https://openalex.org/W1985896262",
+  "https://openalex.org/W1986554231",
+  "https://openalex.org/W2015700892",
+  "https://openalex.org/W2026903043",
+  "https://openalex.org/W2033311622",
+  "https://openalex.org/W2038326489",
+  "https://openalex.org/W2038627227",
+  "https://openalex.org/W2064547292",
+  "https://openalex.org/W2066537286",
+  "https://openalex.org/W2073632812",
+  "https://openalex.org/W2090290390",
+  "https://openalex.org/W2099639086",
+  "https://openalex.org/W2115452265",
+  "https://openalex.org/W2152019064",
+  "https://openalex.org/W2154410416",
+  "https://openalex.org/W2156443685",
+  "https://openalex.org/W2157847763",
+  "https://openalex.org/W6667314399"
+ ],
+ "title": "Complex Number Arithmetic with Odd- Valued Logic"
+}

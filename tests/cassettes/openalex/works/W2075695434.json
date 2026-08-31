@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 770,
+ "doi": "https://doi.org/10.1103/physrevlett.78.3414",
+ "id": "https://openalex.org/W2075695434",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1569871753",
+  "https://openalex.org/W1608059257",
+  "https://openalex.org/W1778354783",
+  "https://openalex.org/W1782172301",
+  "https://openalex.org/W1985325442",
+  "https://openalex.org/W1988155384",
+  "https://openalex.org/W1993066553",
+  "https://openalex.org/W2004304976",
+  "https://openalex.org/W2004881597",
+  "https://openalex.org/W2154839628",
+  "https://openalex.org/W2323980249",
+  "https://openalex.org/W2915470408",
+  "https://openalex.org/W2987687226",
+  "https://openalex.org/W4214950786",
+  "https://openalex.org/W4245266864"
+ ],
+ "title": "Unconditionally Secure Quantum Bit Commitment is Impossible"
+}

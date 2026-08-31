@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 23,
+ "doi": "https://doi.org/10.1007/978-3-540-27813-9_12",
+ "id": "https://openalex.org/W1491144250",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W117318854",
+  "https://openalex.org/W205961229",
+  "https://openalex.org/W1491144250",
+  "https://openalex.org/W1498734916",
+  "https://openalex.org/W1531082202",
+  "https://openalex.org/W1532000439",
+  "https://openalex.org/W1570783318",
+  "https://openalex.org/W1589982562",
+  "https://openalex.org/W1592502301",
+  "https://openalex.org/W1990313671",
+  "https://openalex.org/W2021915358",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2059636198",
+  "https://openalex.org/W4211036707",
+  "https://openalex.org/W4244108936"
+ ],
+ "title": "Range Allocation for Separation Logic"
+}

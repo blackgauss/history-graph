@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 546,
+ "doi": "https://doi.org/10.1016/s0169-7439(03)00111-4",
+ "id": "https://openalex.org/W2168156818",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W107875978",
+  "https://openalex.org/W1496317909",
+  "https://openalex.org/W1528620860",
+  "https://openalex.org/W1563088657",
+  "https://openalex.org/W1596717185",
+  "https://openalex.org/W1604938182",
+  "https://openalex.org/W1663792126",
+  "https://openalex.org/W2065682613",
+  "https://openalex.org/W2094631910",
+  "https://openalex.org/W2112545207",
+  "https://openalex.org/W2126455177",
+  "https://openalex.org/W2137557016",
+  "https://openalex.org/W2139212933",
+  "https://openalex.org/W2144513243",
+  "https://openalex.org/W2148518855",
+  "https://openalex.org/W2160829192",
+  "https://openalex.org/W2313953460",
+  "https://openalex.org/W2489292218",
+  "https://openalex.org/W3119651796",
+  "https://openalex.org/W4302406341",
+  "https://openalex.org/W6604382899",
+  "https://openalex.org/W6676930901",
+  "https://openalex.org/W6681151457"
+ ],
+ "title": "Using support vector machines for time series prediction"
+}

@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 894,
+ "doi": "https://doi.org/10.1109/tpami.1983.4767390",
+ "id": "https://openalex.org/W2107792892",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W2751752",
+  "https://openalex.org/W154154965",
+  "https://openalex.org/W567930972",
+  "https://openalex.org/W1516681311",
+  "https://openalex.org/W1534416612",
+  "https://openalex.org/W1581975000",
+  "https://openalex.org/W1597474747",
+  "https://openalex.org/W1736170383",
+  "https://openalex.org/W1965044325",
+  "https://openalex.org/W1979622972",
+  "https://openalex.org/W1990852520",
+  "https://openalex.org/W2019527847",
+  "https://openalex.org/W2040073555",
+  "https://openalex.org/W2066780173",
+  "https://openalex.org/W2080250034",
+  "https://openalex.org/W2105038716",
+  "https://openalex.org/W4298294117",
+  "https://openalex.org/W6606262583"
+ ],
+ "title": "On the Foundations of Relaxation Labeling Processes"
+}

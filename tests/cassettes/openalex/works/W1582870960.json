@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 66,
+ "doi": null,
+ "id": "https://openalex.org/W1582870960",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1578100948",
+  "https://openalex.org/W1999119023",
+  "https://openalex.org/W2058978608",
+  "https://openalex.org/W2098935637",
+  "https://openalex.org/W2100830825",
+  "https://openalex.org/W2103201239",
+  "https://openalex.org/W2119714163",
+  "https://openalex.org/W2120684426",
+  "https://openalex.org/W2122465391",
+  "https://openalex.org/W2122816893",
+  "https://openalex.org/W2126583885",
+  "https://openalex.org/W2129055634",
+  "https://openalex.org/W2130622824",
+  "https://openalex.org/W2158237121",
+  "https://openalex.org/W2159761515",
+  "https://openalex.org/W2162747054",
+  "https://openalex.org/W2171922437",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W2203361072",
+  "https://openalex.org/W2293896416",
+  "https://openalex.org/W2753710282",
+  "https://openalex.org/W2766000922"
+ ],
+ "title": "Automatic optimization of parallel dataflow programs"
+}

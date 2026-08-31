@@ -1,0 +1,83 @@
+{
+ "cited_by_count": 1974,
+ "counts_by_year": [
+  {
+   "cited_by_count": 28,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 48,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 77,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 73,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 86,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 90,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 113,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 106,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 130,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 124,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/258533.258660",
+ "id": "https://openalex.org/W2020765652",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1516913284",
+  "https://openalex.org/W1527961683",
+  "https://openalex.org/W1575304539",
+  "https://openalex.org/W1725124620",
+  "https://openalex.org/W2012643955",
+  "https://openalex.org/W2028928922",
+  "https://openalex.org/W2058972589",
+  "https://openalex.org/W2063738427",
+  "https://openalex.org/W2063844956",
+  "https://openalex.org/W2097562715",
+  "https://openalex.org/W2103336607",
+  "https://openalex.org/W2169600013"
+ ],
+ "title": "Consistent hashing and random trees"
+}

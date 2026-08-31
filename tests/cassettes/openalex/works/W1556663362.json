@@ -1,0 +1,89 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Alonzo Church",
+    "id": "https://openalex.org/A5110105454",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Alonzo Church"
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W1556663362",
+ "ids": {
+  "mag": "1556663362",
+  "openalex": "https://openalex.org/W1556663362"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "pmh:oai:CULeuclid:euclid.jsl/1183731752",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://projecteuclid.org/euclid.jsl/1183731752",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "",
+  "raw_type": "Text",
+  "source": {
+   "display_name": "Project Euclid (Cornell University)",
+   "host_organization": "https://openalex.org/I205783295",
+   "host_organization_lineage": [
+    "https://openalex.org/I205783295"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "Cornell University",
+   "id": "https://openalex.org/S4306400787",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": "submittedVersion"
+ },
+ "publication_year": 1953,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W1522571916",
+  "https://openalex.org/W1496378013",
+  "https://openalex.org/W157200566",
+  "https://openalex.org/W1552009631",
+  "https://openalex.org/W2073647455",
+  "https://openalex.org/W1991519577",
+  "https://openalex.org/W2601682422",
+  "https://openalex.org/W1512516763",
+  "https://openalex.org/W2079758901",
+  "https://openalex.org/W1548520835",
+  "https://openalex.org/W1998406267",
+  "https://openalex.org/W2480548075",
+  "https://openalex.org/W2976249645",
+  "https://openalex.org/W2800761608",
+  "https://openalex.org/W2347330689",
+  "https://openalex.org/W2364472724",
+  "https://openalex.org/W2805374351",
+  "https://openalex.org/W1594806453",
+  "https://openalex.org/W1779488971"
+ ],
+ "title": "Review: Claude E. Shannon, A Symbolic Analysis of Relay and Switching Circuits",
+ "type": "article"
+}

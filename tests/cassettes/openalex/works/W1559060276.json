@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 1367,
+ "doi": null,
+ "id": "https://openalex.org/W1559060276",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1528489993",
+  "https://openalex.org/W1562345870",
+  "https://openalex.org/W1580880025",
+  "https://openalex.org/W1585743408",
+  "https://openalex.org/W1605844890",
+  "https://openalex.org/W1625504505",
+  "https://openalex.org/W1678889691",
+  "https://openalex.org/W1976611840",
+  "https://openalex.org/W2022058268",
+  "https://openalex.org/W2056393159",
+  "https://openalex.org/W2123865363",
+  "https://openalex.org/W2147409005",
+  "https://openalex.org/W2163142059",
+  "https://openalex.org/W2268893631",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W3112020351"
+ ],
+ "title": "Scaling up the accuracy of Naive-Bayes classifiers: a decision-tree hybrid"
+}

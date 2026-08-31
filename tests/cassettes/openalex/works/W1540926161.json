@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 78,
+ "doi": null,
+ "id": "https://openalex.org/W1540926161",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W14629651",
+  "https://openalex.org/W201134449",
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1497748148",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2078528123",
+  "https://openalex.org/W2169486917"
+ ],
+ "title": "An adaptive hash join algorithm for multiuser environments"
+}

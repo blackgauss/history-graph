@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1109/icde.1999.754952",
+ "id": "https://openalex.org/W2062156243",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1519876418",
+  "https://openalex.org/W1533109738",
+  "https://openalex.org/W1590198000",
+  "https://openalex.org/W1597688903",
+  "https://openalex.org/W1598965153",
+  "https://openalex.org/W1965014786",
+  "https://openalex.org/W1988504473",
+  "https://openalex.org/W1990337493",
+  "https://openalex.org/W2086906616",
+  "https://openalex.org/W2108294512",
+  "https://openalex.org/W2115523108",
+  "https://openalex.org/W2130827292",
+  "https://openalex.org/W2139551853",
+  "https://openalex.org/W2172549414",
+  "https://openalex.org/W2610296873",
+  "https://openalex.org/W4230744569",
+  "https://openalex.org/W6631248092",
+  "https://openalex.org/W6635290205",
+  "https://openalex.org/W6635820845",
+  "https://openalex.org/W6685410571"
+ ],
+ "title": "Heterogeneous query processing through SQL table functions"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 998,
+ "doi": "https://doi.org/10.1145/7351.7478",
+ "id": "https://openalex.org/W2118153508",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W178848230",
+  "https://openalex.org/W1613095399",
+  "https://openalex.org/W1963615255",
+  "https://openalex.org/W1973501242",
+  "https://openalex.org/W1982329267",
+  "https://openalex.org/W1985188419",
+  "https://openalex.org/W1993505169",
+  "https://openalex.org/W1996715632",
+  "https://openalex.org/W2020014766",
+  "https://openalex.org/W2020181081",
+  "https://openalex.org/W2069451964",
+  "https://openalex.org/W2081409107",
+  "https://openalex.org/W2101148098",
+  "https://openalex.org/W2106887953",
+  "https://openalex.org/W2116820549",
+  "https://openalex.org/W2134806330",
+  "https://openalex.org/W2144566188",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W3143338349",
+  "https://openalex.org/W4233141170"
+ ],
+ "title": "Reliable communication in the presence of failures"
+}

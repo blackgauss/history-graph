@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 1188,
+ "doi": null,
+ "id": "https://openalex.org/W1667614912",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W4983232",
+  "https://openalex.org/W116450752",
+  "https://openalex.org/W1589632118",
+  "https://openalex.org/W1667362966",
+  "https://openalex.org/W1820801893",
+  "https://openalex.org/W1964878205",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2018830344",
+  "https://openalex.org/W2022695609",
+  "https://openalex.org/W2025399946",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2037197578",
+  "https://openalex.org/W2061560303",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2087662271",
+  "https://openalex.org/W2088377032",
+  "https://openalex.org/W2133085881",
+  "https://openalex.org/W2153638045"
+ ],
+ "title": "A new method for solving hard satisfiability problems"
+}

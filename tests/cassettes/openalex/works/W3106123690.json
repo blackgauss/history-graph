@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 846,
+ "doi": null,
+ "id": "https://openalex.org/W3106123690",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W2002372750",
+  "https://openalex.org/W2006290558",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2079092820",
+  "https://openalex.org/W2084652510",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2143677375",
+  "https://openalex.org/W2168676717",
+  "https://openalex.org/W2199322517",
+  "https://openalex.org/W2601248643",
+  "https://openalex.org/W2962738101",
+  "https://openalex.org/W3111297213"
+ ],
+ "title": "Tight Bounds on Quantum Searching"
+}

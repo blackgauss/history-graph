@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 89,
+ "doi": "https://doi.org/10.1016/0022-0000(92)90040-p",
+ "id": "https://openalex.org/W2074026916",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1512478964",
+  "https://openalex.org/W1521093446",
+  "https://openalex.org/W1551782573",
+  "https://openalex.org/W1970227944",
+  "https://openalex.org/W2007270285",
+  "https://openalex.org/W2012646416",
+  "https://openalex.org/W2022438838",
+  "https://openalex.org/W2036605992",
+  "https://openalex.org/W2070032247",
+  "https://openalex.org/W2141568518",
+  "https://openalex.org/W2154273644",
+  "https://openalex.org/W2184268586",
+  "https://openalex.org/W6631058281",
+  "https://openalex.org/W6633112591",
+  "https://openalex.org/W6681090851",
+  "https://openalex.org/W6824895264"
+ ],
+ "title": "An approximation theorem for topological lambda models and the topological incompleteness of lambda calculus"
+}

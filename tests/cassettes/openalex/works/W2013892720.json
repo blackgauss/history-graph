@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 162,
+ "doi": "https://doi.org/10.1016/s0140-3664(01)00410-8",
+ "id": "https://openalex.org/W2013892720",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1505612415",
+  "https://openalex.org/W1536410308",
+  "https://openalex.org/W1976969221",
+  "https://openalex.org/W1984656919",
+  "https://openalex.org/W1986680426",
+  "https://openalex.org/W2062939617",
+  "https://openalex.org/W2071324800",
+  "https://openalex.org/W2097147952",
+  "https://openalex.org/W2118033131",
+  "https://openalex.org/W2128008490",
+  "https://openalex.org/W2132987358",
+  "https://openalex.org/W2134529269",
+  "https://openalex.org/W2149871165",
+  "https://openalex.org/W2156323105",
+  "https://openalex.org/W2165084894",
+  "https://openalex.org/W2167776925",
+  "https://openalex.org/W4239879306",
+  "https://openalex.org/W6666023669",
+  "https://openalex.org/W6668113028"
+ ],
+ "title": "Topology-informed Internet replica placement"
+}

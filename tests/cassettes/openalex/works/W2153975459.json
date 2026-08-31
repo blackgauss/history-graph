@@ -1,0 +1,78 @@
+{
+ "cited_by_count": 643,
+ "counts_by_year": [
+  {
+   "cited_by_count": 18,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 21,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 59,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 57,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.7551/mitpress/7503.003.0076",
+ "id": "https://openalex.org/W2153975459",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1515272691",
+  "https://openalex.org/W1734803745",
+  "https://openalex.org/W2137813581",
+  "https://openalex.org/W2144578442",
+  "https://openalex.org/W2162185655",
+  "https://openalex.org/W2299457751",
+  "https://openalex.org/W2945608433"
+ ],
+ "title": "TrueSkill™: A Bayesian Skill Rating System"
+}

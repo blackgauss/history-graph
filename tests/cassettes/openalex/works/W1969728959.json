@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 323,
+ "doi": "https://doi.org/10.1137/0406010",
+ "id": "https://openalex.org/W1969728959",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W70474044",
+  "https://openalex.org/W1480319329",
+  "https://openalex.org/W1502124338",
+  "https://openalex.org/W1580885834",
+  "https://openalex.org/W1605256314",
+  "https://openalex.org/W1966677764",
+  "https://openalex.org/W1972649758",
+  "https://openalex.org/W1989233798",
+  "https://openalex.org/W2005317356",
+  "https://openalex.org/W2019806661",
+  "https://openalex.org/W2043545422",
+  "https://openalex.org/W2058826515",
+  "https://openalex.org/W2071483197",
+  "https://openalex.org/W2095985205",
+  "https://openalex.org/W2111416661",
+  "https://openalex.org/W2123355614",
+  "https://openalex.org/W2141040012",
+  "https://openalex.org/W2142778315",
+  "https://openalex.org/W2203317094",
+  "https://openalex.org/W2329786316",
+  "https://openalex.org/W2412687808",
+  "https://openalex.org/W4243292269"
+ ],
+ "title": "Discrete Logarithms in $GF ( P )$ Using the Number Field Sieve"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 873,
+ "doi": "https://doi.org/10.1145/2608628.2608664",
+ "id": "https://openalex.org/W2120248756",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W1540625694",
+  "https://openalex.org/W1559895863",
+  "https://openalex.org/W1561337879",
+  "https://openalex.org/W1568307856",
+  "https://openalex.org/W1820054516",
+  "https://openalex.org/W1979740015",
+  "https://openalex.org/W2023724794",
+  "https://openalex.org/W2035476608",
+  "https://openalex.org/W2038073775",
+  "https://openalex.org/W2058790613",
+  "https://openalex.org/W2075577372",
+  "https://openalex.org/W2114177725",
+  "https://openalex.org/W2153063335",
+  "https://openalex.org/W2170795229",
+  "https://openalex.org/W2296319761",
+  "https://openalex.org/W2408635465",
+  "https://openalex.org/W2951040528"
+ ],
+ "title": "Powers of tensors and fast matrix multiplication"
+}

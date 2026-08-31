@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 976,
+ "doi": "https://doi.org/10.1145/168304.168306",
+ "id": "https://openalex.org/W2047229728",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1532247067",
+  "https://openalex.org/W1968908999",
+  "https://openalex.org/W2048060899",
+  "https://openalex.org/W2111051539",
+  "https://openalex.org/W2149991584",
+  "https://openalex.org/W2156297475"
+ ],
+ "title": "Keeping the neural networks simple by minimizing the description length of the weights"
+}

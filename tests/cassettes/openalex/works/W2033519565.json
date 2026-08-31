@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 192,
+ "doi": "https://doi.org/10.1214/aos/1176350382",
+ "id": "https://openalex.org/W2033519565",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W2091886411",
+  "https://openalex.org/W2751862591"
+ ],
+ "title": "On a Conjecture of Huber Concerning the Convergence of Projection Pursuit Regression"
+}

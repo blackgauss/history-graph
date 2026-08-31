@@ -1,0 +1,41 @@
+{
+ "cited_by_count": 769,
+ "counts_by_year": [
+  {
+   "cited_by_count": 68,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 152,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 147,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 150,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 120,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2019
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3357384.3357925",
+ "id": "https://openalex.org/W2898085636",
+ "publication_year": 2019,
+ "title": "AutoInt"
+}

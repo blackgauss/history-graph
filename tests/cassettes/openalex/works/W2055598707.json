@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 342,
+ "doi": "https://doi.org/10.1103/physrevlett.77.3260",
+ "id": "https://openalex.org/W2055598707",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1572877829",
+  "https://openalex.org/W1631860252",
+  "https://openalex.org/W1662678933",
+  "https://openalex.org/W1977545330",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2005250833",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2063592138",
+  "https://openalex.org/W2069711632",
+  "https://openalex.org/W2087083734",
+  "https://openalex.org/W2087256203",
+  "https://openalex.org/W2091282688",
+  "https://openalex.org/W2091331782",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W2133866430",
+  "https://openalex.org/W2167927798",
+  "https://openalex.org/W2962952338",
+  "https://openalex.org/W3100206575"
+ ],
+ "title": "Fault-Tolerant Error Correction with Efficient Quantum Codes"
+}

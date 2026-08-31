@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 99,
+ "doi": "https://doi.org/10.5555/777092.777153",
+ "id": "https://openalex.org/W2099584630",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1513351507",
+  "https://openalex.org/W1518755039",
+  "https://openalex.org/W1574410118",
+  "https://openalex.org/W1976179404",
+  "https://openalex.org/W2012634103",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2017052164",
+  "https://openalex.org/W2031666601",
+  "https://openalex.org/W2039634593",
+  "https://openalex.org/W2041215952",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2081254453",
+  "https://openalex.org/W2082691840",
+  "https://openalex.org/W2110383956",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2125537511",
+  "https://openalex.org/W2126170153",
+  "https://openalex.org/W2126722697",
+  "https://openalex.org/W2134540007",
+  "https://openalex.org/W2157377553"
+ ],
+ "title": "Truthful approximation mechanisms for restricted combinatorial auctions: extended abstract"
+}

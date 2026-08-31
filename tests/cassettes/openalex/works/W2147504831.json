@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 2303,
+ "doi": "https://doi.org/10.1145/971701.50214",
+ "id": "https://openalex.org/W2147504831",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W63030155",
+  "https://openalex.org/W1980073965",
+  "https://openalex.org/W1990771431",
+  "https://openalex.org/W2004731091",
+  "https://openalex.org/W2018929990",
+  "https://openalex.org/W2035002121",
+  "https://openalex.org/W2054250442",
+  "https://openalex.org/W2059033977",
+  "https://openalex.org/W2073855395",
+  "https://openalex.org/W2104931717",
+  "https://openalex.org/W2130360419",
+  "https://openalex.org/W2150724867",
+  "https://openalex.org/W2150871235",
+  "https://openalex.org/W2296226841",
+  "https://openalex.org/W2342204193",
+  "https://openalex.org/W2912230285"
+ ],
+ "title": "A case for redundant arrays of inexpensive disks (RAID)"
+}

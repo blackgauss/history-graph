@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 535,
+ "doi": null,
+ "id": "https://openalex.org/W1408639475",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W194249466",
+  "https://openalex.org/W196761320",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1964502429",
+  "https://openalex.org/W2006903949",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2079735306",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2110575115",
+  "https://openalex.org/W2118706537",
+  "https://openalex.org/W2130984546",
+  "https://openalex.org/W2136848157",
+  "https://openalex.org/W2170942820",
+  "https://openalex.org/W3023071679",
+  "https://openalex.org/W3029645440"
+ ],
+ "title": "Learning Recurrent Neural Networks with Hessian-Free Optimization"
+}

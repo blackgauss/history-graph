@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 761,
+ "doi": null,
+ "id": "https://openalex.org/W1570286060",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W57473388",
+  "https://openalex.org/W1515697631",
+  "https://openalex.org/W1549485114",
+  "https://openalex.org/W1593431730",
+  "https://openalex.org/W1615219652",
+  "https://openalex.org/W2159047538",
+  "https://openalex.org/W2235005250",
+  "https://openalex.org/W2260243944",
+  "https://openalex.org/W2263378979",
+  "https://openalex.org/W2916912610"
+ ],
+ "title": "The multi-purpose incremental learning system AQ15 and its testing application to three medical domains"
+}

@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 2,
+ "doi": "https://doi.org/10.1080/03610918208812277",
+ "id": "https://openalex.org/W2093588272",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W1584444527",
+  "https://openalex.org/W1968018625",
+  "https://openalex.org/W1969076842",
+  "https://openalex.org/W1990381576",
+  "https://openalex.org/W2012816719",
+  "https://openalex.org/W2029082950",
+  "https://openalex.org/W2047028564",
+  "https://openalex.org/W2050297026",
+  "https://openalex.org/W2079100340",
+  "https://openalex.org/W2093293347",
+  "https://openalex.org/W4234698323"
+ ],
+ "title": "James - stein regression estimation in a prediction context"
+}

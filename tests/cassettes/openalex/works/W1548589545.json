@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 269,
+ "doi": "https://doi.org/10.7551/mitpress/3242.003.0013",
+ "id": "https://openalex.org/W1548589545",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W129986153",
+  "https://openalex.org/W1576818901",
+  "https://openalex.org/W2031103608",
+  "https://openalex.org/W2037380487",
+  "https://openalex.org/W2049287437",
+  "https://openalex.org/W2056836848",
+  "https://openalex.org/W2095886632"
+ ],
+ "title": "A Comparison between Cellular Encoding and Direct Encoding for Genetic Neural Networks"
+}

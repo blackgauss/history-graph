@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 131,
+ "doi": "https://doi.org/10.1007/bf01585867",
+ "id": "https://openalex.org/W2093376706",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W80909727",
+  "https://openalex.org/W1714357736",
+  "https://openalex.org/W1966793805",
+  "https://openalex.org/W1969925267",
+  "https://openalex.org/W1995284651",
+  "https://openalex.org/W2001139415",
+  "https://openalex.org/W2019729116",
+  "https://openalex.org/W2020163691",
+  "https://openalex.org/W2020931444",
+  "https://openalex.org/W2043250424",
+  "https://openalex.org/W2044119054",
+  "https://openalex.org/W2063836932",
+  "https://openalex.org/W2086917808",
+  "https://openalex.org/W2088761355",
+  "https://openalex.org/W2088812877",
+  "https://openalex.org/W2112638680"
+ ],
+ "title": "An improved approximation ratio for the minimum latency problem"
+}

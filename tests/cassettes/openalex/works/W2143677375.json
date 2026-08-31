@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 534,
+ "doi": "https://doi.org/10.4230/lipics.isaac.2021.31",
+ "id": "https://openalex.org/W2143677375",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1993688167",
+  "https://openalex.org/W2003989103",
+  "https://openalex.org/W2026402424",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2059041305",
+  "https://openalex.org/W2093416591",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2105259569",
+  "https://openalex.org/W2137005141",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2160083149",
+  "https://openalex.org/W3011907935"
+ ],
+ "title": "Effective Resistance and Capacitance in Simplicial Complexes and a Quantum Algorithm"
+}

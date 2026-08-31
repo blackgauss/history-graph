@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 52,
+ "doi": "https://doi.org/10.3233/fi-1998-341205",
+ "id": "https://openalex.org/W2149095532",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W69407335",
+  "https://openalex.org/W193712352",
+  "https://openalex.org/W1513366687",
+  "https://openalex.org/W1553701556",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1585743408",
+  "https://openalex.org/W1597910678",
+  "https://openalex.org/W1678889691",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2096123080"
+ ],
+ "title": "Pattern Extraction from Data"
+}

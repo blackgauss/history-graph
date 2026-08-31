@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 76,
+ "doi": "https://doi.org/10.1145/1830483.1830596",
+ "id": "https://openalex.org/W2081547991",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1496915407",
+  "https://openalex.org/W1638203394",
+  "https://openalex.org/W1968113145",
+  "https://openalex.org/W2011562875",
+  "https://openalex.org/W2111935653",
+  "https://openalex.org/W2116850952",
+  "https://openalex.org/W2141860972",
+  "https://openalex.org/W2144357723",
+  "https://openalex.org/W2148067905"
+ ],
+ "title": "Evolving neural networks in compressed weight space"
+}

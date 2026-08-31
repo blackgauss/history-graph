@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 418,
+ "counts_by_year": [
+  {
+   "cited_by_count": 135,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 186,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 85,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3604915.3608857",
+ "id": "https://openalex.org/W4386728933",
+ "publication_year": 2023,
+ "title": "TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation"
+}

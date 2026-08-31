@@ -1,0 +1,43 @@
+{
+ "cited_by_count": 38,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W2142589616",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1533748861",
+  "https://openalex.org/W1589661833",
+  "https://openalex.org/W2032849581",
+  "https://openalex.org/W2070204737",
+  "https://openalex.org/W2124449410",
+  "https://openalex.org/W2400212759",
+  "https://openalex.org/W2736905253",
+  "https://openalex.org/W3214833809"
+ ],
+ "title": "Examining Searcher Perceptions of and Interactions with Sponsored Results"
+}

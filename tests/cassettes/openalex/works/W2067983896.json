@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 91,
+ "doi": "https://doi.org/10.1016/j.jalgor.2004.04.012",
+ "id": "https://openalex.org/W2067983896",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1507717186",
+  "https://openalex.org/W1564428908",
+  "https://openalex.org/W1581049064",
+  "https://openalex.org/W1582552841",
+  "https://openalex.org/W1920638964",
+  "https://openalex.org/W1979753555",
+  "https://openalex.org/W2073025989",
+  "https://openalex.org/W2912606590",
+  "https://openalex.org/W4251494637",
+  "https://openalex.org/W6610200006",
+  "https://openalex.org/W6630429598",
+  "https://openalex.org/W6634666669"
+ ],
+ "title": "An algorithm for the satisfiability problem of formulas in conjunctive normal form"
+}

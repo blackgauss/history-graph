@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 409,
+ "doi": "https://doi.org/10.1109/tit.1978.1055913",
+ "id": "https://openalex.org/W2090547656",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1568586753",
+  "https://openalex.org/W1978909760",
+  "https://openalex.org/W1985552112",
+  "https://openalex.org/W1990103540",
+  "https://openalex.org/W2020311636",
+  "https://openalex.org/W2029308360",
+  "https://openalex.org/W2033744327",
+  "https://openalex.org/W2135625884",
+  "https://openalex.org/W2767665567",
+  "https://openalex.org/W4213350211",
+  "https://openalex.org/W4391244360"
+ ],
+ "title": "Complexity-based induction systems: Comparisons and convergence theorems"
+}

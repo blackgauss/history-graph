@@ -1,0 +1,102 @@
+{
+ "cited_by_count": 174,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1135777.1135881",
+ "id": "https://openalex.org/W2121672615",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W135168798",
+  "https://openalex.org/W1562405179",
+  "https://openalex.org/W1570968730",
+  "https://openalex.org/W1854214752",
+  "https://openalex.org/W1859938857",
+  "https://openalex.org/W1987510339",
+  "https://openalex.org/W2006997130",
+  "https://openalex.org/W2014478203",
+  "https://openalex.org/W2020237802",
+  "https://openalex.org/W2047221353",
+  "https://openalex.org/W2058475745",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2095587486",
+  "https://openalex.org/W2096041903",
+  "https://openalex.org/W2107604680",
+  "https://openalex.org/W2123937625",
+  "https://openalex.org/W2134308336",
+  "https://openalex.org/W2138621811",
+  "https://openalex.org/W2139146018",
+  "https://openalex.org/W2142510125",
+  "https://openalex.org/W2143331230",
+  "https://openalex.org/W2149166361",
+  "https://openalex.org/W2150657873",
+  "https://openalex.org/W2151470713",
+  "https://openalex.org/W2151932833",
+  "https://openalex.org/W2152314154",
+  "https://openalex.org/W2160885631",
+  "https://openalex.org/W2166227910",
+  "https://openalex.org/W2166743161",
+  "https://openalex.org/W2170344111",
+  "https://openalex.org/W2293768274",
+  "https://openalex.org/W2999905431",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6639055396",
+  "https://openalex.org/W6681941867"
+ ],
+ "title": "Beyond PageRank"
+}

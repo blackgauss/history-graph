@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 1026,
+ "doi": null,
+ "id": "https://openalex.org/W1524761913",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1990748933",
+  "https://openalex.org/W2912934387"
+ ],
+ "title": "The Case against Accuracy Estimation for Comparing Induction Algorithms"
+}

@@ -1,0 +1,70 @@
+{
+ "cited_by_count": 6917,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 87,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 145,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 182,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 467,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 647,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 577,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 382,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 310,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 316,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 381,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 310,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 279,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 296,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W1515851193",
+ "publication_year": 1998,
+ "referenced_works": [],
+ "title": "Introduction to Reinforcement Learning"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 147,
+ "doi": "https://doi.org/10.1016/b978-0-444-88400-8.50022-4",
+ "id": "https://openalex.org/W86972778",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W19621276",
+  "https://openalex.org/W1996235804",
+  "https://openalex.org/W2027541194",
+  "https://openalex.org/W2160208155",
+  "https://openalex.org/W2160699933",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3121126077",
+  "https://openalex.org/W3147765605",
+  "https://openalex.org/W6682610290"
+ ],
+ "title": "Speeding up Backpropagation"
+}

@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 17,
+ "doi": "https://doi.org/10.1137/s0895480100379713",
+ "id": "https://openalex.org/W2022589731",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W2058772615",
+  "https://openalex.org/W2087392909",
+  "https://openalex.org/W2093546055"
+ ],
+ "title": "Constructing Worst Case Instances for Semidefinite Programming Based Approximation Algorithms"
+}

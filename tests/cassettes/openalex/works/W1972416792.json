@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 158,
+ "doi": "https://doi.org/10.1109/sfcs.1987.30",
+ "id": "https://openalex.org/W1972416792",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W26753741",
+  "https://openalex.org/W1538330076",
+  "https://openalex.org/W1542856213",
+  "https://openalex.org/W1752076080",
+  "https://openalex.org/W1993138363",
+  "https://openalex.org/W2014850486",
+  "https://openalex.org/W2045924252",
+  "https://openalex.org/W2062767125",
+  "https://openalex.org/W2096390054",
+  "https://openalex.org/W2111824166",
+  "https://openalex.org/W2115456387",
+  "https://openalex.org/W2156314531",
+  "https://openalex.org/W2168616714",
+  "https://openalex.org/W2281668463",
+  "https://openalex.org/W2286900275"
+ ],
+ "title": "Generic oracles and oracle classes"
+}

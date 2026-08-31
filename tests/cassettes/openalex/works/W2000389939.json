@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 844,
+ "doi": "https://doi.org/10.1137/0720042",
+ "id": "https://openalex.org/W2000389939",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W73538446",
+  "https://openalex.org/W1485207068",
+  "https://openalex.org/W1579664581",
+  "https://openalex.org/W1595604189",
+  "https://openalex.org/W1988179389",
+  "https://openalex.org/W1988591078",
+  "https://openalex.org/W2008161038",
+  "https://openalex.org/W2021484063",
+  "https://openalex.org/W2236623899",
+  "https://openalex.org/W2253846723",
+  "https://openalex.org/W2316564661",
+  "https://openalex.org/W2918991162",
+  "https://openalex.org/W3003775594"
+ ],
+ "title": "The Conjugate Gradient Method and Trust Regions in Large Scale Optimization"
+}

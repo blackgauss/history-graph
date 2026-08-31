@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 31,
+ "doi": "https://doi.org/10.1016/0890-5401(89)90014-x",
+ "id": "https://openalex.org/W2006607295",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W88748147",
+  "https://openalex.org/W1514119099",
+  "https://openalex.org/W1567828704",
+  "https://openalex.org/W1600379495",
+  "https://openalex.org/W1981798416",
+  "https://openalex.org/W1994695840",
+  "https://openalex.org/W1997816727",
+  "https://openalex.org/W2009987765",
+  "https://openalex.org/W2049362364",
+  "https://openalex.org/W2064236106",
+  "https://openalex.org/W2084776839",
+  "https://openalex.org/W2491907033",
+  "https://openalex.org/W6603583138",
+  "https://openalex.org/W6608418208",
+  "https://openalex.org/W6622747450"
+ ],
+ "title": "Unique normal forms for lambda calculus with surjective pairing"
+}

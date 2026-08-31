@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 456,
+ "doi": "https://doi.org/10.1109/tit.1977.1055688",
+ "id": "https://openalex.org/W2109084006",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W109405981",
+  "https://openalex.org/W1506933769",
+  "https://openalex.org/W1537824340",
+  "https://openalex.org/W1594652978",
+  "https://openalex.org/W1963786390",
+  "https://openalex.org/W1986045152",
+  "https://openalex.org/W2078407910",
+  "https://openalex.org/W2150767226",
+  "https://openalex.org/W4295022726"
+ ],
+ "title": "New upper bounds on the rate of a code via the Delsarte-MacWilliams inequalities"
+}

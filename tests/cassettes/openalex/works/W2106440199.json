@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 368,
+ "doi": null,
+ "id": "https://openalex.org/W2106440199",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W4983232",
+  "https://openalex.org/W18004407",
+  "https://openalex.org/W18766686",
+  "https://openalex.org/W139325465",
+  "https://openalex.org/W1559215823",
+  "https://openalex.org/W1600919542",
+  "https://openalex.org/W1667614912",
+  "https://openalex.org/W1700222499",
+  "https://openalex.org/W1979142433",
+  "https://openalex.org/W2005228957",
+  "https://openalex.org/W2024060531",
+  "https://openalex.org/W2084792706",
+  "https://openalex.org/W2153638045",
+  "https://openalex.org/W2165372647",
+  "https://openalex.org/W2339500526",
+  "https://openalex.org/W2914275007"
+ ],
+ "title": "Evidence for invariants in local search"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.2307/2039138",
+ "id": "https://openalex.org/W4237756549",
+ "publication_year": 1973,
+ "referenced_works": [
+  "https://openalex.org/W2057392475",
+  "https://openalex.org/W2069987267",
+  "https://openalex.org/W2075504126",
+  "https://openalex.org/W2082637799",
+  "https://openalex.org/W2115526138",
+  "https://openalex.org/W2530006810"
+ ],
+ "title": "The Halting Problem Relativized to Complements"
+}

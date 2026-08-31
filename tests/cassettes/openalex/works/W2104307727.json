@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 238,
+ "doi": "https://doi.org/10.1214/aoap/1019737665",
+ "id": "https://openalex.org/W2104307727",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W44345464",
+  "https://openalex.org/W110935173",
+  "https://openalex.org/W1632274574",
+  "https://openalex.org/W1978016577",
+  "https://openalex.org/W2002626731",
+  "https://openalex.org/W2018395339",
+  "https://openalex.org/W2032895205",
+  "https://openalex.org/W2054532229",
+  "https://openalex.org/W2054589457",
+  "https://openalex.org/W2104307727",
+  "https://openalex.org/W2106935862",
+  "https://openalex.org/W2111704404",
+  "https://openalex.org/W2131876345",
+  "https://openalex.org/W2132127784",
+  "https://openalex.org/W2153337652",
+  "https://openalex.org/W2333425739",
+  "https://openalex.org/W3121663994",
+  "https://openalex.org/W4214611073",
+  "https://openalex.org/W4242693231",
+  "https://openalex.org/W4250988636",
+  "https://openalex.org/W4388316666"
+ ],
+ "title": "Brownian models of open processing networks: canonical representation of workload"
+}

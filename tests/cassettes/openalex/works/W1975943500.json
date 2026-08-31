@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 63,
+ "doi": "https://doi.org/10.1006/jeth.1999.2586",
+ "id": "https://openalex.org/W1975943500",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1964873472",
+  "https://openalex.org/W2037790669",
+  "https://openalex.org/W2039554452",
+  "https://openalex.org/W2045754948",
+  "https://openalex.org/W2048888597",
+  "https://openalex.org/W2068115726",
+  "https://openalex.org/W2125034671",
+  "https://openalex.org/W2131988597",
+  "https://openalex.org/W2143529993",
+  "https://openalex.org/W2158486621"
+ ],
+ "title": "Single Agents and the Set of Many-to-One Stable Matchings"
+}

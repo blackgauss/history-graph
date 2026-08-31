@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 142,
+ "doi": null,
+ "id": "https://openalex.org/W1568698519",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1480376833",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1902027874",
+  "https://openalex.org/W2046866210",
+  "https://openalex.org/W2060542838",
+  "https://openalex.org/W2071128523",
+  "https://openalex.org/W2085937320",
+  "https://openalex.org/W2097129520",
+  "https://openalex.org/W2103633133",
+  "https://openalex.org/W2110325612",
+  "https://openalex.org/W2125027820",
+  "https://openalex.org/W2127754721",
+  "https://openalex.org/W2134731454",
+  "https://openalex.org/W2135001774"
+ ],
+ "title": "A Generalized Linear Model for Principal Component Analysis of Binary Data"
+}

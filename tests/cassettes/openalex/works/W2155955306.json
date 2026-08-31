@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 79,
+ "doi": "https://doi.org/10.1109/t-c.1970.222803",
+ "id": "https://openalex.org/W2155955306",
+ "publication_year": 1970,
+ "referenced_works": [
+  "https://openalex.org/W1920146896",
+  "https://openalex.org/W1994125175",
+  "https://openalex.org/W2018094844",
+  "https://openalex.org/W2020664983",
+  "https://openalex.org/W2021320381",
+  "https://openalex.org/W2063353399",
+  "https://openalex.org/W2131498282",
+  "https://openalex.org/W2136445449",
+  "https://openalex.org/W2319549361",
+  "https://openalex.org/W2970264471",
+  "https://openalex.org/W4229859560",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6640201666"
+ ],
+ "title": "A Many-Valued Algebra for Switching Systems"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 5,
+ "doi": "https://doi.org/10.1109/tc.1978.1674999",
+ "id": "https://openalex.org/W2103964864",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W657039739",
+  "https://openalex.org/W1981519962",
+  "https://openalex.org/W2003363184",
+  "https://openalex.org/W2024469430",
+  "https://openalex.org/W2064547292",
+  "https://openalex.org/W2148972210"
+ ],
+ "title": "A Higher Radix Technique for Fault Detection in Many-Valued Multithreshold Networks"
+}

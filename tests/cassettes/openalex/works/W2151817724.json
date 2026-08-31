@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1109/icde.1989.47203",
+ "id": "https://openalex.org/W2151817724",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W58232292",
+  "https://openalex.org/W100341640",
+  "https://openalex.org/W1560319744",
+  "https://openalex.org/W1580246502",
+  "https://openalex.org/W1995023909",
+  "https://openalex.org/W2014820311",
+  "https://openalex.org/W2049416518",
+  "https://openalex.org/W2067021215",
+  "https://openalex.org/W2090603086",
+  "https://openalex.org/W2095557522",
+  "https://openalex.org/W2104349760",
+  "https://openalex.org/W2104444016",
+  "https://openalex.org/W2118269922",
+  "https://openalex.org/W2136337586",
+  "https://openalex.org/W2149173084",
+  "https://openalex.org/W2165558283",
+  "https://openalex.org/W2261667143",
+  "https://openalex.org/W4243869499",
+  "https://openalex.org/W6602347672",
+  "https://openalex.org/W6629242526",
+  "https://openalex.org/W6675761417",
+  "https://openalex.org/W6680128504"
+ ],
+ "title": "Join strategies on KD-tree indexed relations"
+}

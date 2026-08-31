@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 33858,
+ "doi": "https://doi.org/10.1023/a:1022627411411",
+ "id": "https://openalex.org/W2119821739",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W5594912",
+  "https://openalex.org/W161283806",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1526146785",
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1568787085",
+  "https://openalex.org/W1680579736",
+  "https://openalex.org/W1965751196",
+  "https://openalex.org/W2001619934",
+  "https://openalex.org/W2087347434",
+  "https://openalex.org/W2154579312",
+  "https://openalex.org/W2154642048",
+  "https://openalex.org/W2168228682",
+  "https://openalex.org/W2322002063",
+  "https://openalex.org/W3142915818",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4302591315",
+  "https://openalex.org/W6650842192"
+ ],
+ "title": "Support-Vector Networks"
+}

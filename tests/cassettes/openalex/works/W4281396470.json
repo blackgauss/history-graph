@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 179,
+ "counts_by_year": [
+  {
+   "cited_by_count": 36,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 56,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 49,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 36,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2022
+  }
+ ],
+ "doi": "https://doi.org/10.1007/s41060-022-00329-w",
+ "id": "https://openalex.org/W4281396470",
+ "publication_year": 2022,
+ "title": "Predicting and explaining employee turnover intention"
+}

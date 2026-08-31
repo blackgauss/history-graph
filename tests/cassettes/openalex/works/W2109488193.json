@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 8391,
+ "doi": "https://doi.org/10.1145/321738.321743",
+ "id": "https://openalex.org/W2109488193",
+ "publication_year": 1973,
+ "referenced_works": [
+  "https://openalex.org/W1651178089",
+  "https://openalex.org/W1972953650",
+  "https://openalex.org/W2020905544",
+  "https://openalex.org/W2028754841",
+  "https://openalex.org/W2059818516",
+  "https://openalex.org/W2059963347",
+  "https://openalex.org/W2080340258",
+  "https://openalex.org/W2089269509",
+  "https://openalex.org/W2095530266",
+  "https://openalex.org/W2155443304",
+  "https://openalex.org/W2156041286",
+  "https://openalex.org/W2178204534"
+ ],
+ "title": "Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment"
+}

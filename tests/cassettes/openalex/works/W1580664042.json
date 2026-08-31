@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 826,
+ "doi": "https://doi.org/10.1017/cbo9780511609619",
+ "id": "https://openalex.org/W1580664042",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1997143185",
+  "https://openalex.org/W1999336811",
+  "https://openalex.org/W2126126443",
+  "https://openalex.org/W2133979298"
+ ],
+ "title": "Compiling with Continuations"
+}

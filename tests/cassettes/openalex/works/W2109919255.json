@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 207,
+ "doi": "https://doi.org/10.1109/72.317728",
+ "id": "https://openalex.org/W2109919255",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W133977063",
+  "https://openalex.org/W1971748236",
+  "https://openalex.org/W1976201390",
+  "https://openalex.org/W1977957920",
+  "https://openalex.org/W1980800561",
+  "https://openalex.org/W1991240104",
+  "https://openalex.org/W2002362019",
+  "https://openalex.org/W2011349812",
+  "https://openalex.org/W2011597771",
+  "https://openalex.org/W2014089984",
+  "https://openalex.org/W2036723527",
+  "https://openalex.org/W2047489298",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2075868071",
+  "https://openalex.org/W2084134149",
+  "https://openalex.org/W2101927907",
+  "https://openalex.org/W2118020555",
+  "https://openalex.org/W2146200922",
+  "https://openalex.org/W2171850596",
+  "https://openalex.org/W2314878748",
+  "https://openalex.org/W3111290640",
+  "https://openalex.org/W3129711340",
+  "https://openalex.org/W7048738093"
+ ],
+ "title": "Maximum likelihood training of probabilistic neural networks"
+}

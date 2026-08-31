@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 1104,
+ "doi": "https://doi.org/10.1007/bf00332914",
+ "id": "https://openalex.org/W2033245860",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W1939277956",
+  "https://openalex.org/W1985459462",
+  "https://openalex.org/W2012876380",
+  "https://openalex.org/W2034506460",
+  "https://openalex.org/W2041187281",
+  "https://openalex.org/W2043339930",
+  "https://openalex.org/W2047422346",
+  "https://openalex.org/W2052175048",
+  "https://openalex.org/W2053550367",
+  "https://openalex.org/W2061497431",
+  "https://openalex.org/W2088577989",
+  "https://openalex.org/W2116628315",
+  "https://openalex.org/W2266946488",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4242229293",
+  "https://openalex.org/W4244669781",
+  "https://openalex.org/W4291236916",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Accelerating the convergence of the back-propagation method"
+}

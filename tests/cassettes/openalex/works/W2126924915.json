@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 2382,
+ "doi": "https://doi.org/10.1145/322186.322188",
+ "id": "https://openalex.org/W2126924915",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1841224788",
+  "https://openalex.org/W1996360405",
+  "https://openalex.org/W2016944512",
+  "https://openalex.org/W2156186849",
+  "https://openalex.org/W4232836212"
+ ],
+ "title": "Reaching Agreement in the Presence of Faults"
+}

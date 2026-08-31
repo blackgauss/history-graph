@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 35,
+ "doi": "https://doi.org/10.1093/jigpal/11.1.51",
+ "id": "https://openalex.org/W2126489583",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W277331151",
+  "https://openalex.org/W1497630311",
+  "https://openalex.org/W1589628946",
+  "https://openalex.org/W1595221638",
+  "https://openalex.org/W2023266231",
+  "https://openalex.org/W2034676877",
+  "https://openalex.org/W2059054133",
+  "https://openalex.org/W2062968803",
+  "https://openalex.org/W2117198618",
+  "https://openalex.org/W2156992159",
+  "https://openalex.org/W2160173874",
+  "https://openalex.org/W2319619459"
+ ],
+ "title": "Higher Order β Matching is Undecidable"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1109/tc.1981.1675864",
+ "id": "https://openalex.org/W1987092113",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1967895256",
+  "https://openalex.org/W2021708499",
+  "https://openalex.org/W2064759901",
+  "https://openalex.org/W2121567355",
+  "https://openalex.org/W2152019064",
+  "https://openalex.org/W2156443685",
+  "https://openalex.org/W2159593129",
+  "https://openalex.org/W2341171179",
+  "https://openalex.org/W4234345682",
+  "https://openalex.org/W6642101144"
+ ],
+ "title": "SEC-DED Nonbinary Code for Fault-Tolerant Byte-Organized Memory Implemented with Quaternary Logic"
+}

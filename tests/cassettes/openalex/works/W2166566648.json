@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 1771,
+ "doi": "https://doi.org/10.1145/800133.804350",
+ "id": "https://openalex.org/W2166566648",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1589711670",
+  "https://openalex.org/W1982129592",
+  "https://openalex.org/W1989887898",
+  "https://openalex.org/W1998084650",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2049462023",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2064577184",
+  "https://openalex.org/W2065251436",
+  "https://openalex.org/W2081063310",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W6600410613",
+  "https://openalex.org/W6608031758",
+  "https://openalex.org/W6610195739"
+ ],
+ "title": "The complexity of satisfiability problems"
+}

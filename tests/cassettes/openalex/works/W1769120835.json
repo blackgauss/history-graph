@@ -1,0 +1,97 @@
+{
+ "cited_by_count": 270,
+ "counts_by_year": [
+  {
+   "cited_by_count": 3,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 15,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1109/sfcs.2005.12",
+ "id": "https://openalex.org/W1769120835",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1569146567",
+  "https://openalex.org/W1601812897",
+  "https://openalex.org/W1991892223",
+  "https://openalex.org/W2004045061",
+  "https://openalex.org/W2006514056",
+  "https://openalex.org/W2015324401",
+  "https://openalex.org/W2023146810",
+  "https://openalex.org/W2039010276",
+  "https://openalex.org/W2052494364",
+  "https://openalex.org/W2085938855",
+  "https://openalex.org/W2093376706",
+  "https://openalex.org/W2094208470",
+  "https://openalex.org/W2097477220",
+  "https://openalex.org/W2108343955",
+  "https://openalex.org/W2109084006",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W2135724610",
+  "https://openalex.org/W2156867662",
+  "https://openalex.org/W2160702061",
+  "https://openalex.org/W2162656786",
+  "https://openalex.org/W2169023571",
+  "https://openalex.org/W2169444479",
+  "https://openalex.org/W2171613954",
+  "https://openalex.org/W2176174872",
+  "https://openalex.org/W2962711478",
+  "https://openalex.org/W6636004419"
+ ],
+ "title": "AdWords and Generalized On-line Matching"
+}

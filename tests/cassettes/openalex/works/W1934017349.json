@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.48550/arxiv.1301.3895",
+ "id": "https://openalex.org/W1934017349",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W2101897555",
+  "https://openalex.org/W2102716594",
+  "https://openalex.org/W2104163628",
+  "https://openalex.org/W2106184212",
+  "https://openalex.org/W2108344269",
+  "https://openalex.org/W2159080219",
+  "https://openalex.org/W2160157087",
+  "https://openalex.org/W2175160295"
+ ],
+ "title": "Dynamic Trees: A Structured Variational Method Giving Efficient Propagation Rules"
+}

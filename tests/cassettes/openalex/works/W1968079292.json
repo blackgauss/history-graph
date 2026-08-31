@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 2328,
+ "doi": "https://doi.org/10.1145/360018.360022",
+ "id": "https://openalex.org/W1968079292",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W1506605879",
+  "https://openalex.org/W1995939150",
+  "https://openalex.org/W2001771035",
+  "https://openalex.org/W2014151618",
+  "https://openalex.org/W2022286645",
+  "https://openalex.org/W2037177386",
+  "https://openalex.org/W2045255985",
+  "https://openalex.org/W2060642394",
+  "https://openalex.org/W2091579301",
+  "https://openalex.org/W2145482038",
+  "https://openalex.org/W2158270697",
+  "https://openalex.org/W2160645305"
+ ],
+ "title": "Computer science as empirical inquiry"
+}

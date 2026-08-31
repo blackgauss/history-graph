@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 4,
+ "doi": null,
+ "id": "https://openalex.org/W1497182081",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W341294564",
+  "https://openalex.org/W1498123810",
+  "https://openalex.org/W1553486143",
+  "https://openalex.org/W1954834360",
+  "https://openalex.org/W1966404657",
+  "https://openalex.org/W1972512234",
+  "https://openalex.org/W1975378045",
+  "https://openalex.org/W2023732846",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2087831211",
+  "https://openalex.org/W2102636809",
+  "https://openalex.org/W2103371954",
+  "https://openalex.org/W2114415375",
+  "https://openalex.org/W2150880868",
+  "https://openalex.org/W2158267265",
+  "https://openalex.org/W2161924782",
+  "https://openalex.org/W3121362210",
+  "https://openalex.org/W3121802527",
+  "https://openalex.org/W3144390941",
+  "https://openalex.org/W3147375241",
+  "https://openalex.org/W3151874472"
+ ],
+ "title": "The over-concentrating nature of simultaneous ascending auctions"
+}

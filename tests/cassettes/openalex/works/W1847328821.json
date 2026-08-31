@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1007/3-540-61510-5_40",
+ "id": "https://openalex.org/W1847328821",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1484053359",
+  "https://openalex.org/W1967121925",
+  "https://openalex.org/W2030153071",
+  "https://openalex.org/W2136756651",
+  "https://openalex.org/W2138754805",
+  "https://openalex.org/W2157152757",
+  "https://openalex.org/W2547036910",
+  "https://openalex.org/W4212774754",
+  "https://openalex.org/W6805587501"
+ ],
+ "title": "Learning fine motion by using the Hierarchical Extended Kohonen Map"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 74,
+ "doi": "https://doi.org/10.1016/s0246-0203(00)00131-x",
+ "id": "https://openalex.org/W2074962012",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W157613944",
+  "https://openalex.org/W1522020530",
+  "https://openalex.org/W1970185960",
+  "https://openalex.org/W1974349322",
+  "https://openalex.org/W1986405646",
+  "https://openalex.org/W1990770240",
+  "https://openalex.org/W1995839101",
+  "https://openalex.org/W1999796419",
+  "https://openalex.org/W2005146416",
+  "https://openalex.org/W2049220294",
+  "https://openalex.org/W2062939536",
+  "https://openalex.org/W2092426748",
+  "https://openalex.org/W2170192284",
+  "https://openalex.org/W2327680971",
+  "https://openalex.org/W2600759753",
+  "https://openalex.org/W2734023839",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Some remarks on isoperimetry of Gaussian type"
+}

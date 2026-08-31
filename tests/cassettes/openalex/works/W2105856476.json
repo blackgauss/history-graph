@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 213,
+ "doi": "https://doi.org/10.1109/tac.2010.2089210",
+ "id": "https://openalex.org/W2105856476",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W30593458",
+  "https://openalex.org/W132436524",
+  "https://openalex.org/W1599664487",
+  "https://openalex.org/W2024481357",
+  "https://openalex.org/W2035918100",
+  "https://openalex.org/W2094636498",
+  "https://openalex.org/W2100846830",
+  "https://openalex.org/W2104443140",
+  "https://openalex.org/W2117013146",
+  "https://openalex.org/W2123545369",
+  "https://openalex.org/W2131553355",
+  "https://openalex.org/W2143229717",
+  "https://openalex.org/W2147335306",
+  "https://openalex.org/W2154070997",
+  "https://openalex.org/W2154451686",
+  "https://openalex.org/W2159427436",
+  "https://openalex.org/W2170715240",
+  "https://openalex.org/W2283715726",
+  "https://openalex.org/W3137220996"
+ ],
+ "title": "Fundamental Limits on Synchronizing Clocks Over Networks"
+}

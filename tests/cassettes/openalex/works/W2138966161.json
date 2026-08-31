@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 645,
+ "doi": "https://doi.org/10.1109/tac.1972.1099850",
+ "id": "https://openalex.org/W2138966161",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W1993192904",
+  "https://openalex.org/W2061096178",
+  "https://openalex.org/W2065118686",
+  "https://openalex.org/W2069525910",
+  "https://openalex.org/W2092792265",
+  "https://openalex.org/W2112514593",
+  "https://openalex.org/W2115118348",
+  "https://openalex.org/W3146041591",
+  "https://openalex.org/W6676806809"
+ ],
+ "title": "Team decision theory and information structures in optimal control problems--Part I"
+}

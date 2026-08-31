@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 110,
+ "doi": "https://doi.org/10.1109/64.393139",
+ "id": "https://openalex.org/W2011171037",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1547136369",
+  "https://openalex.org/W1978970913",
+  "https://openalex.org/W2052627427",
+  "https://openalex.org/W2102295697",
+  "https://openalex.org/W2116850952",
+  "https://openalex.org/W2138784882",
+  "https://openalex.org/W2143979843",
+  "https://openalex.org/W2235047952"
+ ],
+ "title": "Evolving neural control systems"
+}

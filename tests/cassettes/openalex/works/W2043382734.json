@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 1721,
+ "doi": "https://doi.org/10.1007/bf01593790",
+ "id": "https://openalex.org/W2043382734",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W2006729027",
+  "https://openalex.org/W2012231377",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2061127301",
+  "https://openalex.org/W2071609006",
+  "https://openalex.org/W2085690530",
+  "https://openalex.org/W3134771994",
+  "https://openalex.org/W3142300713",
+  "https://openalex.org/W4236240466",
+  "https://openalex.org/W4254522940"
+ ],
+ "title": "Restart procedures for the conjugate gradient method"
+}

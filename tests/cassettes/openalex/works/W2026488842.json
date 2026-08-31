@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 18,
+ "doi": "https://doi.org/10.1109/tc.1979.1675320",
+ "id": "https://openalex.org/W2026488842",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1509198588",
+  "https://openalex.org/W1971021882",
+  "https://openalex.org/W1978066222",
+  "https://openalex.org/W2011349307",
+  "https://openalex.org/W2014409146",
+  "https://openalex.org/W2081107873",
+  "https://openalex.org/W2128386424",
+  "https://openalex.org/W2129897909",
+  "https://openalex.org/W2139130401",
+  "https://openalex.org/W2152019064",
+  "https://openalex.org/W2188220012",
+  "https://openalex.org/W2293347572",
+  "https://openalex.org/W2293825829",
+  "https://openalex.org/W6679522198"
+ ],
+ "title": "Implementing Parallel Counters with Four-Valued Threshold Logic"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1090/s0002-9947-1980-0549153-7",
+ "id": "https://openalex.org/W2083461990",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W1979221298",
+  "https://openalex.org/W1980065093",
+  "https://openalex.org/W2015707592",
+  "https://openalex.org/W2024348511",
+  "https://openalex.org/W2029823283",
+  "https://openalex.org/W2030826771",
+  "https://openalex.org/W2039559454",
+  "https://openalex.org/W2048588931",
+  "https://openalex.org/W2049442092",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W2127316662",
+  "https://openalex.org/W2150311525",
+  "https://openalex.org/W2169781225",
+  "https://openalex.org/W2315181607",
+  "https://openalex.org/W4235475336",
+  "https://openalex.org/W4236944103",
+  "https://openalex.org/W4246124948",
+  "https://openalex.org/W4247104071"
+ ],
+ "title": "A decidable fragment of the elementary theory of the lattice of recursively enumerable sets"
+}

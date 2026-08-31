@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 20,
+ "doi": "https://doi.org/10.1007/10703163_12",
+ "id": "https://openalex.org/W1569272689",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W73004332",
+  "https://openalex.org/W1525293204",
+  "https://openalex.org/W2015211698",
+  "https://openalex.org/W2069767473",
+  "https://openalex.org/W2097113315",
+  "https://openalex.org/W2098022011",
+  "https://openalex.org/W2126420408",
+  "https://openalex.org/W2189192160"
+ ],
+ "title": "An Upper Bound for Minimal Resolution Refutations"
+}

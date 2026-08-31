@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 124,
+ "doi": "https://doi.org/10.1103/physreva.61.022307",
+ "id": "https://openalex.org/W2016415169",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1620538313",
+  "https://openalex.org/W1784120331",
+  "https://openalex.org/W1966519729",
+  "https://openalex.org/W1966533239",
+  "https://openalex.org/W1978553093",
+  "https://openalex.org/W1993646690",
+  "https://openalex.org/W1994756869",
+  "https://openalex.org/W1994841960",
+  "https://openalex.org/W1996519437",
+  "https://openalex.org/W2020725861",
+  "https://openalex.org/W2023164549",
+  "https://openalex.org/W2031890195",
+  "https://openalex.org/W2037178621",
+  "https://openalex.org/W2061240324",
+  "https://openalex.org/W2087634531",
+  "https://openalex.org/W2096551755",
+  "https://openalex.org/W2100715286",
+  "https://openalex.org/W2151346898",
+  "https://openalex.org/W2262539039",
+  "https://openalex.org/W2582029817"
+ ],
+ "title": "Experimental implementation of dense coding using nuclear magnetic resonance"
+}

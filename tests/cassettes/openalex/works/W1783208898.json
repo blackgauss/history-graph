@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 6,
+ "doi": "https://doi.org/10.48550/arxiv.1312.6077",
+ "id": "https://openalex.org/W1783208898",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W81409850",
+  "https://openalex.org/W1998659852",
+  "https://openalex.org/W2122741244",
+  "https://openalex.org/W2295723504"
+ ],
+ "title": "Efficient Visual Coding: From Retina To V2"
+}

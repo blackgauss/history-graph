@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 167,
+ "doi": "https://doi.org/10.1007/s002220050026",
+ "id": "https://openalex.org/W1970185960",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W68115536",
+  "https://openalex.org/W157613944",
+  "https://openalex.org/W193561859",
+  "https://openalex.org/W201412863",
+  "https://openalex.org/W582303344",
+  "https://openalex.org/W612388457",
+  "https://openalex.org/W1495768073",
+  "https://openalex.org/W1970224775",
+  "https://openalex.org/W1990770240",
+  "https://openalex.org/W2003364078",
+  "https://openalex.org/W2010161771",
+  "https://openalex.org/W2015846973",
+  "https://openalex.org/W2026500428",
+  "https://openalex.org/W2028293361",
+  "https://openalex.org/W2049220294",
+  "https://openalex.org/W2051434223",
+  "https://openalex.org/W2063966194",
+  "https://openalex.org/W2075920630",
+  "https://openalex.org/W2092426748",
+  "https://openalex.org/W2265763624",
+  "https://openalex.org/W2327680971",
+  "https://openalex.org/W3038470872",
+  "https://openalex.org/W3038769278",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Lévy-Gromov's isoperimetric inequality for an infinite dimensional diffusion generator"
+}

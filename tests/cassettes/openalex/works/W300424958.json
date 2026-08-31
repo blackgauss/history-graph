@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 4,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1007/978-3-642-75894-2_11",
+ "id": "https://openalex.org/W300424958",
+ "publication_year": 1990,
+ "referenced_works": [],
+ "title": "Gaussian Approximations to the Algorithms"
+}

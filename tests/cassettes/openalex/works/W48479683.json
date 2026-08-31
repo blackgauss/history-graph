@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 34,
+ "doi": "https://doi.org/10.1016/0004-3702(84)90016-x",
+ "id": "https://openalex.org/W48479683",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W16144991",
+  "https://openalex.org/W39784927",
+  "https://openalex.org/W77675607",
+  "https://openalex.org/W78087830",
+  "https://openalex.org/W1492160417",
+  "https://openalex.org/W1497508425",
+  "https://openalex.org/W1520514439",
+  "https://openalex.org/W1564733196",
+  "https://openalex.org/W1568182703",
+  "https://openalex.org/W1597285706",
+  "https://openalex.org/W1823666162",
+  "https://openalex.org/W2118888533",
+  "https://openalex.org/W2132174753",
+  "https://openalex.org/W2158270697",
+  "https://openalex.org/W6603118632",
+  "https://openalex.org/W6604509151",
+  "https://openalex.org/W6631138418",
+  "https://openalex.org/W6634230961",
+  "https://openalex.org/W6635788589",
+  "https://openalex.org/W6638477265"
+ ],
+ "title": "Why am and eurisko appear to work"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 67,
+ "doi": "https://doi.org/10.1145/800094.803046",
+ "id": "https://openalex.org/W2020182541",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W102584024",
+  "https://openalex.org/W2003441663",
+  "https://openalex.org/W2016268176",
+  "https://openalex.org/W2019393774",
+  "https://openalex.org/W2026723463",
+  "https://openalex.org/W2026731931",
+  "https://openalex.org/W2027790694",
+  "https://openalex.org/W2050030476",
+  "https://openalex.org/W2062023659",
+  "https://openalex.org/W2079529544",
+  "https://openalex.org/W2082354091",
+  "https://openalex.org/W2116314098",
+  "https://openalex.org/W2129303183",
+  "https://openalex.org/W2133384222",
+  "https://openalex.org/W2145343598",
+  "https://openalex.org/W2159111714",
+  "https://openalex.org/W2161004322",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2169012378"
+ ],
+ "title": "DIRECT - a multiprocessor organization for supporting relational data base management systems"
+}

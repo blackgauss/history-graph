@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 5531,
+ "doi": "https://doi.org/10.48550/arxiv.1212.5701",
+ "id": "https://openalex.org/W6908809",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W19621276",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1994616650",
+  "https://openalex.org/W2147768505",
+  "https://openalex.org/W2168231600",
+  "https://openalex.org/W2950351588"
+ ],
+ "title": "ADADELTA: An Adaptive Learning Rate Method"
+}

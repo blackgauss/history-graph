@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 197,
+ "doi": "https://doi.org/10.1137/0312005",
+ "id": "https://openalex.org/W2072698828",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W35147865",
+  "https://openalex.org/W1444347584",
+  "https://openalex.org/W1991759504",
+  "https://openalex.org/W1993789948",
+  "https://openalex.org/W1994937207",
+  "https://openalex.org/W2006752005",
+  "https://openalex.org/W2011307039",
+  "https://openalex.org/W2034280776",
+  "https://openalex.org/W2037060754",
+  "https://openalex.org/W2041277461",
+  "https://openalex.org/W2043515542",
+  "https://openalex.org/W2070267857",
+  "https://openalex.org/W2077219618",
+  "https://openalex.org/W2080611676",
+  "https://openalex.org/W2144192597",
+  "https://openalex.org/W2170890823",
+  "https://openalex.org/W2334591577",
+  "https://openalex.org/W3150827945"
+ ],
+ "title": "A Generalization of Chow’s Theorem and the Bang-Bang Theorem to Nonlinear Control Problems"
+}

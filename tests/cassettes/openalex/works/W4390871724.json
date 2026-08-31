@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 195,
+ "counts_by_year": [
+  {
+   "cited_by_count": 53,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 82,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1109/iccv51070.2023.00230",
+ "id": "https://openalex.org/W4390871724",
+ "publication_year": 2023,
+ "title": "Erasing Concepts from Diffusion Models"
+}

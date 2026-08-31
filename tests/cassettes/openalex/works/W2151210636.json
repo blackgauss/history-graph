@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 262,
+ "doi": null,
+ "id": "https://openalex.org/W2151210636",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W1512866498",
+  "https://openalex.org/W1512919909",
+  "https://openalex.org/W1625390266",
+  "https://openalex.org/W1757796397",
+  "https://openalex.org/W1993882792",
+  "https://openalex.org/W1999192586",
+  "https://openalex.org/W2016053056",
+  "https://openalex.org/W2072128103",
+  "https://openalex.org/W2076063813",
+  "https://openalex.org/W2107789863",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2120480077",
+  "https://openalex.org/W2122372591",
+  "https://openalex.org/W2130325614",
+  "https://openalex.org/W2131600418",
+  "https://openalex.org/W2136065708",
+  "https://openalex.org/W2141125852",
+  "https://openalex.org/W2143612262",
+  "https://openalex.org/W2159635464",
+  "https://openalex.org/W2163605009",
+  "https://openalex.org/W2308045930",
+  "https://openalex.org/W2962957031",
+  "https://openalex.org/W3103780890"
+ ],
+ "title": "Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 153,
+ "doi": "https://doi.org/10.1090/dol/034/15",
+ "id": "https://openalex.org/W47372315",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W648165399",
+  "https://openalex.org/W1531371507",
+  "https://openalex.org/W1607693764",
+  "https://openalex.org/W1917768112",
+  "https://openalex.org/W1972649758",
+  "https://openalex.org/W2019806661",
+  "https://openalex.org/W2022514287",
+  "https://openalex.org/W2123355614",
+  "https://openalex.org/W2146066476",
+  "https://openalex.org/W2161964967",
+  "https://openalex.org/W2179913373",
+  "https://openalex.org/W2203317094",
+  "https://openalex.org/W2915023553",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A Tale of Two Sieves"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 23,
+ "doi": "https://doi.org/10.1109/icde.1989.47202",
+ "id": "https://openalex.org/W2137768017",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1542571610",
+  "https://openalex.org/W1555314876",
+  "https://openalex.org/W2000025733",
+  "https://openalex.org/W2001703546",
+  "https://openalex.org/W2012619249",
+  "https://openalex.org/W2023195086",
+  "https://openalex.org/W2027722859",
+  "https://openalex.org/W2072336483",
+  "https://openalex.org/W2082018154",
+  "https://openalex.org/W2130939414",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2169012378",
+  "https://openalex.org/W6632427434"
+ ],
+ "title": "Pragmatic estimation of join sizes and attribute correlations"
+}

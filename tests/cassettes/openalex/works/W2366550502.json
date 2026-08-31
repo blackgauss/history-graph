@@ -1,0 +1,253 @@
+{
+ "abstract_inverted_index": {
+  "The": [
+   0
+  ],
+  "about": [
+   32
+  ],
+  "actual": [
+   44
+  ],
+  "and": [
+   6
+  ],
+  "cognitional": [
+   27
+  ],
+  "cultivation": [
+   2
+  ],
+  "degree,and": [
+   34
+  ],
+  "effect": [
+   45
+  ],
+  "etc.Through": [
+   21
+  ],
+  "examination": [
+   35
+  ],
+  "finds": [
+   25
+  ],
+  "forward": [
+   12
+  ],
+  "foundation": [
+   47
+  ],
+  "foundation,and": [
+   38
+  ],
+  "from": [
+   29
+  ],
+  "goals,teaching": [
+   18
+  ],
+  "how": [
+   41
+  ],
+  "importance,approval": [
+   33
+  ],
+  "improve": [
+   43
+  ],
+  "lately": [
+   9
+  ],
+  "law": [
+   7
+  ],
+  "lesson": [
+   1
+  ],
+  "lesson.": [
+   48
+  ],
+  "means,teaching": [
+   19
+  ],
+  "mode": [
+   36
+  ],
+  "mode's": [
+   20
+  ],
+  "morals": [
+   5
+  ],
+  "new": [
+   14
+  ],
+  "of": [
+   3,
+   37,
+   46
+  ],
+  "out": [
+   26
+  ],
+  "questionnaire,The": [
+   23
+  ],
+  "requirements": [
+   15
+  ],
+  "set": [
+   10
+  ],
+  "some": [
+   13
+  ],
+  "status": [
+   28
+  ],
+  "students": [
+   31
+  ],
+  "teaching": [
+   17
+  ],
+  "the": [
+   22,
+   30
+  ],
+  "then": [
+   39
+  ],
+  "thinks": [
+   40
+  ],
+  "thought": [
+   4
+  ],
+  "to": [
+   16,
+   42
+  ],
+  "up,puts": [
+   11
+  ],
+  "writer": [
+   24
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I195019228"
+     ],
+     "raw_affiliation_string": "College of Humanity and Social Science,Yunnan Agricultural University, Kunming 650201,China)"
+    }
+   ],
+   "author": {
+    "display_name": "Tan Xiao-lan",
+    "id": "https://openalex.org/A5006620156",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "Yunnan Agricultural University",
+     "id": "https://openalex.org/I195019228",
+     "lineage": [
+      "https://openalex.org/I195019228"
+     ],
+     "ror": "https://ror.org/04dpa3g90",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "College of Humanity and Social Science,Yunnan Agricultural University, Kunming 650201,China)"
+   ],
+   "raw_author_name": "Tan Xiao-lan"
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W2366550502",
+ "ids": {
+  "mag": "2366550502",
+  "openalex": "https://openalex.org/W2366550502"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "mag:2366550502",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "https://en.cnki.com.cn/Article_en/CJFDTOTAL-YNNS200805015.htm",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Yunnan Nongye Daxue xuebao",
+  "raw_type": null,
+  "source": {
+   "display_name": "Yunnan Nongye Daxue xuebao",
+   "host_organization": "https://openalex.org/P4320800786",
+   "host_organization_lineage": [
+    "https://openalex.org/P4320800786"
+   ],
+   "host_organization_lineage_names": [
+    "Yunnan Agricultural University"
+   ],
+   "host_organization_name": "Yunnan Agricultural University",
+   "id": "https://openalex.org/S2764488765",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "1004-390X"
+   ],
+   "issn_l": "1004-390X",
+   "type": "journal"
+  },
+  "version": null
+ },
+ "publication_year": 2008,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2387416785",
+  "https://openalex.org/W2372118891",
+  "https://openalex.org/W2384220929",
+  "https://openalex.org/W2363869294",
+  "https://openalex.org/W2347389047",
+  "https://openalex.org/W2351972599",
+  "https://openalex.org/W2394145349",
+  "https://openalex.org/W2391176784",
+  "https://openalex.org/W2364955525",
+  "https://openalex.org/W2365873421",
+  "https://openalex.org/W2393943507",
+  "https://openalex.org/W2352906685",
+  "https://openalex.org/W2370389409",
+  "https://openalex.org/W2377081927",
+  "https://openalex.org/W2357778786",
+  "https://openalex.org/W2363550835",
+  "https://openalex.org/W2376683104",
+  "https://openalex.org/W2367975080",
+  "https://openalex.org/W2352676188",
+  "https://openalex.org/W2393132080"
+ ],
+ "title": "Investigation and Thinking on Actual Effect about the Lesson Cultivation of Thought Morals and Law Foundation:Take Yunnan Agricultural University as an Example",
+ "type": "article"
+}

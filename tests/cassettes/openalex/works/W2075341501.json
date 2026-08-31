@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 41,
+ "doi": "https://doi.org/10.1090/s0002-9947-1969-0245439-x",
+ "id": "https://openalex.org/W2075341501",
+ "publication_year": 1969,
+ "referenced_works": [
+  "https://openalex.org/W2005432166",
+  "https://openalex.org/W2008273724",
+  "https://openalex.org/W2010449756",
+  "https://openalex.org/W2037662783",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2053099695",
+  "https://openalex.org/W2062249564",
+  "https://openalex.org/W2073671351",
+  "https://openalex.org/W2074872055",
+  "https://openalex.org/W2083904032",
+  "https://openalex.org/W2105527649",
+  "https://openalex.org/W2108899379",
+  "https://openalex.org/W2117832390",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W4229577848",
+  "https://openalex.org/W4232819959",
+  "https://openalex.org/W4233266865",
+  "https://openalex.org/W4235948263",
+  "https://openalex.org/W4243971812",
+  "https://openalex.org/W4248952979",
+  "https://openalex.org/W4253210619",
+  "https://openalex.org/W4255102831"
+ ],
+ "title": "Relationships between reducibilities"
+}

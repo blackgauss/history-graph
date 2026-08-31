@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 22,
+ "doi": "https://doi.org/10.1007/978-1-4613-1679-4_5",
+ "id": "https://openalex.org/W1555210865",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W65285716",
+  "https://openalex.org/W109509553",
+  "https://openalex.org/W1560473542",
+  "https://openalex.org/W1567895907",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1976858625",
+  "https://openalex.org/W2002045271",
+  "https://openalex.org/W2018978908",
+  "https://openalex.org/W2020182541",
+  "https://openalex.org/W2042328301",
+  "https://openalex.org/W2054806536",
+  "https://openalex.org/W2061588824",
+  "https://openalex.org/W2088602658",
+  "https://openalex.org/W2132692154",
+  "https://openalex.org/W2171889623",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W3141173051",
+  "https://openalex.org/W3147994942",
+  "https://openalex.org/W4238858416",
+  "https://openalex.org/W4253491093",
+  "https://openalex.org/W4404810058",
+  "https://openalex.org/W6602562317",
+  "https://openalex.org/W6792366016"
+ ],
+ "title": "Join on a Cube: Analysis, Simulation, and Implementation"
+}

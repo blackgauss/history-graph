@@ -1,0 +1,98 @@
+{
+ "cited_by_count": 1255,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 41,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 53,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 68,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 86,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 90,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 122,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 138,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 135,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 113,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.7551/mitpress/7503.003.0040",
+ "id": "https://openalex.org/W2109722477",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W251116918",
+  "https://openalex.org/W1512098439",
+  "https://openalex.org/W1520252399",
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1541741077",
+  "https://openalex.org/W1589195347",
+  "https://openalex.org/W1592680957",
+  "https://openalex.org/W1614659291",
+  "https://openalex.org/W1625504505",
+  "https://openalex.org/W1924689489",
+  "https://openalex.org/W1975112218",
+  "https://openalex.org/W1985690171",
+  "https://openalex.org/W1995897489",
+  "https://openalex.org/W2017977879",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2020214980",
+  "https://openalex.org/W2054961017",
+  "https://openalex.org/W2089468765",
+  "https://openalex.org/W2108384452",
+  "https://openalex.org/W2113097540",
+  "https://openalex.org/W2117990954",
+  "https://openalex.org/W2122465391",
+  "https://openalex.org/W2130306834",
+  "https://openalex.org/W2147898188",
+  "https://openalex.org/W2150724867",
+  "https://openalex.org/W2913066018",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Map-Reduce for Machine Learning on Multicore"
+}

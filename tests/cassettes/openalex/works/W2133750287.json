@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 62,
+ "doi": "https://doi.org/10.3233/sat190028",
+ "id": "https://openalex.org/W2133750287",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1556189547",
+  "https://openalex.org/W1595386810",
+  "https://openalex.org/W1840130062",
+  "https://openalex.org/W1963677040",
+  "https://openalex.org/W1969777579",
+  "https://openalex.org/W1970945363",
+  "https://openalex.org/W1996177377",
+  "https://openalex.org/W2014986236",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2033396863",
+  "https://openalex.org/W2056554620",
+  "https://openalex.org/W2095182415",
+  "https://openalex.org/W2113171605",
+  "https://openalex.org/W2113722134",
+  "https://openalex.org/W2123376031",
+  "https://openalex.org/W2153131284",
+  "https://openalex.org/W2159786179",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2181289644",
+  "https://openalex.org/W2914762105",
+  "https://openalex.org/W4206132523",
+  "https://openalex.org/W6641116550",
+  "https://openalex.org/W6659081038",
+  "https://openalex.org/W6683512353"
+ ],
+ "title": "An Abstract Decision Procedure for a Theory of Inductive Data Types"
+}

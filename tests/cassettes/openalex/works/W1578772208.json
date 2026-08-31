@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 263,
+ "doi": null,
+ "id": "https://openalex.org/W1578772208",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1504694836",
+  "https://openalex.org/W1553313034",
+  "https://openalex.org/W1670263352",
+  "https://openalex.org/W1676820704",
+  "https://openalex.org/W1966280301",
+  "https://openalex.org/W1975442866",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W2070534370",
+  "https://openalex.org/W2093717447",
+  "https://openalex.org/W2104364170",
+  "https://openalex.org/W2111746072",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2126177819",
+  "https://openalex.org/W2132166479",
+  "https://openalex.org/W2156516121",
+  "https://openalex.org/W2912934387"
+ ],
+ "title": "Using output codes to boost multiclass learning problems"
+}

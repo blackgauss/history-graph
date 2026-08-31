@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 712,
+ "doi": null,
+ "id": "https://openalex.org/W196761320",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W2006903949",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2110798204",
+  "https://openalex.org/W2130984546",
+  "https://openalex.org/W2138857742",
+  "https://openalex.org/W2166347285",
+  "https://openalex.org/W2606321545",
+  "https://openalex.org/W2914484425",
+  "https://openalex.org/W3023533631",
+  "https://openalex.org/W3029645440"
+ ],
+ "title": "Deep learning via Hessian-free optimization"
+}

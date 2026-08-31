@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 1502,
+ "doi": "https://doi.org/10.1287/opre.21.5.1071",
+ "id": "https://openalex.org/W2034725503",
+ "publication_year": 1973,
+ "referenced_works": [
+  "https://openalex.org/W280730927",
+  "https://openalex.org/W1484113995",
+  "https://openalex.org/W1485904603",
+  "https://openalex.org/W1997610439",
+  "https://openalex.org/W2011560193",
+  "https://openalex.org/W2028145673",
+  "https://openalex.org/W2064369482",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "The Optimal Control of Partially Observable Markov Processes over a Finite Horizon"
+}

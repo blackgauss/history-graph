@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 1222,
+ "doi": "https://doi.org/10.1016/b978-008045046-9.01405-4",
+ "id": "https://openalex.org/W1542782021",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W120098792",
+  "https://openalex.org/W1488737327",
+  "https://openalex.org/W1628243830",
+  "https://openalex.org/W1878427780",
+  "https://openalex.org/W2097560155",
+  "https://openalex.org/W2109234859",
+  "https://openalex.org/W2128949090",
+  "https://openalex.org/W2141166794",
+  "https://openalex.org/W2157239334",
+  "https://openalex.org/W2599195831"
+ ],
+ "title": "Spiking Neuron Models"
+}

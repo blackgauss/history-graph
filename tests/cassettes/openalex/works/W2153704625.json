@@ -1,0 +1,98 @@
+{
+ "cited_by_count": 3467,
+ "counts_by_year": [
+  {
+   "cited_by_count": 32,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 41,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 134,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 127,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 179,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 224,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 239,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 272,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 361,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 363,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 397,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 327,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1294261.1294281",
+ "id": "https://openalex.org/W2153704625",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W182346126",
+  "https://openalex.org/W1497412888",
+  "https://openalex.org/W1600255172",
+  "https://openalex.org/W1985006281",
+  "https://openalex.org/W2020765652",
+  "https://openalex.org/W2033223918",
+  "https://openalex.org/W2044534358",
+  "https://openalex.org/W2080291901",
+  "https://openalex.org/W2104210894",
+  "https://openalex.org/W2107779152",
+  "https://openalex.org/W2110765100",
+  "https://openalex.org/W2111586962",
+  "https://openalex.org/W2117260615",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2121133177",
+  "https://openalex.org/W2123820820",
+  "https://openalex.org/W2126022651",
+  "https://openalex.org/W2158049821",
+  "https://openalex.org/W2162190762",
+  "https://openalex.org/W2167898414",
+  "https://openalex.org/W2624304035",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W4238584892",
+  "https://openalex.org/W4243519952",
+  "https://openalex.org/W4244352827",
+  "https://openalex.org/W4249933004",
+  "https://openalex.org/W4253724857"
+ ],
+ "title": "Dynamo"
+}

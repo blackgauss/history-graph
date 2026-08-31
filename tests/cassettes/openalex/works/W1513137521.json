@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.1007/978-3-540-25984-8_13",
+ "id": "https://openalex.org/W1513137521",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1512075079",
+  "https://openalex.org/W1534557881",
+  "https://openalex.org/W1581769579",
+  "https://openalex.org/W1656633205",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2091905929",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2171996597",
+  "https://openalex.org/W2248096430",
+  "https://openalex.org/W2293606340",
+  "https://openalex.org/W2977967499"
+ ],
+ "title": "argo-lib: A Generic Platform for Decision Procedures"
+}

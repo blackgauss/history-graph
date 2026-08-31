@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 65,
+ "doi": "https://doi.org/10.1016/0167-6911(89)90110-2",
+ "id": "https://openalex.org/W2025853824",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W142066119",
+  "https://openalex.org/W1484155879",
+  "https://openalex.org/W1823776204",
+  "https://openalex.org/W1975030700",
+  "https://openalex.org/W1995650502",
+  "https://openalex.org/W2063970464",
+  "https://openalex.org/W2065884106",
+  "https://openalex.org/W2147873335"
+ ],
+ "title": "Stability of discrete model reference adaptive control — revisited"
+}

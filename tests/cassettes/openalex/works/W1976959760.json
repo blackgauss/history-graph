@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 252,
+ "doi": "https://doi.org/10.1109/64.577468",
+ "id": "https://openalex.org/W1976959760",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W110443600",
+  "https://openalex.org/W1550771877",
+  "https://openalex.org/W1996764654",
+  "https://openalex.org/W2002132475",
+  "https://openalex.org/W2073788020",
+  "https://openalex.org/W4241122026",
+  "https://openalex.org/W6604611248"
+ ],
+ "title": "The MetaCrawler architecture for resource aggregation on the Web"
+}

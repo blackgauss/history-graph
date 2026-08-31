@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 8477,
+ "doi": "https://doi.org/10.1145/359545.359563",
+ "id": "https://openalex.org/W3137220996",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W2047482026",
+  "https://openalex.org/W2140958645"
+ ],
+ "title": "Time, clocks, and the ordering of events in a distributed system"
+}

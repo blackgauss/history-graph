@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 903,
+ "doi": "https://doi.org/10.5555/1298455.1298487",
+ "id": "https://openalex.org/W1992479210",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W194677851",
+  "https://openalex.org/W1497150730",
+  "https://openalex.org/W1539861357",
+  "https://openalex.org/W1560840983",
+  "https://openalex.org/W1580634328",
+  "https://openalex.org/W1975688068",
+  "https://openalex.org/W2000832815",
+  "https://openalex.org/W2005373714",
+  "https://openalex.org/W2012481411",
+  "https://openalex.org/W2013886348",
+  "https://openalex.org/W2035362408",
+  "https://openalex.org/W2075854425",
+  "https://openalex.org/W2105986919",
+  "https://openalex.org/W2113201593",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2122269925",
+  "https://openalex.org/W2126789306",
+  "https://openalex.org/W2131929623",
+  "https://openalex.org/W2138949781",
+  "https://openalex.org/W2144554450",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W2182688186",
+  "https://openalex.org/W2296636214",
+  "https://openalex.org/W2624304035"
+ ],
+ "title": "The Chubby lock service for loosely-coupled distributed systems"
+}

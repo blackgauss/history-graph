@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 30,
+ "doi": "https://doi.org/10.1017/s0960129500003108",
+ "id": "https://openalex.org/W2160173874",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1497630311",
+  "https://openalex.org/W1523047387",
+  "https://openalex.org/W1535956864",
+  "https://openalex.org/W1589628946",
+  "https://openalex.org/W1593429383",
+  "https://openalex.org/W1595221638",
+  "https://openalex.org/W1601311891",
+  "https://openalex.org/W1988246540",
+  "https://openalex.org/W2059054133",
+  "https://openalex.org/W2072809974",
+  "https://openalex.org/W2102483439",
+  "https://openalex.org/W2150428320",
+  "https://openalex.org/W2154273644"
+ ],
+ "title": "Decidability of fourth-order matching"
+}

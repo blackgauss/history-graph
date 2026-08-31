@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 40,
+ "doi": "https://doi.org/10.48550/arxiv.quant-ph/9612028",
+ "id": "https://openalex.org/W1638008711",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W3100206575"
+ ],
+ "title": "Threshold Estimate for Fault Tolerant Quantum Computation"
+}

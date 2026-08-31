@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 717,
+ "doi": "https://doi.org/10.1145/1247480.1247602",
+ "id": "https://openalex.org/W2154894831",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W339752665",
+  "https://openalex.org/W1483819513",
+  "https://openalex.org/W1964941055",
+  "https://openalex.org/W1967838552",
+  "https://openalex.org/W1997020216",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2082693041",
+  "https://openalex.org/W2100830825",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2119714163",
+  "https://openalex.org/W2122465391",
+  "https://openalex.org/W2136952952",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W2624304035",
+  "https://openalex.org/W4238584892"
+ ],
+ "title": "Map-reduce-merge"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 5,
+ "doi": "https://doi.org/10.1016/0026-2714(76)90616-8",
+ "id": "https://openalex.org/W2024469430",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W1981054579",
+  "https://openalex.org/W2058953966",
+  "https://openalex.org/W2064547292",
+  "https://openalex.org/W2067847741",
+  "https://openalex.org/W2074506186",
+  "https://openalex.org/W2113000909"
+ ],
+ "title": "Multi-valued circuits in fault detection of binary logic circuits"
+}

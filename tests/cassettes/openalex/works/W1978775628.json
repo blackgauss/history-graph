@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 56,
+ "doi": "https://doi.org/10.1145/322307.322313",
+ "id": "https://openalex.org/W1978775628",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W1985581502",
+  "https://openalex.org/W2015611106",
+  "https://openalex.org/W2110810394",
+  "https://openalex.org/W2125223317",
+  "https://openalex.org/W2162068127"
+ ],
+ "title": "A Complete Axiomatization of Full Join Dependencies"
+}

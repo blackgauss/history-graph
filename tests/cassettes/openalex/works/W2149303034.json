@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 21,
+ "doi": null,
+ "id": "https://openalex.org/W2149303034",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1594322774",
+  "https://openalex.org/W2048732459",
+  "https://openalex.org/W2058879737",
+  "https://openalex.org/W2137441310",
+  "https://openalex.org/W2895674046"
+ ],
+ "title": "Foraging in an Uncertain Environment Using Predictive Hebbian Learning"
+}

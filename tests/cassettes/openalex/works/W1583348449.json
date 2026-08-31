@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.48550/arxiv.cond-mat/9905200",
+ "id": "https://openalex.org/W1583348449",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W609178804",
+  "https://openalex.org/W2044573796",
+  "https://openalex.org/W3004024615"
+ ],
+ "title": "Dynamics of the Measurement of Nuclear Spins in a Solid-State Quantum Computer"
+}

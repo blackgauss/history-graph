@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 556,
+ "counts_by_year": [
+  {
+   "cited_by_count": 96,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 176,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 126,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 103,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 48,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2021
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3442381.3450078",
+ "id": "https://openalex.org/W3093945404",
+ "publication_year": 2021,
+ "title": "DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems"
+}

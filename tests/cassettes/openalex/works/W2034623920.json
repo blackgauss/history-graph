@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 40,
+ "doi": "https://doi.org/10.1109/icfhr.2012.232",
+ "id": "https://openalex.org/W2034623920",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W1493595169",
+  "https://openalex.org/W2006611575",
+  "https://openalex.org/W2041433802",
+  "https://openalex.org/W2042524007",
+  "https://openalex.org/W2062755747",
+  "https://openalex.org/W2079735306",
+  "https://openalex.org/W2092823576",
+  "https://openalex.org/W2093088940",
+  "https://openalex.org/W2094305745",
+  "https://openalex.org/W2098566829",
+  "https://openalex.org/W2119847746",
+  "https://openalex.org/W2122585011",
+  "https://openalex.org/W2127141656",
+  "https://openalex.org/W2147510700",
+  "https://openalex.org/W2166309735",
+  "https://openalex.org/W2395249674",
+  "https://openalex.org/W2751095748",
+  "https://openalex.org/W6629645474",
+  "https://openalex.org/W6712254801",
+  "https://openalex.org/W6743780831"
+ ],
+ "title": "Mode Detection in Online Handwritten Documents Using BLSTM Neural Networks"
+}

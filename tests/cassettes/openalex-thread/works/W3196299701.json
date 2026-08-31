@@ -1,0 +1,88 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Pramod A. Yadav",
+    "id": "https://openalex.org/A5053916587",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Pramod A. Yadav",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Krutika Vartak",
+    "id": "https://openalex.org/A5073871797",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Krutika Vartak",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W3196299701",
+ "ids": {
+  "mag": "3196299701",
+  "openalex": "https://openalex.org/W3196299701"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "mag:3196299701",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://www.viva-technology.org/New/IJRI/2021/191.html",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "VIVA-Tech International Journal for Research and Innovation",
+  "raw_type": null,
+  "source": {
+   "display_name": "VIVA-Tech International Journal for Research and Innovation",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S4306534422",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "journal"
+  },
+  "version": null
+ },
+ "publication_year": 2021,
+ "referenced_works": [
+  "https://openalex.org/W1566984846",
+  "https://openalex.org/W2007807439",
+  "https://openalex.org/W2073965851",
+  "https://openalex.org/W2411161723"
+ ],
+ "related_works": [],
+ "title": "Google File System",
+ "type": "article"
+}

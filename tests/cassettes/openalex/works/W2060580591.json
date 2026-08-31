@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 248,
+ "doi": "https://doi.org/10.1109/icdar.2013.140",
+ "id": "https://openalex.org/W2060580591",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1899504021",
+  "https://openalex.org/W1993557076",
+  "https://openalex.org/W2001642682",
+  "https://openalex.org/W2022742307",
+  "https://openalex.org/W2024723121",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2099070536",
+  "https://openalex.org/W2103179919",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2110485445",
+  "https://openalex.org/W2122585011",
+  "https://openalex.org/W2125838338",
+  "https://openalex.org/W2138861642",
+  "https://openalex.org/W2147393756",
+  "https://openalex.org/W2148695089",
+  "https://openalex.org/W2149043292",
+  "https://openalex.org/W2170942820",
+  "https://openalex.org/W4254816979",
+  "https://openalex.org/W6631636882",
+  "https://openalex.org/W6650820226",
+  "https://openalex.org/W6656348407",
+  "https://openalex.org/W6682050888"
+ ],
+ "title": "High-Performance OCR for Printed English and Fraktur Using LSTM Networks"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 908,
+ "doi": "https://doi.org/10.1145/357073.357079",
+ "id": "https://openalex.org/W2164778826",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1553142094",
+  "https://openalex.org/W1988192943",
+  "https://openalex.org/W2000346568",
+  "https://openalex.org/W2026597794",
+  "https://openalex.org/W2070587922",
+  "https://openalex.org/W2072380992",
+  "https://openalex.org/W2092518806",
+  "https://openalex.org/W2095182415",
+  "https://openalex.org/W2114633883",
+  "https://openalex.org/W2156327719",
+  "https://openalex.org/W2166089338",
+  "https://openalex.org/W2977904728",
+  "https://openalex.org/W3199565109"
+ ],
+ "title": "Simplification by Cooperating Decision Procedures"
+}

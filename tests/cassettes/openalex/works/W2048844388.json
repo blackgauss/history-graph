@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 107,
+ "doi": "https://doi.org/10.1109/tac.1981.1102652",
+ "id": "https://openalex.org/W2048844388",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W631657654",
+  "https://openalex.org/W657923602",
+  "https://openalex.org/W1513671953",
+  "https://openalex.org/W1973001558",
+  "https://openalex.org/W1986653722",
+  "https://openalex.org/W2005176287",
+  "https://openalex.org/W2032085216",
+  "https://openalex.org/W2040158468",
+  "https://openalex.org/W2079045656",
+  "https://openalex.org/W2099958618",
+  "https://openalex.org/W2129912751",
+  "https://openalex.org/W2138966161",
+  "https://openalex.org/W2143397409",
+  "https://openalex.org/W2153335615",
+  "https://openalex.org/W2171879346",
+  "https://openalex.org/W6680733959"
+ ],
+ "title": "Information structure, Stackelberg games, and incentive controllability"
+}

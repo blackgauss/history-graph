@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1112/jlms/s2-5.3.445",
+ "id": "https://openalex.org/W2143629347",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W1971553070",
+  "https://openalex.org/W2082637799",
+  "https://openalex.org/W2167930025"
+ ],
+ "title": "Minimal Upper Bounds for Sequences of Recursively Enumerable Degrees"
+}

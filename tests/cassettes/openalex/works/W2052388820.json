@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 242,
+ "doi": "https://doi.org/10.1016/0001-8708(81)90001-3",
+ "id": "https://openalex.org/W2052388820",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W220096824",
+  "https://openalex.org/W1971713040",
+  "https://openalex.org/W1975917923",
+  "https://openalex.org/W2025476736",
+  "https://openalex.org/W2079942928",
+  "https://openalex.org/W2086349071",
+  "https://openalex.org/W2768783225",
+  "https://openalex.org/W3140998092",
+  "https://openalex.org/W4239497877",
+  "https://openalex.org/W4241042422",
+  "https://openalex.org/W4245102239",
+  "https://openalex.org/W4386445991"
+ ],
+ "title": "The wave equation with computable initial data such that its unique solution is not computable"
+}

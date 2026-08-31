@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 34,
+ "doi": "https://doi.org/10.1007/978-3-0348-8069-5_11",
+ "id": "https://openalex.org/W1846376331",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W4985749",
+  "https://openalex.org/W55457573",
+  "https://openalex.org/W1502986712",
+  "https://openalex.org/W1537193711",
+  "https://openalex.org/W1546372806",
+  "https://openalex.org/W1571984195",
+  "https://openalex.org/W1574576267",
+  "https://openalex.org/W1654586045",
+  "https://openalex.org/W1979694908",
+  "https://openalex.org/W1990876436",
+  "https://openalex.org/W1995703140",
+  "https://openalex.org/W2012362409",
+  "https://openalex.org/W2035240057",
+  "https://openalex.org/W2043013518",
+  "https://openalex.org/W2077810240",
+  "https://openalex.org/W2080479164",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2334237942",
+  "https://openalex.org/W2574800215",
+  "https://openalex.org/W3104153247"
+ ],
+ "title": "On a Nonsymmetric Version of the Khinchine-Kahane Inequality"
+}

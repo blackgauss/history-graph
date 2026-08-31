@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 2925,
+ "doi": "https://doi.org/10.1109/9.182479",
+ "id": "https://openalex.org/W2105177639",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1538639190",
+  "https://openalex.org/W1560604905",
+  "https://openalex.org/W1966534559",
+  "https://openalex.org/W1992103639",
+  "https://openalex.org/W2016437165",
+  "https://openalex.org/W2024720970",
+  "https://openalex.org/W2029405344",
+  "https://openalex.org/W2038603123",
+  "https://openalex.org/W2063078918",
+  "https://openalex.org/W2081979897",
+  "https://openalex.org/W2119781848",
+  "https://openalex.org/W2120608673",
+  "https://openalex.org/W2129419885",
+  "https://openalex.org/W2153086189",
+  "https://openalex.org/W2160193631",
+  "https://openalex.org/W2161157451",
+  "https://openalex.org/W2163208395",
+  "https://openalex.org/W2565612488",
+  "https://openalex.org/W3135696298",
+  "https://openalex.org/W4230164823",
+  "https://openalex.org/W6684046771"
+ ],
+ "title": "Stability properties of constrained queueing systems and scheduling policies for maximum throughput in multihop radio networks"
+}

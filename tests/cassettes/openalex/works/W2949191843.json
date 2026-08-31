@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 46,
+ "doi": "https://doi.org/10.48550/arxiv.1309.0261",
+ "id": "https://openalex.org/W2949191843",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W22040386",
+  "https://openalex.org/W1978964824",
+  "https://openalex.org/W1998582365",
+  "https://openalex.org/W2022508996",
+  "https://openalex.org/W2033154814",
+  "https://openalex.org/W2141125852",
+  "https://openalex.org/W2148461049",
+  "https://openalex.org/W2167510172"
+ ],
+ "title": "Multi-Column Deep Neural Networks for Offline Handwritten Chinese Character Classification"
+}

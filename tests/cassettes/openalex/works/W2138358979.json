@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 89,
+ "doi": "https://doi.org/10.1109/ijcnn.1992.287150",
+ "id": "https://openalex.org/W2138358979",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1991848143",
+  "https://openalex.org/W2039596232",
+  "https://openalex.org/W2137554581",
+  "https://openalex.org/W2168726429",
+  "https://openalex.org/W2170302354",
+  "https://openalex.org/W2256679588",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3036512766",
+  "https://openalex.org/W4235369664",
+  "https://openalex.org/W4300402905"
+ ],
+ "title": "Cresceptron: a self-organizing neural network which grows adaptively"
+}

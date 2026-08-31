@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 79,
+ "doi": "https://doi.org/10.1016/s0166-218x(99)00032-3",
+ "id": "https://openalex.org/W1971378428",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W4983232",
+  "https://openalex.org/W613766469",
+  "https://openalex.org/W1561608403",
+  "https://openalex.org/W1636182933",
+  "https://openalex.org/W1969966778",
+  "https://openalex.org/W2002651865",
+  "https://openalex.org/W2017848674",
+  "https://openalex.org/W2031823362",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2042378894",
+  "https://openalex.org/W2051580875",
+  "https://openalex.org/W2091345559",
+  "https://openalex.org/W2129766896",
+  "https://openalex.org/W2166566648",
+  "https://openalex.org/W2905110430",
+  "https://openalex.org/W3143219376",
+  "https://openalex.org/W4212799367",
+  "https://openalex.org/W6606647263",
+  "https://openalex.org/W6632728906",
+  "https://openalex.org/W6743059417"
+ ],
+ "title": "Satisfiability threshold for random XOR-CNF formulas"
+}

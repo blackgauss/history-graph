@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 213,
+ "doi": "https://doi.org/10.1109/pdis.1996.568677",
+ "id": "https://openalex.org/W2160825121",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1494307597",
+  "https://openalex.org/W1497388414",
+  "https://openalex.org/W1812691494",
+  "https://openalex.org/W1968210840",
+  "https://openalex.org/W1973382888",
+  "https://openalex.org/W2012670464",
+  "https://openalex.org/W2090438868",
+  "https://openalex.org/W2117242988",
+  "https://openalex.org/W2131165411",
+  "https://openalex.org/W2160825121",
+  "https://openalex.org/W2252148092",
+  "https://openalex.org/W2547746201",
+  "https://openalex.org/W3009013944",
+  "https://openalex.org/W6605947130",
+  "https://openalex.org/W6629652352",
+  "https://openalex.org/W6640690195",
+  "https://openalex.org/W6672892736",
+  "https://openalex.org/W6677224441",
+  "https://openalex.org/W6677781511"
+ ],
+ "title": "Making views self-maintainable for data warehousing"
+}

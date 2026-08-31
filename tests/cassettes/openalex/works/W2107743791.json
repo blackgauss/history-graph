@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 4063,
+ "doi": "https://doi.org/10.1145/3130348.3130370",
+ "id": "https://openalex.org/W2107743791",
+ "publication_year": 2017,
+ "referenced_works": [
+  "https://openalex.org/W1612003148",
+  "https://openalex.org/W1644652583",
+  "https://openalex.org/W1718512272",
+  "https://openalex.org/W1956559956",
+  "https://openalex.org/W1986289464",
+  "https://openalex.org/W2038798255",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2063089147",
+  "https://openalex.org/W2077096052",
+  "https://openalex.org/W2127314673",
+  "https://openalex.org/W2140842551",
+  "https://openalex.org/W2143144851",
+  "https://openalex.org/W2147152072",
+  "https://openalex.org/W2169901824",
+  "https://openalex.org/W2325227998",
+  "https://openalex.org/W2492794003",
+  "https://openalex.org/W2567948266",
+  "https://openalex.org/W2596600410",
+  "https://openalex.org/W6660352074",
+  "https://openalex.org/W6680060347"
+ ],
+ "title": "Probabilistic Latent Semantic Indexing"
+}

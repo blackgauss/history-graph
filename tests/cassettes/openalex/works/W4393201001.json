@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 152,
+ "counts_by_year": [
+  {
+   "cited_by_count": 53,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 80,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2024
+  }
+ ],
+ "doi": "https://doi.org/10.1038/s41467-024-46346-0",
+ "id": "https://openalex.org/W4393201001",
+ "publication_year": 2024,
+ "title": "Predicting and improving complex beer flavor through machine learning"
+}

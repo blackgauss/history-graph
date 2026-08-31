@@ -1,0 +1,37 @@
+{
+ "cited_by_count": 2677,
+ "counts_by_year": [
+  {
+   "cited_by_count": 586,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 908,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 668,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 321,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 155,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2020
+  }
+ ],
+ "doi": "https://doi.org/10.1007/s10462-020-09896-5",
+ "id": "https://openalex.org/W2987201163",
+ "publication_year": 2020,
+ "title": "A comparative analysis of gradient boosting algorithms"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 199,
+ "doi": "https://doi.org/10.1007/3-540-45657-0_40",
+ "id": "https://openalex.org/W1531082202",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1534557881",
+  "https://openalex.org/W1534850143",
+  "https://openalex.org/W1558970122",
+  "https://openalex.org/W1568333198",
+  "https://openalex.org/W1582571943",
+  "https://openalex.org/W1751589996",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W1974190112",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2152791447",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2170145744",
+  "https://openalex.org/W2481176870",
+  "https://openalex.org/W2522962366"
+ ],
+ "title": "CVC: A Cooperating Validity Checker"
+}

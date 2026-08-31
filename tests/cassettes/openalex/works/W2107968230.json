@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 793,
+ "doi": null,
+ "id": "https://openalex.org/W2107968230",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1503357994",
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1570348033",
+  "https://openalex.org/W1749992802",
+  "https://openalex.org/W1950624164",
+  "https://openalex.org/W1964166152",
+  "https://openalex.org/W1987865517",
+  "https://openalex.org/W2051381803",
+  "https://openalex.org/W2091143818",
+  "https://openalex.org/W2092824627",
+  "https://openalex.org/W2119821739",
+  "https://openalex.org/W2137346077",
+  "https://openalex.org/W2139212933",
+  "https://openalex.org/W2156909104",
+  "https://openalex.org/W2164641162",
+  "https://openalex.org/W3112020351",
+  "https://openalex.org/W3193477162"
+ ],
+ "title": "Semi-Supervised Support Vector Machines"
+}

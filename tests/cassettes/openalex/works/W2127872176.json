@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 43,
+ "doi": "https://doi.org/10.1145/93597.98738",
+ "id": "https://openalex.org/W2127872176",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1481270797",
+  "https://openalex.org/W1550420318",
+  "https://openalex.org/W1721126460",
+  "https://openalex.org/W1825341804",
+  "https://openalex.org/W2002171029",
+  "https://openalex.org/W2013334450",
+  "https://openalex.org/W2147869465"
+ ],
+ "title": "Query graphs, implementing trees, and freely-reorderable outerjoins"
+}

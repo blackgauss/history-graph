@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 289,
+ "doi": "https://doi.org/10.48550/arxiv.1206.1106",
+ "id": "https://openalex.org/W2120420045",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W24696228",
+  "https://openalex.org/W1533861849",
+  "https://openalex.org/W1568229137",
+  "https://openalex.org/W1598497354",
+  "https://openalex.org/W1629097610",
+  "https://openalex.org/W1994616650",
+  "https://openalex.org/W2018993554",
+  "https://openalex.org/W2102486516",
+  "https://openalex.org/W2113651538",
+  "https://openalex.org/W2129142203",
+  "https://openalex.org/W2130984546",
+  "https://openalex.org/W2136058147",
+  "https://openalex.org/W2137515395",
+  "https://openalex.org/W2146502635",
+  "https://openalex.org/W2146917784",
+  "https://openalex.org/W2156779765",
+  "https://openalex.org/W2164273299",
+  "https://openalex.org/W2166347285",
+  "https://openalex.org/W2914484425",
+  "https://openalex.org/W2964142744",
+  "https://openalex.org/W3118608800"
+ ],
+ "title": "No More Pesky Learning Rates"
+}

@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 264,
+ "doi": "https://doi.org/10.1145/190.357399",
+ "id": "https://openalex.org/W2089138728",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W170193145",
+  "https://openalex.org/W1496645340",
+  "https://openalex.org/W1557670639",
+  "https://openalex.org/W1973501242",
+  "https://openalex.org/W2014772227",
+  "https://openalex.org/W2019303997",
+  "https://openalex.org/W2039164882",
+  "https://openalex.org/W2047482026",
+  "https://openalex.org/W2053374874",
+  "https://openalex.org/W2061819031",
+  "https://openalex.org/W2081409107",
+  "https://openalex.org/W2126924915",
+  "https://openalex.org/W2509254371",
+  "https://openalex.org/W2546579087",
+  "https://openalex.org/W2914315669",
+  "https://openalex.org/W3137092842",
+  "https://openalex.org/W3137220996"
+ ],
+ "title": "Byzantine generals in action"
+}

@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.48550/arxiv.1210.1283",
+ "id": "https://openalex.org/W2951836932",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W1973898585",
+  "https://openalex.org/W2078134499",
+  "https://openalex.org/W2078929687",
+  "https://openalex.org/W2949291665"
+ ],
+ "title": "The Correct Exponent for the Gotsman-Linial Conjecture"
+}

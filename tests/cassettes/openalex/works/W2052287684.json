@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 86,
+ "doi": "https://doi.org/10.1109/cdc.1981.269422",
+ "id": "https://openalex.org/W2052287684",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1976490055",
+  "https://openalex.org/W2008587691",
+  "https://openalex.org/W2010236714",
+  "https://openalex.org/W2030033366",
+  "https://openalex.org/W2053879924",
+  "https://openalex.org/W2078583704",
+  "https://openalex.org/W2083394445",
+  "https://openalex.org/W2096808185",
+  "https://openalex.org/W2098894224",
+  "https://openalex.org/W2112891556",
+  "https://openalex.org/W2147873335",
+  "https://openalex.org/W2159623813",
+  "https://openalex.org/W2165010569",
+  "https://openalex.org/W2165503808",
+  "https://openalex.org/W2172249353"
+ ],
+ "title": "Analytical verification of undesirable properties of direct model reference adaptive control algorithms"
+}

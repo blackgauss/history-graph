@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 1178,
+ "doi": "https://doi.org/10.1023/a:1018046112532",
+ "id": "https://openalex.org/W2914369697",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W28412257",
+  "https://openalex.org/W1968278006",
+  "https://openalex.org/W1990322717",
+  "https://openalex.org/W2017381306",
+  "https://openalex.org/W2030748132",
+  "https://openalex.org/W2035998077",
+  "https://openalex.org/W2047028564",
+  "https://openalex.org/W2111814036",
+  "https://openalex.org/W2333938294",
+  "https://openalex.org/W2510002191",
+  "https://openalex.org/W4206495155",
+  "https://openalex.org/W4234698323",
+  "https://openalex.org/W6804482302",
+  "https://openalex.org/W6843735874"
+ ],
+ "title": "Stacked Regressions"
+}

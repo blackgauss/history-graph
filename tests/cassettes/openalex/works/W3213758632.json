@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 169,
+ "counts_by_year": [
+  {
+   "cited_by_count": 44,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 76,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 36,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tnnls.2023.3266233",
+ "id": "https://openalex.org/W3213758632",
+ "publication_year": 2023,
+ "title": "Fast Yet Effective Machine Unlearning"
+}

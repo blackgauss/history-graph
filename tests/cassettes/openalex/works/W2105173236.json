@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 144,
+ "doi": "https://doi.org/10.1006/game.1998.0704",
+ "id": "https://openalex.org/W2105173236",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1969867455",
+  "https://openalex.org/W1977106683",
+  "https://openalex.org/W1987806401",
+  "https://openalex.org/W1998681897",
+  "https://openalex.org/W2007409401",
+  "https://openalex.org/W2032395673",
+  "https://openalex.org/W2038280165",
+  "https://openalex.org/W2040960325",
+  "https://openalex.org/W2045665199",
+  "https://openalex.org/W2060965809",
+  "https://openalex.org/W2084378950",
+  "https://openalex.org/W2088971620",
+  "https://openalex.org/W2091627599",
+  "https://openalex.org/W2125899808",
+  "https://openalex.org/W3123160622"
+ ],
+ "title": "Uniqueness and Existence of Equilibrium in Auctions with a Reserve Price"
+}

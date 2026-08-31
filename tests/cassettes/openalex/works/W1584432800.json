@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1007/978-1-4471-1599-1_26",
+ "id": "https://openalex.org/W1584432800",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1481643961",
+  "https://openalex.org/W1553313034",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1975846642",
+  "https://openalex.org/W2055522016",
+  "https://openalex.org/W2156909104",
+  "https://openalex.org/W2172195373",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W4205686602",
+  "https://openalex.org/W6808111085"
+ ],
+ "title": "An asymptotic analysis of AdaBoost in the binary classification case"
+}

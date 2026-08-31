@@ -1,0 +1,453 @@
+{
+ "abstract_inverted_index": {
+  "(GFS)": [
+   61
+  ],
+  "(HDFS)": [
+   55
+  ],
+  "Comparison": [
+   84
+  ],
+  "Distributed": [
+   52
+  ],
+  "Each": [
+   0
+  ],
+  "File": [
+   53,
+   59
+  ],
+  "GFS": [
+   81
+  ],
+  "Google": [
+   58
+  ],
+  "HDFS.": [
+   83
+  ],
+  "Hadoop": [
+   51
+  ],
+  "System": [
+   54,
+   60
+  ],
+  "The": [
+   28
+  ],
+  "This": [
+   75
+  ],
+  "To": [
+   41
+  ],
+  "YouTube,": [
+   23
+  ],
+  "also": [
+   90
+  ],
+  "an": [
+   78
+  ],
+  "and": [
+   14,
+   25,
+   56,
+   82
+  ],
+  "are": [
+   49,
+   62,
+   69
+  ],
+  "audio,": [
+   12
+  ],
+  "by": [
+   8
+  ],
+  "cluster-based": [
+   46
+  ],
+  "data": [
+   5,
+   36,
+   45
+  ],
+  "data.": [
+   74
+  ],
+  "day": [
+   1
+  ],
+  "discussed.": [
+   91
+  ],
+  "file": [
+   39,
+   66,
+   87
+  ],
+  "format": [
+   16
+  ],
+  "generated": [
+   35
+  ],
+  "gives": [
+   77
+  ],
+  "huge": [
+   2
+  ],
+  "image,": [
+   13
+  ],
+  "important": [
+   30
+  ],
+  "in": [
+   37
+  ],
+  "intensive": [
+   44
+  ],
+  "is": [
+   6,
+   32,
+   89
+  ],
+  "like": [
+   20
+  ],
+  "major": [
+   65
+  ],
+  "many": [
+   18
+  ],
+  "means": [
+   9
+  ],
+  "media,": [
+   22
+  ],
+  "most": [
+   29
+  ],
+  "of": [
+   4,
+   10,
+   80,
+   85
+  ],
+  "on.": [
+   27
+  ],
+  "overview": [
+   79
+  ],
+  "paper": [
+   76
+  ],
+  "part": [
+   31
+  ],
+  "produced": [
+   7
+  ],
+  "quantity": [
+   3
+  ],
+  "required.": [
+   50
+  ],
+  "so": [
+   26
+  ],
+  "social": [
+   21
+  ],
+  "sources": [
+   19
+  ],
+  "storage": [
+   47
+  ],
+  "store": [
+   42,
+   72
+  ],
+  "storing": [
+   33
+  ],
+  "system": [
+   67,
+   88
+  ],
+  "system.": [
+   40
+  ],
+  "systems": [
+   48
+  ],
+  "text,": [
+   11
+  ],
+  "the": [
+   38,
+   63,
+   73
+  ],
+  "these": [
+   86
+  ],
+  "this": [
+   34,
+   43
+  ],
+  "to": [
+   71
+  ],
+  "two": [
+   64
+  ],
+  "used": [
+   70
+  ],
+  "via": [
+   17
+  ],
+  "video": [
+   15
+  ],
+  "websites": [
+   24
+  ],
+  "which": [
+   68
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Loknete Ramdas Patil Dhumal Arts science and commerce college, Rahuri, Ahmednagar, India"
+    }
+   ],
+   "author": {
+    "display_name": "Snehsudha Popatrao Dhage",
+    "id": "https://openalex.org/A5086317620",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Loknete Ramdas Patil Dhumal Arts science and commerce college, Rahuri, Ahmednagar, India"
+   ],
+   "raw_author_name": "Snehsudha Popatrao Dhage",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "PIRENS Institute of Computer Technology Loni (bk), Ahmednagar, India"
+    }
+   ],
+   "author": {
+    "display_name": "Tanpure Renuka Subhash",
+    "id": "https://openalex.org/A5053933932",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "PIRENS Institute of Computer Technology Loni (bk), Ahmednagar, India"
+   ],
+   "raw_author_name": "Tanpure Renuka Subhash",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "PIRENS Institute of Computer Technology Loni (bk), Ahmednagar, India"
+    }
+   ],
+   "author": {
+    "display_name": "Rutuja Vilas Kotkar",
+    "id": "https://openalex.org/A5010870610",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "PIRENS Institute of Computer Technology Loni (bk), Ahmednagar, India"
+   ],
+   "raw_author_name": "Rutuja Vilas Kotkar",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "PIRENS Institute of Computer Technology Loni (bk), Ahmednagar, India"
+    }
+   ],
+   "author": {
+    "display_name": "Prachi Dattatray Varpe",
+    "id": "https://openalex.org/A5082356783",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "PIRENS Institute of Computer Technology Loni (bk), Ahmednagar, India"
+   ],
+   "raw_author_name": "Prachi Dattatray Varpe",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Loknete Ramdas Patil Dhumal Arts science and commerce college, Rahuri, Ahmednagar, India"
+    }
+   ],
+   "author": {
+    "display_name": "Sonali Sanjay Pardeshi",
+    "id": "https://openalex.org/A5044753936",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Loknete Ramdas Patil Dhumal Arts science and commerce college, Rahuri, Ahmednagar, India"
+   ],
+   "raw_author_name": "Sonali Sanjay Pardeshi",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "mag:3181039328",
+  "is_accepted": false,
+  "is_oa": true,
+  "is_published": false,
+  "landing_page_url": "https://www.myresearchjournals.com/index.php/SAMRIDDHI/article/view/18566",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "SAMRIDDHI A Journal of Physical Sciences Engineering and Technology",
+  "raw_type": null,
+  "source": {
+   "display_name": "SAMRIDDHI A Journal of Physical Sciences Engineering and Technology",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S2764808385",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "2229-7111",
+    "2454-5767"
+   ],
+   "issn_l": "2229-7111",
+   "type": "journal"
+  },
+  "version": null
+ },
+ "cited_by_count": 1,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  }
+ ],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W3181039328",
+ "ids": {
+  "mag": "3181039328",
+  "openalex": "https://openalex.org/W3181039328"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": true,
+  "is_oa": true,
+  "oa_status": "green",
+  "oa_url": "https://www.myresearchjournals.com/index.php/SAMRIDDHI/article/view/18566"
+ },
+ "primary_location": {
+  "id": "mag:3181039328",
+  "is_accepted": false,
+  "is_oa": true,
+  "is_published": false,
+  "landing_page_url": "https://www.myresearchjournals.com/index.php/SAMRIDDHI/article/view/18566",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "SAMRIDDHI A Journal of Physical Sciences Engineering and Technology",
+  "raw_type": null,
+  "source": {
+   "display_name": "SAMRIDDHI A Journal of Physical Sciences Engineering and Technology",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S2764808385",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "2229-7111",
+    "2454-5767"
+   ],
+   "issn_l": "2229-7111",
+   "type": "journal"
+  },
+  "version": null
+ },
+ "publication_year": 2020,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2546947868",
+  "https://openalex.org/W2793311029",
+  "https://openalex.org/W3198722480",
+  "https://openalex.org/W2295811915",
+  "https://openalex.org/W2520897901",
+  "https://openalex.org/W1990638912",
+  "https://openalex.org/W2626984590",
+  "https://openalex.org/W2485042441",
+  "https://openalex.org/W2119738171",
+  "https://openalex.org/W2593654527",
+  "https://openalex.org/W2550058611",
+  "https://openalex.org/W2062312430",
+  "https://openalex.org/W2019102828",
+  "https://openalex.org/W2556770846",
+  "https://openalex.org/W2935632461",
+  "https://openalex.org/W2110528713",
+  "https://openalex.org/W2525177100",
+  "https://openalex.org/W2379268317",
+  "https://openalex.org/W2930596131",
+  "https://openalex.org/W2897106532"
+ ],
+ "title": "An Overview - Google File System (GFS) and Hadoop Distributed File System (HDFS)",
+ "type": "article"
+}

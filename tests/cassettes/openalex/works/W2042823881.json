@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 26,
+ "doi": "https://doi.org/10.1016/j.ic.2007.03.005",
+ "id": "https://openalex.org/W2042823881",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W32986836",
+  "https://openalex.org/W48456425",
+  "https://openalex.org/W82985438",
+  "https://openalex.org/W1488740219",
+  "https://openalex.org/W1527933453",
+  "https://openalex.org/W1551782573",
+  "https://openalex.org/W1970227944",
+  "https://openalex.org/W1980434494",
+  "https://openalex.org/W2020524830",
+  "https://openalex.org/W2020543669",
+  "https://openalex.org/W2028965656",
+  "https://openalex.org/W2054969282",
+  "https://openalex.org/W2056253254",
+  "https://openalex.org/W2085670481",
+  "https://openalex.org/W2088979440",
+  "https://openalex.org/W2093576032",
+  "https://openalex.org/W2103362760",
+  "https://openalex.org/W2138839382",
+  "https://openalex.org/W2911772578",
+  "https://openalex.org/W2912089252",
+  "https://openalex.org/W6657658097"
+ ],
+ "title": "Intersection-types à la Church"
+}

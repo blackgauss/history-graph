@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 1377,
+ "doi": "https://doi.org/10.1007/bfb0086566",
+ "id": "https://openalex.org/W2130859329",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W63727357",
+  "https://openalex.org/W625539078",
+  "https://openalex.org/W1490039160",
+  "https://openalex.org/W1973092800",
+  "https://openalex.org/W1992774275",
+  "https://openalex.org/W2014051441",
+  "https://openalex.org/W2587718103",
+  "https://openalex.org/W2807029794"
+ ],
+ "title": "Splines minimizing rotation-invariant semi-norms in Sobolev spaces"
+}

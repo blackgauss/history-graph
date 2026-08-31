@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 59,
+ "doi": "https://doi.org/10.1007/bf01891407",
+ "id": "https://openalex.org/W2037196971",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1490039160",
+  "https://openalex.org/W1524100745",
+  "https://openalex.org/W1559907478",
+  "https://openalex.org/W1972622789",
+  "https://openalex.org/W1989018521",
+  "https://openalex.org/W2039402388",
+  "https://openalex.org/W2058282925",
+  "https://openalex.org/W2092005534",
+  "https://openalex.org/W2120062331",
+  "https://openalex.org/W2130360924",
+  "https://openalex.org/W2785984608",
+  "https://openalex.org/W3016843226",
+  "https://openalex.org/W4244829582"
+ ],
+ "title": "Multivariate interpolation in odd-dimensional euclidean spaces using multiquadrics"
+}

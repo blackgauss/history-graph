@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 688,
+ "doi": "https://doi.org/10.1007/978-3-642-27645-3",
+ "id": "https://openalex.org/W2101786389",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W103885025",
+  "https://openalex.org/W158722652",
+  "https://openalex.org/W1231217497",
+  "https://openalex.org/W1549543673",
+  "https://openalex.org/W1990593743",
+  "https://openalex.org/W2134197408",
+  "https://openalex.org/W2174817438",
+  "https://openalex.org/W2270477652",
+  "https://openalex.org/W2511088267",
+  "https://openalex.org/W2586680856"
+ ],
+ "title": "Reinforcement Learning"
+}

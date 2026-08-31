@@ -1,0 +1,70 @@
+{
+ "cited_by_count": 911,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 21,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 36,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 92,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 63,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 56,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.7551/mitpress/9780262033428.001.0001",
+ "id": "https://openalex.org/W4205960197",
+ "publication_year": 2005,
+ "referenced_works": [],
+ "title": "Combinatorial Auctions"
+}

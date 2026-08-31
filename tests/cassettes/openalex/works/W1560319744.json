@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 19,
+ "doi": null,
+ "id": "https://openalex.org/W1560319744",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W147900504",
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1552837293",
+  "https://openalex.org/W1590937195",
+  "https://openalex.org/W1604663342",
+  "https://openalex.org/W1766332311",
+  "https://openalex.org/W2012286840",
+  "https://openalex.org/W2013579120",
+  "https://openalex.org/W2036684138",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2053595138",
+  "https://openalex.org/W2091467328",
+  "https://openalex.org/W2155631901",
+  "https://openalex.org/W2167679350",
+  "https://openalex.org/W2169012378"
+ ],
+ "title": "A Superjoin Algorithm for Deductive Databases"
+}

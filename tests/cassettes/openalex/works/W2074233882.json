@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 80,
+ "doi": "https://doi.org/10.1007/s00199-003-0423-y",
+ "id": "https://openalex.org/W2074233882",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1977405592",
+  "https://openalex.org/W1993185095",
+  "https://openalex.org/W1998842788",
+  "https://openalex.org/W2010725228",
+  "https://openalex.org/W2019005365",
+  "https://openalex.org/W2028200493",
+  "https://openalex.org/W2029050771",
+  "https://openalex.org/W3121600067",
+  "https://openalex.org/W3122343803",
+  "https://openalex.org/W3122666903"
+ ],
+ "title": "Auctions with shill bidding"
+}

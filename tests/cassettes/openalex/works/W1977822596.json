@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 2676,
+ "doi": "https://doi.org/10.1090/s0025-5718-1965-0198670-6",
+ "id": "https://openalex.org/W1977822596",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W1976464801",
+  "https://openalex.org/W2007216508",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2042803051",
+  "https://openalex.org/W2062193241",
+  "https://openalex.org/W2114013702",
+  "https://openalex.org/W2145045474",
+  "https://openalex.org/W2316453713",
+  "https://openalex.org/W2323576400",
+  "https://openalex.org/W2468896889",
+  "https://openalex.org/W2569133694",
+  "https://openalex.org/W3035235874",
+  "https://openalex.org/W6720179464"
+ ],
+ "title": "A class of methods for solving nonlinear simultaneous equations"
+}

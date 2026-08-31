@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 344,
+ "doi": "https://doi.org/10.1145/602259.602294",
+ "id": "https://openalex.org/W2026896584",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W27656382",
+  "https://openalex.org/W117986637",
+  "https://openalex.org/W1552573610",
+  "https://openalex.org/W1975414379",
+  "https://openalex.org/W1990970351",
+  "https://openalex.org/W2001703546",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2054318131",
+  "https://openalex.org/W2079656678",
+  "https://openalex.org/W2090336890",
+  "https://openalex.org/W2111607006",
+  "https://openalex.org/W2138180048",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2155166680"
+ ],
+ "title": "Accurate estimation of the number of tuples satisfying a condition"
+}

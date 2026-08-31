@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 5,
+ "doi": "https://doi.org/10.5555/800077.802494",
+ "id": "https://openalex.org/W1523264362",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W27111487",
+  "https://openalex.org/W154511218",
+  "https://openalex.org/W1530553344",
+  "https://openalex.org/W1586761040",
+  "https://openalex.org/W1992079392",
+  "https://openalex.org/W2020601345",
+  "https://openalex.org/W2044521103",
+  "https://openalex.org/W2055255408",
+  "https://openalex.org/W2111607006",
+  "https://openalex.org/W2123874175",
+  "https://openalex.org/W2132692154",
+  "https://openalex.org/W2149522432"
+ ],
+ "title": "A simulation model of the MICRONET computer system during join processing"
+}

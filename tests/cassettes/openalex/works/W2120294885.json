@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 291,
+ "doi": null,
+ "id": "https://openalex.org/W2120294885",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1534925464",
+  "https://openalex.org/W1572884776",
+  "https://openalex.org/W1593793857",
+  "https://openalex.org/W1980452149",
+  "https://openalex.org/W1995875735",
+  "https://openalex.org/W2102251435",
+  "https://openalex.org/W2128765501",
+  "https://openalex.org/W2147496287",
+  "https://openalex.org/W2150218618",
+  "https://openalex.org/W2156938362",
+  "https://openalex.org/W2159080219"
+ ],
+ "title": "A Revolution: Belief Propagation in Graphs with Cycles"
+}

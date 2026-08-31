@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 221,
+ "doi": null,
+ "id": "https://openalex.org/W2167898728",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W27187656",
+  "https://openalex.org/W183625566",
+  "https://openalex.org/W1507680813",
+  "https://openalex.org/W1525783482",
+  "https://openalex.org/W2035085138",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2079735306",
+  "https://openalex.org/W2080220147",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2123807288",
+  "https://openalex.org/W2127141656",
+  "https://openalex.org/W2131774270",
+  "https://openalex.org/W2134557905",
+  "https://openalex.org/W2142069714",
+  "https://openalex.org/W2152550252",
+  "https://openalex.org/W2156163116",
+  "https://openalex.org/W2587486463",
+  "https://openalex.org/W3023071679",
+  "https://openalex.org/W3141271136"
+ ],
+ "title": "Unconstrained On-line Handwriting Recognition with Recurrent Neural Networks"
+}

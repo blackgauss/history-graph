@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 226,
+ "doi": "https://doi.org/10.1109/ijcnn.1990.137727",
+ "id": "https://openalex.org/W2000101855",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W65738273",
+  "https://openalex.org/W2024668293",
+  "https://openalex.org/W2040336387",
+  "https://openalex.org/W2045176749",
+  "https://openalex.org/W2130305844",
+  "https://openalex.org/W2138054245",
+  "https://openalex.org/W2150593711"
+ ],
+ "title": "Self-organizing hierarchical feature maps"
+}

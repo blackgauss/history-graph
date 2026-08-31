@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 54,
+ "doi": "https://doi.org/10.1007/3-540-45988-x_11",
+ "id": "https://openalex.org/W1541711253",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W70873142",
+  "https://openalex.org/W1534557881",
+  "https://openalex.org/W1534850143",
+  "https://openalex.org/W1546619436",
+  "https://openalex.org/W1553543780",
+  "https://openalex.org/W1559664284",
+  "https://openalex.org/W1575118279",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2072380992",
+  "https://openalex.org/W2101928410",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2293606340",
+  "https://openalex.org/W2621468397",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6632043613"
+ ],
+ "title": "A Generalization of Shostak#x2019;s Method for Combining Decision Procedures"
+}

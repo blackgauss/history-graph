@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 7896,
+ "doi": "https://doi.org/10.1103/physrevlett.69.2863",
+ "id": "https://openalex.org/W2037768897",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1971289276",
+  "https://openalex.org/W1985717847",
+  "https://openalex.org/W1996898983",
+  "https://openalex.org/W2000162842",
+  "https://openalex.org/W2020123624",
+  "https://openalex.org/W2052810501",
+  "https://openalex.org/W2071180144",
+  "https://openalex.org/W2088527461",
+  "https://openalex.org/W2230547431",
+  "https://openalex.org/W2529750113",
+  "https://openalex.org/W3004320394"
+ ],
+ "title": "Density matrix formulation for quantum renormalization groups"
+}

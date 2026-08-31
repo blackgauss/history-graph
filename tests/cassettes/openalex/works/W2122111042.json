@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 16643,
+ "doi": "https://doi.org/10.1109/tit.1967.1053964",
+ "id": "https://openalex.org/W2122111042",
+ "publication_year": 1967,
+ "referenced_works": [
+  "https://openalex.org/W1984314602",
+  "https://openalex.org/W2024581991",
+  "https://openalex.org/W2050913223",
+  "https://openalex.org/W2056615497",
+  "https://openalex.org/W2083417201",
+  "https://openalex.org/W3208887124",
+  "https://openalex.org/W4206766949",
+  "https://openalex.org/W6803211752"
+ ],
+ "title": "Nearest neighbor pattern classification"
+}

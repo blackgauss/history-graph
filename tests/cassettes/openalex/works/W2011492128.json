@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 242,
+ "doi": "https://doi.org/10.1002/j.1538-7305.1964.tb04100.x",
+ "id": "https://openalex.org/W2011492128",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W1999461383",
+  "https://openalex.org/W2046874050",
+  "https://openalex.org/W2079720047",
+  "https://openalex.org/W2255439832",
+  "https://openalex.org/W6650031341",
+  "https://openalex.org/W6670550002"
+ ],
+ "title": "A Frequency-Domain Condition for the Stability of Feedback Systems Containing a Single Time-Varying Nonlinear Element"
+}

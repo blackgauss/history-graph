@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 129,
+ "doi": "https://doi.org/10.1145/1060745.1060829",
+ "id": "https://openalex.org/W2139146018",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1521333607",
+  "https://openalex.org/W1587314265",
+  "https://openalex.org/W2025871195",
+  "https://openalex.org/W2048509145",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2069153192",
+  "https://openalex.org/W2108272874",
+  "https://openalex.org/W2161118554",
+  "https://openalex.org/W2168110243",
+  "https://openalex.org/W2169263924",
+  "https://openalex.org/W2170344111",
+  "https://openalex.org/W2499382624"
+ ],
+ "title": "A uniform approach to accelerated PageRank computation"
+}

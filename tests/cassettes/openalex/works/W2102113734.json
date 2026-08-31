@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 1855,
+ "doi": null,
+ "id": "https://openalex.org/W2102113734",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W58893626",
+  "https://openalex.org/W77114827",
+  "https://openalex.org/W1524333225",
+  "https://openalex.org/W1553004968",
+  "https://openalex.org/W1877570817",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2079735306",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2125612430",
+  "https://openalex.org/W2127141656",
+  "https://openalex.org/W2131774270",
+  "https://openalex.org/W2132037657",
+  "https://openalex.org/W2143612262",
+  "https://openalex.org/W2144499799",
+  "https://openalex.org/W2147568880",
+  "https://openalex.org/W2148154194",
+  "https://openalex.org/W2152417180",
+  "https://openalex.org/W2158373110",
+  "https://openalex.org/W2164931619",
+  "https://openalex.org/W2184045248",
+  "https://openalex.org/W2296748324",
+  "https://openalex.org/W2618530766",
+  "https://openalex.org/W3023071679"
+ ],
+ "title": "Towards End-To-End Speech Recognition with Recurrent Neural Networks"
+}

@@ -1,0 +1,108 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Guide Prof",
+    "id": "https://openalex.org/A5083102174",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Guide Prof"
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.17762/ijritcc2321-8169.1503143",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.17762/ijritcc2321-8169.1503143",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "International Journal on Recent and Innovation Trends in Computing and Communication",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal on Recent and Innovation Trends in Computing and Communication",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S2764488870",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "2321-8169"
+   ],
+   "issn_l": "2321-8169",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": "https://doi.org/10.17762/ijritcc2321-8169.1503143",
+ "funders": [],
+ "id": "https://openalex.org/W4252354100",
+ "ids": {
+  "doi": "https://doi.org/10.17762/ijritcc2321-8169.1503143",
+  "openalex": "https://openalex.org/W4252354100"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": true,
+  "oa_status": "diamond",
+  "oa_url": "https://doi.org/10.17762/ijritcc2321-8169.1503143"
+ },
+ "primary_location": {
+  "id": "doi:10.17762/ijritcc2321-8169.1503143",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.17762/ijritcc2321-8169.1503143",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "International Journal on Recent and Innovation Trends in Computing and Communication",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal on Recent and Innovation Trends in Computing and Communication",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S2764488870",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "2321-8169"
+   ],
+   "issn_l": "2321-8169",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2015,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2899084033",
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W2390279801",
+  "https://openalex.org/W2358668433",
+  "https://openalex.org/W2376932109",
+  "https://openalex.org/W2001405890",
+  "https://openalex.org/W2382290278",
+  "https://openalex.org/W2482660334",
+  "https://openalex.org/W2046103308",
+  "https://openalex.org/W2119189758"
+ ],
+ "title": "Public Sharing File System Using Google Drive",
+ "type": "article"
+}

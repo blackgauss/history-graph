@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 3810,
+ "doi": "https://doi.org/10.1016/b978-1-55860-377-6.50023-2",
+ "id": "https://openalex.org/W1670263352",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W32120410",
+  "https://openalex.org/W146100937",
+  "https://openalex.org/W165133269",
+  "https://openalex.org/W1510523207",
+  "https://openalex.org/W1510806966",
+  "https://openalex.org/W1516432974",
+  "https://openalex.org/W1531743498",
+  "https://openalex.org/W1580451812",
+  "https://openalex.org/W1604329830",
+  "https://openalex.org/W1638172072",
+  "https://openalex.org/W1999138184",
+  "https://openalex.org/W2037689320",
+  "https://openalex.org/W2039683780",
+  "https://openalex.org/W2089967664",
+  "https://openalex.org/W2111746072",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2128420091",
+  "https://openalex.org/W2187164964",
+  "https://openalex.org/W4242861367"
+ ],
+ "title": "Fast Effective Rule Induction"
+}

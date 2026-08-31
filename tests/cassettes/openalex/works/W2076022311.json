@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 116,
+ "doi": "https://doi.org/10.1145/800222.806737",
+ "id": "https://openalex.org/W2076022311",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1619109010",
+  "https://openalex.org/W1994441984",
+  "https://openalex.org/W2014772227",
+  "https://openalex.org/W2016944512",
+  "https://openalex.org/W2027570003",
+  "https://openalex.org/W2034702409",
+  "https://openalex.org/W2047482026",
+  "https://openalex.org/W2061819031",
+  "https://openalex.org/W2067060908",
+  "https://openalex.org/W2078209861",
+  "https://openalex.org/W2118891797",
+  "https://openalex.org/W2120510885",
+  "https://openalex.org/W2126924915",
+  "https://openalex.org/W3137092842",
+  "https://openalex.org/W6659183558",
+  "https://openalex.org/W6678109883",
+  "https://openalex.org/W6679438199"
+ ],
+ "title": "Byzantine clock synchronization"
+}

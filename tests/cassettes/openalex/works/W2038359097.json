@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 951,
+ "doi": "https://doi.org/10.1103/physrevlett.84.4729",
+ "id": "https://openalex.org/W2038359097",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1515147269",
+  "https://openalex.org/W1969232365",
+  "https://openalex.org/W1975496472",
+  "https://openalex.org/W1990344325",
+  "https://openalex.org/W1994712115",
+  "https://openalex.org/W1997124098",
+  "https://openalex.org/W2002868747",
+  "https://openalex.org/W2012213015",
+  "https://openalex.org/W2028815089",
+  "https://openalex.org/W2043180594",
+  "https://openalex.org/W2045140905",
+  "https://openalex.org/W2051051926",
+  "https://openalex.org/W2053824283",
+  "https://openalex.org/W2059034879",
+  "https://openalex.org/W2060333719",
+  "https://openalex.org/W2076311580",
+  "https://openalex.org/W2080379130",
+  "https://openalex.org/W2091213856",
+  "https://openalex.org/W2108551367",
+  "https://openalex.org/W2154300278",
+  "https://openalex.org/W4214950786",
+  "https://openalex.org/W4244685374"
+ ],
+ "title": "Quantum Cryptography with Entangled Photons"
+}

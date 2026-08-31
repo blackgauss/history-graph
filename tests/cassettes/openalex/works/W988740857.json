@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 37,
+ "doi": "https://doi.org/10.1016/s0049-237x(08)70846-2",
+ "id": "https://openalex.org/W988740857",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W1964691638",
+  "https://openalex.org/W1983561917",
+  "https://openalex.org/W2102743423",
+  "https://openalex.org/W3130727218",
+  "https://openalex.org/W4237970627"
+ ],
+ "title": "Diophantine Representation of Recursively Enumerable Predicates"
+}

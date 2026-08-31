@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 65,
+ "doi": "https://doi.org/10.1109/jssc.2004.827802",
+ "id": "https://openalex.org/W2098306142",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1505470680",
+  "https://openalex.org/W1516951206",
+  "https://openalex.org/W1969911580",
+  "https://openalex.org/W2010788281",
+  "https://openalex.org/W2050253948",
+  "https://openalex.org/W2112553085",
+  "https://openalex.org/W2130622795",
+  "https://openalex.org/W2136268150",
+  "https://openalex.org/W2164406795",
+  "https://openalex.org/W2167326092",
+  "https://openalex.org/W2478413690",
+  "https://openalex.org/W2550443172",
+  "https://openalex.org/W3151953376",
+  "https://openalex.org/W4248420479",
+  "https://openalex.org/W6729337864"
+ ],
+ "title": "Complementary ferroelectric-capacitor logic for low-power logic-in-memory VLSI"
+}

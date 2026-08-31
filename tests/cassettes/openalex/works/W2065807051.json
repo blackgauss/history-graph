@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 25,
+ "doi": "https://doi.org/10.1006/jeth.1997.2366",
+ "id": "https://openalex.org/W2065807051",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1524240474",
+  "https://openalex.org/W1706773686",
+  "https://openalex.org/W1967816063",
+  "https://openalex.org/W1978810433",
+  "https://openalex.org/W2017669196",
+  "https://openalex.org/W2068094070",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2143895421",
+  "https://openalex.org/W2562069830",
+  "https://openalex.org/W2795674018",
+  "https://openalex.org/W3125510393",
+  "https://openalex.org/W4237311322",
+  "https://openalex.org/W6677631006"
+ ],
+ "title": "Correlated Types and Bayesian Incentive Compatible Mechanisms with Budget Balance"
+}

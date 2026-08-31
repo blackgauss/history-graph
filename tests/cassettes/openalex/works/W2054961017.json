@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 498,
+ "doi": "https://doi.org/10.1145/1095408.1095421",
+ "id": "https://openalex.org/W2054961017",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W55478891",
+  "https://openalex.org/W1500546894",
+  "https://openalex.org/W2060345611",
+  "https://openalex.org/W2060658093",
+  "https://openalex.org/W2122465391",
+  "https://openalex.org/W2128453996"
+ ],
+ "title": "Software and the Concurrency Revolution"
+}

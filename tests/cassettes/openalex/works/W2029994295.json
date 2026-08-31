@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 27,
+ "doi": "https://doi.org/10.1002/(sici)1097-0207(19970115)40:1<61::aid-nme50>3.0.co;2-q",
+ "id": "https://openalex.org/W2029994295",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1794799207",
+  "https://openalex.org/W1978609502",
+  "https://openalex.org/W1991158791",
+  "https://openalex.org/W1993331597",
+  "https://openalex.org/W2012530041",
+  "https://openalex.org/W2014247425",
+  "https://openalex.org/W2039402388",
+  "https://openalex.org/W2039980464",
+  "https://openalex.org/W2100395332",
+  "https://openalex.org/W2108108973",
+  "https://openalex.org/W2135474800",
+  "https://openalex.org/W2138365969",
+  "https://openalex.org/W4238143987",
+  "https://openalex.org/W4244829582",
+  "https://openalex.org/W6747843870",
+  "https://openalex.org/W7055337678"
+ ],
+ "title": "SOLVING NONLINEAR DIFFERENTIAL EQUATIONS OF MECHANICS WITH THE BOUNDARY ELEMENT METHOD AND RADIAL BASIS FUNCTIONS"
+}

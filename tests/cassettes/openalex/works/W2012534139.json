@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 87,
+ "doi": "https://doi.org/10.1145/6314.6461",
+ "id": "https://openalex.org/W2012534139",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1570983218",
+  "https://openalex.org/W1969316187",
+  "https://openalex.org/W1983052873",
+  "https://openalex.org/W2013012235",
+  "https://openalex.org/W2057086303",
+  "https://openalex.org/W2061587502",
+  "https://openalex.org/W2105775150",
+  "https://openalex.org/W2110338707",
+  "https://openalex.org/W2118809285",
+  "https://openalex.org/W2135352101",
+  "https://openalex.org/W2161609549",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2168787502",
+  "https://openalex.org/W2169893912",
+  "https://openalex.org/W2172390267",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W2489748212",
+  "https://openalex.org/W2788164529",
+  "https://openalex.org/W4233317504",
+  "https://openalex.org/W4247208831"
+ ],
+ "title": "The design of a relational database system with abstract data types for domains"
+}

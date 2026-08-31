@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 48,
+ "doi": "https://doi.org/10.1007/s11856-007-0068-9",
+ "id": "https://openalex.org/W2098809394",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W4985749",
+  "https://openalex.org/W188867022",
+  "https://openalex.org/W1483560004",
+  "https://openalex.org/W1578417629",
+  "https://openalex.org/W1846376331",
+  "https://openalex.org/W1986296546",
+  "https://openalex.org/W2005090831",
+  "https://openalex.org/W2059998776",
+  "https://openalex.org/W2073310493",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2099677042",
+  "https://openalex.org/W2103749128",
+  "https://openalex.org/W2125710943",
+  "https://openalex.org/W2327680971",
+  "https://openalex.org/W2334237942",
+  "https://openalex.org/W2576042238",
+  "https://openalex.org/W4235059123",
+  "https://openalex.org/W4245266864",
+  "https://openalex.org/W6600876140"
+ ],
+ "title": "On the Fourier tails of bounded functions over the discrete cube"
+}

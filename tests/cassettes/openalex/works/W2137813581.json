@@ -1,0 +1,108 @@
+{
+ "cited_by_count": 6527,
+ "counts_by_year": [
+  {
+   "cited_by_count": 79,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 199,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 176,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 206,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 213,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 295,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 308,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 227,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 288,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 281,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 309,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 320,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 361,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 343,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 386,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1109/18.910572",
+ "id": "https://openalex.org/W2137813581",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W7241855",
+  "https://openalex.org/W63990713",
+  "https://openalex.org/W147465018",
+  "https://openalex.org/W1489604929",
+  "https://openalex.org/W1494720687",
+  "https://openalex.org/W1547224907",
+  "https://openalex.org/W1559536185",
+  "https://openalex.org/W1562979145",
+  "https://openalex.org/W1567885833",
+  "https://openalex.org/W1572884776",
+  "https://openalex.org/W1593793857",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2026129786",
+  "https://openalex.org/W2045407304",
+  "https://openalex.org/W2053041513",
+  "https://openalex.org/W2121606987",
+  "https://openalex.org/W2125838338",
+  "https://openalex.org/W2128765501",
+  "https://openalex.org/W2129031807",
+  "https://openalex.org/W2133068391",
+  "https://openalex.org/W2134700719",
+  "https://openalex.org/W2135764410",
+  "https://openalex.org/W2139584447",
+  "https://openalex.org/W2142511915",
+  "https://openalex.org/W2150218618",
+  "https://openalex.org/W2154812632",
+  "https://openalex.org/W2156258440",
+  "https://openalex.org/W2171265988",
+  "https://openalex.org/W2293807537",
+  "https://openalex.org/W2400908863",
+  "https://openalex.org/W4236076921",
+  "https://openalex.org/W4250143236",
+  "https://openalex.org/W4298563212",
+  "https://openalex.org/W4300188436",
+  "https://openalex.org/W4301208911",
+  "https://openalex.org/W4301259139",
+  "https://openalex.org/W6605892194"
+ ],
+ "title": "Factor graphs and the sum-product algorithm"
+}

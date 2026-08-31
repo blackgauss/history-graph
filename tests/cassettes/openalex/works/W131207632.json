@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 6,
+ "doi": null,
+ "id": "https://openalex.org/W131207632",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W103212339",
+  "https://openalex.org/W154556863",
+  "https://openalex.org/W315480743",
+  "https://openalex.org/W1968182870",
+  "https://openalex.org/W1972065050",
+  "https://openalex.org/W1983512616",
+  "https://openalex.org/W2008642954",
+  "https://openalex.org/W2015164883",
+  "https://openalex.org/W2074858346",
+  "https://openalex.org/W2128750409"
+ ],
+ "title": "Data Mining Using Surface and Deep Agents Based on Neural Networks"
+}

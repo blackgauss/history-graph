@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 102,
+ "doi": "https://doi.org/10.1016/0012-365x(78)90168-1",
+ "id": "https://openalex.org/W2019184769",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1546585099",
+  "https://openalex.org/W1966053044",
+  "https://openalex.org/W2018094844",
+  "https://openalex.org/W2054387606",
+  "https://openalex.org/W2097292627",
+  "https://openalex.org/W2329329248",
+  "https://openalex.org/W2335478831",
+  "https://openalex.org/W4253456425"
+ ],
+ "title": "On the number of prime implicants"
+}

@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 16,
+ "doi": "https://doi.org/10.1016/j.elerap.2004.06.003",
+ "id": "https://openalex.org/W2072238833",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W27688605",
+  "https://openalex.org/W1518755039",
+  "https://openalex.org/W2020872770",
+  "https://openalex.org/W2021853847",
+  "https://openalex.org/W2028556886",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2082691840",
+  "https://openalex.org/W2102636809",
+  "https://openalex.org/W2127675852",
+  "https://openalex.org/W2136326241",
+  "https://openalex.org/W2138536735",
+  "https://openalex.org/W2140353857",
+  "https://openalex.org/W2141679133",
+  "https://openalex.org/W2157345142",
+  "https://openalex.org/W2165216638",
+  "https://openalex.org/W2500218407",
+  "https://openalex.org/W3125810850",
+  "https://openalex.org/W6630008037"
+ ],
+ "title": "Computing price trajectories in combinatorial auctions with proxy bidding"
+}

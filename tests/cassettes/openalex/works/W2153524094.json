@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 216,
+ "doi": null,
+ "id": "https://openalex.org/W2153524094",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W20020355",
+  "https://openalex.org/W206938344",
+  "https://openalex.org/W1493271454",
+  "https://openalex.org/W1573833643",
+  "https://openalex.org/W1964016480",
+  "https://openalex.org/W1977101058",
+  "https://openalex.org/W1992847198",
+  "https://openalex.org/W2005471433",
+  "https://openalex.org/W2020635076",
+  "https://openalex.org/W2021570844",
+  "https://openalex.org/W2026735162",
+  "https://openalex.org/W2036862988",
+  "https://openalex.org/W2072627547",
+  "https://openalex.org/W2081053428",
+  "https://openalex.org/W2112893058",
+  "https://openalex.org/W2133384222",
+  "https://openalex.org/W2134350535",
+  "https://openalex.org/W2163832616",
+  "https://openalex.org/W2215315499",
+  "https://openalex.org/W2295562782",
+  "https://openalex.org/W3094133439"
+ ],
+ "title": "A model of queries for object-oriented databases"
+}

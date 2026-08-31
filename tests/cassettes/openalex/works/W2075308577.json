@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1145/299649.299747",
+ "id": "https://openalex.org/W2075308577",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W11259403",
+  "https://openalex.org/W100509257",
+  "https://openalex.org/W1517365704",
+  "https://openalex.org/W1554451661",
+  "https://openalex.org/W1562115776",
+  "https://openalex.org/W1587650745",
+  "https://openalex.org/W1598281669",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1803471726",
+  "https://openalex.org/W2062533874",
+  "https://openalex.org/W2128703518",
+  "https://openalex.org/W2165928982",
+  "https://openalex.org/W2324108981",
+  "https://openalex.org/W2326587081",
+  "https://openalex.org/W3198160809",
+  "https://openalex.org/W4294358747",
+  "https://openalex.org/W4298300677",
+  "https://openalex.org/W6633204241",
+  "https://openalex.org/W6634935877",
+  "https://openalex.org/W6637190722"
+ ],
+ "title": "Do we teach the right algorithm design techniques?"
+}

@@ -1,0 +1,91 @@
+{
+ "cited_by_count": 225,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 21,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1526709.1526725",
+ "id": "https://openalex.org/W2132708887",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W81459644",
+  "https://openalex.org/W1515272691",
+  "https://openalex.org/W1530235965",
+  "https://openalex.org/W1966553486",
+  "https://openalex.org/W1997136459",
+  "https://openalex.org/W2026844232",
+  "https://openalex.org/W2061212083",
+  "https://openalex.org/W2099866409",
+  "https://openalex.org/W2110325612",
+  "https://openalex.org/W2118079529",
+  "https://openalex.org/W2123427850",
+  "https://openalex.org/W2132726007",
+  "https://openalex.org/W2137813581",
+  "https://openalex.org/W2142575165",
+  "https://openalex.org/W2149734009",
+  "https://openalex.org/W2153975459",
+  "https://openalex.org/W2341865734",
+  "https://openalex.org/W2535123820",
+  "https://openalex.org/W2990138404",
+  "https://openalex.org/W3011144947"
+ ],
+ "title": "Matchbox"
+}

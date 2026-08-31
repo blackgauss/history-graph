@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 128,
+ "doi": "https://doi.org/10.1088/0954-898x/5/4/008",
+ "id": "https://openalex.org/W4231370560",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1528822345",
+  "https://openalex.org/W1970781650",
+  "https://openalex.org/W1971074050",
+  "https://openalex.org/W1979191599",
+  "https://openalex.org/W1984931175",
+  "https://openalex.org/W1996355918",
+  "https://openalex.org/W2019495693",
+  "https://openalex.org/W2036062054",
+  "https://openalex.org/W2037395945",
+  "https://openalex.org/W2039457409",
+  "https://openalex.org/W2042925217",
+  "https://openalex.org/W2081881941",
+  "https://openalex.org/W2085258673",
+  "https://openalex.org/W2090642337",
+  "https://openalex.org/W2099532057",
+  "https://openalex.org/W2122741244",
+  "https://openalex.org/W2122925692",
+  "https://openalex.org/W2123806929",
+  "https://openalex.org/W2151351982",
+  "https://openalex.org/W2156310375",
+  "https://openalex.org/W2167034998",
+  "https://openalex.org/W2189633091",
+  "https://openalex.org/W4232132600"
+ ],
+ "title": "Nonlinear neurons in the low-noise limit: a factorial code maximizes information transfer"
+}

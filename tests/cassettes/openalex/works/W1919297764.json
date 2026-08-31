@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 155,
+ "doi": "https://doi.org/10.1007/978-3-540-71209-1_28",
+ "id": "https://openalex.org/W1919297764",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W92576581",
+  "https://openalex.org/W148649348",
+  "https://openalex.org/W1498875780",
+  "https://openalex.org/W1556566737",
+  "https://openalex.org/W1747583082",
+  "https://openalex.org/W1787074469",
+  "https://openalex.org/W1836035163",
+  "https://openalex.org/W1836483134",
+  "https://openalex.org/W1865448657",
+  "https://openalex.org/W1966982815",
+  "https://openalex.org/W1997960810",
+  "https://openalex.org/W2036085256",
+  "https://openalex.org/W2107106621",
+  "https://openalex.org/W2115207428",
+  "https://openalex.org/W2123273373",
+  "https://openalex.org/W2130826366",
+  "https://openalex.org/W2132897303",
+  "https://openalex.org/W2144415589",
+  "https://openalex.org/W2146422945",
+  "https://openalex.org/W2148680350",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W4231252310",
+  "https://openalex.org/W4238843037"
+ ],
+ "title": "Deciding Bit-Vector Arithmetic with Abstraction"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 2224,
+ "doi": "https://doi.org/10.1007/3-540-59119-2_166",
+ "id": "https://openalex.org/W4248437541",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1483114294",
+  "https://openalex.org/W1507282704",
+  "https://openalex.org/W2008392312",
+  "https://openalex.org/W2050660892",
+  "https://openalex.org/W2093825590",
+  "https://openalex.org/W2166501286",
+  "https://openalex.org/W2484354424",
+  "https://openalex.org/W4237883889",
+  "https://openalex.org/W4248175720",
+  "https://openalex.org/W6661953458"
+ ],
+ "title": "A desicion-theoretic generalization of on-line learning and an application to boosting"
+}

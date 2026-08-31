@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 228,
+ "doi": "https://doi.org/10.1007/3-540-09526-8_5",
+ "id": "https://openalex.org/W1594335079",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W47137029",
+  "https://openalex.org/W1489972621",
+  "https://openalex.org/W1964053266",
+  "https://openalex.org/W2035476608",
+  "https://openalex.org/W2040136857",
+  "https://openalex.org/W2056647002",
+  "https://openalex.org/W2061970672",
+  "https://openalex.org/W2075488055",
+  "https://openalex.org/W2075742699",
+  "https://openalex.org/W2165928982",
+  "https://openalex.org/W2502507885",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W4234891673",
+  "https://openalex.org/W4238586245",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Fast probabilistic algorithms"
+}

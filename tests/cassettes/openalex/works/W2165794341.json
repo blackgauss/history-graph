@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 42,
+ "doi": null,
+ "id": "https://openalex.org/W2165794341",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W109189503",
+  "https://openalex.org/W1500284251",
+  "https://openalex.org/W1530699444",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2065973527",
+  "https://openalex.org/W2084812512",
+  "https://openalex.org/W2119821739",
+  "https://openalex.org/W2129905273",
+  "https://openalex.org/W2135346934",
+  "https://openalex.org/W2142334564",
+  "https://openalex.org/W2161813919",
+  "https://openalex.org/W2166473218",
+  "https://openalex.org/W2170654002",
+  "https://openalex.org/W2171343216",
+  "https://openalex.org/W3017143921"
+ ],
+ "title": "Restricted Bayes Optimal Classifiers"
+}

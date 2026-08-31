@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 238,
+ "doi": null,
+ "id": "https://openalex.org/W2051244613",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W139579186",
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1499706288",
+  "https://openalex.org/W1531789027",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1969531509",
+  "https://openalex.org/W1970196737",
+  "https://openalex.org/W2005132320",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2133384222",
+  "https://openalex.org/W2752853835",
+  "https://openalex.org/W3198160809"
+ ],
+ "title": "Multiprocessor hash-based join algorithms"
+}

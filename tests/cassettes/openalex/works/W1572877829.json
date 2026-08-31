@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 72,
+ "doi": "https://doi.org/10.48550/arxiv.quant-ph/9604006",
+ "id": "https://openalex.org/W1572877829",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1615489731",
+  "https://openalex.org/W1631860252",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2092938635",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W3100206575"
+ ],
+ "title": "Quantum Error-Correcting Codes Need Not Completely Reveal the Error Syndrome"
+}

@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 6979,
+ "doi": "https://doi.org/10.1073/pnas.81.10.3088",
+ "id": "https://openalex.org/W2112246162",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W582196039",
+  "https://openalex.org/W1504026171",
+  "https://openalex.org/W1973108021",
+  "https://openalex.org/W1986759597",
+  "https://openalex.org/W2024060531",
+  "https://openalex.org/W2031369606",
+  "https://openalex.org/W2128084896"
+ ],
+ "title": "Neurons with graded response have collective computational properties like those of two-state neurons."
+}

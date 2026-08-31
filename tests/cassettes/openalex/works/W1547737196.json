@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 148,
+ "doi": "https://doi.org/10.1109/cec.2003.1299414",
+ "id": "https://openalex.org/W1547737196",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W46130386",
+  "https://openalex.org/W1547136369",
+  "https://openalex.org/W1548589545",
+  "https://openalex.org/W1576660662",
+  "https://openalex.org/W1914583973",
+  "https://openalex.org/W1964166287",
+  "https://openalex.org/W2011171037",
+  "https://openalex.org/W2049287437",
+  "https://openalex.org/W2063887995",
+  "https://openalex.org/W2091565802",
+  "https://openalex.org/W2111935653",
+  "https://openalex.org/W2112036188",
+  "https://openalex.org/W2121863487",
+  "https://openalex.org/W2124290836",
+  "https://openalex.org/W2134882417",
+  "https://openalex.org/W2162813238",
+  "https://openalex.org/W2170588376",
+  "https://openalex.org/W3105588714",
+  "https://openalex.org/W4214717370",
+  "https://openalex.org/W4232335189",
+  "https://openalex.org/W6601865881",
+  "https://openalex.org/W6632697019",
+  "https://openalex.org/W6632957068"
+ ],
+ "title": "Neuroevolution for reinforcement learning using evolution strategies"
+}

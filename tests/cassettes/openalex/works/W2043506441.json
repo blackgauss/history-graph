@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 105,
+ "doi": "https://doi.org/10.1137/s0097539796309326",
+ "id": "https://openalex.org/W2043506441",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W9575391",
+  "https://openalex.org/W1483204526",
+  "https://openalex.org/W1519375772",
+  "https://openalex.org/W1982506822",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W2001564241",
+  "https://openalex.org/W2011869755",
+  "https://openalex.org/W2036660814",
+  "https://openalex.org/W2069816168",
+  "https://openalex.org/W2089247135",
+  "https://openalex.org/W2100440346",
+  "https://openalex.org/W2104254886",
+  "https://openalex.org/W2109039359",
+  "https://openalex.org/W2153663865",
+  "https://openalex.org/W2179016037",
+  "https://openalex.org/W2493844837",
+  "https://openalex.org/W2751862591",
+  "https://openalex.org/W3011766368",
+  "https://openalex.org/W4236977434",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4293860921"
+ ],
+ "title": "Derandomizing Approximation Algorithms Based on Semidefinite Programming"
+}

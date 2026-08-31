@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 45,
+ "doi": "https://doi.org/10.1109/tse.1985.232528",
+ "id": "https://openalex.org/W2064582900",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W4271243",
+  "https://openalex.org/W118465271",
+  "https://openalex.org/W163398301",
+  "https://openalex.org/W197344103",
+  "https://openalex.org/W1549051457",
+  "https://openalex.org/W2006772093",
+  "https://openalex.org/W2018094844",
+  "https://openalex.org/W2020733609",
+  "https://openalex.org/W2023195086",
+  "https://openalex.org/W2037214271",
+  "https://openalex.org/W2044202775",
+  "https://openalex.org/W2059844260",
+  "https://openalex.org/W2090336890",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2155166680",
+  "https://openalex.org/W2171361281",
+  "https://openalex.org/W2676755577"
+ ],
+ "title": "Query Processing in a Fragmented Relational Distributed System: Mermaid"
+}

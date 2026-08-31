@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 178,
+ "doi": null,
+ "id": "https://openalex.org/W2152424459",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W196761320",
+  "https://openalex.org/W1533861849",
+  "https://openalex.org/W1811843574",
+  "https://openalex.org/W1970789124",
+  "https://openalex.org/W2006544565",
+  "https://openalex.org/W2025768430",
+  "https://openalex.org/W2100341991",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2132424367",
+  "https://openalex.org/W2139398462",
+  "https://openalex.org/W2144513243",
+  "https://openalex.org/W2164273299",
+  "https://openalex.org/W2344365854",
+  "https://openalex.org/W2914484425",
+  "https://openalex.org/W3118608800"
+ ],
+ "title": "Deep Learning Made Easier by Linear Transformations in Perceptrons"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 1012,
+ "doi": "https://doi.org/10.1109/tct.1964.1082221",
+ "id": "https://openalex.org/W2103116581",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W71817473",
+  "https://openalex.org/W302878094",
+  "https://openalex.org/W1527117384",
+  "https://openalex.org/W1594909753",
+  "https://openalex.org/W1996842967",
+  "https://openalex.org/W2008225015",
+  "https://openalex.org/W2036075699",
+  "https://openalex.org/W2051544392",
+  "https://openalex.org/W2111030512",
+  "https://openalex.org/W2115931363",
+  "https://openalex.org/W2140227082",
+  "https://openalex.org/W2154642947",
+  "https://openalex.org/W2331890423",
+  "https://openalex.org/W2334591577",
+  "https://openalex.org/W3152364991",
+  "https://openalex.org/W4237171445",
+  "https://openalex.org/W4298300677",
+  "https://openalex.org/W6631615302",
+  "https://openalex.org/W6635816049",
+  "https://openalex.org/W6663587330",
+  "https://openalex.org/W6677233477"
+ ],
+ "title": "V. Adaptive Control Processes"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 1045,
+ "doi": "https://doi.org/10.1214/aoms/1177728066",
+ "id": "https://openalex.org/W2091982107",
+ "publication_year": 1956,
+ "referenced_works": [
+  "https://openalex.org/W1976419399",
+  "https://openalex.org/W1985432274",
+  "https://openalex.org/W1999607897",
+  "https://openalex.org/W2025533349",
+  "https://openalex.org/W2032750492",
+  "https://openalex.org/W2034767804",
+  "https://openalex.org/W2047751037",
+  "https://openalex.org/W2080040321",
+  "https://openalex.org/W2312447683",
+  "https://openalex.org/W2322461341"
+ ],
+ "title": "Consistency of the Maximum Likelihood Estimator in the Presence of Infinitely Many Incidental Parameters"
+}

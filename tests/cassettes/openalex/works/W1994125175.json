@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 123,
+ "doi": "https://doi.org/10.1109/tc.1968.227407",
+ "id": "https://openalex.org/W1994125175",
+ "publication_year": 1968,
+ "referenced_works": [
+  "https://openalex.org/W1973956072",
+  "https://openalex.org/W2021320381",
+  "https://openalex.org/W2131498282",
+  "https://openalex.org/W2136445449",
+  "https://openalex.org/W3126588943",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A Minimization Technique for Multiple-Valued Logic Systems"
+}

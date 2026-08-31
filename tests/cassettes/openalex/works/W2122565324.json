@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 480,
+ "doi": "https://doi.org/10.1287/moor.3.3.244",
+ "id": "https://openalex.org/W2122565324",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W183574720",
+  "https://openalex.org/W1578471822",
+  "https://openalex.org/W1602183298",
+  "https://openalex.org/W1892919230",
+  "https://openalex.org/W1968098332",
+  "https://openalex.org/W1991848054",
+  "https://openalex.org/W1995103089",
+  "https://openalex.org/W2010647796",
+  "https://openalex.org/W2012231377",
+  "https://openalex.org/W2015330748",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2035079355",
+  "https://openalex.org/W2043382734",
+  "https://openalex.org/W2050762313",
+  "https://openalex.org/W2061054410",
+  "https://openalex.org/W2061127301",
+  "https://openalex.org/W2085690530",
+  "https://openalex.org/W2316564661"
+ ],
+ "title": "Conjugate Gradient Methods with Inexact Searches"
+}

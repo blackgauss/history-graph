@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 2938,
+ "doi": "https://doi.org/10.1145/245108.245124",
+ "id": "https://openalex.org/W2043403353",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1493526108",
+  "https://openalex.org/W2030144199",
+  "https://openalex.org/W2031459112",
+  "https://openalex.org/W2069564398",
+  "https://openalex.org/W2085419413",
+  "https://openalex.org/W2124591829",
+  "https://openalex.org/W2137719099",
+  "https://openalex.org/W2155106456",
+  "https://openalex.org/W3151947762"
+ ],
+ "title": "Fab"
+}

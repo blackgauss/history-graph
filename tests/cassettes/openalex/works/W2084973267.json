@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 41,
+ "doi": "https://doi.org/10.1016/0165-1765(82)90092-1",
+ "id": "https://openalex.org/W2084973267",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W183048438",
+  "https://openalex.org/W218274988",
+  "https://openalex.org/W1502123688",
+  "https://openalex.org/W1540146839",
+  "https://openalex.org/W1582025976",
+  "https://openalex.org/W1588591676",
+  "https://openalex.org/W1992829460",
+  "https://openalex.org/W2004394537",
+  "https://openalex.org/W2006632355",
+  "https://openalex.org/W2048711016",
+  "https://openalex.org/W2084247458",
+  "https://openalex.org/W2104734478",
+  "https://openalex.org/W2117948809",
+  "https://openalex.org/W2327100623",
+  "https://openalex.org/W2328848660",
+  "https://openalex.org/W2333548830",
+  "https://openalex.org/W2335054039",
+  "https://openalex.org/W2478433846",
+  "https://openalex.org/W4298869263",
+  "https://openalex.org/W6651310571",
+  "https://openalex.org/W6652105620",
+  "https://openalex.org/W6820636012"
+ ],
+ "title": "Non-parametric methods in demand analysis"
+}

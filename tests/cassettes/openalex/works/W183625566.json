@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 1263,
+ "doi": "https://doi.org/10.1007/978-3-642-76153-9_28",
+ "id": "https://openalex.org/W183625566",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1505652865",
+  "https://openalex.org/W1510014385",
+  "https://openalex.org/W1529808766",
+  "https://openalex.org/W1572157493",
+  "https://openalex.org/W1877570817",
+  "https://openalex.org/W2030377865",
+  "https://openalex.org/W2056133372",
+  "https://openalex.org/W2151058089",
+  "https://openalex.org/W2152088994",
+  "https://openalex.org/W2989448192",
+  "https://openalex.org/W3022436500",
+  "https://openalex.org/W3151409487",
+  "https://openalex.org/W4403868128",
+  "https://openalex.org/W6631656620",
+  "https://openalex.org/W6657915129",
+  "https://openalex.org/W6682835717",
+  "https://openalex.org/W6812650097"
+ ],
+ "title": "Probabilistic Interpretation of Feedforward Classification Network Outputs, with Relationships to Statistical Pattern Recognition"
+}

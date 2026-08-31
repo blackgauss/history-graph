@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 225,
+ "doi": "https://doi.org/10.1145/312129.312212",
+ "id": "https://openalex.org/W2012568697",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W20722260",
+  "https://openalex.org/W202059055",
+  "https://openalex.org/W1517113043",
+  "https://openalex.org/W1670263352",
+  "https://openalex.org/W1884606608",
+  "https://openalex.org/W2033626294",
+  "https://openalex.org/W2079318510",
+  "https://openalex.org/W2104597806",
+  "https://openalex.org/W2150147654",
+  "https://openalex.org/W2156026066",
+  "https://openalex.org/W2166559705",
+  "https://openalex.org/W3020348090",
+  "https://openalex.org/W4214931895",
+  "https://openalex.org/W6637074454",
+  "https://openalex.org/W6682138790"
+ ],
+ "title": "Mining in a data-flow environment"
+}

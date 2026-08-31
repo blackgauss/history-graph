@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 247,
+ "doi": "https://doi.org/10.1016/j.neunet.2009.12.004",
+ "id": "https://openalex.org/W2137104525",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1176136657",
+  "https://openalex.org/W1594871463",
+  "https://openalex.org/W1959983357",
+  "https://openalex.org/W1994923984",
+  "https://openalex.org/W2097568041",
+  "https://openalex.org/W2105934010",
+  "https://openalex.org/W2112036188",
+  "https://openalex.org/W2114537044",
+  "https://openalex.org/W2119717200",
+  "https://openalex.org/W2123327324",
+  "https://openalex.org/W2125612430",
+  "https://openalex.org/W2127107099",
+  "https://openalex.org/W2128452997",
+  "https://openalex.org/W2143803054",
+  "https://openalex.org/W2144636407",
+  "https://openalex.org/W2146737184",
+  "https://openalex.org/W2155027007",
+  "https://openalex.org/W2172968643",
+  "https://openalex.org/W2734870733",
+  "https://openalex.org/W3133056632",
+  "https://openalex.org/W6635431665",
+  "https://openalex.org/W6681183203",
+  "https://openalex.org/W6741320478",
+  "https://openalex.org/W7000433437"
+ ],
+ "title": "Parameter-exploring policy gradients"
+}

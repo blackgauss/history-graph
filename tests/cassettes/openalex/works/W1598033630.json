@@ -1,0 +1,95 @@
+{
+ "cited_by_count": 655,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 39,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 91,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 71,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 30,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W1598033630",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W116380033",
+  "https://openalex.org/W203696055",
+  "https://openalex.org/W1503605645",
+  "https://openalex.org/W1507029541",
+  "https://openalex.org/W1549238650",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1596992398",
+  "https://openalex.org/W1607965943",
+  "https://openalex.org/W2017132602",
+  "https://openalex.org/W2033326122",
+  "https://openalex.org/W2048448061",
+  "https://openalex.org/W2058732827",
+  "https://openalex.org/W2073241381",
+  "https://openalex.org/W2099345940",
+  "https://openalex.org/W2111022379",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2134696506",
+  "https://openalex.org/W2142752589",
+  "https://openalex.org/W2147834490",
+  "https://openalex.org/W2152761983",
+  "https://openalex.org/W2157825442",
+  "https://openalex.org/W2477400917",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Obtaining calibrated probability estimates from decision trees and naive Bayesian classifiers"
+}

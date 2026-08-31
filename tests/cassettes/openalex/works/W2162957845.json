@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 154,
+ "doi": "https://doi.org/10.1145/1289612.1289615",
+ "id": "https://openalex.org/W2162957845",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W4508078",
+  "https://openalex.org/W1787857092",
+  "https://openalex.org/W1976190583",
+  "https://openalex.org/W1986319134",
+  "https://openalex.org/W2037038404",
+  "https://openalex.org/W2057298723",
+  "https://openalex.org/W2090089304",
+  "https://openalex.org/W2112215401",
+  "https://openalex.org/W2115438344",
+  "https://openalex.org/W2115503987",
+  "https://openalex.org/W2135499008",
+  "https://openalex.org/W2138091607",
+  "https://openalex.org/W2147544162",
+  "https://openalex.org/W2149576945",
+  "https://openalex.org/W2161569281",
+  "https://openalex.org/W2164128653",
+  "https://openalex.org/W6677231548",
+  "https://openalex.org/W6684418397"
+ ],
+ "title": "SPC"
+}

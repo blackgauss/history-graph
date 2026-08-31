@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 1006,
+ "doi": "https://doi.org/10.1145/320071.320076",
+ "id": "https://openalex.org/W2110765100",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1991199257",
+  "https://openalex.org/W1994593991",
+  "https://openalex.org/W2056873969",
+  "https://openalex.org/W2094162326",
+  "https://openalex.org/W2131624837",
+  "https://openalex.org/W2174359540",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W4252364404"
+ ],
+ "title": "A Majority consensus approach to concurrency control for multiple copy databases"
+}

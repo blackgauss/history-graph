@@ -1,0 +1,77 @@
+{
+ "cited_by_count": 113,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W93480304",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1772070704",
+  "https://openalex.org/W2029942173",
+  "https://openalex.org/W2121227244",
+  "https://openalex.org/W2134237567",
+  "https://openalex.org/W2138543759",
+  "https://openalex.org/W2152314154",
+  "https://openalex.org/W2325343629",
+  "https://openalex.org/W2399991609",
+  "https://openalex.org/W2538726133",
+  "https://openalex.org/W3148930403"
+ ],
+ "title": "Predicting Click-Through Rate Using Keyword Clusters"
+}

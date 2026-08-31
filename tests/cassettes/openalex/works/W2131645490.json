@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 1224,
+ "doi": null,
+ "id": "https://openalex.org/W2131645490",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W153908668",
+  "https://openalex.org/W1574944490",
+  "https://openalex.org/W1830066802",
+  "https://openalex.org/W2087966340",
+  "https://openalex.org/W2106887953",
+  "https://openalex.org/W2112814442",
+  "https://openalex.org/W2114358507",
+  "https://openalex.org/W2115457697",
+  "https://openalex.org/W2119622714",
+  "https://openalex.org/W2124288146",
+  "https://openalex.org/W2135652458",
+  "https://openalex.org/W2163019889",
+  "https://openalex.org/W2171321454"
+ ],
+ "title": "GPFS: A Shared-Disk File System for Large Computing Clusters"
+}

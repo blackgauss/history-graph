@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 1902,
+ "doi": "https://doi.org/10.1145/42282.42283",
+ "id": "https://openalex.org/W2003214215",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W26675230",
+  "https://openalex.org/W86025107",
+  "https://openalex.org/W178848230",
+  "https://openalex.org/W1552521662",
+  "https://openalex.org/W1565044123",
+  "https://openalex.org/W1811909632",
+  "https://openalex.org/W1964729314",
+  "https://openalex.org/W1973501242",
+  "https://openalex.org/W2007331382",
+  "https://openalex.org/W2009125170",
+  "https://openalex.org/W2029943178",
+  "https://openalex.org/W2034791526",
+  "https://openalex.org/W2035362408",
+  "https://openalex.org/W2053728555",
+  "https://openalex.org/W2073126252",
+  "https://openalex.org/W2089138728",
+  "https://openalex.org/W2106887953",
+  "https://openalex.org/W2116643105",
+  "https://openalex.org/W2122326479",
+  "https://openalex.org/W2126906505",
+  "https://openalex.org/W2332257313",
+  "https://openalex.org/W3137092842",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W4399375755"
+ ],
+ "title": "Consensus in the presence of partial synchrony"
+}

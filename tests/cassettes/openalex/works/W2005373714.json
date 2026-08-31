@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 1414,
+ "doi": "https://doi.org/10.1145/35037.35059",
+ "id": "https://openalex.org/W2005373714",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W1535615324",
+  "https://openalex.org/W1547343000",
+  "https://openalex.org/W1967141605",
+  "https://openalex.org/W1969383031",
+  "https://openalex.org/W1975076169",
+  "https://openalex.org/W1976665522",
+  "https://openalex.org/W2001438822",
+  "https://openalex.org/W2039179345",
+  "https://openalex.org/W2078775767",
+  "https://openalex.org/W2111223826",
+  "https://openalex.org/W2115294119",
+  "https://openalex.org/W4229825759",
+  "https://openalex.org/W4243651676",
+  "https://openalex.org/W4254126235"
+ ],
+ "title": "Scale and performance in a distributed file system"
+}

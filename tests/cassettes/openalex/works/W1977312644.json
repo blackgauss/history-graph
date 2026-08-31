@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 4478,
+ "doi": "https://doi.org/10.1126/science.7973651",
+ "id": "https://openalex.org/W1977312644",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W934354270",
+  "https://openalex.org/W1964464311",
+  "https://openalex.org/W1969196617",
+  "https://openalex.org/W2032288764",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2171582839",
+  "https://openalex.org/W2530006810",
+  "https://openalex.org/W4248482984"
+ ],
+ "title": "Molecular Computation of Solutions to Combinatorial Problems"
+}

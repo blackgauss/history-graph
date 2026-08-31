@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1049/el:19820387",
+ "id": "https://openalex.org/W2086281270",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W1498649485",
+  "https://openalex.org/W1513838990"
+ ],
+ "title": "Spectral method of Boolean function complexity"
+}

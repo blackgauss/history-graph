@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 161,
+ "doi": "https://doi.org/10.1145/1076034.1076106",
+ "id": "https://openalex.org/W2160885631",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W95791645",
+  "https://openalex.org/W131411689",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1989468977",
+  "https://openalex.org/W2000569744",
+  "https://openalex.org/W2010463775",
+  "https://openalex.org/W2025357764",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2085030399",
+  "https://openalex.org/W2128319626",
+  "https://openalex.org/W2131746181",
+  "https://openalex.org/W2140204390",
+  "https://openalex.org/W2142510125",
+  "https://openalex.org/W2166227910",
+  "https://openalex.org/W2166282252",
+  "https://openalex.org/W2170582301",
+  "https://openalex.org/W4230950644",
+  "https://openalex.org/W4234200495",
+  "https://openalex.org/W6603897584",
+  "https://openalex.org/W6605300326",
+  "https://openalex.org/W6633075811",
+  "https://openalex.org/W6678573879"
+ ],
+ "title": "Relevance weighting for query independent evidence"
+}

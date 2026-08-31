@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 113,
+ "doi": null,
+ "id": "https://openalex.org/W1593288312",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1495369628",
+  "https://openalex.org/W1510368738",
+  "https://openalex.org/W1525293204",
+  "https://openalex.org/W1620410031",
+  "https://openalex.org/W1836483134",
+  "https://openalex.org/W1978107969",
+  "https://openalex.org/W2005030466",
+  "https://openalex.org/W2048051309",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2070658982",
+  "https://openalex.org/W2075959177",
+  "https://openalex.org/W2108637261",
+  "https://openalex.org/W2139906094",
+  "https://openalex.org/W2145199041",
+  "https://openalex.org/W2158505527",
+  "https://openalex.org/W2159503942",
+  "https://openalex.org/W2407714145"
+ ],
+ "title": "On Computing Minimum Unsatisfiable Cores"
+}

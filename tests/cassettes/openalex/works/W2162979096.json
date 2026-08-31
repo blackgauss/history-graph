@@ -1,0 +1,205 @@
+{
+ "cited_by_count": 459,
+ "concepts": [
+  {
+   "display_name": "Computer science",
+   "id": "https://openalex.org/C41008148",
+   "level": 0,
+   "score": 0.7602142095565796,
+   "wikidata": "https://www.wikidata.org/wiki/Q21198"
+  },
+  {
+   "display_name": "Pruning",
+   "id": "https://openalex.org/C108010975",
+   "level": 2,
+   "score": 0.6339575052261353,
+   "wikidata": "https://www.wikidata.org/wiki/Q500094"
+  },
+  {
+   "display_name": "Search engine",
+   "id": "https://openalex.org/C97854310",
+   "level": 2,
+   "score": 0.5709332227706909,
+   "wikidata": "https://www.wikidata.org/wiki/Q19541"
+  },
+  {
+   "display_name": "Naive Bayes classifier",
+   "id": "https://openalex.org/C52001869",
+   "level": 3,
+   "score": 0.541217029094696,
+   "wikidata": "https://www.wikidata.org/wiki/Q812530"
+  },
+  {
+   "display_name": "Scalability",
+   "id": "https://openalex.org/C48044578",
+   "level": 2,
+   "score": 0.5317080616950989,
+   "wikidata": "https://www.wikidata.org/wiki/Q727490"
+  },
+  {
+   "display_name": "Machine learning",
+   "id": "https://openalex.org/C119857082",
+   "level": 1,
+   "score": 0.5302923321723938,
+   "wikidata": "https://www.wikidata.org/wiki/Q2539"
+  },
+  {
+   "display_name": "Click-through rate",
+   "id": "https://openalex.org/C115174607",
+   "level": 2,
+   "score": 0.5138214230537415,
+   "wikidata": "https://www.wikidata.org/wiki/Q1100934"
+  },
+  {
+   "display_name": "Data mining",
+   "id": "https://openalex.org/C124101348",
+   "level": 1,
+   "score": 0.48824194073677063,
+   "wikidata": "https://www.wikidata.org/wiki/Q172491"
+  },
+  {
+   "display_name": "Bayesian probability",
+   "id": "https://openalex.org/C107673813",
+   "level": 2,
+   "score": 0.4317474961280823,
+   "wikidata": "https://www.wikidata.org/wiki/Q812534"
+  },
+  {
+   "display_name": "Artificial intelligence",
+   "id": "https://openalex.org/C154945302",
+   "level": 1,
+   "score": 0.4298584461212158,
+   "wikidata": "https://www.wikidata.org/wiki/Q11660"
+  },
+  {
+   "display_name": "Search algorithm",
+   "id": "https://openalex.org/C125583679",
+   "level": 2,
+   "score": 0.4254966080188751,
+   "wikidata": "https://www.wikidata.org/wiki/Q755673"
+  },
+  {
+   "display_name": "Algorithm",
+   "id": "https://openalex.org/C11413529",
+   "level": 1,
+   "score": 0.3438687324523926,
+   "wikidata": "https://www.wikidata.org/wiki/Q8366"
+  },
+  {
+   "display_name": "Support vector machine",
+   "id": "https://openalex.org/C12267149",
+   "level": 2,
+   "score": 0.2896530032157898,
+   "wikidata": "https://www.wikidata.org/wiki/Q282453"
+  },
+  {
+   "display_name": "Information retrieval",
+   "id": "https://openalex.org/C23123220",
+   "level": 1,
+   "score": 0.22373926639556885,
+   "wikidata": "https://www.wikidata.org/wiki/Q816826"
+  },
+  {
+   "display_name": "Database",
+   "id": "https://openalex.org/C77088390",
+   "level": 1,
+   "score": 0.13719391822814941,
+   "wikidata": "https://www.wikidata.org/wiki/Q8513"
+  },
+  {
+   "display_name": "Agronomy",
+   "id": "https://openalex.org/C6557445",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q173113"
+  },
+  {
+   "display_name": "Biology",
+   "id": "https://openalex.org/C86803240",
+   "level": 0,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q420"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 47,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 49,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 44,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 28,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W2162979096",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1515272691",
+  "https://openalex.org/W1515851193",
+  "https://openalex.org/W1598033630",
+  "https://openalex.org/W2032026767",
+  "https://openalex.org/W2039522160",
+  "https://openalex.org/W2054553473",
+  "https://openalex.org/W2090883204",
+  "https://openalex.org/W2109722477",
+  "https://openalex.org/W2121863487",
+  "https://openalex.org/W2132708887",
+  "https://openalex.org/W2137813581",
+  "https://openalex.org/W2153975459",
+  "https://openalex.org/W3122305203"
+ ],
+ "title": "Web-Scale Bayesian Click-Through rate Prediction for Sponsored Search Advertising in Microsoft's Bing Search Engine"
+}

@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 50,
+ "doi": "https://doi.org/10.1007/3-540-49430-8_18",
+ "id": "https://openalex.org/W4236355931",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W111669422",
+  "https://openalex.org/W308556676",
+  "https://openalex.org/W1549386224",
+  "https://openalex.org/W1560021816",
+  "https://openalex.org/W1667165204",
+  "https://openalex.org/W1988115241",
+  "https://openalex.org/W2024228246",
+  "https://openalex.org/W2085317472",
+  "https://openalex.org/W2106214155",
+  "https://openalex.org/W2125416644",
+  "https://openalex.org/W2131329059",
+  "https://openalex.org/W2132222485",
+  "https://openalex.org/W2158618294",
+  "https://openalex.org/W2164359548",
+  "https://openalex.org/W2483244395",
+  "https://openalex.org/W2489605225",
+  "https://openalex.org/W2912811302",
+  "https://openalex.org/W2913340405",
+  "https://openalex.org/W2979928392",
+  "https://openalex.org/W2990138404",
+  "https://openalex.org/W4255825300",
+  "https://openalex.org/W4388297464",
+  "https://openalex.org/W6685368895"
+ ],
+ "title": "How to Train Neural Networks"
+}

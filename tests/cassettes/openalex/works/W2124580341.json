@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 33,
+ "doi": "https://doi.org/10.1109/ccc.2012.35",
+ "id": "https://openalex.org/W2124580341",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W1568481205",
+  "https://openalex.org/W1571037334",
+  "https://openalex.org/W1970124248",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W1988381072",
+  "https://openalex.org/W1989996695",
+  "https://openalex.org/W1990770240",
+  "https://openalex.org/W2005053510",
+  "https://openalex.org/W2005090831",
+  "https://openalex.org/W2010161771",
+  "https://openalex.org/W2038921147",
+  "https://openalex.org/W2042179958",
+  "https://openalex.org/W2043013518",
+  "https://openalex.org/W2074734756",
+  "https://openalex.org/W2078929687",
+  "https://openalex.org/W2087038607",
+  "https://openalex.org/W2113141878",
+  "https://openalex.org/W2120358419",
+  "https://openalex.org/W2163332813",
+  "https://openalex.org/W2254604857",
+  "https://openalex.org/W4242357733",
+  "https://openalex.org/W4254122410",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Gaussian Noise Sensitivity and Fourier Tails"
+}

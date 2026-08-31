@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 10,
+ "doi": null,
+ "id": "https://openalex.org/W2109229087",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W129320386",
+  "https://openalex.org/W969985410",
+  "https://openalex.org/W1496288774",
+  "https://openalex.org/W1515932031",
+  "https://openalex.org/W1549404527",
+  "https://openalex.org/W1586956242",
+  "https://openalex.org/W1869643030",
+  "https://openalex.org/W1982329267",
+  "https://openalex.org/W2005216655",
+  "https://openalex.org/W2056646076",
+  "https://openalex.org/W2075854425",
+  "https://openalex.org/W2085963802",
+  "https://openalex.org/W2096095354",
+  "https://openalex.org/W2096674994",
+  "https://openalex.org/W2103979020",
+  "https://openalex.org/W2111586962",
+  "https://openalex.org/W2119882038",
+  "https://openalex.org/W2144566188",
+  "https://openalex.org/W2148383895",
+  "https://openalex.org/W2155374901",
+  "https://openalex.org/W2156320870",
+  "https://openalex.org/W2162268287"
+ ],
+ "title": "On the Performance of Wide-Area Synchronous Database Replication"
+}

@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 36,
+ "doi": "https://doi.org/10.1109/icde.2010.5447856",
+ "id": "https://openalex.org/W2032852272",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1506285740",
+  "https://openalex.org/W1509443229",
+  "https://openalex.org/W1970779762",
+  "https://openalex.org/W2018989507",
+  "https://openalex.org/W2049282244",
+  "https://openalex.org/W2072456256",
+  "https://openalex.org/W2084011265",
+  "https://openalex.org/W2103798154",
+  "https://openalex.org/W2108907376",
+  "https://openalex.org/W2117689707",
+  "https://openalex.org/W2117987151",
+  "https://openalex.org/W2133645803",
+  "https://openalex.org/W2189467715",
+  "https://openalex.org/W6630198464",
+  "https://openalex.org/W6630562399"
+ ],
+ "title": "FPGA acceleration for the frequent item problem"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 520,
+ "doi": "https://doi.org/10.1145/237090.237157",
+ "id": "https://openalex.org/W2124288146",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W41504953",
+  "https://openalex.org/W170708675",
+  "https://openalex.org/W1518043523",
+  "https://openalex.org/W1929853380",
+  "https://openalex.org/W2018292377",
+  "https://openalex.org/W2039573521",
+  "https://openalex.org/W2049631480",
+  "https://openalex.org/W2050432735",
+  "https://openalex.org/W2096241833",
+  "https://openalex.org/W2106035061",
+  "https://openalex.org/W2106587909",
+  "https://openalex.org/W2126169247",
+  "https://openalex.org/W2144554450",
+  "https://openalex.org/W2149609142",
+  "https://openalex.org/W2151227991",
+  "https://openalex.org/W2153747271",
+  "https://openalex.org/W2165848246",
+  "https://openalex.org/W2613324619",
+  "https://openalex.org/W4242472178",
+  "https://openalex.org/W6601689174"
+ ],
+ "title": "Petal"
+}

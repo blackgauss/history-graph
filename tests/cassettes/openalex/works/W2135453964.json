@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 1084,
+ "doi": "https://doi.org/10.1145/123186.123222",
+ "id": "https://openalex.org/W2135453964",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1524966284",
+  "https://openalex.org/W1584887677",
+  "https://openalex.org/W1594115940",
+  "https://openalex.org/W1602476740",
+  "https://openalex.org/W1966842980",
+  "https://openalex.org/W1986780597",
+  "https://openalex.org/W2037931040",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2099251677",
+  "https://openalex.org/W2100196964",
+  "https://openalex.org/W2105761964",
+  "https://openalex.org/W2129873456",
+  "https://openalex.org/W2154030608",
+  "https://openalex.org/W2172098870",
+  "https://openalex.org/W2755698889",
+  "https://openalex.org/W6607519815",
+  "https://openalex.org/W6884753825"
+ ],
+ "title": "Efficient implementation of a BDD package"
+}

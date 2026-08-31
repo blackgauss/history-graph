@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 413,
+ "doi": "https://doi.org/10.1109/ms.2001.936213",
+ "id": "https://openalex.org/W2156093990",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W4564113",
+  "https://openalex.org/W98171137",
+  "https://openalex.org/W1582020949",
+  "https://openalex.org/W1859752500",
+  "https://openalex.org/W2034717157",
+  "https://openalex.org/W2111387676",
+  "https://openalex.org/W2115052929",
+  "https://openalex.org/W2115179079",
+  "https://openalex.org/W2126870663",
+  "https://openalex.org/W2321462384",
+  "https://openalex.org/W3196007370",
+  "https://openalex.org/W3210839039",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4296471858"
+ ],
+ "title": "Using simplicity to control complexity"
+}

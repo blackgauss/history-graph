@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 4236,
+ "doi": "https://doi.org/10.1145/3749740.3749746",
+ "id": "https://openalex.org/W2019363670",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1552744309",
+  "https://openalex.org/W1596324102",
+  "https://openalex.org/W1968833464",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2061079066",
+  "https://openalex.org/W2075569940",
+  "https://openalex.org/W2089857781",
+  "https://openalex.org/W3017143921"
+ ],
+ "title": "A Theory of the Learnable"
+}

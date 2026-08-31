@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 35,
+ "doi": "https://doi.org/10.1145/58564.59294",
+ "id": "https://openalex.org/W2101675843",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W5218608",
+  "https://openalex.org/W150806119",
+  "https://openalex.org/W1496645340",
+  "https://openalex.org/W1552521662",
+  "https://openalex.org/W1572474464",
+  "https://openalex.org/W2026691835",
+  "https://openalex.org/W2034702409",
+  "https://openalex.org/W2042892611",
+  "https://openalex.org/W2053374874",
+  "https://openalex.org/W2061819031",
+  "https://openalex.org/W2076022311",
+  "https://openalex.org/W2078209861",
+  "https://openalex.org/W2079436279",
+  "https://openalex.org/W2081409107",
+  "https://openalex.org/W2126924915",
+  "https://openalex.org/W2156186849",
+  "https://openalex.org/W3137092842",
+  "https://openalex.org/W4214521738"
+ ],
+ "title": "Reliable scheduling in a TMR database system"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 95,
+ "doi": "https://doi.org/10.1287/mnsc.41.1.163",
+ "id": "https://openalex.org/W1999260447",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1512369200",
+  "https://openalex.org/W1602708939",
+  "https://openalex.org/W1975932651",
+  "https://openalex.org/W1980030032",
+  "https://openalex.org/W1987768304",
+  "https://openalex.org/W1988576875",
+  "https://openalex.org/W2022955173",
+  "https://openalex.org/W2040461081",
+  "https://openalex.org/W2041552918",
+  "https://openalex.org/W2049893405",
+  "https://openalex.org/W2050042869",
+  "https://openalex.org/W2057811978",
+  "https://openalex.org/W2064319038",
+  "https://openalex.org/W2072852838",
+  "https://openalex.org/W2079382181",
+  "https://openalex.org/W2084217718",
+  "https://openalex.org/W2094149538",
+  "https://openalex.org/W2110564123",
+  "https://openalex.org/W2161869110"
+ ],
+ "title": "Decentralized Regulation of a Queue"
+}

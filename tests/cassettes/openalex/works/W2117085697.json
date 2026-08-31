@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 995,
+ "doi": "https://doi.org/10.1145/192161.192167",
+ "id": "https://openalex.org/W2117085697",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W165295313",
+  "https://openalex.org/W639693478",
+  "https://openalex.org/W1482827835",
+  "https://openalex.org/W1497256448",
+  "https://openalex.org/W1518726294",
+  "https://openalex.org/W1532541884",
+  "https://openalex.org/W1572267420",
+  "https://openalex.org/W1576818901",
+  "https://openalex.org/W1977770014",
+  "https://openalex.org/W1987574258",
+  "https://openalex.org/W2043878167",
+  "https://openalex.org/W2050462717",
+  "https://openalex.org/W2074397232",
+  "https://openalex.org/W2075347672",
+  "https://openalex.org/W2091051792",
+  "https://openalex.org/W2101766509",
+  "https://openalex.org/W2138181514",
+  "https://openalex.org/W2152150600",
+  "https://openalex.org/W2171926074",
+  "https://openalex.org/W2996879375",
+  "https://openalex.org/W3016289168",
+  "https://openalex.org/W3023540311"
+ ],
+ "title": "Evolving virtual creatures"
+}

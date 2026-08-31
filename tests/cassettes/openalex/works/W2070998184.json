@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 20,
+ "doi": "https://doi.org/10.1145/582128.582150",
+ "id": "https://openalex.org/W2070998184",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W204806442",
+  "https://openalex.org/W1515932031",
+  "https://openalex.org/W2032941574",
+  "https://openalex.org/W2037194831",
+  "https://openalex.org/W2070941848",
+  "https://openalex.org/W2111132249",
+  "https://openalex.org/W2144566188",
+  "https://openalex.org/W2147302209",
+  "https://openalex.org/W6668363284"
+ ],
+ "title": "Self-stabilization and eventual consistency in replicated real-time databases"
+}

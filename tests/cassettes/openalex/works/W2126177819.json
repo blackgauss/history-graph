@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 27,
+ "doi": null,
+ "id": "https://openalex.org/W2126177819",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W137795105",
+  "https://openalex.org/W1512670446",
+  "https://openalex.org/W1647591404",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W1994022788",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2097575812",
+  "https://openalex.org/W2097886040",
+  "https://openalex.org/W2114766824",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2126144052",
+  "https://openalex.org/W2154642048",
+  "https://openalex.org/W3207342693"
+ ],
+ "title": "Learning Sparse Perceptrons"
+}

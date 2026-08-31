@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 25,
+ "doi": "https://doi.org/10.1162/neco.2007.03-07-493",
+ "id": "https://openalex.org/W1972660505",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1981814724",
+  "https://openalex.org/W1992223066",
+  "https://openalex.org/W2054794997",
+  "https://openalex.org/W2094691064",
+  "https://openalex.org/W2101295242",
+  "https://openalex.org/W2103156568",
+  "https://openalex.org/W2103369961",
+  "https://openalex.org/W2105454037",
+  "https://openalex.org/W2105464770",
+  "https://openalex.org/W2105464873",
+  "https://openalex.org/W2124386111",
+  "https://openalex.org/W2132172482",
+  "https://openalex.org/W2137471889",
+  "https://openalex.org/W2144982973",
+  "https://openalex.org/W2145889472",
+  "https://openalex.org/W2149194912",
+  "https://openalex.org/W2154422044",
+  "https://openalex.org/W2161144680",
+  "https://openalex.org/W2167828171",
+  "https://openalex.org/W2172174689",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Unsupervised Learning of Individuals and Categories from Images"
+}

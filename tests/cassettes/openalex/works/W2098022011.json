@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 452,
+ "doi": "https://doi.org/10.1145/7531.8928",
+ "id": "https://openalex.org/W2098022011",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W1542163612",
+  "https://openalex.org/W1543891730",
+  "https://openalex.org/W1974951277",
+  "https://openalex.org/W1988083342",
+  "https://openalex.org/W1997158981",
+  "https://openalex.org/W2041833446",
+  "https://openalex.org/W2067642391",
+  "https://openalex.org/W2069767473",
+  "https://openalex.org/W2070017679",
+  "https://openalex.org/W2098689873",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2133527541",
+  "https://openalex.org/W2142127354",
+  "https://openalex.org/W2498145201",
+  "https://openalex.org/W2799004609",
+  "https://openalex.org/W2949436104"
+ ],
+ "title": "Hard examples for resolution"
+}

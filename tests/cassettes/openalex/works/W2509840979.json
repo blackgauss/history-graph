@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 132,
+ "doi": "https://doi.org/10.1109/9.121620",
+ "id": "https://openalex.org/W2509840979",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W130083205",
+  "https://openalex.org/W1484155879",
+  "https://openalex.org/W1941664375",
+  "https://openalex.org/W1983702561",
+  "https://openalex.org/W2020048913",
+  "https://openalex.org/W2022625165",
+  "https://openalex.org/W2025853824",
+  "https://openalex.org/W2026769037",
+  "https://openalex.org/W2065808188",
+  "https://openalex.org/W2065884106",
+  "https://openalex.org/W2098894224",
+  "https://openalex.org/W2111366357",
+  "https://openalex.org/W2120425338",
+  "https://openalex.org/W2130290171",
+  "https://openalex.org/W2141239239",
+  "https://openalex.org/W2164465552",
+  "https://openalex.org/W2165010569",
+  "https://openalex.org/W2165503808",
+  "https://openalex.org/W4213122241"
+ ],
+ "title": "Robust continuous-time adaptive control by parameter projection"
+}

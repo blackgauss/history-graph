@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 7,
+ "doi": "https://doi.org/10.1109/tac.1985.1104038",
+ "id": "https://openalex.org/W1988991257",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W173303512",
+  "https://openalex.org/W1964539053",
+  "https://openalex.org/W1972889898",
+  "https://openalex.org/W1973972940",
+  "https://openalex.org/W1995741459",
+  "https://openalex.org/W2035346143",
+  "https://openalex.org/W2071347417",
+  "https://openalex.org/W2152830946",
+  "https://openalex.org/W4210517206"
+ ],
+ "title": "Asymptotic stability improvements of multiparameter nonlinear singularly perturbed systems"
+}

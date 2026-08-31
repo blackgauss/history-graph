@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 43,
+ "doi": null,
+ "id": "https://openalex.org/W1772070704",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1513400187",
+  "https://openalex.org/W1660390307",
+  "https://openalex.org/W1971318281",
+  "https://openalex.org/W1972645849",
+  "https://openalex.org/W2020066367",
+  "https://openalex.org/W2052819443",
+  "https://openalex.org/W2095117703",
+  "https://openalex.org/W2121947440",
+  "https://openalex.org/W2130891992",
+  "https://openalex.org/W2133576408",
+  "https://openalex.org/W2152216760",
+  "https://openalex.org/W2799061466"
+ ],
+ "title": "Clustering of Bipartite Advertiser-Keyword Graph"
+}

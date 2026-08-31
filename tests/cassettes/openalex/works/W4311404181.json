@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 382,
+ "counts_by_year": [
+  {
+   "cited_by_count": 99,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 116,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 95,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 59,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2022
+  }
+ ],
+ "doi": "https://doi.org/10.1109/jas.2022.106004",
+ "id": "https://openalex.org/W4311404181",
+ "publication_year": 2022,
+ "title": "A Survey on Negative Transfer"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 58,
+ "doi": "https://doi.org/10.1016/0010-4825(84)90043-x",
+ "id": "https://openalex.org/W2078867609",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1916404790",
+  "https://openalex.org/W2074775586",
+  "https://openalex.org/W2327913243",
+  "https://openalex.org/W2404039572",
+  "https://openalex.org/W2796765386",
+  "https://openalex.org/W6628833662"
+ ],
+ "title": "Statistical diagnosis based on conditional independence does not require it"
+}

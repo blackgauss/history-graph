@@ -1,0 +1,459 @@
+{
+ "abstract_inverted_index": {
+  "\"look-at": [
+   41
+  ],
+  "\"pop-up\"": [
+   90
+  ],
+  "(.jpg)": [
+   69
+  ],
+  "(.jpg).": [
+   128
+  ],
+  "(0–5.4)": [
+   47
+  ],
+  "(928": [
+   3,
+   100
+  ],
+  "(Appendix": [
+   59
+  ],
+  "(md5:": [
+   5,
+   8,
+   11
+  ],
+  "(thumbnail)": [
+   123
+  ],
+  ".kml": [
+   74
+  ],
+  "0f01dd510fcf24a10951b0cc90d58dc2)": [
+   9
+  ],
+  "4515": [
+   120
+  ],
+  "4653": [
+   39
+  ],
+  "6.": [
+   34
+  ],
+  "85694fd5d35fba24bfaa91bc171d2563)": [
+   6
+  ],
+  "Beetle": [
+   55
+  ],
+  "D).": [
+   60
+  ],
+  "Earth": [
+   33
+  ],
+  "Earth.": [
+   94
+  ],
+  "File": [
+   0
+  ],
+  "GYE-wide": [
+   40
+  ],
+  "Google": [
+   32,
+   93
+  ],
+  "It": [
+   110
+  ],
+  "List": [
+   1
+  ],
+  "MB)": [
+   4,
+   101
+  ],
+  "Mortality": [
+   56
+  ],
+  "Mountain": [
+   53
+  ],
+  "Pine": [
+   54
+  ],
+  "Rating": [
+   57
+  ],
+  "System": [
+   58
+  ],
+  "The": [
+   61
+  ],
+  "This": [
+   35
+  ],
+  "a": [
+   24,
+   44,
+   97
+  ],
+  "a8f4603bb4fbbe54b4589e6c4260eb63)Description": [
+   12
+  ],
+  "aerial": [
+   124
+  ],
+  "all": [
+   38,
+   112
+  ],
+  "all_lookat_points.kml": [
+   10,
+   22
+  ],
+  "and": [
+   70,
+   76
+  ],
+  "associated": [
+   66
+  ],
+  "based": [
+   50
+  ],
+  "be": [
+   29
+  ],
+  "both": [
+   72
+  ],
+  "can": [
+   28
+  ],
+  "contains": [
+   37,
+   111
+  ],
+  "data.": [
+   21
+  ],
+  "download.": [
+   109
+  ],
+  "ensure": [
+   85
+  ],
+  "file": [
+   26,
+   36,
+   63,
+   75,
+   102
+  ],
+  "files": [
+   115,
+   127
+  ],
+  "folder": [
+   83
+  ],
+  "for": [
+   116
+  ],
+  "format": [
+   122
+  ],
+  "functioning": [
+   87
+  ],
+  "how": [
+   17
+  ],
+  "image": [
+   126
+  ],
+  "images": [
+   68,
+   77,
+   91
+  ],
+  "in": [
+   31,
+   80,
+   92
+  ],
+  "including": [
+   119
+  ],
+  "instructions": [
+   15
+  ],
+  "is": [
+   23,
+   96
+  ],
+  "kml": [
+   25,
+   62
+  ],
+  "large": [
+   99
+  ],
+  "mortality": [
+   48
+  ],
+  "must": [
+   78
+  ],
+  "numeric": [
+   46
+  ],
+  "oblique": [
+   125
+  ],
+  "of": [
+   88,
+   113
+  ],
+  "on": [
+   16,
+   51
+  ],
+  "opened": [
+   30
+  ],
+  "points\"": [
+   42
+  ],
+  "proper": [
+   86
+  ],
+  "provides": [
+   14
+  ],
+  "rating": [
+   49
+  ],
+  "readme.pdf": [
+   7,
+   13
+  ],
+  "references": [
+   64
+  ],
+  "reside": [
+   79
+  ],
+  "same": [
+   82
+  ],
+  "significant": [
+   106
+  ],
+  "single": [
+   45
+  ],
+  "small": [
+   121
+  ],
+  "supplement,": [
+   118
+  ],
+  "supplement_files.zip": [
+   2,
+   95
+  ],
+  "take": [
+   105
+  ],
+  "that": [
+   27,
+   103
+  ],
+  "the": [
+   52,
+   65,
+   73,
+   81,
+   89,
+   114
+  ],
+  "therefore": [
+   71
+  ],
+  "these": [
+   20
+  ],
+  "this": [
+   117
+  ],
+  "thumbnail": [
+   67
+  ],
+  "time": [
+   107
+  ],
+  "to": [
+   18,
+   84,
+   108
+  ],
+  "use": [
+   19
+  ],
+  "very": [
+   98
+  ],
+  "will": [
+   104
+  ],
+  "with": [
+   43
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "William W. Macfarlane",
+    "id": "https://openalex.org/A5079267198",
+    "orcid": "https://orcid.org/0000-0002-1876-5453"
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Macfarlane, William W.",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Jesse A. Logan",
+    "id": "https://openalex.org/A5113555075",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Logan, Jesse A.",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Wilson R. Kern",
+    "id": "https://openalex.org/A5073747134",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Kern, Wilson R.",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.6084/m9.figshare.3518090",
+  "is_accepted": false,
+  "is_oa": true,
+  "is_published": false,
+  "landing_page_url": "https://doi.org/10.6084/m9.figshare.3518090",
+  "license": "public-domain",
+  "license_id": "https://openalex.org/licenses/public-domain",
+  "pdf_url": null,
+  "raw_source_name": null,
+  "raw_type": "Dataset",
+  "source": {
+   "display_name": "Figshare",
+   "host_organization": "https://openalex.org/I4210132348",
+   "host_organization_lineage": [
+    "https://openalex.org/I4210132348"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "Figshare (United Kingdom)",
+   "id": "https://openalex.org/S4377196282",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": null
+ },
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": "https://doi.org/10.6084/m9.figshare.3518090",
+ "funders": [],
+ "id": "https://openalex.org/W4394298447",
+ "ids": {
+  "doi": "https://doi.org/10.6084/m9.figshare.3518090",
+  "openalex": "https://openalex.org/W4394298447"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": true,
+  "is_oa": true,
+  "oa_status": "green",
+  "oa_url": "https://doi.org/10.6084/m9.figshare.3518090"
+ },
+ "primary_location": {
+  "id": "doi:10.6084/m9.figshare.3518090",
+  "is_accepted": false,
+  "is_oa": true,
+  "is_published": false,
+  "landing_page_url": "https://doi.org/10.6084/m9.figshare.3518090",
+  "license": "public-domain",
+  "license_id": "https://openalex.org/licenses/public-domain",
+  "pdf_url": null,
+  "raw_source_name": null,
+  "raw_type": "Dataset",
+  "source": {
+   "display_name": "Figshare",
+   "host_organization": "https://openalex.org/I4210132348",
+   "host_organization_lineage": [
+    "https://openalex.org/I4210132348"
+   ],
+   "host_organization_lineage_names": [],
+   "host_organization_name": "Figshare (United Kingdom)",
+   "id": "https://openalex.org/S4377196282",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": null
+ },
+ "publication_year": 2016,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2257279258",
+  "https://openalex.org/W2342545811",
+  "https://openalex.org/W4394169269",
+  "https://openalex.org/W2385104873",
+  "https://openalex.org/W2129645280",
+  "https://openalex.org/W1773488666",
+  "https://openalex.org/W2074063769",
+  "https://openalex.org/W2207041822",
+  "https://openalex.org/W4247739220",
+  "https://openalex.org/W1003599212"
+ ],
+ "title": "Supplement 1. Google Earth file (.kml) containing a \"pop-up\" aerial oblique image and numeric (0–5.4) mortality rating based on the mountain pine beetle mortality (MPBM) rating system for all \"look-at points\" used and referenced in this study (see Fig. 5 in main text).",
+ "type": "dataset"
+}

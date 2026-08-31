@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 5,
+ "doi": null,
+ "id": "https://openalex.org/W1483918101",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1485800019",
+  "https://openalex.org/W1496612019",
+  "https://openalex.org/W1500284251",
+  "https://openalex.org/W1517945184",
+  "https://openalex.org/W1979711143",
+  "https://openalex.org/W1982060317",
+  "https://openalex.org/W2087347434",
+  "https://openalex.org/W2099111195",
+  "https://openalex.org/W2135346934",
+  "https://openalex.org/W2610857016"
+ ],
+ "title": "Perceptrons in Kernel Feature Spaces"
+}

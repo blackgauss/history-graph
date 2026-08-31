@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 271,
+ "doi": null,
+ "id": "https://openalex.org/W35527955",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W71795751",
+  "https://openalex.org/W1600737329",
+  "https://openalex.org/W1904365287",
+  "https://openalex.org/W2030782905",
+  "https://openalex.org/W2057853719",
+  "https://openalex.org/W2088538739",
+  "https://openalex.org/W2102294561",
+  "https://openalex.org/W2111406701",
+  "https://openalex.org/W2113459411",
+  "https://openalex.org/W2132166724",
+  "https://openalex.org/W2148451394",
+  "https://openalex.org/W2154359981",
+  "https://openalex.org/W2158542502",
+  "https://openalex.org/W2163614729",
+  "https://openalex.org/W2167216307",
+  "https://openalex.org/W2618530766",
+  "https://openalex.org/W3037950864"
+ ],
+ "title": "Fast dropout training"
+}

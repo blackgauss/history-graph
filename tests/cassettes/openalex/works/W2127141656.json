@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 5579,
+ "doi": "https://doi.org/10.1145/1143844.1143891",
+ "id": "https://openalex.org/W2127141656",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W183625566",
+  "https://openalex.org/W1542537254",
+  "https://openalex.org/W1553004968",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1566256432",
+  "https://openalex.org/W1823409095",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2079735306",
+  "https://openalex.org/W2110871230",
+  "https://openalex.org/W2125838338",
+  "https://openalex.org/W2130984546",
+  "https://openalex.org/W2131774270",
+  "https://openalex.org/W2147880316",
+  "https://openalex.org/W2150355110",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Connectionist temporal classification"
+}

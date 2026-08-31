@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 1027,
+ "doi": "https://doi.org/10.1109/mm.2003.1196112",
+ "id": "https://openalex.org/W2073965851",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1971851724",
+  "https://openalex.org/W2066636486",
+  "https://openalex.org/W2114421447",
+  "https://openalex.org/W2155350341",
+  "https://openalex.org/W2338343669",
+  "https://openalex.org/W3148484433",
+  "https://openalex.org/W4243587504",
+  "https://openalex.org/W6667169455",
+  "https://openalex.org/W6793277613"
+ ],
+ "title": "Web search for a planet: the google cluster architecture"
+}

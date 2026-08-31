@@ -1,0 +1,191 @@
+{
+ "abstract_inverted_index": {
+  "+": [
+   26
+  ],
+  "-": [
+   29
+  ],
+  "11": [
+   25
+  ],
+  "16": [
+   31
+  ],
+  "3": [
+   33
+  ],
+  "424": [
+   27
+  ],
+  "An": [
+   2
+  ],
+  "Boole.": [
+   1
+  ],
+  "Dover": [
+   20
+  ],
+  "George": [
+   0
+  ],
+  "Inc.,": [
+   22
+  ],
+  "Issue": [
+   32
+  ],
+  "New": [
+   23
+  ],
+  "Publications,": [
+   21
+  ],
+  "Volume": [
+   30
+  ],
+  "York1951,": [
+   24
+  ],
+  "and": [
+   18
+  ],
+  "are": [
+   11
+  ],
+  "founded": [
+   12
+  ],
+  "investigation": [
+   3
+  ],
+  "laws": [
+   6
+  ],
+  "logic": [
+   17
+  ],
+  "mathematical": [
+   14
+  ],
+  "of": [
+   4,
+   7,
+   16
+  ],
+  "on": [
+   9
+  ],
+  "pp.": [
+   28
+  ],
+  "probabilities.": [
+   19
+  ],
+  "the": [
+   5,
+   13
+  ],
+  "theories": [
+   15
+  ],
+  "thought,": [
+   8
+  ],
+  "which": [
+   10
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Alonzo Church",
+    "id": "https://openalex.org/A5110105454",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Alonzo Church",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 1,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  }
+ ],
+ "doi": "https://doi.org/10.2307/2266426",
+ "funders": [],
+ "id": "https://openalex.org/W2332004826",
+ "ids": {
+  "doi": "https://doi.org/10.2307/2266426",
+  "mag": "2332004826",
+  "openalex": "https://openalex.org/W2332004826"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.2307/2266426",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.2307/2266426",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Journal of Symbolic Logic",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Journal of Symbolic Logic",
+   "host_organization": "https://openalex.org/P4310311721",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310311721",
+    "https://openalex.org/P4310311702"
+   ],
+   "host_organization_lineage_names": [
+    "Cambridge University Press",
+    "University of Cambridge"
+   ],
+   "host_organization_name": "Cambridge University Press",
+   "id": "https://openalex.org/S177675236",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0022-4812",
+    "1943-5886"
+   ],
+   "issn_l": "0022-4812",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 1951,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W1907436174",
+  "https://openalex.org/W4240638320",
+  "https://openalex.org/W2490303147",
+  "https://openalex.org/W2903353145",
+  "https://openalex.org/W1589220756",
+  "https://openalex.org/W2910657826",
+  "https://openalex.org/W2481781685",
+  "https://openalex.org/W2993721864",
+  "https://openalex.org/W655185936"
+ ],
+ "title": "George Boole. An investigation of the laws of thought, on which are founded the mathematical theories of logic and probabilities. Dover Publications, Inc., New York1951, 11 + 424 pp.",
+ "type": "book-review"
+}

@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 2451,
+ "doi": "https://doi.org/10.1145/321879.321887",
+ "id": "https://openalex.org/W2094055697",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W1496790156",
+  "https://openalex.org/W1569289540",
+  "https://openalex.org/W2026338712",
+  "https://openalex.org/W2117550138",
+  "https://openalex.org/W2127359958",
+  "https://openalex.org/W2142943246",
+  "https://openalex.org/W2147607210",
+  "https://openalex.org/W2173164480",
+  "https://openalex.org/W2317198065",
+  "https://openalex.org/W2751862591"
+ ],
+ "title": "Open, Closed, and Mixed Networks of Queues with Different Classes of Customers"
+}

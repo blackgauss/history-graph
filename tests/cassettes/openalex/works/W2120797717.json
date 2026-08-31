@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 180,
+ "doi": "https://doi.org/10.1109/tit.1972.1054756",
+ "id": "https://openalex.org/W2120797717",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W175071349",
+  "https://openalex.org/W275468540",
+  "https://openalex.org/W1489872560",
+  "https://openalex.org/W1536252645",
+  "https://openalex.org/W1668826802",
+  "https://openalex.org/W1944705852",
+  "https://openalex.org/W2025119780",
+  "https://openalex.org/W2053655750",
+  "https://openalex.org/W2063898096",
+  "https://openalex.org/W2068130498",
+  "https://openalex.org/W2079073804",
+  "https://openalex.org/W2103435373",
+  "https://openalex.org/W2167495527",
+  "https://openalex.org/W2321420208",
+  "https://openalex.org/W2751862591",
+  "https://openalex.org/W2799137445",
+  "https://openalex.org/W2905296953",
+  "https://openalex.org/W4255034261",
+  "https://openalex.org/W4300126076",
+  "https://openalex.org/W4301263540",
+  "https://openalex.org/W4301441647"
+ ],
+ "title": "Filtering and detection for doubly stochastic Poisson processes"
+}

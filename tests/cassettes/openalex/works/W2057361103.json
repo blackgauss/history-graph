@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 3208,
+ "doi": "https://doi.org/10.1145/368273.368557",
+ "id": "https://openalex.org/W2057361103",
+ "publication_year": 1962,
+ "referenced_works": [
+  "https://openalex.org/W1968605571",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2069224897",
+  "https://openalex.org/W6642626171"
+ ],
+ "title": "A machine program for theorem-proving"
+}

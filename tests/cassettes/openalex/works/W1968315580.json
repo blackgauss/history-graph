@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 2362,
+ "doi": "https://doi.org/10.1109/tac.1981.1102603",
+ "id": "https://openalex.org/W1968315580",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W590542256",
+  "https://openalex.org/W1600066860",
+  "https://openalex.org/W1607437775",
+  "https://openalex.org/W1968315580",
+  "https://openalex.org/W1974792214",
+  "https://openalex.org/W2009012799",
+  "https://openalex.org/W2046736569",
+  "https://openalex.org/W2057895073",
+  "https://openalex.org/W2072088629",
+  "https://openalex.org/W2076070067",
+  "https://openalex.org/W2076086013",
+  "https://openalex.org/W2083794838",
+  "https://openalex.org/W2099405395",
+  "https://openalex.org/W2126334860",
+  "https://openalex.org/W2148218419",
+  "https://openalex.org/W2155142445",
+  "https://openalex.org/W2547940578",
+  "https://openalex.org/W2706801267",
+  "https://openalex.org/W4239074664"
+ ],
+ "title": "Feedback and optimal sensitivity: Model reference transformations, multiplicative seminorms, and approximate inverses"
+}

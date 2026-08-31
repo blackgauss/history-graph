@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 377,
+ "doi": "https://doi.org/10.1137/0301009",
+ "id": "https://openalex.org/W2057949499",
+ "publication_year": 1963,
+ "referenced_works": [
+  "https://openalex.org/W218580582",
+  "https://openalex.org/W1494883952",
+  "https://openalex.org/W1994368767",
+  "https://openalex.org/W2001205606",
+  "https://openalex.org/W2013495215",
+  "https://openalex.org/W2021335404",
+  "https://openalex.org/W2063973166",
+  "https://openalex.org/W2070079991",
+  "https://openalex.org/W2072373796",
+  "https://openalex.org/W2084614085",
+  "https://openalex.org/W2093773406",
+  "https://openalex.org/W2130753017",
+  "https://openalex.org/W2136737082",
+  "https://openalex.org/W2319479038",
+  "https://openalex.org/W2887053799",
+  "https://openalex.org/W4249936766"
+ ],
+ "title": "Controllability and Observability in Multivariable Control Systems"
+}

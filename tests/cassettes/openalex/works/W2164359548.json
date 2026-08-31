@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 533,
+ "doi": null,
+ "id": "https://openalex.org/W2164359548",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1533169541",
+  "https://openalex.org/W1585803900",
+  "https://openalex.org/W1809453380",
+  "https://openalex.org/W1995930498",
+  "https://openalex.org/W2072208595"
+ ],
+ "title": "Generalization by Weight-Elimination with Application to Forecasting"
+}

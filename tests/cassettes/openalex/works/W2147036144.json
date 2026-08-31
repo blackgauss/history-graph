@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 31,
+ "doi": "https://doi.org/10.1109/jssc.1979.1051164",
+ "id": "https://openalex.org/W2147036144",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1480961789",
+  "https://openalex.org/W1966276851",
+  "https://openalex.org/W1970296212",
+  "https://openalex.org/W1979070393",
+  "https://openalex.org/W1982776463",
+  "https://openalex.org/W1984770081",
+  "https://openalex.org/W1985694994",
+  "https://openalex.org/W1987449940",
+  "https://openalex.org/W1991686650",
+  "https://openalex.org/W1994114330",
+  "https://openalex.org/W2012804698",
+  "https://openalex.org/W2015540924",
+  "https://openalex.org/W2044905200",
+  "https://openalex.org/W2049580532",
+  "https://openalex.org/W2079370741",
+  "https://openalex.org/W2144481293",
+  "https://openalex.org/W2150724867",
+  "https://openalex.org/W3204577689",
+  "https://openalex.org/W4233505178",
+  "https://openalex.org/W4251500825",
+  "https://openalex.org/W6682341114"
+ ],
+ "title": "The evolution of digital electronics towards VLSI"
+}

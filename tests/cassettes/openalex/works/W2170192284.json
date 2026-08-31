@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 125,
+ "doi": "https://doi.org/10.1214/ecp.v2-986",
+ "id": "https://openalex.org/W2170192284",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W376509670",
+  "https://openalex.org/W1531801092",
+  "https://openalex.org/W1554577510",
+  "https://openalex.org/W1970185960",
+  "https://openalex.org/W1998530827",
+  "https://openalex.org/W2029551684",
+  "https://openalex.org/W2138927196",
+  "https://openalex.org/W2327680971",
+  "https://openalex.org/W2360511504",
+  "https://openalex.org/W4210731678",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4293510232"
+ ],
+ "title": "Martingale Representation and a Simple Proof of Logarithmic Sobolev Inequalities on Path Spaces"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 20,
+ "doi": "https://doi.org/10.1063/1.524938",
+ "id": "https://openalex.org/W2040585287",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W594781630",
+  "https://openalex.org/W1556559448",
+  "https://openalex.org/W1602120208",
+  "https://openalex.org/W2085426595",
+  "https://openalex.org/W2142645606",
+  "https://openalex.org/W2152432641",
+  "https://openalex.org/W2602581302",
+  "https://openalex.org/W2797656628",
+  "https://openalex.org/W2798456356"
+ ],
+ "title": "Quantum mechanical Hamiltonian models of discrete processes"
+}

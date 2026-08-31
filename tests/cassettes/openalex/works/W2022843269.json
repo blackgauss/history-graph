@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 62,
+ "doi": "https://doi.org/10.1145/363790.363817",
+ "id": "https://openalex.org/W2022843269",
+ "publication_year": 1967,
+ "referenced_works": [
+  "https://openalex.org/W1519043304",
+  "https://openalex.org/W1979065383",
+  "https://openalex.org/W1986949946",
+  "https://openalex.org/W2015720094",
+  "https://openalex.org/W2020289613",
+  "https://openalex.org/W2048229624",
+  "https://openalex.org/W2119409989",
+  "https://openalex.org/W2170166939",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "A computer system for inference execution and data retrieval"
+}

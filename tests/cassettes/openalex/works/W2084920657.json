@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 93,
+ "doi": "https://doi.org/10.1109/ijcnn.1990.137723",
+ "id": "https://openalex.org/W2084920657",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W41338955",
+  "https://openalex.org/W58921469",
+  "https://openalex.org/W1529008516",
+  "https://openalex.org/W1969166509",
+  "https://openalex.org/W2091565802",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2119196219",
+  "https://openalex.org/W2783016852",
+  "https://openalex.org/W3041202696",
+  "https://openalex.org/W3148194443",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6601685463",
+  "https://openalex.org/W6602422077",
+  "https://openalex.org/W6677750764",
+  "https://openalex.org/W6748114775"
+ ],
+ "title": "An on-line algorithm for dynamic reinforcement learning and planning in reactive environments"
+}

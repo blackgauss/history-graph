@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 244,
+ "doi": "https://doi.org/10.1137/0309034",
+ "id": "https://openalex.org/W2094649962",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W2003922224",
+  "https://openalex.org/W2005872591",
+  "https://openalex.org/W2014831690",
+  "https://openalex.org/W2020540597",
+  "https://openalex.org/W2035925506",
+  "https://openalex.org/W2039054801",
+  "https://openalex.org/W2062035537",
+  "https://openalex.org/W2071044366",
+  "https://openalex.org/W2076783780",
+  "https://openalex.org/W2103435373",
+  "https://openalex.org/W2140275726",
+  "https://openalex.org/W2317977625",
+  "https://openalex.org/W4242764942",
+  "https://openalex.org/W4246156563"
+ ],
+ "title": "Existence of Optimal Stochastic Control Laws"
+}

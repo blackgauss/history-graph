@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 53,
+ "doi": null,
+ "id": "https://openalex.org/W2150956999",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W71723769",
+  "https://openalex.org/W191129667",
+  "https://openalex.org/W1762709062",
+  "https://openalex.org/W2019502123",
+  "https://openalex.org/W2099741732",
+  "https://openalex.org/W2143421693",
+  "https://openalex.org/W2145012779",
+  "https://openalex.org/W2946776431"
+ ],
+ "title": "Sparse Code Shrinkage: Denoising by Nonlinear Maximum Likelihood Estimation"
+}

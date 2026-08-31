@@ -1,0 +1,153 @@
+{
+ "cited_by_count": 25758,
+ "counts_by_year": [
+  {
+   "cited_by_count": 8,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 27,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 373,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 379,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 619,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 3575,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 3435,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 2533,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 1591,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 1024,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 953,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 971,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 1050,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 1021,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 1004,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tnn.2004.842673",
+ "id": "https://openalex.org/W2121863487",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W24691574",
+  "https://openalex.org/W25062087",
+  "https://openalex.org/W46399430",
+  "https://openalex.org/W94523489",
+  "https://openalex.org/W162622153",
+  "https://openalex.org/W281438738",
+  "https://openalex.org/W597838264",
+  "https://openalex.org/W1524100745",
+  "https://openalex.org/W1535136082",
+  "https://openalex.org/W1535810436",
+  "https://openalex.org/W1538558539",
+  "https://openalex.org/W1540723801",
+  "https://openalex.org/W1548502347",
+  "https://openalex.org/W1569296262",
+  "https://openalex.org/W1569320505",
+  "https://openalex.org/W1573706465",
+  "https://openalex.org/W1603765807",
+  "https://openalex.org/W1686514609",
+  "https://openalex.org/W1966102928",
+  "https://openalex.org/W1970426424",
+  "https://openalex.org/W1972586294",
+  "https://openalex.org/W1973885534",
+  "https://openalex.org/W1974359798",
+  "https://openalex.org/W1982997797",
+  "https://openalex.org/W1984322890",
+  "https://openalex.org/W1984482772",
+  "https://openalex.org/W1997696513",
+  "https://openalex.org/W1998498767",
+  "https://openalex.org/W1999147675",
+  "https://openalex.org/W1999846231",
+  "https://openalex.org/W2014265988",
+  "https://openalex.org/W2020609518",
+  "https://openalex.org/W2021801581",
+  "https://openalex.org/W2026724928",
+  "https://openalex.org/W2028145673",
+  "https://openalex.org/W2035446426",
+  "https://openalex.org/W2035964492",
+  "https://openalex.org/W2039522160",
+  "https://openalex.org/W2040598998",
+  "https://openalex.org/W2054940200",
+  "https://openalex.org/W2058960948",
+  "https://openalex.org/W2061294832",
+  "https://openalex.org/W2062231579",
+  "https://openalex.org/W2064018461",
+  "https://openalex.org/W2066331521",
+  "https://openalex.org/W2071191888",
+  "https://openalex.org/W2074578177",
+  "https://openalex.org/W2076745543",
+  "https://openalex.org/W2084378698",
+  "https://openalex.org/W2084807600",
+  "https://openalex.org/W2091565802",
+  "https://openalex.org/W2092543186",
+  "https://openalex.org/W2100677568",
+  "https://openalex.org/W2106017103",
+  "https://openalex.org/W2115603988",
+  "https://openalex.org/W2118919066",
+  "https://openalex.org/W2137471868",
+  "https://openalex.org/W2148454341",
+  "https://openalex.org/W2160575156",
+  "https://openalex.org/W2165502261",
+  "https://openalex.org/W2166082022",
+  "https://openalex.org/W2250180543",
+  "https://openalex.org/W2283097928",
+  "https://openalex.org/W2301830273",
+  "https://openalex.org/W2332257675",
+  "https://openalex.org/W2341171179",
+  "https://openalex.org/W2418865491",
+  "https://openalex.org/W2539134531",
+  "https://openalex.org/W2749994996",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W2798944292",
+  "https://openalex.org/W2887196021",
+  "https://openalex.org/W3011120880",
+  "https://openalex.org/W3017143921",
+  "https://openalex.org/W3023540311",
+  "https://openalex.org/W3035235874",
+  "https://openalex.org/W3143893444",
+  "https://openalex.org/W3145837419",
+  "https://openalex.org/W3149412023",
+  "https://openalex.org/W3198350258",
+  "https://openalex.org/W4236063485",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Reinforcement Learning: An Introduction"
+}

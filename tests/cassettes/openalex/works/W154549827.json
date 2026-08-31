@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 26,
+ "doi": "https://doi.org/10.1007/11679363",
+ "id": "https://openalex.org/W154549827",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1511943923",
+  "https://openalex.org/W1561630551",
+  "https://openalex.org/W1573086287",
+  "https://openalex.org/W1579468022",
+  "https://openalex.org/W1772324104",
+  "https://openalex.org/W2134958708"
+ ],
+ "title": "Independent Component Analysis and Blind Signal Separation"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 577,
+ "doi": "https://doi.org/10.1287/opre.38.5.870",
+ "id": "https://openalex.org/W2110564123",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1602708939",
+  "https://openalex.org/W1970498072",
+  "https://openalex.org/W1979331981",
+  "https://openalex.org/W1980030032",
+  "https://openalex.org/W1981762909",
+  "https://openalex.org/W1988576875",
+  "https://openalex.org/W2022955173",
+  "https://openalex.org/W2039352564",
+  "https://openalex.org/W2061074135",
+  "https://openalex.org/W2069615938",
+  "https://openalex.org/W2075645389",
+  "https://openalex.org/W2079191980",
+  "https://openalex.org/W2104352034",
+  "https://openalex.org/W2124194695",
+  "https://openalex.org/W2135360423",
+  "https://openalex.org/W2934944248"
+ ],
+ "title": "Optimal Incentive-Compatible Priority Pricing for the M/M/1 Queue"
+}

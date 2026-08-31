@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1007/bf01343157",
+ "id": "https://openalex.org/W2015273168",
+ "publication_year": 1953,
+ "referenced_works": [
+  "https://openalex.org/W1986307708",
+  "https://openalex.org/W1988527251"
+ ],
+ "title": "Some self-dual primitive functions for Propositional Calculi"
+}

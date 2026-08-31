@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 314,
+ "doi": null,
+ "id": "https://openalex.org/W3043074253",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1488202922",
+  "https://openalex.org/W1527571715",
+  "https://openalex.org/W2000836282",
+  "https://openalex.org/W2024016936",
+  "https://openalex.org/W2099529102",
+  "https://openalex.org/W2157598146",
+  "https://openalex.org/W2166822586",
+  "https://openalex.org/W3144368627",
+  "https://openalex.org/W3148930403"
+ ],
+ "title": "System Design, Modeling, and Simulation using Ptolemy Ii"
+}

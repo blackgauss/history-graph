@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 41,
+ "doi": "https://doi.org/10.1006/jmre.1999.1851",
+ "id": "https://openalex.org/W2128096858",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W108936248",
+  "https://openalex.org/W1966604699",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W1980856895",
+  "https://openalex.org/W1996519437",
+  "https://openalex.org/W2002372750",
+  "https://openalex.org/W2011838718",
+  "https://openalex.org/W2031890195",
+  "https://openalex.org/W2036515821",
+  "https://openalex.org/W2043738084",
+  "https://openalex.org/W2066372066",
+  "https://openalex.org/W2079872400",
+  "https://openalex.org/W2091763699",
+  "https://openalex.org/W2096551755",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2157750135",
+  "https://openalex.org/W4251109627"
+ ],
+ "title": "Construction and Implementation of NMR Quantum Logic Gates for Two Spin Systems"
+}

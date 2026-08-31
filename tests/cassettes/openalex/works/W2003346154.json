@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 857,
+ "doi": "https://doi.org/10.1109/26.780463",
+ "id": "https://openalex.org/W2003346154",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W72753072",
+  "https://openalex.org/W1513400187",
+  "https://openalex.org/W1513716704",
+  "https://openalex.org/W1602900718",
+  "https://openalex.org/W2013668829",
+  "https://openalex.org/W2044852445",
+  "https://openalex.org/W2068505107",
+  "https://openalex.org/W2084286683",
+  "https://openalex.org/W2091712738",
+  "https://openalex.org/W2105177639",
+  "https://openalex.org/W2114094687",
+  "https://openalex.org/W2118130591",
+  "https://openalex.org/W2120655454",
+  "https://openalex.org/W2121523570",
+  "https://openalex.org/W2126169247",
+  "https://openalex.org/W2155420281",
+  "https://openalex.org/W2157179371",
+  "https://openalex.org/W2157529519",
+  "https://openalex.org/W2162779423",
+  "https://openalex.org/W6602878370"
+ ],
+ "title": "Achieving 100% throughput in an input-queued switch"
+}

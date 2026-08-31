@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 717,
+ "doi": "https://doi.org/10.1080/01621459.1998.10473750",
+ "id": "https://openalex.org/W2151832869",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1506069954",
+  "https://openalex.org/W1590476178",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1864487875",
+  "https://openalex.org/W1894704206",
+  "https://openalex.org/W1969557815",
+  "https://openalex.org/W1983661866",
+  "https://openalex.org/W2025653905",
+  "https://openalex.org/W2041902797",
+  "https://openalex.org/W2106706098",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2134696506",
+  "https://openalex.org/W2136796925",
+  "https://openalex.org/W2151908999",
+  "https://openalex.org/W2259472751",
+  "https://openalex.org/W2767396501",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W4212883601"
+ ],
+ "title": "Bayesian CART Model Search"
+}

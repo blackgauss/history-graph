@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 488,
+ "doi": "https://doi.org/10.1007/bf02125347",
+ "id": "https://openalex.org/W2901284226",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W23397926",
+  "https://openalex.org/W164275096",
+  "https://openalex.org/W184868352",
+  "https://openalex.org/W656708819",
+  "https://openalex.org/W1552744309",
+  "https://openalex.org/W1984080039",
+  "https://openalex.org/W1995563572",
+  "https://openalex.org/W1997272082",
+  "https://openalex.org/W1998400388",
+  "https://openalex.org/W2024130166",
+  "https://openalex.org/W2036161338",
+  "https://openalex.org/W2036556379",
+  "https://openalex.org/W2064197162",
+  "https://openalex.org/W2088164510",
+  "https://openalex.org/W2120888988",
+  "https://openalex.org/W2595295261",
+  "https://openalex.org/W2905110430"
+ ],
+ "title": "Quasi-random graphs"
+}

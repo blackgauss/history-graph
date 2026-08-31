@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 96,
+ "doi": "https://doi.org/10.1109/robot.2004.1302446",
+ "id": "https://openalex.org/W2125949049",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W79788886",
+  "https://openalex.org/W101771737",
+  "https://openalex.org/W1599105596",
+  "https://openalex.org/W2006370340",
+  "https://openalex.org/W2049822318",
+  "https://openalex.org/W2070183720",
+  "https://openalex.org/W2089316513",
+  "https://openalex.org/W2096459303",
+  "https://openalex.org/W2108658910",
+  "https://openalex.org/W2112332687",
+  "https://openalex.org/W2128437100",
+  "https://openalex.org/W2151405298",
+  "https://openalex.org/W2153669956",
+  "https://openalex.org/W2155789201",
+  "https://openalex.org/W2170777527",
+  "https://openalex.org/W2174167712",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6674829560",
+  "https://openalex.org/W6682855561",
+  "https://openalex.org/W6685069563"
+ ],
+ "title": "Evolving spiking neural network controllers for autonomous robots"
+}

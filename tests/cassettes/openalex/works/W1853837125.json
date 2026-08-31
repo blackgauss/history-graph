@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 270,
+ "doi": "https://doi.org/10.1007/978-3-540-87987-9_8",
+ "id": "https://openalex.org/W1853837125",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W167016754",
+  "https://openalex.org/W1647376582",
+  "https://openalex.org/W1755117326",
+  "https://openalex.org/W1966026565",
+  "https://openalex.org/W1974778955",
+  "https://openalex.org/W2000119679",
+  "https://openalex.org/W2032536435",
+  "https://openalex.org/W2044758663",
+  "https://openalex.org/W2062291443",
+  "https://openalex.org/W2103851188",
+  "https://openalex.org/W2112483442",
+  "https://openalex.org/W2119821739",
+  "https://openalex.org/W2137207609",
+  "https://openalex.org/W2139122730",
+  "https://openalex.org/W2139338362",
+  "https://openalex.org/W2142261479",
+  "https://openalex.org/W2144996578",
+  "https://openalex.org/W2148603752",
+  "https://openalex.org/W2158754421",
+  "https://openalex.org/W2326945647",
+  "https://openalex.org/W2330820318",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Sample Selection Bias Correction Theory"
+}

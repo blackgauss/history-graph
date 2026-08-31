@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 552,
+ "doi": "https://doi.org/10.1109/tac.1965.1098197",
+ "id": "https://openalex.org/W2055504162",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W573091656",
+  "https://openalex.org/W2070044386",
+  "https://openalex.org/W2493125351",
+  "https://openalex.org/W2986629677",
+  "https://openalex.org/W3015571647",
+  "https://openalex.org/W3035578948",
+  "https://openalex.org/W4213361014",
+  "https://openalex.org/W6780383567"
+ ],
+ "title": "Differential games and optimal pursuit-evasion strategies"
+}

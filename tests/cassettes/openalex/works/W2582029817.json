@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 564,
+ "doi": "https://doi.org/10.1038/30687",
+ "id": "https://openalex.org/W2582029817",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1784120331",
+  "https://openalex.org/W1966533239",
+  "https://openalex.org/W1996519437",
+  "https://openalex.org/W2002372750",
+  "https://openalex.org/W2067120233",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2084652510",
+  "https://openalex.org/W2096551755",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2179731956",
+  "https://openalex.org/W2911535936",
+  "https://openalex.org/W3037327543",
+  "https://openalex.org/W3101518480",
+  "https://openalex.org/W3106123690",
+  "https://openalex.org/W4242275969",
+  "https://openalex.org/W4245982273"
+ ],
+ "title": "Implementation of a quantum search algorithm on a quantum computer"
+}

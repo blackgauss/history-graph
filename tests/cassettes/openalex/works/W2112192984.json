@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 64,
+ "doi": "https://doi.org/10.1109/tai.1997.632261",
+ "id": "https://openalex.org/W2112192984",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W128763912",
+  "https://openalex.org/W1968143987",
+  "https://openalex.org/W1977545325",
+  "https://openalex.org/W1983362322",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2068886975",
+  "https://openalex.org/W2121217029",
+  "https://openalex.org/W2122410182",
+  "https://openalex.org/W2127856935",
+  "https://openalex.org/W2153839473",
+  "https://openalex.org/W2156081053",
+  "https://openalex.org/W2165858176",
+  "https://openalex.org/W2170826919",
+  "https://openalex.org/W2338905098",
+  "https://openalex.org/W2505968561",
+  "https://openalex.org/W4213060235",
+  "https://openalex.org/W6684722583"
+ ],
+ "title": "Prime implicant computation using satisfiability algorithms"
+}

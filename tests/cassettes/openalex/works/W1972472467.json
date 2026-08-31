@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 57,
+ "doi": "https://doi.org/10.1162/neco.1997.9.1.123",
+ "id": "https://openalex.org/W1972472467",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W86972778",
+  "https://openalex.org/W155854392",
+  "https://openalex.org/W1539835572",
+  "https://openalex.org/W1793537938",
+  "https://openalex.org/W1915676028",
+  "https://openalex.org/W2006544565",
+  "https://openalex.org/W2006903949",
+  "https://openalex.org/W2051812123",
+  "https://openalex.org/W2077658674",
+  "https://openalex.org/W2129907507",
+  "https://openalex.org/W2138747680",
+  "https://openalex.org/W2142426721",
+  "https://openalex.org/W2143908786",
+  "https://openalex.org/W2155530592",
+  "https://openalex.org/W2160208155",
+  "https://openalex.org/W2160699933",
+  "https://openalex.org/W2266946488",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3121126077",
+  "https://openalex.org/W3141890267"
+ ],
+ "title": "Partial BFGS Update and Efficient Step-Length Calculation for Three-Layer Neural Networks"
+}

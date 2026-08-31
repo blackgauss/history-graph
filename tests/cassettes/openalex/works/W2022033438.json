@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.1080/00207217908900986",
+ "id": "https://openalex.org/W2022033438",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W2000709659",
+  "https://openalex.org/W2155955306",
+  "https://openalex.org/W4256163591"
+ ],
+ "title": "A note on the implementation of three-valued unary operators with C-MOS integrated circuits"
+}

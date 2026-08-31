@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 72,
+ "doi": "https://doi.org/10.1145/74851.74870",
+ "id": "https://openalex.org/W3146423622",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1828150029",
+  "https://openalex.org/W1967141605",
+  "https://openalex.org/W2005373714",
+  "https://openalex.org/W2035209053",
+  "https://openalex.org/W2057954021",
+  "https://openalex.org/W2094642242",
+  "https://openalex.org/W2095687239",
+  "https://openalex.org/W2107460938",
+  "https://openalex.org/W2109978596",
+  "https://openalex.org/W2111223826",
+  "https://openalex.org/W2115294119",
+  "https://openalex.org/W2130493426",
+  "https://openalex.org/W2134806330",
+  "https://openalex.org/W4206109200",
+  "https://openalex.org/W4243651676",
+  "https://openalex.org/W4251556029",
+  "https://openalex.org/W4253541532",
+  "https://openalex.org/W4254126235"
+ ],
+ "title": "Leases: an efficient fault-tolerant mechanism for distributed file cache consistency"
+}

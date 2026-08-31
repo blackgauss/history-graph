@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 140,
+ "doi": "https://doi.org/10.1145/1713072.1713075",
+ "id": "https://openalex.org/W2139274913",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W130792636",
+  "https://openalex.org/W1550599556",
+  "https://openalex.org/W1574672204",
+  "https://openalex.org/W1592162257",
+  "https://openalex.org/W1622719107",
+  "https://openalex.org/W1836955865",
+  "https://openalex.org/W2035606364",
+  "https://openalex.org/W2113288530",
+  "https://openalex.org/W2115799914",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2131894525",
+  "https://openalex.org/W2134036778",
+  "https://openalex.org/W2147343704",
+  "https://openalex.org/W2147504831",
+  "https://openalex.org/W2147527217",
+  "https://openalex.org/W2147853062",
+  "https://openalex.org/W2148575324",
+  "https://openalex.org/W2163643788",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W2184317164",
+  "https://openalex.org/W4251772995",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6633084138"
+ ],
+ "title": "DiskReduce"
+}

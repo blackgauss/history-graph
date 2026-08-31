@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1016/0304-3975(81)90086-4",
+ "id": "https://openalex.org/W2050106235",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1497630311",
+  "https://openalex.org/W1988983596",
+  "https://openalex.org/W1991670662",
+  "https://openalex.org/W2059054133",
+  "https://openalex.org/W2076508310",
+  "https://openalex.org/W3083624088"
+ ],
+ "title": "On the existence of closed terms in the typed λ calculus II: Transformations of unification problems"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 432,
+ "doi": null,
+ "id": "https://openalex.org/W2147299889",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1506069954",
+  "https://openalex.org/W1528905581",
+  "https://openalex.org/W1579657217",
+  "https://openalex.org/W2058815839",
+  "https://openalex.org/W2061317273",
+  "https://openalex.org/W2079356438",
+  "https://openalex.org/W2113668251",
+  "https://openalex.org/W2142635246",
+  "https://openalex.org/W2332903284"
+ ],
+ "title": "The Effective Number of Parameters: An Analysis of Generalization and Regularization in Nonlinear Learning Systems"
+}

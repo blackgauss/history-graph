@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 501,
+ "doi": "https://doi.org/10.2307/2273659",
+ "id": "https://openalex.org/W1970227944",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W4861723",
+  "https://openalex.org/W623577274",
+  "https://openalex.org/W1451328194",
+  "https://openalex.org/W1488538795",
+  "https://openalex.org/W1590364596",
+  "https://openalex.org/W1972921902",
+  "https://openalex.org/W2110797966",
+  "https://openalex.org/W2119240423",
+  "https://openalex.org/W2154273644",
+  "https://openalex.org/W2476374105",
+  "https://openalex.org/W2491907033",
+  "https://openalex.org/W2505584480"
+ ],
+ "title": "A filter lambda model and the completeness of type assignment"
+}

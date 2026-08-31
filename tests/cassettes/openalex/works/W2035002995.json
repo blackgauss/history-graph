@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 115,
+ "doi": "https://doi.org/10.1007/bf02591943",
+ "id": "https://openalex.org/W2035002995",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W1533901482",
+  "https://openalex.org/W1602183298",
+  "https://openalex.org/W1981376511",
+  "https://openalex.org/W1984722404",
+  "https://openalex.org/W2012231377",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2043382734",
+  "https://openalex.org/W2051669046",
+  "https://openalex.org/W2054750834",
+  "https://openalex.org/W2059808679",
+  "https://openalex.org/W2061054410",
+  "https://openalex.org/W2062542688",
+  "https://openalex.org/W2086518770",
+  "https://openalex.org/W2122565324",
+  "https://openalex.org/W2171926168",
+  "https://openalex.org/W6636092844"
+ ],
+ "title": "QN-like variable storage conjugate gradients"
+}

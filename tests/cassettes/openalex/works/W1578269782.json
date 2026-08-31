@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 75,
+ "doi": null,
+ "id": "https://openalex.org/W1578269782",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1483342375",
+  "https://openalex.org/W1485145428",
+  "https://openalex.org/W1551374365",
+  "https://openalex.org/W1556601737",
+  "https://openalex.org/W1558832481",
+  "https://openalex.org/W1601637950",
+  "https://openalex.org/W1812691494",
+  "https://openalex.org/W1968210840",
+  "https://openalex.org/W1973382888",
+  "https://openalex.org/W1980446721",
+  "https://openalex.org/W1992810975",
+  "https://openalex.org/W1999276015",
+  "https://openalex.org/W2012670464",
+  "https://openalex.org/W2054458150",
+  "https://openalex.org/W2116476518",
+  "https://openalex.org/W2117242988",
+  "https://openalex.org/W2134600551",
+  "https://openalex.org/W2160825121"
+ ],
+ "title": "Expiring Data in a Warehouse"
+}

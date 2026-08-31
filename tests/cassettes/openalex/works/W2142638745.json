@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 2785,
+ "doi": "https://doi.org/10.1109/78.554307",
+ "id": "https://openalex.org/W2142638745",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W391578156",
+  "https://openalex.org/W1598283444",
+  "https://openalex.org/W1996355918",
+  "https://openalex.org/W2071307652",
+  "https://openalex.org/W2099741732",
+  "https://openalex.org/W2105461944",
+  "https://openalex.org/W2122393449",
+  "https://openalex.org/W2123694204",
+  "https://openalex.org/W2124757684",
+  "https://openalex.org/W2128967371",
+  "https://openalex.org/W2136082058",
+  "https://openalex.org/W2146019467",
+  "https://openalex.org/W2148558849",
+  "https://openalex.org/W2157050350",
+  "https://openalex.org/W2158539962",
+  "https://openalex.org/W2162752245",
+  "https://openalex.org/W2171723420",
+  "https://openalex.org/W2610857016",
+  "https://openalex.org/W2798909945"
+ ],
+ "title": "A blind source separation technique using second-order statistics"
+}

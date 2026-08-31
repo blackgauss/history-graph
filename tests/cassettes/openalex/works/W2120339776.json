@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 52,
+ "doi": "https://doi.org/10.1109/ipdps.2007.370266",
+ "id": "https://openalex.org/W2120339776",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1575732703",
+  "https://openalex.org/W1839908347",
+  "https://openalex.org/W1849362181",
+  "https://openalex.org/W1927942528",
+  "https://openalex.org/W1964225906",
+  "https://openalex.org/W1968819403",
+  "https://openalex.org/W1981573606",
+  "https://openalex.org/W2028583484",
+  "https://openalex.org/W2045271686",
+  "https://openalex.org/W2059807497",
+  "https://openalex.org/W2079726719",
+  "https://openalex.org/W2088943630",
+  "https://openalex.org/W2102061396",
+  "https://openalex.org/W2103817093",
+  "https://openalex.org/W2115828692",
+  "https://openalex.org/W2120490947",
+  "https://openalex.org/W2129137345",
+  "https://openalex.org/W2138628250",
+  "https://openalex.org/W2162991651",
+  "https://openalex.org/W3112399008",
+  "https://openalex.org/W4213227727",
+  "https://openalex.org/W4213327355",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6657721698"
+ ],
+ "title": "On the Design and Analysis of Irregular Algorithms on the Cell Processor: A Case Study of List Ranking"
+}

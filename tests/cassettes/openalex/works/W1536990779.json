@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 219,
+ "doi": "https://doi.org/10.1007/3-540-36755-1_25",
+ "id": "https://openalex.org/W1536990779",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W32403112",
+  "https://openalex.org/W135130342",
+  "https://openalex.org/W1540462738",
+  "https://openalex.org/W1557517019",
+  "https://openalex.org/W1576452626",
+  "https://openalex.org/W1585385982",
+  "https://openalex.org/W1977545325",
+  "https://openalex.org/W2090359754",
+  "https://openalex.org/W2109910161",
+  "https://openalex.org/W2121517924",
+  "https://openalex.org/W2125510930",
+  "https://openalex.org/W2139418546",
+  "https://openalex.org/W2141559645",
+  "https://openalex.org/W2143435603",
+  "https://openalex.org/W2157761128",
+  "https://openalex.org/W2160371091",
+  "https://openalex.org/W2167649597",
+  "https://openalex.org/W2343637401",
+  "https://openalex.org/W2912185451",
+  "https://openalex.org/W4212774754",
+  "https://openalex.org/W4252890894",
+  "https://openalex.org/W6678900246",
+  "https://openalex.org/W6684423385",
+  "https://openalex.org/W6992951189"
+ ],
+ "title": "Q-Cut—Dynamic Discovery of Sub-goals in Reinforcement Learning"
+}

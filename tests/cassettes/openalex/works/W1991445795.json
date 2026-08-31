@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 48,
+ "doi": "https://doi.org/10.1162/neco.1994.6.5.842",
+ "id": "https://openalex.org/W1991445795",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W196871588",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1975790950",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2052770656",
+  "https://openalex.org/W2066789935",
+  "https://openalex.org/W2091401625",
+  "https://openalex.org/W2106326515",
+  "https://openalex.org/W2117049614",
+  "https://openalex.org/W2134331967",
+  "https://openalex.org/W4238893454"
+ ],
+ "title": "Loading Deep Networks Is Hard"
+}

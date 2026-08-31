@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 84,
+ "doi": "https://doi.org/10.1088/0954-898x_1_3_001",
+ "id": "https://openalex.org/W2150863395",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W387212283",
+  "https://openalex.org/W1563123967",
+  "https://openalex.org/W2032325265",
+  "https://openalex.org/W2060365990",
+  "https://openalex.org/W2079628376",
+  "https://openalex.org/W2087103619",
+  "https://openalex.org/W2105672294",
+  "https://openalex.org/W2115718308",
+  "https://openalex.org/W2122925692",
+  "https://openalex.org/W2165746994",
+  "https://openalex.org/W2171490281",
+  "https://openalex.org/W2432567885",
+  "https://openalex.org/W2608012057",
+  "https://openalex.org/W2764508228",
+  "https://openalex.org/W2802633207",
+  "https://openalex.org/W2990374570",
+  "https://openalex.org/W4302330257"
+ ],
+ "title": "Analysis of Linsker's application of Hebbian rules to linear networks"
+}

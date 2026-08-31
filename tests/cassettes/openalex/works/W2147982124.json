@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 69,
+ "doi": null,
+ "id": "https://openalex.org/W2147982124",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W93415635",
+  "https://openalex.org/W1486950299",
+  "https://openalex.org/W1508509952",
+  "https://openalex.org/W1527949739",
+  "https://openalex.org/W1584583269",
+  "https://openalex.org/W1680189815",
+  "https://openalex.org/W1987550262",
+  "https://openalex.org/W2010915529",
+  "https://openalex.org/W2095976990",
+  "https://openalex.org/W2103478416",
+  "https://openalex.org/W2108509742",
+  "https://openalex.org/W2116416325",
+  "https://openalex.org/W2120433382",
+  "https://openalex.org/W2122841972",
+  "https://openalex.org/W2134479759",
+  "https://openalex.org/W2135581534",
+  "https://openalex.org/W2157316274",
+  "https://openalex.org/W2159024459",
+  "https://openalex.org/W2164600289",
+  "https://openalex.org/W2168717408",
+  "https://openalex.org/W2295117679",
+  "https://openalex.org/W2296319761",
+  "https://openalex.org/W2546927405",
+  "https://openalex.org/W2911978475"
+ ],
+ "title": "A utility-theoretic approach to privacy and personalization"
+}

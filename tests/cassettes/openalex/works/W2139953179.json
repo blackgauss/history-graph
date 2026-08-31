@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 67,
+ "doi": "https://doi.org/10.1109/tkde.2007.190640",
+ "id": "https://openalex.org/W2139953179",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1557681559",
+  "https://openalex.org/W1560940927",
+  "https://openalex.org/W1603910973",
+  "https://openalex.org/W1912684809",
+  "https://openalex.org/W1975503278",
+  "https://openalex.org/W1989068254",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2080050718",
+  "https://openalex.org/W2085479788",
+  "https://openalex.org/W2101406716",
+  "https://openalex.org/W2125045187",
+  "https://openalex.org/W2295199083",
+  "https://openalex.org/W2338483434",
+  "https://openalex.org/W4250046281",
+  "https://openalex.org/W4252710794",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6640047298",
+  "https://openalex.org/W6678632791"
+ ],
+ "title": "Optimal Scheduling and Placement of Internet Banner Advertisements"
+}

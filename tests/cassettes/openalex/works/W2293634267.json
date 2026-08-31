@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 2986,
+ "doi": "https://doi.org/10.21437/interspeech.2014-80",
+ "id": "https://openalex.org/W2293634267",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W179875071",
+  "https://openalex.org/W811578723",
+  "https://openalex.org/W1499864241",
+  "https://openalex.org/W1993882792",
+  "https://openalex.org/W2005708641",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2070725064",
+  "https://openalex.org/W2079735306",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2121029939",
+  "https://openalex.org/W2122585011",
+  "https://openalex.org/W2133676762",
+  "https://openalex.org/W2136848157",
+  "https://openalex.org/W2143612262",
+  "https://openalex.org/W2147768505",
+  "https://openalex.org/W2158373110",
+  "https://openalex.org/W2159505618",
+  "https://openalex.org/W2168231600",
+  "https://openalex.org/W2184045248",
+  "https://openalex.org/W2296748324",
+  "https://openalex.org/W2402268235",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Long short-term memory recurrent neural network architectures for large scale acoustic modeling"
+}

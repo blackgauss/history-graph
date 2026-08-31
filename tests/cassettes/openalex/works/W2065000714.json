@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1145/2124295.2124332",
+ "id": "https://openalex.org/W2065000714",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W132862629",
+  "https://openalex.org/W1518755039",
+  "https://openalex.org/W1600999481",
+  "https://openalex.org/W1735712825",
+  "https://openalex.org/W2033101724",
+  "https://openalex.org/W2062714536",
+  "https://openalex.org/W2112374041",
+  "https://openalex.org/W2123110149",
+  "https://openalex.org/W2168796947",
+  "https://openalex.org/W2171110693",
+  "https://openalex.org/W2612690410",
+  "https://openalex.org/W3099334004",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3124570582",
+  "https://openalex.org/W4231144620"
+ ],
+ "title": "Sponsored search auctions with conflict constraints"
+}

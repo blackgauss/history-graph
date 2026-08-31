@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 35,
+ "doi": "https://doi.org/10.1007/11941439_89",
+ "id": "https://openalex.org/W1556687538",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1480636508",
+  "https://openalex.org/W1495369628",
+  "https://openalex.org/W1497256448",
+  "https://openalex.org/W1505051593",
+  "https://openalex.org/W1510595267",
+  "https://openalex.org/W1556566737",
+  "https://openalex.org/W1593288312",
+  "https://openalex.org/W1595276356",
+  "https://openalex.org/W1836483134",
+  "https://openalex.org/W2005030466",
+  "https://openalex.org/W2053580308",
+  "https://openalex.org/W2066930380",
+  "https://openalex.org/W2139906094",
+  "https://openalex.org/W2158505527",
+  "https://openalex.org/W2297395784"
+ ],
+ "title": "Extracting Minimum Unsatisfiable Cores with a Greedy Genetic Algorithm"
+}

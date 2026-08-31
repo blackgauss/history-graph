@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 35,
+ "doi": null,
+ "id": "https://openalex.org/W201201677",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W17848792",
+  "https://openalex.org/W147413550",
+  "https://openalex.org/W1515483637",
+  "https://openalex.org/W1538982672",
+  "https://openalex.org/W2094000038",
+  "https://openalex.org/W2124155427",
+  "https://openalex.org/W2306375598",
+  "https://openalex.org/W2747252189",
+  "https://openalex.org/W2747978433"
+ ],
+ "title": "Modeling mechtronic systems using the SIDOPS+ language"
+}

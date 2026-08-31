@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 311,
+ "doi": null,
+ "id": "https://openalex.org/W117096852",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W1512929444",
+  "https://openalex.org/W1980658026",
+  "https://openalex.org/W2013239224",
+  "https://openalex.org/W2042492924",
+  "https://openalex.org/W2045908891",
+  "https://openalex.org/W2132214213"
+ ],
+ "title": "Modular learning in neural networks"
+}

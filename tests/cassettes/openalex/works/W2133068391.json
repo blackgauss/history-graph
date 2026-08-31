@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 3160,
+ "doi": "https://doi.org/10.1109/tit.1981.1056404",
+ "id": "https://openalex.org/W2133068391",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1519307995",
+  "https://openalex.org/W1537824340",
+  "https://openalex.org/W1594652978",
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1981159511",
+  "https://openalex.org/W2041994515",
+  "https://openalex.org/W2064759901",
+  "https://openalex.org/W2073751194",
+  "https://openalex.org/W2128765501",
+  "https://openalex.org/W2131310741",
+  "https://openalex.org/W2143781601",
+  "https://openalex.org/W2167456066",
+  "https://openalex.org/W2182112064",
+  "https://openalex.org/W2293855776",
+  "https://openalex.org/W2912810145",
+  "https://openalex.org/W4246544804",
+  "https://openalex.org/W4300188436"
+ ],
+ "title": "A recursive approach to low complexity codes"
+}

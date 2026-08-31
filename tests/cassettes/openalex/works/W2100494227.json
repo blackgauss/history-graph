@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 52,
+ "doi": null,
+ "id": "https://openalex.org/W2100494227",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1654787807",
+  "https://openalex.org/W1976990135",
+  "https://openalex.org/W2039263963",
+  "https://openalex.org/W2069543779",
+  "https://openalex.org/W2117063635",
+  "https://openalex.org/W2117812871",
+  "https://openalex.org/W2141274633",
+  "https://openalex.org/W2161767008",
+  "https://openalex.org/W2408196097"
+ ],
+ "title": "Efficient Approaches to Gaussian Process Classification"
+}

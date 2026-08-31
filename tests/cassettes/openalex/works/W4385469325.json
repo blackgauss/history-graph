@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 351,
+ "counts_by_year": [
+  {
+   "cited_by_count": 67,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 149,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 112,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2022
+  }
+ ],
+ "doi": "https://doi.org/10.1109/ojcs.2023.3300321",
+ "id": "https://openalex.org/W4385469325",
+ "publication_year": 2023,
+ "title": "A Survey on ChatGPT: AI–Generated Contents, Challenges, and Solutions"
+}

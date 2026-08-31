@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 23,
+ "doi": "https://doi.org/10.1109/tc.1976.1674678",
+ "id": "https://openalex.org/W1984527781",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W2023429608",
+  "https://openalex.org/W2025264497",
+  "https://openalex.org/W2028206183",
+  "https://openalex.org/W2049635747",
+  "https://openalex.org/W2061734844",
+  "https://openalex.org/W2068422506",
+  "https://openalex.org/W2076756604",
+  "https://openalex.org/W2079951723",
+  "https://openalex.org/W2089860941",
+  "https://openalex.org/W2156028311",
+  "https://openalex.org/W2541515605"
+ ],
+ "title": "A Numerical Expansion Technique and Its Application to Minimal Multiplexer Logic Circuits"
+}

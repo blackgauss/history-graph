@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 43,
+ "doi": "https://doi.org/10.4230/lipics.itcs.2025.71",
+ "id": "https://openalex.org/W1535778211",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1969865855",
+  "https://openalex.org/W1999914841",
+  "https://openalex.org/W2012496360",
+  "https://openalex.org/W2024588775",
+  "https://openalex.org/W2040958198",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2084652510",
+  "https://openalex.org/W2121507438",
+  "https://openalex.org/W2122780600",
+  "https://openalex.org/W2122848498",
+  "https://openalex.org/W2126323053",
+  "https://openalex.org/W2127259150",
+  "https://openalex.org/W2135558125",
+  "https://openalex.org/W2144385516",
+  "https://openalex.org/W2150340379",
+  "https://openalex.org/W2175167577",
+  "https://openalex.org/W2962735120",
+  "https://openalex.org/W2969561584",
+  "https://openalex.org/W3041308142"
+ ],
+ "title": "Exact quantum query complexity for total Boolean functions"
+}

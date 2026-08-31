@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 330,
+ "doi": "https://doi.org/10.1137/0128010",
+ "id": "https://openalex.org/W2170862660",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W1986119538",
+  "https://openalex.org/W1995228946",
+  "https://openalex.org/W1996955268",
+  "https://openalex.org/W2018582985",
+  "https://openalex.org/W2104641770",
+  "https://openalex.org/W2107327484",
+  "https://openalex.org/W2141432745",
+  "https://openalex.org/W3038830718"
+ ],
+ "title": "On Sequences of Pairs of Dependent Random Variables"
+}

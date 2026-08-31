@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 12008,
+ "doi": "https://doi.org/10.1162/neco.1989.1.4.541",
+ "id": "https://openalex.org/W2147800946",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W19621276",
+  "https://openalex.org/W56903235",
+  "https://openalex.org/W169539560",
+  "https://openalex.org/W1965770722",
+  "https://openalex.org/W2058841211",
+  "https://openalex.org/W2101926813",
+  "https://openalex.org/W2116360511",
+  "https://openalex.org/W2153988646",
+  "https://openalex.org/W2157475639",
+  "https://openalex.org/W2165758113",
+  "https://openalex.org/W2167277568",
+  "https://openalex.org/W2169163929",
+  "https://openalex.org/W2606594511",
+  "https://openalex.org/W2766736793"
+ ],
+ "title": "Backpropagation Applied to Handwritten Zip Code Recognition"
+}

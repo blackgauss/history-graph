@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 136,
+ "doi": "https://doi.org/10.1007/bf00532234",
+ "id": "https://openalex.org/W2042179958",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W157613944",
+  "https://openalex.org/W1481161909",
+  "https://openalex.org/W1482455015",
+  "https://openalex.org/W1502753447",
+  "https://openalex.org/W1602967628",
+  "https://openalex.org/W1990770240",
+  "https://openalex.org/W1997204748",
+  "https://openalex.org/W2070314771",
+  "https://openalex.org/W2091603956",
+  "https://openalex.org/W2137037182",
+  "https://openalex.org/W2334095483",
+  "https://openalex.org/W2561199689",
+  "https://openalex.org/W2600759753",
+  "https://openalex.org/W4238476036",
+  "https://openalex.org/W4300023393"
+ ],
+ "title": "Geometric bounds on the Ornstein-Uhlenbeck velocity process"
+}

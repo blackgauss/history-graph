@@ -1,0 +1,609 @@
+{
+ "abstract_inverted_index": {
+  "Google's": [
+   184
+  ],
+  "Many": [
+   49
+  ],
+  "MapReduce": [
+   0,
+   134,
+   149,
+   169,
+   179
+  ],
+  "Programmers": [
+   160
+  ],
+  "The": [
+   80
+  ],
+  "This": [
+   111
+  ],
+  "Users": [
+   16
+  ],
+  "a": [
+   2,
+   18,
+   23,
+   28,
+   35,
+   74,
+   98,
+   128,
+   137,
+   147
+  ],
+  "across": [
+   97
+  ],
+  "all": [
+   40
+  ],
+  "allows": [
+   112
+  ],
+  "an": [
+   6
+  ],
+  "and": [
+   5,
+   11,
+   34,
+   71,
+   105,
+   119,
+   143,
+   174
+  ],
+  "any": [
+   115
+  ],
+  "are": [
+   53,
+   68,
+   181
+  ],
+  "as": [
+   58
+  ],
+  "associated": [
+   7,
+   43
+  ],
+  "automatically": [
+   69
+  ],
+  "been": [
+   172
+  ],
+  "care": [
+   84
+  ],
+  "cluster": [
+   76,
+   139
+  ],
+  "clusters": [
+   185
+  ],
+  "commodity": [
+   78,
+   141
+  ],
+  "communication.": [
+   110
+  ],
+  "computation": [
+   150
+  ],
+  "data": [
+   14,
+   155
+  ],
+  "data,": [
+   92
+  ],
+  "day.": [
+   187
+  ],
+  "details": [
+   87
+  ],
+  "distributed": [
+   120,
+   130
+  ],
+  "easily": [
+   123
+  ],
+  "easy": [
+   164
+  ],
+  "every": [
+   186
+  ],
+  "executed": [
+   72,
+   182
+  ],
+  "execution": [
+   96
+  ],
+  "experience": [
+   116
+  ],
+  "expressible": [
+   54
+  ],
+  "failures,": [
+   104
+  ],
+  "find": [
+   161
+  ],
+  "for": [
+   9
+  ],
+  "function": [
+   20,
+   37
+  ],
+  "functional": [
+   66
+  ],
+  "generate": [
+   27
+  ],
+  "generating": [
+   12
+  ],
+  "handling": [
+   102
+  ],
+  "have": [
+   171
+  ],
+  "highly": [
+   145
+  ],
+  "hundreds": [
+   167
+  ],
+  "implementation": [
+   8,
+   132
+  ],
+  "implemented": [
+   173
+  ],
+  "in": [
+   55,
+   60,
+   64
+  ],
+  "input": [
+   91
+  ],
+  "inter-machine": [
+   109
+  ],
+  "intermediate": [
+   31,
+   41,
+   47
+  ],
+  "is": [
+   1,
+   144
+  ],
+  "jobs": [
+   180
+  ],
+  "key.": [
+   48
+  ],
+  "key/value": [
+   24,
+   32
+  ],
+  "large": [
+   13,
+   75,
+   129,
+   138
+  ],
+  "machine": [
+   103
+  ],
+  "machines": [
+   142
+  ],
+  "machines,": [
+   101
+  ],
+  "machines.": [
+   79,
+   159
+  ],
+  "managing": [
+   106
+  ],
+  "many": [
+   152
+  ],
+  "map": [
+   19
+  ],
+  "merges": [
+   39
+  ],
+  "model": [
+   4
+  ],
+  "model,": [
+   57
+  ],
+  "of": [
+   30,
+   77,
+   85,
+   88,
+   100,
+   127,
+   133,
+   140,
+   154,
+   158,
+   168,
+   176
+  ],
+  "on": [
+   73,
+   136,
+   156,
+   183
+  ],
+  "one": [
+   177
+  ],
+  "pair": [
+   25
+  ],
+  "pairs,": [
+   33
+  ],
+  "paper.\r\n\r\nPrograms": [
+   62
+  ],
+  "parallel": [
+   118
+  ],
+  "parallelized": [
+   70
+  ],
+  "partitioning": [
+   89
+  ],
+  "processes": [
+   22,
+   151
+  ],
+  "processing": [
+   10
+  ],
+  "program's": [
+   95
+  ],
+  "programmers": [
+   113
+  ],
+  "programming": [
+   3
+  ],
+  "programs": [
+   170
+  ],
+  "real": [
+   50
+  ],
+  "reduce": [
+   36
+  ],
+  "required": [
+   108
+  ],
+  "resources": [
+   126
+  ],
+  "run-time": [
+   81
+  ],
+  "runs": [
+   135
+  ],
+  "same": [
+   46
+  ],
+  "scalable:": [
+   146
+  ],
+  "scheduling": [
+   93
+  ],
+  "set": [
+   29,
+   99
+  ],
+  "sets.": [
+   15
+  ],
+  "shown": [
+   59
+  ],
+  "specify": [
+   17
+  ],
+  "style": [
+   67
+  ],
+  "system": [
+   82,
+   163
+  ],
+  "system.\r\n\r\nOur": [
+   131
+  ],
+  "systems": [
+   121
+  ],
+  "takes": [
+   83
+  ],
+  "tasks": [
+   52
+  ],
+  "terabytes": [
+   153
+  ],
+  "that": [
+   21,
+   38
+  ],
+  "the": [
+   45,
+   61,
+   86,
+   90,
+   94,
+   107,
+   125,
+   162
+  ],
+  "this": [
+   56,
+   65
+  ],
+  "thousand": [
+   178
+  ],
+  "thousands": [
+   157
+  ],
+  "to": [
+   26,
+   122,
+   165
+  ],
+  "typical": [
+   148
+  ],
+  "upwards": [
+   175
+  ],
+  "use:": [
+   166
+  ],
+  "utilize": [
+   124
+  ],
+  "values": [
+   42
+  ],
+  "with": [
+   44,
+   117
+  ],
+  "without": [
+   114
+  ],
+  "world": [
+   51
+  ],
+  "written": [
+   63
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ],
+     "raw_affiliation_string": "GOOGLE INC "
+    }
+   ],
+   "author": {
+    "display_name": "Muthu Dayalan",
+    "id": "https://openalex.org/A5008595743",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Google (United States)",
+     "id": "https://openalex.org/I1291425158",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ],
+     "ror": "https://ror.org/00njsd438",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "GOOGLE INC "
+   ],
+   "raw_author_name": "Muthu Dayalan",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 2981,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 116,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 92,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 123,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 218,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 273,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 290,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 328,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 314,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 309,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 256,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.21276/ijre.2018.5.5.4",
+ "funders": [],
+ "id": "https://openalex.org/W2122465391",
+ "ids": {
+  "doi": "https://doi.org/10.21276/ijre.2018.5.5.4",
+  "mag": "2122465391",
+  "openalex": "https://openalex.org/W2122465391"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.21276/ijre.2018.5.5.4",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.21276/ijre.2018.5.5.4",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "International Journal of Research and Engineering",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "INTERNATIONAL JOURNAL OF RESEARCH AND ENGINEERING",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S2764423898",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "2348-7852",
+    "2348-7860"
+   ],
+   "issn_l": "2348-7852",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2018,
+ "referenced_works": [
+  "https://openalex.org/W1776654319",
+  "https://openalex.org/W1988243929",
+  "https://openalex.org/W2026015769",
+  "https://openalex.org/W2044534358",
+  "https://openalex.org/W2045271686",
+  "https://openalex.org/W2058972589",
+  "https://openalex.org/W2073965851",
+  "https://openalex.org/W2082693041",
+  "https://openalex.org/W2087977509",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2133338501",
+  "https://openalex.org/W2133718097",
+  "https://openalex.org/W2143462372",
+  "https://openalex.org/W2156563037"
+ ],
+ "related_works": [
+  "https://openalex.org/W2936171637",
+  "https://openalex.org/W1586214342",
+  "https://openalex.org/W2260589296",
+  "https://openalex.org/W3157828377",
+  "https://openalex.org/W181157820",
+  "https://openalex.org/W3137329302",
+  "https://openalex.org/W4241817935",
+  "https://openalex.org/W2937168573",
+  "https://openalex.org/W2805468299",
+  "https://openalex.org/W2990494149"
+ ],
+ "title": "MapReduce: Simplified Data Processing on Large Cluster",
+ "type": "article"
+}

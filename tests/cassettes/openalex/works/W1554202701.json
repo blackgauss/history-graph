@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.48550/arxiv.math/0402357",
+ "id": "https://openalex.org/W1554202701",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1491547160",
+  "https://openalex.org/W1965171516",
+  "https://openalex.org/W1968480390",
+  "https://openalex.org/W1997093580",
+  "https://openalex.org/W2009880502",
+  "https://openalex.org/W2030829301",
+  "https://openalex.org/W2033623440",
+  "https://openalex.org/W2037979101",
+  "https://openalex.org/W2093942099",
+  "https://openalex.org/W2327759640",
+  "https://openalex.org/W2331474992",
+  "https://openalex.org/W2479041172",
+  "https://openalex.org/W2995136929"
+ ],
+ "title": "A Brief Survey of the History of the Calculus of Variations and its Applications"
+}

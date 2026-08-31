@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 258,
+ "doi": "https://doi.org/10.1007/bf01531077",
+ "id": "https://openalex.org/W2085301456",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1514729613",
+  "https://openalex.org/W2011992362",
+  "https://openalex.org/W2022695609",
+  "https://openalex.org/W2027627501",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2043496800",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2075469844",
+  "https://openalex.org/W2092931458",
+  "https://openalex.org/W2104094082",
+  "https://openalex.org/W2401610261"
+ ],
+ "title": "Solving propositional satisfiability problems"
+}

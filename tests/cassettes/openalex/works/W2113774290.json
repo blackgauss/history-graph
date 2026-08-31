@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 32,
+ "doi": "https://doi.org/10.1007/978-1-4613-1461-5_18",
+ "id": "https://openalex.org/W2113774290",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W30570718",
+  "https://openalex.org/W1504840202",
+  "https://openalex.org/W1542689573",
+  "https://openalex.org/W1553701556",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1582971263",
+  "https://openalex.org/W1584679449",
+  "https://openalex.org/W1822488028",
+  "https://openalex.org/W2097412459",
+  "https://openalex.org/W4232953319",
+  "https://openalex.org/W6630431088"
+ ],
+ "title": "Maintenance of Reducts in the Variable Precision Rough Set Model"
+}

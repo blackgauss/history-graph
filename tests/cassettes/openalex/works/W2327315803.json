@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 1729,
+ "doi": "https://doi.org/10.6028/jres.069b.013",
+ "id": "https://openalex.org/W2327315803",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W2041670460",
+  "https://openalex.org/W2335597645"
+ ],
+ "title": "Maximum matching and a polyhedron with 0,1-vertices"
+}

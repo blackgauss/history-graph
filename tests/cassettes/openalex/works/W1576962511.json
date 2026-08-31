@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 754,
+ "doi": "https://doi.org/10.1007/bfb0014141",
+ "id": "https://openalex.org/W1576962511",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W85229681",
+  "https://openalex.org/W128984794",
+  "https://openalex.org/W1487801850",
+  "https://openalex.org/W1533169541",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1704669313",
+  "https://openalex.org/W1864487875",
+  "https://openalex.org/W1983661866",
+  "https://openalex.org/W2100406636",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2142334564",
+  "https://openalex.org/W3112596628",
+  "https://openalex.org/W6603471097"
+ ],
+ "title": "SLIQ: A fast scalable classifier for data mining"
+}

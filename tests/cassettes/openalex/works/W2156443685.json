@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 68,
+ "doi": "https://doi.org/10.1109/tc.1977.1674784",
+ "id": "https://openalex.org/W2156443685",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W2038627227",
+  "https://openalex.org/W2064360209",
+  "https://openalex.org/W2083376242",
+  "https://openalex.org/W2085128571",
+  "https://openalex.org/W2101400068",
+  "https://openalex.org/W2106539401",
+  "https://openalex.org/W2120316627",
+  "https://openalex.org/W2403194715"
+ ],
+ "title": "Multivalued Integrated Injection Logic"
+}

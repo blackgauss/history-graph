@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1109/jssc.1979.1051205",
+ "id": "https://openalex.org/W2131743805",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1626490733",
+  "https://openalex.org/W1830597958",
+  "https://openalex.org/W2012039615",
+  "https://openalex.org/W2045339231",
+  "https://openalex.org/W2060723450",
+  "https://openalex.org/W2062743520",
+  "https://openalex.org/W2128394531",
+  "https://openalex.org/W2517354429",
+  "https://openalex.org/W6726690041"
+ ],
+ "title": "Analog-binary CCD correlator: a VLSI signal processor"
+}

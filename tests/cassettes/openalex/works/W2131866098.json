@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 77,
+ "doi": "https://doi.org/10.1109/istcs.1993.253488",
+ "id": "https://openalex.org/W2131866098",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W639289183",
+  "https://openalex.org/W1964089073",
+  "https://openalex.org/W1985433872",
+  "https://openalex.org/W2017290750",
+  "https://openalex.org/W2020105007",
+  "https://openalex.org/W2023915883",
+  "https://openalex.org/W2041210515",
+  "https://openalex.org/W2055756054",
+  "https://openalex.org/W2066720893",
+  "https://openalex.org/W2070678975",
+  "https://openalex.org/W2071114738",
+  "https://openalex.org/W2079401865",
+  "https://openalex.org/W2086814302",
+  "https://openalex.org/W2094500233",
+  "https://openalex.org/W2097512637",
+  "https://openalex.org/W2100061495",
+  "https://openalex.org/W6670577890",
+  "https://openalex.org/W6672222001"
+ ],
+ "title": "Deterministic approximate counting of depth-2 circuits"
+}

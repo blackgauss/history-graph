@@ -1,0 +1,10 @@
+{
+ "cited_by_count": 16,
+ "doi": "https://doi.org/10.1145/210376.210406",
+ "id": "https://openalex.org/W2005178203",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W2137865376"
+ ],
+ "title": "On the computational complexity of bisimulation"
+}

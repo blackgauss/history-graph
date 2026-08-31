@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 114,
+ "doi": "https://doi.org/10.1145/582250.582267",
+ "id": "https://openalex.org/W2084011265",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1509443229",
+  "https://openalex.org/W2059003054",
+  "https://openalex.org/W2129303183",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Systolic (VLSI) arrays for relational database operations"
+}

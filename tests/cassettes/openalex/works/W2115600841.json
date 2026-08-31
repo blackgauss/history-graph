@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 240,
+ "doi": "https://doi.org/10.1145/37499.37518",
+ "id": "https://openalex.org/W2115600841",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W178848230",
+  "https://openalex.org/W1605568660",
+  "https://openalex.org/W1993035107",
+  "https://openalex.org/W1994593991",
+  "https://openalex.org/W2038598470",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2057954021",
+  "https://openalex.org/W2087747577",
+  "https://openalex.org/W2105986919",
+  "https://openalex.org/W2106887953",
+  "https://openalex.org/W2109318628",
+  "https://openalex.org/W2114167330",
+  "https://openalex.org/W2115294119",
+  "https://openalex.org/W2122633355",
+  "https://openalex.org/W2131238817",
+  "https://openalex.org/W2170262285",
+  "https://openalex.org/W4229825759",
+  "https://openalex.org/W4252364404",
+  "https://openalex.org/W6648575615"
+ ],
+ "title": "Reimplementing the Cedar file system using logging and group commit"
+}

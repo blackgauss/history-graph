@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 146,
+ "counts_by_year": [
+  {
+   "cited_by_count": 24,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 62,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 40,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3485447.3512222",
+ "id": "https://openalex.org/W3209576002",
+ "publication_year": 2022,
+ "title": "Federated Unlearning via Class-Discriminative Pruning"
+}

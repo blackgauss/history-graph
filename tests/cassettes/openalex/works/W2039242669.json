@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 55,
+ "doi": "https://doi.org/10.1007/bf00533600",
+ "id": "https://openalex.org/W2039242669",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W956452060",
+  "https://openalex.org/W1970248935",
+  "https://openalex.org/W1985089926",
+  "https://openalex.org/W2027445645",
+  "https://openalex.org/W2030571568",
+  "https://openalex.org/W2086602917",
+  "https://openalex.org/W2168813162",
+  "https://openalex.org/W2208349347",
+  "https://openalex.org/W2268010352",
+  "https://openalex.org/W2314546542",
+  "https://openalex.org/W2319020474",
+  "https://openalex.org/W2334237942",
+  "https://openalex.org/W2564266583",
+  "https://openalex.org/W2768284459",
+  "https://openalex.org/W2799137445",
+  "https://openalex.org/W4253506393"
+ ],
+ "title": "On the limit theorems for random variables with values in the spaces L p (2?p<?)"
+}

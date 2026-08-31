@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.1007/bf02360875",
+ "id": "https://openalex.org/W2007367234",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W63727357",
+  "https://openalex.org/W166906646",
+  "https://openalex.org/W1488877410",
+  "https://openalex.org/W1490039160",
+  "https://openalex.org/W1548792320",
+  "https://openalex.org/W1559907478",
+  "https://openalex.org/W2040742917",
+  "https://openalex.org/W2069142066",
+  "https://openalex.org/W2077543318",
+  "https://openalex.org/W2121610556",
+  "https://openalex.org/W2130859329",
+  "https://openalex.org/W3021591933"
+ ],
+ "title": "On a method for interpolating functions on chaotic nets"
+}

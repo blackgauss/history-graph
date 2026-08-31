@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 320,
+ "doi": "https://doi.org/10.1016/0893-6080(94)90030-2",
+ "id": "https://openalex.org/W2067057029",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W46981156",
+  "https://openalex.org/W1510569944",
+  "https://openalex.org/W1965018665",
+  "https://openalex.org/W1976990135",
+  "https://openalex.org/W1988510112",
+  "https://openalex.org/W2029056003",
+  "https://openalex.org/W2068805783",
+  "https://openalex.org/W2106988883",
+  "https://openalex.org/W2118496821",
+  "https://openalex.org/W2118597606",
+  "https://openalex.org/W2120087808",
+  "https://openalex.org/W2120224355",
+  "https://openalex.org/W3022436500",
+  "https://openalex.org/W3149348938",
+  "https://openalex.org/W4230661391",
+  "https://openalex.org/W4244875545",
+  "https://openalex.org/W6601899224",
+  "https://openalex.org/W6635717905",
+  "https://openalex.org/W6641651342",
+  "https://openalex.org/W6647139926"
+ ],
+ "title": "Stock performance modeling using neural networks: A comparative study with regression models"
+}

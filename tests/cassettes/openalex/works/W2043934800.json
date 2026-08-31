@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 819,
+ "doi": "https://doi.org/10.1145/602259.602261",
+ "id": "https://openalex.org/W2043934800",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1554541706",
+  "https://openalex.org/W1964111545",
+  "https://openalex.org/W1989969574",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2069184244",
+  "https://openalex.org/W2076627572",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2161694911",
+  "https://openalex.org/W2172126130",
+  "https://openalex.org/W4235438570",
+  "https://openalex.org/W4285042649",
+  "https://openalex.org/W6609212878",
+  "https://openalex.org/W6653372137",
+  "https://openalex.org/W6667708577",
+  "https://openalex.org/W6680456638",
+  "https://openalex.org/W6684035700",
+  "https://openalex.org/W6685375582"
+ ],
+ "title": "Implementation techniques for main memory database systems"
+}

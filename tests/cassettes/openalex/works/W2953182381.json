@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 4,
+ "doi": "https://doi.org/10.48550/arxiv.quant-ph/9608026",
+ "id": "https://openalex.org/W2953182381",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W2042474962",
+  "https://openalex.org/W2063592138",
+  "https://openalex.org/W2114207424",
+  "https://openalex.org/W2763302490",
+  "https://openalex.org/W3100206575"
+ ],
+ "title": "Quantum Reed-Muller Codes"
+}

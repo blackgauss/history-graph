@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 250,
+ "doi": "https://doi.org/10.1111/j.2517-6161.1962.tb00458.x",
+ "id": "https://openalex.org/W57051178",
+ "publication_year": 1962,
+ "referenced_works": [
+  "https://openalex.org/W1498066347",
+  "https://openalex.org/W1598266570",
+  "https://openalex.org/W1982484744",
+  "https://openalex.org/W2010441048",
+  "https://openalex.org/W2016966976",
+  "https://openalex.org/W2019642820",
+  "https://openalex.org/W2021142183",
+  "https://openalex.org/W2042079130",
+  "https://openalex.org/W2092755067",
+  "https://openalex.org/W2325135001",
+  "https://openalex.org/W2767443199",
+  "https://openalex.org/W2795495912",
+  "https://openalex.org/W4233782578",
+  "https://openalex.org/W6635777585",
+  "https://openalex.org/W6821840574"
+ ],
+ "title": "Confidence Sets for the Mean of a Multivariate Normal Distribution"
+}

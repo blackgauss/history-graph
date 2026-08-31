@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 142,
+ "doi": "https://doi.org/10.1023/a:1009725216438",
+ "id": "https://openalex.org/W1581661059",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W15803339",
+  "https://openalex.org/W18766686",
+  "https://openalex.org/W19577439",
+  "https://openalex.org/W48084009",
+  "https://openalex.org/W70153617",
+  "https://openalex.org/W202901394",
+  "https://openalex.org/W1513769081",
+  "https://openalex.org/W1514729613",
+  "https://openalex.org/W1667614912",
+  "https://openalex.org/W1971772321",
+  "https://openalex.org/W1976816453",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2038225707",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2075049669",
+  "https://openalex.org/W2085301456",
+  "https://openalex.org/W2088377032",
+  "https://openalex.org/W2092931458",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2808512824",
+  "https://openalex.org/W4214923326",
+  "https://openalex.org/W4235529266"
+ ],
+ "title": "A Two-Phase Exact Algorithm for MAX-SAT and Weighted MAX-SAT Problems"
+}

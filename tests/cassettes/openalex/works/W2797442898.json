@@ -1,0 +1,41 @@
+{
+ "cited_by_count": 221,
+ "counts_by_year": [
+  {
+   "cited_by_count": 11,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 36,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 38,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2019
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tit.2019.2938171",
+ "id": "https://openalex.org/W2797442898",
+ "publication_year": 2019,
+ "title": "A General Formula for the Stationary Distribution of the Age of Information and Its Application to Single-Server Queues"
+}

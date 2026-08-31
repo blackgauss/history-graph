@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 277,
+ "doi": "https://doi.org/10.1145/1055558.1055596",
+ "id": "https://openalex.org/W2052464302",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W87905120",
+  "https://openalex.org/W89074110",
+  "https://openalex.org/W1549613359",
+  "https://openalex.org/W1582747324",
+  "https://openalex.org/W1841612980",
+  "https://openalex.org/W1973501242",
+  "https://openalex.org/W1991036250",
+  "https://openalex.org/W1993863827",
+  "https://openalex.org/W2023977759",
+  "https://openalex.org/W2040877664",
+  "https://openalex.org/W2057647741",
+  "https://openalex.org/W2069499077",
+  "https://openalex.org/W2124298185",
+  "https://openalex.org/W2132461362",
+  "https://openalex.org/W2132520482",
+  "https://openalex.org/W2132851185",
+  "https://openalex.org/W2135216003",
+  "https://openalex.org/W2141521806",
+  "https://openalex.org/W2162228985",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W4232534713",
+  "https://openalex.org/W6603630036",
+  "https://openalex.org/W6603638053"
+ ],
+ "title": "Flexible time management in data stream systems"
+}

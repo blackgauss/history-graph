@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 1005,
+ "doi": "https://doi.org/10.1162/089976698300017502",
+ "id": "https://openalex.org/W2148654448",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W33448186",
+  "https://openalex.org/W1569001442",
+  "https://openalex.org/W1974804836",
+  "https://openalex.org/W2001860569",
+  "https://openalex.org/W2016354087",
+  "https://openalex.org/W2022995207",
+  "https://openalex.org/W2031543773",
+  "https://openalex.org/W2041089118",
+  "https://openalex.org/W2061951587",
+  "https://openalex.org/W2093616568",
+  "https://openalex.org/W2099024335",
+  "https://openalex.org/W2108699614",
+  "https://openalex.org/W2114543001",
+  "https://openalex.org/W2131394376",
+  "https://openalex.org/W2142681317",
+  "https://openalex.org/W2147617498",
+  "https://openalex.org/W2153514246",
+  "https://openalex.org/W2154914851",
+  "https://openalex.org/W2161684956",
+  "https://openalex.org/W2162019295",
+  "https://openalex.org/W2172294131",
+  "https://openalex.org/W2432942911"
+ ],
+ "title": "Neural Networks with Dynamic Synapses"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 453,
+ "doi": "https://doi.org/10.2307/3518347",
+ "id": "https://openalex.org/W2606292975",
+ "publication_year": 1970,
+ "referenced_works": [
+  "https://openalex.org/W2015197183",
+  "https://openalex.org/W2053899506",
+  "https://openalex.org/W2059780189",
+  "https://openalex.org/W2075541024",
+  "https://openalex.org/W2078539122",
+  "https://openalex.org/W2317890084",
+  "https://openalex.org/W2330075574",
+  "https://openalex.org/W2516950796",
+  "https://openalex.org/W2588918210",
+  "https://openalex.org/W2802739963",
+  "https://openalex.org/W2903857851",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4299533062"
+ ],
+ "title": "Multiple channel queues in heavy traffic. I"
+}

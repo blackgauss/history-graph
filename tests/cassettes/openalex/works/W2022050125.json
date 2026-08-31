@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 609,
+ "doi": "https://doi.org/10.2307/2951582",
+ "id": "https://openalex.org/W2022050125",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W1550812296",
+  "https://openalex.org/W1551610462",
+  "https://openalex.org/W1977877194",
+  "https://openalex.org/W2008986601",
+  "https://openalex.org/W2010029425",
+  "https://openalex.org/W2017137572",
+  "https://openalex.org/W2036598408",
+  "https://openalex.org/W2051607968",
+  "https://openalex.org/W2053770790",
+  "https://openalex.org/W2060143287",
+  "https://openalex.org/W2062176045",
+  "https://openalex.org/W2062892638",
+  "https://openalex.org/W2081069937",
+  "https://openalex.org/W2083005776",
+  "https://openalex.org/W2093747721",
+  "https://openalex.org/W2111084117",
+  "https://openalex.org/W2116039321",
+  "https://openalex.org/W2403035479"
+ ],
+ "title": "A Smoothed Maximum Score Estimator for the Binary Response Model"
+}

@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 363,
+ "doi": "https://doi.org/10.1109/sfcs.1985.55",
+ "id": "https://openalex.org/W2069788171",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1504821298",
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W1978343783",
+  "https://openalex.org/W2022550334",
+  "https://openalex.org/W2063301742",
+  "https://openalex.org/W2071114738",
+  "https://openalex.org/W2154935036"
+ ],
+ "title": "The bit extraction problem or t-resilient functions"
+}

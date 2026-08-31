@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 340,
+ "doi": "https://doi.org/10.1016/0899-8256(91)90006-z",
+ "id": "https://openalex.org/W2142850237",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1491494309",
+  "https://openalex.org/W1515288151",
+  "https://openalex.org/W2044545991",
+  "https://openalex.org/W2065759699",
+  "https://openalex.org/W2078719994",
+  "https://openalex.org/W2083057706",
+  "https://openalex.org/W2110688506",
+  "https://openalex.org/W2118929276",
+  "https://openalex.org/W2129760941",
+  "https://openalex.org/W2130752181",
+  "https://openalex.org/W2132275236",
+  "https://openalex.org/W2143284884",
+  "https://openalex.org/W2149254401",
+  "https://openalex.org/W2162593497",
+  "https://openalex.org/W4241055107",
+  "https://openalex.org/W4248313157",
+  "https://openalex.org/W6629380366"
+ ],
+ "title": "Adaptive and sophisticated learning in normal form games"
+}

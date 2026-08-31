@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 6652,
+ "doi": "https://doi.org/10.48550/arxiv.1207.0580",
+ "id": "https://openalex.org/W1904365287",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W4919037",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1567512734",
+  "https://openalex.org/W1993882792",
+  "https://openalex.org/W2053229256",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2108598243",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2116064496",
+  "https://openalex.org/W2125725328",
+  "https://openalex.org/W2132424367",
+  "https://openalex.org/W2147768505",
+  "https://openalex.org/W2150884987",
+  "https://openalex.org/W2184852195",
+  "https://openalex.org/W2465562739",
+  "https://openalex.org/W2911964244",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W3118608800"
+ ],
+ "title": "Improving neural networks by preventing co-adaptation of feature detectors"
+}

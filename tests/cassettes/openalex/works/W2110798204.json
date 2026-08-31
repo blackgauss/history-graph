@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 4724,
+ "doi": "https://doi.org/10.7551/mitpress/7503.003.0024",
+ "id": "https://openalex.org/W2110798204",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1509849361",
+  "https://openalex.org/W1966347487",
+  "https://openalex.org/W1993845689",
+  "https://openalex.org/W2017290750",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2103369448",
+  "https://openalex.org/W2103626435",
+  "https://openalex.org/W2109779438",
+  "https://openalex.org/W2116064496",
+  "https://openalex.org/W2124914669",
+  "https://openalex.org/W2125569215",
+  "https://openalex.org/W2128076038",
+  "https://openalex.org/W2130313186",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2167967601",
+  "https://openalex.org/W2613634265"
+ ],
+ "title": "Greedy Layer-Wise Training of Deep Networks"
+}

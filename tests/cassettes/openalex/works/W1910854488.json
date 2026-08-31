@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 85,
+ "doi": "https://doi.org/10.1007/3-540-58484-6_277",
+ "id": "https://openalex.org/W1910854488",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W33980575",
+  "https://openalex.org/W149529809",
+  "https://openalex.org/W1192653009",
+  "https://openalex.org/W1576818901",
+  "https://openalex.org/W1932269204",
+  "https://openalex.org/W2000690667",
+  "https://openalex.org/W2010769244",
+  "https://openalex.org/W2011304357",
+  "https://openalex.org/W2029874061",
+  "https://openalex.org/W2155802383"
+ ],
+ "title": "Genetic L-System Programming"
+}

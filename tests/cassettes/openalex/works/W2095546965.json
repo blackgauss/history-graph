@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 347,
+ "doi": "https://doi.org/10.1137/0222080",
+ "id": "https://openalex.org/W2095546965",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1596709027",
+  "https://openalex.org/W1898653522",
+  "https://openalex.org/W1989445634",
+  "https://openalex.org/W1990284858",
+  "https://openalex.org/W2029058452",
+  "https://openalex.org/W2036656440",
+  "https://openalex.org/W2057399436",
+  "https://openalex.org/W2060270693",
+  "https://openalex.org/W2097575812",
+  "https://openalex.org/W2124394334",
+  "https://openalex.org/W2130118529",
+  "https://openalex.org/W4238893454"
+ ],
+ "title": "Learning Decision Trees Using the Fourier Spectrum"
+}

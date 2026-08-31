@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 40,
+ "doi": null,
+ "id": "https://openalex.org/W1720257264",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1523665629",
+  "https://openalex.org/W1533087874",
+  "https://openalex.org/W2082610078"
+ ],
+ "title": "Constructive Neural Network Learning Algorithms for Multi-Category Pattern Classification"
+}

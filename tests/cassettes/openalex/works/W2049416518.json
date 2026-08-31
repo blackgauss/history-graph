@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 11,
+ "doi": "https://doi.org/10.1145/582250.582280",
+ "id": "https://openalex.org/W2049416518",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1999501660",
+  "https://openalex.org/W2027507804",
+  "https://openalex.org/W2067021215",
+  "https://openalex.org/W2074687738",
+  "https://openalex.org/W2084223159",
+  "https://openalex.org/W2091467328",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2138078746",
+  "https://openalex.org/W2155631901",
+  "https://openalex.org/W2165558283",
+  "https://openalex.org/W3017791704"
+ ],
+ "title": "A dynamic clustering technique for physical database design"
+}

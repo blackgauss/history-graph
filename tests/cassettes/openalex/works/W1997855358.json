@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 174,
+ "doi": "https://doi.org/10.1109/18.556674",
+ "id": "https://openalex.org/W1997855358",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1491975900",
+  "https://openalex.org/W1498798784",
+  "https://openalex.org/W1606480398",
+  "https://openalex.org/W1983593474",
+  "https://openalex.org/W1991006936",
+  "https://openalex.org/W2029859729",
+  "https://openalex.org/W2053086236",
+  "https://openalex.org/W2068871408",
+  "https://openalex.org/W2094878497",
+  "https://openalex.org/W2097206148",
+  "https://openalex.org/W2104536936",
+  "https://openalex.org/W2132605415",
+  "https://openalex.org/W2141815340",
+  "https://openalex.org/W2143391442",
+  "https://openalex.org/W2152221184",
+  "https://openalex.org/W3004537778",
+  "https://openalex.org/W4256317935",
+  "https://openalex.org/W6629825390",
+  "https://openalex.org/W6648048595"
+ ],
+ "title": "Linearity testing in characteristic two"
+}

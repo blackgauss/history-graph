@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1109/pgec.1965.264255",
+ "id": "https://openalex.org/W2083632696",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W63099516",
+  "https://openalex.org/W246561591",
+  "https://openalex.org/W2013357016",
+  "https://openalex.org/W2021928776",
+  "https://openalex.org/W2025494402",
+  "https://openalex.org/W2029297058",
+  "https://openalex.org/W2061055380",
+  "https://openalex.org/W2073574423",
+  "https://openalex.org/W2079873320",
+  "https://openalex.org/W2137035409",
+  "https://openalex.org/W2544549009",
+  "https://openalex.org/W2545696445",
+  "https://openalex.org/W6602591659",
+  "https://openalex.org/W6657673188"
+ ],
+ "title": "Properties of Threshold Functions"
+}

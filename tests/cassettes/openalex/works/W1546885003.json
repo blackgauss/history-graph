@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1007/978-1-4613-1679-4_6",
+ "id": "https://openalex.org/W1546885003",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W988004",
+  "https://openalex.org/W59118643",
+  "https://openalex.org/W139579186",
+  "https://openalex.org/W142257177",
+  "https://openalex.org/W1970196737"
+ ],
+ "title": "Design of a HyperKYKLOS-based Multiprocessor Architecture for High-Performance Join Operations"
+}

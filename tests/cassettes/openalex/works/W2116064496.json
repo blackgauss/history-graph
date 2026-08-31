@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 5033,
+ "doi": "https://doi.org/10.1162/089976602760128018",
+ "id": "https://openalex.org/W2116064496",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W116210019",
+  "https://openalex.org/W1488252886",
+  "https://openalex.org/W1547224907",
+  "https://openalex.org/W1746680969",
+  "https://openalex.org/W1813659000",
+  "https://openalex.org/W1970185999",
+  "https://openalex.org/W1993845689",
+  "https://openalex.org/W2020999234",
+  "https://openalex.org/W2063252599",
+  "https://openalex.org/W2083380015",
+  "https://openalex.org/W2087204158",
+  "https://openalex.org/W2094051685",
+  "https://openalex.org/W2096175520",
+  "https://openalex.org/W2097119693",
+  "https://openalex.org/W2100559472",
+  "https://openalex.org/W2101706260",
+  "https://openalex.org/W2110278466",
+  "https://openalex.org/W2114153178",
+  "https://openalex.org/W2140622310",
+  "https://openalex.org/W2152441530",
+  "https://openalex.org/W2160487669",
+  "https://openalex.org/W2165225968",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4231741839"
+ ],
+ "title": "Training Products of Experts by Minimizing Contrastive Divergence"
+}

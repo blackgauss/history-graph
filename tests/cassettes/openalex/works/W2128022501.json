@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 10,
+ "doi": "https://doi.org/10.1109/tse.1985.232483",
+ "id": "https://openalex.org/W2128022501",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1964167160",
+  "https://openalex.org/W1993505169",
+  "https://openalex.org/W2007972796",
+  "https://openalex.org/W2013132480",
+  "https://openalex.org/W2014772227",
+  "https://openalex.org/W2061819031",
+  "https://openalex.org/W2142849519",
+  "https://openalex.org/W2616159132",
+  "https://openalex.org/W2914315669",
+  "https://openalex.org/W3137092842",
+  "https://openalex.org/W3137220996"
+ ],
+ "title": "A Loosely Coupled Distributed System for Reliably Storing Data"
+}

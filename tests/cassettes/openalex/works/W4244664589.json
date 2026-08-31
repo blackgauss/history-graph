@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 21,
+ "doi": "https://doi.org/10.1007/0-387-25465-x_13",
+ "id": "https://openalex.org/W4244664589",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W263793962",
+  "https://openalex.org/W1508620301",
+  "https://openalex.org/W1883898636",
+  "https://openalex.org/W2037030751",
+  "https://openalex.org/W2335322260",
+  "https://openalex.org/W2340020088",
+  "https://openalex.org/W4255833381",
+  "https://openalex.org/W6812019774"
+ ],
+ "title": "Rule Induction"
+}

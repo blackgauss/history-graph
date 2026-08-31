@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.7551/mitpress/8764.003.0013",
+ "id": "https://openalex.org/W3146352869",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W1591927733",
+  "https://openalex.org/W1784695092",
+  "https://openalex.org/W1976359337",
+  "https://openalex.org/W1987393817",
+  "https://openalex.org/W1994277042",
+  "https://openalex.org/W2032338935",
+  "https://openalex.org/W2043905695",
+  "https://openalex.org/W2071646752",
+  "https://openalex.org/W2091042548",
+  "https://openalex.org/W2102150307",
+  "https://openalex.org/W2124757684",
+  "https://openalex.org/W2131286995",
+  "https://openalex.org/W2157825442"
+ ],
+ "title": "Independent Component Analysis"
+}

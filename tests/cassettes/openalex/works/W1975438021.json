@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 216,
+ "doi": "https://doi.org/10.1145/203330.203341",
+ "id": "https://openalex.org/W1975438021",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1492518391",
+  "https://openalex.org/W1499135624",
+  "https://openalex.org/W1549872659",
+  "https://openalex.org/W1983382292",
+  "https://openalex.org/W2070831947",
+  "https://openalex.org/W2105228282",
+  "https://openalex.org/W2144386448",
+  "https://openalex.org/W2796169793"
+ ],
+ "title": "Decision-theoretic troubleshooting"
+}

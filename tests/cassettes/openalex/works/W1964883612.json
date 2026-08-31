@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1145/984523.984526",
+ "id": "https://openalex.org/W1964883612",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W36983325",
+  "https://openalex.org/W1748095660",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2055255408",
+  "https://openalex.org/W2074747378"
+ ],
+ "title": "Why sort-merge gives the best implementation of the natural join"
+}

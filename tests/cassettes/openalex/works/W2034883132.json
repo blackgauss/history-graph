@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 154,
+ "doi": "https://doi.org/10.1016/s0022-0531(03)00096-6",
+ "id": "https://openalex.org/W2034883132",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1518700825",
+  "https://openalex.org/W1593582558",
+  "https://openalex.org/W1731559736",
+  "https://openalex.org/W1975378045",
+  "https://openalex.org/W1978696336",
+  "https://openalex.org/W1988329549",
+  "https://openalex.org/W2002430844",
+  "https://openalex.org/W2016143012",
+  "https://openalex.org/W2039554452",
+  "https://openalex.org/W2062139011",
+  "https://openalex.org/W2066122187",
+  "https://openalex.org/W2068115726",
+  "https://openalex.org/W2070749268",
+  "https://openalex.org/W2081394935",
+  "https://openalex.org/W2102636809",
+  "https://openalex.org/W2126206231",
+  "https://openalex.org/W2127529398",
+  "https://openalex.org/W2140642839",
+  "https://openalex.org/W2143529993",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W4235234911"
+ ],
+ "title": "Stable schedule matching under revealed preference"
+}

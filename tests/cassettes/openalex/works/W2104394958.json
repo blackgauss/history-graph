@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 648,
+ "doi": "https://doi.org/10.1109/tac.1986.1104206",
+ "id": "https://openalex.org/W2104394958",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W588153840",
+  "https://openalex.org/W1969304434",
+  "https://openalex.org/W2019597565",
+  "https://openalex.org/W2052388668",
+  "https://openalex.org/W2067687532",
+  "https://openalex.org/W2074232820",
+  "https://openalex.org/W2074915643",
+  "https://openalex.org/W2316304744",
+  "https://openalex.org/W2322006559",
+  "https://openalex.org/W2330012655",
+  "https://openalex.org/W3023493766",
+  "https://openalex.org/W4256406470",
+  "https://openalex.org/W4300920051"
+ ],
+ "title": "Optimal control of production rate in a failure prone manufacturing system"
+}

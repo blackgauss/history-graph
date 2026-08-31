@@ -1,0 +1,10 @@
+{
+ "cited_by_count": 62,
+ "doi": "https://doi.org/10.1145/3592626.3592634",
+ "id": "https://openalex.org/W1575304539",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W2044743392"
+ ],
+ "title": "Making World Wide Web Caching Servers Cooperate"
+}

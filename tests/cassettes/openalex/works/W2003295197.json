@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 125,
+ "doi": "https://doi.org/10.1016/0168-0072(91)90069-x",
+ "id": "https://openalex.org/W2003295197",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W31746626",
+  "https://openalex.org/W177811270",
+  "https://openalex.org/W221401461",
+  "https://openalex.org/W1555100187",
+  "https://openalex.org/W1595372275",
+  "https://openalex.org/W2095405219",
+  "https://openalex.org/W2211325406",
+  "https://openalex.org/W6607259550",
+  "https://openalex.org/W6608771633",
+  "https://openalex.org/W6633339617"
+ ],
+ "title": "Inductive types and type constraints in the second-order lambda calculus"
+}

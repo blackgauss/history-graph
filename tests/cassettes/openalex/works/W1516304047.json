@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 93,
+ "doi": "https://doi.org/10.1007/11532231_26",
+ "id": "https://openalex.org/W1516304047",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1490156001",
+  "https://openalex.org/W1510368738",
+  "https://openalex.org/W1513458930",
+  "https://openalex.org/W1515278398",
+  "https://openalex.org/W1528467909",
+  "https://openalex.org/W1582571943",
+  "https://openalex.org/W2044095368",
+  "https://openalex.org/W2072380992",
+  "https://openalex.org/W2084294613",
+  "https://openalex.org/W2098244894",
+  "https://openalex.org/W2123633463",
+  "https://openalex.org/W2151463894",
+  "https://openalex.org/W2153131284",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W4212792638",
+  "https://openalex.org/W4236684541"
+ ],
+ "title": "A Combination Method for Generating Interpolants"
+}

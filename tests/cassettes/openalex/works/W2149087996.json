@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 1275,
+ "doi": "https://doi.org/10.1109/tac.1976.1101137",
+ "id": "https://openalex.org/W2149087996",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W1969742965",
+  "https://openalex.org/W1979588265",
+  "https://openalex.org/W1994370582",
+  "https://openalex.org/W1999923748",
+  "https://openalex.org/W2016833569",
+  "https://openalex.org/W2020806361",
+  "https://openalex.org/W2031544461",
+  "https://openalex.org/W2033848880",
+  "https://openalex.org/W2057430792",
+  "https://openalex.org/W2067863383",
+  "https://openalex.org/W2085849252",
+  "https://openalex.org/W2087011979",
+  "https://openalex.org/W2097185786",
+  "https://openalex.org/W2138722678",
+  "https://openalex.org/W2162257162",
+  "https://openalex.org/W2163804974",
+  "https://openalex.org/W2242441059",
+  "https://openalex.org/W3022136271",
+  "https://openalex.org/W3149980274",
+  "https://openalex.org/W4299343067"
+ ],
+ "title": "The robust control of a servomechanism problem for linear time-invariant multivariable systems"
+}

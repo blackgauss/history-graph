@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 46,
+ "doi": "https://doi.org/10.1016/j.ipl.2007.07.005",
+ "id": "https://openalex.org/W2077335881",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2088532256",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3124857404",
+  "https://openalex.org/W4251083239",
+  "https://openalex.org/W6672687664",
+  "https://openalex.org/W6679092438"
+ ],
+ "title": "Forward looking Nash equilibrium for keyword auction"
+}

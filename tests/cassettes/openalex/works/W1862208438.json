@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 42,
+ "doi": null,
+ "id": "https://openalex.org/W1862208438",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W92943260",
+  "https://openalex.org/W192446467",
+  "https://openalex.org/W193081229",
+  "https://openalex.org/W1497150730",
+  "https://openalex.org/W1524103123",
+  "https://openalex.org/W1547850195",
+  "https://openalex.org/W1578833196",
+  "https://openalex.org/W1587246893",
+  "https://openalex.org/W1992479210",
+  "https://openalex.org/W2020765652",
+  "https://openalex.org/W2029039689",
+  "https://openalex.org/W2075854425",
+  "https://openalex.org/W2085407655",
+  "https://openalex.org/W2086862936",
+  "https://openalex.org/W2088221489",
+  "https://openalex.org/W2100309652",
+  "https://openalex.org/W2109213558",
+  "https://openalex.org/W2119565742",
+  "https://openalex.org/W2134337235",
+  "https://openalex.org/W2143149536",
+  "https://openalex.org/W2165900899",
+  "https://openalex.org/W2170034951"
+ ],
+ "title": "Dynamic reconfiguration of primary/backup clusters"
+}

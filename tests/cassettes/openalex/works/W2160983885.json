@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 54,
+ "doi": "https://doi.org/10.1145/266021.266068",
+ "id": "https://openalex.org/W2160983885",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1822320350",
+  "https://openalex.org/W1992006255",
+  "https://openalex.org/W2008060346",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2081040908",
+  "https://openalex.org/W2101481392",
+  "https://openalex.org/W2123312976",
+  "https://openalex.org/W2127820142",
+  "https://openalex.org/W2136823800",
+  "https://openalex.org/W2145785237",
+  "https://openalex.org/W2149479807",
+  "https://openalex.org/W2150119568",
+  "https://openalex.org/W2155672011",
+  "https://openalex.org/W4243540980",
+  "https://openalex.org/W4245047141",
+  "https://openalex.org/W4378744510",
+  "https://openalex.org/W6884753825"
+ ],
+ "title": "Safe BDD minimization using don't cares"
+}

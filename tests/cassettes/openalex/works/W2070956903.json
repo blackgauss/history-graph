@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.1002/nav.3800110107",
+ "id": "https://openalex.org/W2070956903",
+ "publication_year": 1964,
+ "referenced_works": [
+  "https://openalex.org/W2009683816",
+  "https://openalex.org/W2082251214",
+  "https://openalex.org/W2119746909",
+  "https://openalex.org/W6667126215",
+  "https://openalex.org/W6677883867"
+ ],
+ "title": "Note on an integer linear programming model for determining a minimum embarkation fleet"
+}

@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 423,
+ "doi": "https://doi.org/10.1080/17442508108833174",
+ "id": "https://openalex.org/W2073283839",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W435040855",
+  "https://openalex.org/W2001120974",
+  "https://openalex.org/W2007046555",
+  "https://openalex.org/W2035803586",
+  "https://openalex.org/W2059922898",
+  "https://openalex.org/W2082131924",
+  "https://openalex.org/W2099264463",
+  "https://openalex.org/W4298389050"
+ ],
+ "title": "Exact finite-dimensional filters for certain diffusions with nonlinear drift"
+}

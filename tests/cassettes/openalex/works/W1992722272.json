@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 222,
+ "doi": "https://doi.org/10.1214/aoms/1177704476",
+ "id": "https://openalex.org/W1992722272",
+ "publication_year": 1962,
+ "referenced_works": [
+  "https://openalex.org/W1595541099",
+  "https://openalex.org/W1984663202",
+  "https://openalex.org/W1987542235",
+  "https://openalex.org/W1999538654",
+  "https://openalex.org/W2005695907",
+  "https://openalex.org/W2017722331",
+  "https://openalex.org/W2037050852",
+  "https://openalex.org/W2053869760",
+  "https://openalex.org/W2129889116",
+  "https://openalex.org/W4252684946"
+ ],
+ "title": "Asymptotically Most Powerful Rank-Order Tests"
+}

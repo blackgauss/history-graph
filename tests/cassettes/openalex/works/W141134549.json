@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 3,
+ "doi": null,
+ "id": "https://openalex.org/W141134549",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1548377147",
+  "https://openalex.org/W2019807548",
+  "https://openalex.org/W2084622077",
+  "https://openalex.org/W2125212199",
+  "https://openalex.org/W2129107602",
+  "https://openalex.org/W2131866098",
+  "https://openalex.org/W2136616826",
+  "https://openalex.org/W2160015585",
+  "https://openalex.org/W2163137752",
+  "https://openalex.org/W2289412326"
+ ],
+ "title": "Explicit lower bound for fooling polynomials by the sum of small-bias generators."
+}

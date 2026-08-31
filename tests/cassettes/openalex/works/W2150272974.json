@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 5,
+ "doi": "https://doi.org/10.1109/32.92919",
+ "id": "https://openalex.org/W2150272974",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1497748148",
+  "https://openalex.org/W1560473542",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2078528123",
+  "https://openalex.org/W2123565672",
+  "https://openalex.org/W2151203234",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W4238594802",
+  "https://openalex.org/W6629102967",
+  "https://openalex.org/W6629717275",
+  "https://openalex.org/W6633588563",
+  "https://openalex.org/W6663491889"
+ ],
+ "title": "Heap-filter merge join: a new algorithm for joining medium-size inputs"
+}

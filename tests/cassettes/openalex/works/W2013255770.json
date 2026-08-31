@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 221,
+ "doi": "https://doi.org/10.1109/69.87960",
+ "id": "https://openalex.org/W2013255770",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W206938344",
+  "https://openalex.org/W1491366049",
+  "https://openalex.org/W1493271454",
+  "https://openalex.org/W1590607611",
+  "https://openalex.org/W1669847836",
+  "https://openalex.org/W1971828701",
+  "https://openalex.org/W1992847198",
+  "https://openalex.org/W2020635076",
+  "https://openalex.org/W2026735162",
+  "https://openalex.org/W2036862988",
+  "https://openalex.org/W2131153442",
+  "https://openalex.org/W2155166680",
+  "https://openalex.org/W2158655585",
+  "https://openalex.org/W2161694911",
+  "https://openalex.org/W2178644170",
+  "https://openalex.org/W2186875290",
+  "https://openalex.org/W2295562782",
+  "https://openalex.org/W2901608006",
+  "https://openalex.org/W4229645516",
+  "https://openalex.org/W4249783758",
+  "https://openalex.org/W6629533677",
+  "https://openalex.org/W6635249113",
+  "https://openalex.org/W6637376925"
+ ],
+ "title": "Indexing techniques for queries on nested objects"
+}

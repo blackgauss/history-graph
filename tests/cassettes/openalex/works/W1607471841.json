@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 12,
+ "doi": "https://doi.org/10.1007/978-3-642-15822-3_14",
+ "id": "https://openalex.org/W1607471841",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W30902120",
+  "https://openalex.org/W206440355",
+  "https://openalex.org/W1582813132",
+  "https://openalex.org/W1685006559",
+  "https://openalex.org/W2020135152",
+  "https://openalex.org/W2091985923",
+  "https://openalex.org/W2099233925",
+  "https://openalex.org/W2101471689",
+  "https://openalex.org/W2112036188",
+  "https://openalex.org/W2116468180",
+  "https://openalex.org/W2137104525",
+  "https://openalex.org/W2142916680",
+  "https://openalex.org/W2144499799",
+  "https://openalex.org/W2144636407",
+  "https://openalex.org/W2153275885",
+  "https://openalex.org/W2170768220",
+  "https://openalex.org/W2171316127",
+  "https://openalex.org/W2502391678",
+  "https://openalex.org/W2587486463",
+  "https://openalex.org/W2990138404"
+ ],
+ "title": "Multi-Dimensional Deep Memory Atari-Go Players for Parameter Exploring Policy Gradients"
+}

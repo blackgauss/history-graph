@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 2962,
+ "doi": "https://doi.org/10.1162/neco.1992.4.3.448",
+ "id": "https://openalex.org/W2111051539",
+ "publication_year": 1992,
+ "referenced_works": [
+  "https://openalex.org/W103475893",
+  "https://openalex.org/W179344782",
+  "https://openalex.org/W813525817",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1547224907",
+  "https://openalex.org/W1552154247",
+  "https://openalex.org/W1579657217",
+  "https://openalex.org/W1965770722",
+  "https://openalex.org/W1975346765",
+  "https://openalex.org/W2088538739",
+  "https://openalex.org/W2090559885",
+  "https://openalex.org/W2091233543",
+  "https://openalex.org/W2114766824",
+  "https://openalex.org/W2127538960",
+  "https://openalex.org/W2135520967",
+  "https://openalex.org/W2162488714",
+  "https://openalex.org/W2164359548",
+  "https://openalex.org/W2900492790",
+  "https://openalex.org/W2911546748",
+  "https://openalex.org/W3137895569"
+ ],
+ "title": "A Practical Bayesian Framework for Backpropagation Networks"
+}

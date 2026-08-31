@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 67,
+ "doi": "https://doi.org/10.1145/582250.582278",
+ "id": "https://openalex.org/W2082004608",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W33560727",
+  "https://openalex.org/W1514672988",
+  "https://openalex.org/W1521494257",
+  "https://openalex.org/W2012802704",
+  "https://openalex.org/W2020601345",
+  "https://openalex.org/W2038882122",
+  "https://openalex.org/W2055255408",
+  "https://openalex.org/W2069184244",
+  "https://openalex.org/W2081226401",
+  "https://openalex.org/W2091589574",
+  "https://openalex.org/W2111607006",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2133384222",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2169012378",
+  "https://openalex.org/W2232207765"
+ ],
+ "title": "A new way to compute the product and join of relations"
+}

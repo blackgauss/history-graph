@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 80,
+ "doi": "https://doi.org/10.1214/aoms/1177699174",
+ "id": "https://openalex.org/W2014952101",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W1584444527",
+  "https://openalex.org/W1598266570"
+ ],
+ "title": "Estimating the Mean of a Multivariate Normal Population with General Quadratic Loss Function"
+}

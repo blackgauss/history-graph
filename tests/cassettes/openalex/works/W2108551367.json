@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 255,
+ "doi": "https://doi.org/10.1364/ol.20.001695",
+ "id": "https://openalex.org/W2108551367",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1964347465",
+  "https://openalex.org/W2006226307",
+  "https://openalex.org/W2007661134",
+  "https://openalex.org/W2007972620",
+  "https://openalex.org/W2012145584",
+  "https://openalex.org/W2016668998",
+  "https://openalex.org/W2029488909",
+  "https://openalex.org/W2038791572",
+  "https://openalex.org/W2052121452",
+  "https://openalex.org/W2059034879",
+  "https://openalex.org/W2071832559",
+  "https://openalex.org/W2096599855",
+  "https://openalex.org/W4214950786",
+  "https://openalex.org/W4244685374"
+ ],
+ "title": "Quantum key distribution over distances as long as 30 km"
+}

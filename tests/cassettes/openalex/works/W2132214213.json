@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 21,
+ "doi": "https://doi.org/10.1063/1.36234",
+ "id": "https://openalex.org/W2132214213",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W22297218",
+  "https://openalex.org/W2013239224",
+  "https://openalex.org/W2042492924",
+  "https://openalex.org/W2044707217",
+  "https://openalex.org/W2113653296",
+  "https://openalex.org/W2123838014",
+  "https://openalex.org/W2155051950",
+  "https://openalex.org/W2766736793"
+ ],
+ "title": "G-maximization: an unsupervised learning procedure for discovering regularities"
+}

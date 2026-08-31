@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 844,
+ "doi": "https://doi.org/10.1016/0169-2070(94)90077-9",
+ "id": "https://openalex.org/W1532044016",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W170458018",
+  "https://openalex.org/W2048083545",
+  "https://openalex.org/W2134070777",
+  "https://openalex.org/W2154326182",
+  "https://openalex.org/W2331069415"
+ ],
+ "title": "Time series prediction: Forecasting the future and understanding the past"
+}

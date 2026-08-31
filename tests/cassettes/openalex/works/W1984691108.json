@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 373,
+ "doi": "https://doi.org/10.1103/physrevlett.78.3217",
+ "id": "https://openalex.org/W1984691108",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1572877829",
+  "https://openalex.org/W1643301482",
+  "https://openalex.org/W1830276184",
+  "https://openalex.org/W1985989979",
+  "https://openalex.org/W1988155384",
+  "https://openalex.org/W2009067556",
+  "https://openalex.org/W2025187617",
+  "https://openalex.org/W2060887031",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2088324731",
+  "https://openalex.org/W2109084006",
+  "https://openalex.org/W2116858786",
+  "https://openalex.org/W2117002761",
+  "https://openalex.org/W2763302490",
+  "https://openalex.org/W2952322103"
+ ],
+ "title": "Capacities of Quantum Erasure Channels"
+}

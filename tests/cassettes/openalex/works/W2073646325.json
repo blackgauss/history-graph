@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 402,
+ "doi": "https://doi.org/10.1038/nature02014",
+ "id": "https://openalex.org/W2073646325",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W118554571",
+  "https://openalex.org/W1627539963",
+  "https://openalex.org/W1965245884",
+  "https://openalex.org/W1967393072",
+  "https://openalex.org/W1969781437",
+  "https://openalex.org/W1991673477",
+  "https://openalex.org/W1991821708",
+  "https://openalex.org/W2036700732",
+  "https://openalex.org/W2043072234",
+  "https://openalex.org/W2137566455",
+  "https://openalex.org/W2501046150",
+  "https://openalex.org/W4247593491"
+ ],
+ "title": "Programmable computing with a single magnetoresistive element"
+}

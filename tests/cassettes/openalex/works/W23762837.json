@@ -1,0 +1,121 @@
+{
+ "cited_by_count": 27,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1007/978-0-387-47534-9_10",
+ "id": "https://openalex.org/W23762837",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W21469624",
+  "https://openalex.org/W1510252230",
+  "https://openalex.org/W1512675310",
+  "https://openalex.org/W1556731622",
+  "https://openalex.org/W1562880585",
+  "https://openalex.org/W1563265404",
+  "https://openalex.org/W1578269782",
+  "https://openalex.org/W1592479693",
+  "https://openalex.org/W1594122454",
+  "https://openalex.org/W1858414509",
+  "https://openalex.org/W1964857063",
+  "https://openalex.org/W1977786400",
+  "https://openalex.org/W2006358514",
+  "https://openalex.org/W2023977759",
+  "https://openalex.org/W2099395665",
+  "https://openalex.org/W2101207848",
+  "https://openalex.org/W2103701698",
+  "https://openalex.org/W2107343618",
+  "https://openalex.org/W2109149785",
+  "https://openalex.org/W2118828104",
+  "https://openalex.org/W2118924829",
+  "https://openalex.org/W2120415542",
+  "https://openalex.org/W2132244350",
+  "https://openalex.org/W2132461362",
+  "https://openalex.org/W2132510297",
+  "https://openalex.org/W2132520482",
+  "https://openalex.org/W2132837277",
+  "https://openalex.org/W2135216003",
+  "https://openalex.org/W2135499008",
+  "https://openalex.org/W2138531903",
+  "https://openalex.org/W2140102533",
+  "https://openalex.org/W2140894225",
+  "https://openalex.org/W2144982736",
+  "https://openalex.org/W2151968644",
+  "https://openalex.org/W2152191782",
+  "https://openalex.org/W2152198818",
+  "https://openalex.org/W2157469509",
+  "https://openalex.org/W2160825121",
+  "https://openalex.org/W2161291147",
+  "https://openalex.org/W2163834250",
+  "https://openalex.org/W2170691805",
+  "https://openalex.org/W2171147420",
+  "https://openalex.org/W2201552871",
+  "https://openalex.org/W2203361072",
+  "https://openalex.org/W2279022598",
+  "https://openalex.org/W4232534713",
+  "https://openalex.org/W4233762723",
+  "https://openalex.org/W4237172715",
+  "https://openalex.org/W4251246352",
+  "https://openalex.org/W4253103473",
+  "https://openalex.org/W4254357460",
+  "https://openalex.org/W6634489614",
+  "https://openalex.org/W6644674294",
+  "https://openalex.org/W6685264613"
+ ],
+ "title": "A Survey of Join Processing in Data Streams"
+}

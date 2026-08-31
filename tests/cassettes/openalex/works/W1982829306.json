@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 59,
+ "doi": "https://doi.org/10.1090/s0025-5718-1983-0689479-6",
+ "id": "https://openalex.org/W1982829306",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W2041933997",
+  "https://openalex.org/W2044633287",
+  "https://openalex.org/W2051299319",
+  "https://openalex.org/W2068988322",
+  "https://openalex.org/W2322527526",
+  "https://openalex.org/W2536096804"
+ ],
+ "title": "The determination of the value of Rado’s noncomputable function Σ(𝑘) for four-state Turing machines"
+}

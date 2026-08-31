@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 421,
+ "counts_by_year": [
+  {
+   "cited_by_count": 47,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 112,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 118,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 50,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2021
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3459637.3482016",
+ "id": "https://openalex.org/W3208227120",
+ "publication_year": 2021,
+ "title": "RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms"
+}

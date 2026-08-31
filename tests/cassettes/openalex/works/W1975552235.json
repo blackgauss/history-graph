@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 375,
+ "doi": "https://doi.org/10.1080/01621459.1971.10482319",
+ "id": "https://openalex.org/W1975552235",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W288256330",
+  "https://openalex.org/W325597738",
+  "https://openalex.org/W1525979121",
+  "https://openalex.org/W1980985059",
+  "https://openalex.org/W1997648776",
+  "https://openalex.org/W2026615147",
+  "https://openalex.org/W2049394545",
+  "https://openalex.org/W2058043899",
+  "https://openalex.org/W2061874589",
+  "https://openalex.org/W2062533874",
+  "https://openalex.org/W2100890245",
+  "https://openalex.org/W2118942683",
+  "https://openalex.org/W2158550687",
+  "https://openalex.org/W2167297928",
+  "https://openalex.org/W4236240466",
+  "https://openalex.org/W4246060548",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4298300677",
+  "https://openalex.org/W4299797888",
+  "https://openalex.org/W4300567698"
+ ],
+ "title": "Cluster Analysis and Mathematical Programming"
+}

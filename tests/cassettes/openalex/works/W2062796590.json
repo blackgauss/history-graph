@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 406,
+ "doi": "https://doi.org/10.1214/aoms/1177699369",
+ "id": "https://openalex.org/W2062796590",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W2004083328",
+  "https://openalex.org/W2022132102",
+  "https://openalex.org/W2028145673",
+  "https://openalex.org/W2028590990",
+  "https://openalex.org/W2036312696",
+  "https://openalex.org/W2074232820"
+ ],
+ "title": "Negative Dynamic Programming"
+}

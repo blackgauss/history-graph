@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 458,
+ "doi": "https://doi.org/10.1109/9.106156",
+ "id": "https://openalex.org/W2155529449",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1965833900",
+  "https://openalex.org/W2014034914",
+  "https://openalex.org/W2053491613",
+  "https://openalex.org/W2100131857",
+  "https://openalex.org/W2121395269",
+  "https://openalex.org/W2155303087",
+  "https://openalex.org/W2163271009"
+ ],
+ "title": "Distributed scheduling based on due dates and buffer priorities"
+}

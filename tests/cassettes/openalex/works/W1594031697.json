@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 23914,
+ "doi": "https://doi.org/10.2307/2530946",
+ "id": "https://openalex.org/W1594031697",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W19427811",
+  "https://openalex.org/W129903560",
+  "https://openalex.org/W193579291",
+  "https://openalex.org/W1489608363",
+  "https://openalex.org/W1970074386",
+  "https://openalex.org/W1970515221",
+  "https://openalex.org/W1974459619",
+  "https://openalex.org/W1976123439",
+  "https://openalex.org/W1982690540",
+  "https://openalex.org/W1989342137",
+  "https://openalex.org/W1990822176",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2022554507",
+  "https://openalex.org/W2028520303",
+  "https://openalex.org/W2039308672",
+  "https://openalex.org/W2072471629",
+  "https://openalex.org/W2074584355",
+  "https://openalex.org/W2123838014",
+  "https://openalex.org/W2127218421",
+  "https://openalex.org/W2138054245",
+  "https://openalex.org/W2150418026",
+  "https://openalex.org/W2161278885",
+  "https://openalex.org/W2164240509",
+  "https://openalex.org/W3017143921"
+ ],
+ "title": "Classification and Regression Trees."
+}

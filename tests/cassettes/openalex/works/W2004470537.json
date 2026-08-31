@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 1324,
+ "doi": "https://doi.org/10.1109/tac.1966.1098316",
+ "id": "https://openalex.org/W2004470537",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W833594278",
+  "https://openalex.org/W1570099085",
+  "https://openalex.org/W1598453729",
+  "https://openalex.org/W1999461383",
+  "https://openalex.org/W2016133270",
+  "https://openalex.org/W2019516897",
+  "https://openalex.org/W2084920235",
+  "https://openalex.org/W2126334860",
+  "https://openalex.org/W2127790141",
+  "https://openalex.org/W2155142445",
+  "https://openalex.org/W2184992848",
+  "https://openalex.org/W2255439832",
+  "https://openalex.org/W2946131385",
+  "https://openalex.org/W4252488023",
+  "https://openalex.org/W4400561318",
+  "https://openalex.org/W6623258800"
+ ],
+ "title": "On the input-output stability of time-varying nonlinear feedback systems Part one: Conditions derived using concepts of loop gain, conicity, and positivity"
+}

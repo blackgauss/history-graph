@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 113,
+ "doi": "https://doi.org/10.1090/s0025-5718-1963-0160313-3",
+ "id": "https://openalex.org/W1997696513",
+ "publication_year": 1963,
+ "referenced_works": [
+  "https://openalex.org/W2062533874",
+  "https://openalex.org/W4298300677"
+ ],
+ "title": "Polynomial approximation—a new computational technique in dynamic programming: Allocation processes"
+}

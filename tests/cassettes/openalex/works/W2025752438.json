@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 532,
+ "doi": "https://doi.org/10.1109/tac.1971.1099760",
+ "id": "https://openalex.org/W2025752438",
+ "publication_year": 1971,
+ "referenced_works": [
+  "https://openalex.org/W2014398910",
+  "https://openalex.org/W2051952228",
+  "https://openalex.org/W2158370675"
+ ],
+ "title": "Differential dynamic programming"
+}

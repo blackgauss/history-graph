@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 19,
+ "doi": "https://doi.org/10.1145/582250.582265",
+ "id": "https://openalex.org/W2084674736",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1983959468",
+  "https://openalex.org/W2003441663",
+  "https://openalex.org/W2021387229",
+  "https://openalex.org/W2079529544",
+  "https://openalex.org/W2125587931",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2243140998"
+ ],
+ "title": "Design of a backend processor for a data base machine"
+}

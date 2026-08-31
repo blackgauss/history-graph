@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 680,
+ "doi": null,
+ "id": "https://openalex.org/W1532852017",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W148103248",
+  "https://openalex.org/W175500210",
+  "https://openalex.org/W1670263352",
+  "https://openalex.org/W1966553486",
+  "https://openalex.org/W1978394996",
+  "https://openalex.org/W1990748933",
+  "https://openalex.org/W1999047234",
+  "https://openalex.org/W2028036481",
+  "https://openalex.org/W2030144199",
+  "https://openalex.org/W2038269916",
+  "https://openalex.org/W2043403353",
+  "https://openalex.org/W2066590388",
+  "https://openalex.org/W2106365165",
+  "https://openalex.org/W2109209233",
+  "https://openalex.org/W2110325612",
+  "https://openalex.org/W2119859154",
+  "https://openalex.org/W2124029832",
+  "https://openalex.org/W2124591829",
+  "https://openalex.org/W2155106456"
+ ],
+ "title": "Combining collaborative filtering with personal agents for better recommendations"
+}

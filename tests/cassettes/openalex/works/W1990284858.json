@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 120,
+ "doi": "https://doi.org/10.1137/0404038",
+ "id": "https://openalex.org/W1990284858",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W25557007",
+  "https://openalex.org/W1986804393",
+  "https://openalex.org/W2002724969",
+  "https://openalex.org/W2015190299",
+  "https://openalex.org/W2031414318",
+  "https://openalex.org/W2086344316",
+  "https://openalex.org/W2097575812",
+  "https://openalex.org/W2113364322",
+  "https://openalex.org/W2320835389",
+  "https://openalex.org/W2999004296"
+ ],
+ "title": "On the Power of Threshold Circuits with Small Weights"
+}

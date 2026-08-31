@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 13,
+ "doi": "https://doi.org/10.1142/s0218126605002611",
+ "id": "https://openalex.org/W2023458041",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W54721856",
+  "https://openalex.org/W150801922",
+  "https://openalex.org/W2001474264",
+  "https://openalex.org/W2028859573",
+  "https://openalex.org/W2082553115",
+  "https://openalex.org/W2103701698",
+  "https://openalex.org/W2107343618",
+  "https://openalex.org/W2132244350",
+  "https://openalex.org/W2132851185",
+  "https://openalex.org/W2135499008",
+  "https://openalex.org/W2140894225",
+  "https://openalex.org/W2144771673",
+  "https://openalex.org/W2149576945",
+  "https://openalex.org/W2151968644"
+ ],
+ "title": "FPGA ACCELERATION WINDOW JOINS OVER MULTIPLE DATA STREAMS"
+}

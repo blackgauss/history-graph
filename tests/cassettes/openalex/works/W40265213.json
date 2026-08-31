@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 32,
+ "doi": "https://doi.org/10.1109/tc.1977.1674783",
+ "id": "https://openalex.org/W40265213",
+ "publication_year": 1977,
+ "referenced_works": [
+  "https://openalex.org/W1772352068",
+  "https://openalex.org/W1973871412",
+  "https://openalex.org/W2000709659",
+  "https://openalex.org/W2098258191"
+ ],
+ "title": "Implementation of Ternary Circuits with-Binary Integrated Circuits"
+}

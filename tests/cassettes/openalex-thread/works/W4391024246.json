@@ -1,0 +1,104 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I37796252"
+     ],
+     "raw_affiliation_string": "Department of Computer Science and Technology, Faculty of Information Technology, Beijing University of Technology, Beijing, China"
+    }
+   ],
+   "author": {
+    "display_name": "Yong Wang",
+    "id": "https://openalex.org/A5088748991",
+    "orcid": "https://orcid.org/0000-0002-5669-6954"
+   },
+   "author_position": "first",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "Beijing University of Technology",
+     "id": "https://openalex.org/I37796252",
+     "lineage": [
+      "https://openalex.org/I37796252"
+     ],
+     "ror": "https://ror.org/037b1pp87",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Department of Computer Science and Technology, Faculty of Information Technology, Beijing University of Technology, Beijing, China"
+   ],
+   "raw_author_name": "Yong Wang"
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": "https://doi.org/10.1016/b978-0-44-321515-5.00024-x",
+ "funders": [],
+ "id": "https://openalex.org/W4391024246",
+ "ids": {
+  "doi": "https://doi.org/10.1016/b978-0-44-321515-5.00024-x",
+  "openalex": "https://openalex.org/W4391024246"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1016/b978-0-44-321515-5.00024-x",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1016/b978-0-44-321515-5.00024-x",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Handbook of Truly Concurrent Process Algebra",
+  "raw_type": "book-chapter",
+  "source": {
+   "display_name": "Elsevier eBooks",
+   "host_organization": "https://openalex.org/P4310320990",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320990"
+   ],
+   "host_organization_lineage_names": [
+    "Elsevier BV"
+   ],
+   "host_organization_name": "Elsevier BV",
+   "id": "https://openalex.org/S4306463230",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "ebook platform"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2024,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2341613074",
+  "https://openalex.org/W2365200093",
+  "https://openalex.org/W4205700219",
+  "https://openalex.org/W805617865",
+  "https://openalex.org/W2077815947",
+  "https://openalex.org/W2809357786",
+  "https://openalex.org/W2043460186",
+  "https://openalex.org/W2124232232",
+  "https://openalex.org/W1606441988",
+  "https://openalex.org/W1529656707"
+ ],
+ "title": "Process algebra based actor model of the Google File System",
+ "type": "book-chapter"
+}

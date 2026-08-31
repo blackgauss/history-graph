@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 81,
+ "doi": "https://doi.org/10.1287/inte.18.5.55",
+ "id": "https://openalex.org/W2092543186",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W1965004323",
+  "https://openalex.org/W1969541193",
+  "https://openalex.org/W1971194609",
+  "https://openalex.org/W1975215753",
+  "https://openalex.org/W1979043822",
+  "https://openalex.org/W1988827462",
+  "https://openalex.org/W1991234870",
+  "https://openalex.org/W2004607467",
+  "https://openalex.org/W2007456767",
+  "https://openalex.org/W2026201378",
+  "https://openalex.org/W2040292362",
+  "https://openalex.org/W2058047108",
+  "https://openalex.org/W2086669735",
+  "https://openalex.org/W2090999429",
+  "https://openalex.org/W2115809996",
+  "https://openalex.org/W2152810514",
+  "https://openalex.org/W2401819916"
+ ],
+ "title": "Further Real Applications of Markov Decision Processes"
+}

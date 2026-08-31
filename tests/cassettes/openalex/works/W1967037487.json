@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 436,
+ "doi": "https://doi.org/10.1103/physrevlett.76.3228",
+ "id": "https://openalex.org/W1967037487",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1965682166",
+  "https://openalex.org/W1973260862",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W1978553093",
+  "https://openalex.org/W1993248778",
+  "https://openalex.org/W1999450843",
+  "https://openalex.org/W1999706070",
+  "https://openalex.org/W2001195787",
+  "https://openalex.org/W2020123688",
+  "https://openalex.org/W2054388650",
+  "https://openalex.org/W2056520430",
+  "https://openalex.org/W2064109805",
+  "https://openalex.org/W2067763535",
+  "https://openalex.org/W2087634531",
+  "https://openalex.org/W2092628095",
+  "https://openalex.org/W2102008187",
+  "https://openalex.org/W2116768645",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W3099429533",
+  "https://openalex.org/W4230665353",
+  "https://openalex.org/W4239873278"
+ ],
+ "title": "Semiclassical Fourier Transform for Quantum Computation"
+}

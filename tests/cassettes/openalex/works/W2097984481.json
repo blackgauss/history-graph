@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 660,
+ "doi": "https://doi.org/10.1109/66.4384",
+ "id": "https://openalex.org/W2097984481",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W2033978479",
+  "https://openalex.org/W2051626388",
+  "https://openalex.org/W2053491613",
+  "https://openalex.org/W2059442555",
+  "https://openalex.org/W2085857497",
+  "https://openalex.org/W2109341366",
+  "https://openalex.org/W2126696774",
+  "https://openalex.org/W2132127784",
+  "https://openalex.org/W2132600086",
+  "https://openalex.org/W2138911407",
+  "https://openalex.org/W2157327204",
+  "https://openalex.org/W2161869110",
+  "https://openalex.org/W2166323094",
+  "https://openalex.org/W2798236146",
+  "https://openalex.org/W6814136689"
+ ],
+ "title": "Scheduling semiconductor wafer fabrication"
+}

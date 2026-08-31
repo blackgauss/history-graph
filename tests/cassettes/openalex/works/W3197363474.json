@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 217,
+ "counts_by_year": [
+  {
+   "cited_by_count": 44,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 92,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 58,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 20,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2022
+  }
+ ],
+ "doi": "https://doi.org/10.1109/iwqos52092.2021.9521274",
+ "id": "https://openalex.org/W3197363474",
+ "publication_year": 2021,
+ "title": "FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models"
+}

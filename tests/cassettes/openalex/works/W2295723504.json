@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 18,
+ "doi": "https://doi.org/10.7551/mitpress/7503.003.0164",
+ "id": "https://openalex.org/W2295723504",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W109907426",
+  "https://openalex.org/W1555691962",
+  "https://openalex.org/W1802356529",
+  "https://openalex.org/W2017399882",
+  "https://openalex.org/W2019502123",
+  "https://openalex.org/W2042422091",
+  "https://openalex.org/W2061659108",
+  "https://openalex.org/W2085927826",
+  "https://openalex.org/W2097620723",
+  "https://openalex.org/W2100218328",
+  "https://openalex.org/W2116365953",
+  "https://openalex.org/W2119938170",
+  "https://openalex.org/W2130055919",
+  "https://openalex.org/W2137234026",
+  "https://openalex.org/W2145889472",
+  "https://openalex.org/W2170896097"
+ ],
+ "title": "Recursive ICA"
+}

@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 914,
+ "doi": null,
+ "id": "https://openalex.org/W2098678088",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1516111018",
+  "https://openalex.org/W1560512119",
+  "https://openalex.org/W1977327092",
+  "https://openalex.org/W2129031807",
+  "https://openalex.org/W2146914716",
+  "https://openalex.org/W2150218618",
+  "https://openalex.org/W2159080219",
+  "https://openalex.org/W2161001955"
+ ],
+ "title": "Generalized Belief Propagation"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 153,
+ "doi": "https://doi.org/10.1006/jcss.1995.1011",
+ "id": "https://openalex.org/W2041615247",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W1972345639",
+  "https://openalex.org/W1982381767",
+  "https://openalex.org/W2001331793",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2013713998",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2037699108",
+  "https://openalex.org/W2053113791",
+  "https://openalex.org/W2091401625",
+  "https://openalex.org/W2116940701",
+  "https://openalex.org/W2117049614",
+  "https://openalex.org/W2134331967",
+  "https://openalex.org/W2143391442",
+  "https://openalex.org/W2152221184",
+  "https://openalex.org/W2154952480",
+  "https://openalex.org/W2398400301",
+  "https://openalex.org/W2428981601",
+  "https://openalex.org/W2611147814"
+ ],
+ "title": "Robust Trainability of Single Neurons"
+}

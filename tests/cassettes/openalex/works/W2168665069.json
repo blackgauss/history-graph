@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 134,
+ "doi": "https://doi.org/10.1145/581199.581253",
+ "id": "https://openalex.org/W2168665069",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1967042053",
+  "https://openalex.org/W2016318026",
+  "https://openalex.org/W2043483349",
+  "https://openalex.org/W2099292266",
+  "https://openalex.org/W2106014430",
+  "https://openalex.org/W2111366547",
+  "https://openalex.org/W2120655454",
+  "https://openalex.org/W2123184444",
+  "https://openalex.org/W2160776998",
+  "https://openalex.org/W2750964270"
+ ],
+ "title": "Round-robin arbiter design and generation"
+}

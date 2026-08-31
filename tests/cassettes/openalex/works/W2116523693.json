@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 24,
+ "doi": "https://doi.org/10.1145/775832.776039",
+ "id": "https://openalex.org/W2116523693",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W149704172",
+  "https://openalex.org/W2048051309",
+  "https://openalex.org/W2080267935",
+  "https://openalex.org/W2117285997",
+  "https://openalex.org/W2117783862",
+  "https://openalex.org/W2118325845",
+  "https://openalex.org/W2120925552",
+  "https://openalex.org/W2125759056",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2159683833"
+ ],
+ "title": "Checking satisfiability of a conjunction of BDDs"
+}

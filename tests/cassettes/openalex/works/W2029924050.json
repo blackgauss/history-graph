@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 16,
+ "doi": "https://doi.org/10.1007/s001820050081",
+ "id": "https://openalex.org/W2029924050",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1486687115",
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1547358889",
+  "https://openalex.org/W1974724010",
+  "https://openalex.org/W1987586813",
+  "https://openalex.org/W1998191601",
+  "https://openalex.org/W1998535586",
+  "https://openalex.org/W2008519844",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2060821549",
+  "https://openalex.org/W2069442054",
+  "https://openalex.org/W2107815843",
+  "https://openalex.org/W2143284884",
+  "https://openalex.org/W2158267265",
+  "https://openalex.org/W2162593497",
+  "https://openalex.org/W2889309469",
+  "https://openalex.org/W3121901773",
+  "https://openalex.org/W3125735252"
+ ],
+ "title": "Dominance or maximin: How to solve an English auction"
+}

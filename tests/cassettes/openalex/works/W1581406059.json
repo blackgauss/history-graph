@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 118,
+ "doi": null,
+ "id": "https://openalex.org/W1581406059",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1519356465",
+  "https://openalex.org/W1541233238",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1975577269",
+  "https://openalex.org/W1987833590",
+  "https://openalex.org/W1996218716",
+  "https://openalex.org/W2005132320",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2041989747",
+  "https://openalex.org/W2052695126",
+  "https://openalex.org/W2076846149",
+  "https://openalex.org/W2078528123",
+  "https://openalex.org/W2080427212",
+  "https://openalex.org/W2119161503",
+  "https://openalex.org/W2128912667",
+  "https://openalex.org/W2147504831",
+  "https://openalex.org/W2162891361",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W3012238015"
+ ],
+ "title": "Hybrid-Range Partitioning Strategy: A New Declustering Strategy for Multiprocessor Database Machines"
+}

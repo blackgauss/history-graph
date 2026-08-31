@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 55,
+ "doi": "https://doi.org/10.1145/5236.5237",
+ "id": "https://openalex.org/W2000391493",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1480550036",
+  "https://openalex.org/W1482143660",
+  "https://openalex.org/W1495302482",
+  "https://openalex.org/W1511673586",
+  "https://openalex.org/W1608639859",
+  "https://openalex.org/W1985581502",
+  "https://openalex.org/W2006772093",
+  "https://openalex.org/W2032386524",
+  "https://openalex.org/W2039610696",
+  "https://openalex.org/W2040074618",
+  "https://openalex.org/W2086319086",
+  "https://openalex.org/W2110810394",
+  "https://openalex.org/W2148417962",
+  "https://openalex.org/W2165467455",
+  "https://openalex.org/W2185907055",
+  "https://openalex.org/W2338727527",
+  "https://openalex.org/W2489748212",
+  "https://openalex.org/W2738980072",
+  "https://openalex.org/W2788164529"
+ ],
+ "title": "On the complexity of join dependencies"
+}

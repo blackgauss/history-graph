@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 29,
+ "doi": "https://doi.org/10.1145/2464576.2464608",
+ "id": "https://openalex.org/W2057625613",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W1970789124",
+  "https://openalex.org/W2034786972",
+  "https://openalex.org/W2112036188",
+  "https://openalex.org/W2136495462",
+  "https://openalex.org/W2166160300",
+  "https://openalex.org/W2171263583"
+ ],
+ "title": "A linear time natural evolution strategy for non-separable functions"
+}

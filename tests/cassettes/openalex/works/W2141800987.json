@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 70,
+ "doi": null,
+ "id": "https://openalex.org/W2141800987",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W111843652",
+  "https://openalex.org/W1528993561",
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1567512734",
+  "https://openalex.org/W2047229728",
+  "https://openalex.org/W2111051539",
+  "https://openalex.org/W2139701068"
+ ],
+ "title": "Ensemble Learning for Multi-Layer Networks"
+}

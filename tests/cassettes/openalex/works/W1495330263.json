@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 18,
+ "doi": null,
+ "id": "https://openalex.org/W1495330263",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1484813121",
+  "https://openalex.org/W1509415190",
+  "https://openalex.org/W1520815598",
+  "https://openalex.org/W1967063635",
+  "https://openalex.org/W1974968886",
+  "https://openalex.org/W1986584060",
+  "https://openalex.org/W2008633193",
+  "https://openalex.org/W2043213682",
+  "https://openalex.org/W2050902871",
+  "https://openalex.org/W2054417407",
+  "https://openalex.org/W2074193056",
+  "https://openalex.org/W2082004608",
+  "https://openalex.org/W2093640116",
+  "https://openalex.org/W2102116440",
+  "https://openalex.org/W2105986919",
+  "https://openalex.org/W2111607006",
+  "https://openalex.org/W2112588192",
+  "https://openalex.org/W2114167330",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2133384222",
+  "https://openalex.org/W2153329411"
+ ],
+ "title": "An Observation on Database Buffering Performance Metrics"
+}

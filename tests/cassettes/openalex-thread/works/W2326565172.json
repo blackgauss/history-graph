@@ -1,0 +1,156 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Zahid Ullah",
+    "id": "https://openalex.org/A5013365496",
+    "orcid": "https://orcid.org/0000-0001-5156-4293"
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Zahid Ullah",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Sohail Jabbar",
+    "id": "https://openalex.org/A5045284879",
+    "orcid": "https://orcid.org/0000-0002-2127-1235"
+   },
+   "author_position": "middle",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Sohail Jabbar",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Muhammad Haris bin Tariq Alvi",
+    "id": "https://openalex.org/A5053328562",
+    "orcid": "https://orcid.org/0009-0008-2446-8851"
+   },
+   "author_position": "middle",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Muhammad Haris bin Tariq Alvi",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Awais Ahmad",
+    "id": "https://openalex.org/A5100716653",
+    "orcid": "https://orcid.org/0000-0001-5483-2732"
+   },
+   "author_position": "last",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Awais Ahmad",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 11,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2017
+  }
+ ],
+ "doi": "https://doi.org/10.7763/ijcce.2014.v3.336",
+ "funders": [],
+ "id": "https://openalex.org/W2326565172",
+ "ids": {
+  "doi": "https://doi.org/10.7763/ijcce.2014.v3.336",
+  "mag": "2326565172",
+  "openalex": "https://openalex.org/W2326565172"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.7763/ijcce.2014.v3.336",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.7763/ijcce.2014.v3.336",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "International Journal of Computer and Communication Engineering",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal of Computer and Communication Engineering",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S4210188066",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "2010-3743"
+   ],
+   "issn_l": "2010-3743",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2014,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W2003932708",
+  "https://openalex.org/W2138102289",
+  "https://openalex.org/W1967424056",
+  "https://openalex.org/W868043274",
+  "https://openalex.org/W2513523087",
+  "https://openalex.org/W1187916458",
+  "https://openalex.org/W2373861055",
+  "https://openalex.org/W1559716973",
+  "https://openalex.org/W3109364360"
+ ],
+ "title": "Analytical Study on Performance, Challenges and Future Considerations of Google File System",
+ "type": "article"
+}

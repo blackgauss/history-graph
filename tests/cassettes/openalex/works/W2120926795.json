@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 2819,
+ "doi": "https://doi.org/10.1016/j.entcs.2005.08.003",
+ "id": "https://openalex.org/W2120926795",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W26772505",
+  "https://openalex.org/W146397587",
+  "https://openalex.org/W1504805982",
+  "https://openalex.org/W1524806153",
+  "https://openalex.org/W1590828018",
+  "https://openalex.org/W1596722521",
+  "https://openalex.org/W1799042098",
+  "https://openalex.org/W1987494796",
+  "https://openalex.org/W1992696924",
+  "https://openalex.org/W2013373314",
+  "https://openalex.org/W2054515625",
+  "https://openalex.org/W2059799630",
+  "https://openalex.org/W2067540169",
+  "https://openalex.org/W2506148024",
+  "https://openalex.org/W2740136181",
+  "https://openalex.org/W2948716491",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6631473286",
+  "https://openalex.org/W6635333735",
+  "https://openalex.org/W6638177953"
+ ],
+ "title": "Constructing Induction Rules for Deductive Synthesis Proofs"
+}

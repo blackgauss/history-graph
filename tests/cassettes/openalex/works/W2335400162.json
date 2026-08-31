@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 726,
+ "doi": "https://doi.org/10.1007/s00039-001-0332-9",
+ "id": "https://openalex.org/W2335400162",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W133393701",
+  "https://openalex.org/W1488916590",
+  "https://openalex.org/W1490170438",
+  "https://openalex.org/W1555768633",
+  "https://openalex.org/W1970366772",
+  "https://openalex.org/W1987254493",
+  "https://openalex.org/W1996922551",
+  "https://openalex.org/W2008476758",
+  "https://openalex.org/W2009196521",
+  "https://openalex.org/W2019367452",
+  "https://openalex.org/W2041110868",
+  "https://openalex.org/W2041824078",
+  "https://openalex.org/W2077055049",
+  "https://openalex.org/W2091022463",
+  "https://openalex.org/W2102115128",
+  "https://openalex.org/W2108900323",
+  "https://openalex.org/W2132134025",
+  "https://openalex.org/W2160039965",
+  "https://openalex.org/W2342433841",
+  "https://openalex.org/W2901284226"
+ ],
+ "title": "A new proof of Szemerédi's theorem"
+}

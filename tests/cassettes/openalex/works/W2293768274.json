@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 908,
+ "doi": "https://doi.org/10.1145/1014052.1014066",
+ "id": "https://openalex.org/W2293768274",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W1415442047",
+  "https://openalex.org/W1517113043",
+  "https://openalex.org/W1542941925",
+  "https://openalex.org/W1550206324",
+  "https://openalex.org/W1605188341",
+  "https://openalex.org/W1648885110",
+  "https://openalex.org/W1960351623",
+  "https://openalex.org/W2010657328",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2017337590",
+  "https://openalex.org/W2026080185",
+  "https://openalex.org/W2048791264",
+  "https://openalex.org/W2058732827",
+  "https://openalex.org/W2068426846",
+  "https://openalex.org/W2084947386",
+  "https://openalex.org/W2096942889",
+  "https://openalex.org/W2099606292",
+  "https://openalex.org/W2108601876",
+  "https://openalex.org/W2140785063",
+  "https://openalex.org/W2168421438",
+  "https://openalex.org/W6606244154",
+  "https://openalex.org/W6635846226",
+  "https://openalex.org/W6636944375"
+ ],
+ "title": "Adversarial classification"
+}

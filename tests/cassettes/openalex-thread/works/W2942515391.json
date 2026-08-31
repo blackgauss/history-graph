@@ -1,0 +1,89 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Federico Ravaldi",
+    "id": "https://openalex.org/A5059479940",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "Ravaldi, Federico",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W2942515391",
+ "ids": {
+  "mag": "2942515391",
+  "openalex": "https://openalex.org/W2942515391"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "pmh:oai:campus.cib.unibo.it:258144",
+  "is_accepted": false,
+  "is_oa": false,
+  "is_published": false,
+  "landing_page_url": "http://campus.unibo.it/258144/1/Paper%20-%20MapReduce%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf",
+  "license": null,
+  "license_id": null,
+  "pdf_url": "http://campus.unibo.it/258144/1/Paper%20-%20MapReduce%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf",
+  "raw_source_name": "",
+  "raw_type": "Materiale didattico / Articolo o Estratto da libro",
+  "source": {
+   "display_name": "AMS Campus - AlmaDL",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S4406922555",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": "submittedVersion"
+ },
+ "publication_year": 2016,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2615267865",
+  "https://openalex.org/W1991425405",
+  "https://openalex.org/W2023220927",
+  "https://openalex.org/W2334017295",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W2056012664",
+  "https://openalex.org/W2097568515",
+  "https://openalex.org/W2598407763",
+  "https://openalex.org/W2046489888",
+  "https://openalex.org/W3211631668",
+  "https://openalex.org/W2078326344",
+  "https://openalex.org/W2558816863",
+  "https://openalex.org/W2762316975",
+  "https://openalex.org/W2102815659",
+  "https://openalex.org/W2395869636",
+  "https://openalex.org/W2388766556",
+  "https://openalex.org/W2389893599",
+  "https://openalex.org/W2100155384",
+  "https://openalex.org/W2518642962",
+  "https://openalex.org/W2054846549"
+ ],
+ "title": "Paper - MapReduce Simplified Data Processing on Large Clusters",
+ "type": "article"
+}

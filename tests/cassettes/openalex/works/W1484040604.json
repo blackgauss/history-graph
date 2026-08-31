@@ -1,0 +1,60 @@
+{
+ "cited_by_count": 32,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2013
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W1484040604",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1500547548",
+  "https://openalex.org/W1510252230",
+  "https://openalex.org/W1512675310",
+  "https://openalex.org/W1517058083",
+  "https://openalex.org/W1997332627",
+  "https://openalex.org/W2016456293",
+  "https://openalex.org/W2052050139",
+  "https://openalex.org/W2079726719",
+  "https://openalex.org/W2096668111",
+  "https://openalex.org/W2107343618",
+  "https://openalex.org/W2113578335",
+  "https://openalex.org/W2114640218",
+  "https://openalex.org/W2118924829",
+  "https://openalex.org/W2120339776",
+  "https://openalex.org/W2127766448",
+  "https://openalex.org/W2128912667",
+  "https://openalex.org/W2132244350",
+  "https://openalex.org/W2139613964",
+  "https://openalex.org/W2140894225",
+  "https://openalex.org/W2144643978",
+  "https://openalex.org/W2147544162",
+  "https://openalex.org/W2152198818",
+  "https://openalex.org/W2161569281",
+  "https://openalex.org/W2163834250",
+  "https://openalex.org/W2170207233",
+  "https://openalex.org/W2172307690",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W2398660820",
+  "https://openalex.org/W3138367763"
+ ],
+ "title": "Executing stream joins on the cell processor"
+}

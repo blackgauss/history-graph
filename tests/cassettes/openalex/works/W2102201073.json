@@ -1,0 +1,237 @@
+{
+ "cited_by_count": 8113,
+ "concepts": [
+  {
+   "display_name": "Mathematics",
+   "id": "https://openalex.org/C33923547",
+   "level": 0,
+   "score": 0.812036395072937,
+   "wikidata": "https://www.wikidata.org/wiki/Q395"
+  },
+  {
+   "display_name": "Multivariate adaptive regression splines",
+   "id": "https://openalex.org/C44882253",
+   "level": 4,
+   "score": 0.6553196310997009,
+   "wikidata": "https://www.wikidata.org/wiki/Q3455882"
+  },
+  {
+   "display_name": "Spline (mechanical)",
+   "id": "https://openalex.org/C10390562",
+   "level": 2,
+   "score": 0.5852574110031128,
+   "wikidata": "https://www.wikidata.org/wiki/Q581809"
+  },
+  {
+   "display_name": "Regression",
+   "id": "https://openalex.org/C83546350",
+   "level": 2,
+   "score": 0.5374117493629456,
+   "wikidata": "https://www.wikidata.org/wiki/Q1139051"
+  },
+  {
+   "display_name": "Nonparametric regression",
+   "id": "https://openalex.org/C74127309",
+   "level": 3,
+   "score": 0.536960780620575,
+   "wikidata": "https://www.wikidata.org/wiki/Q3455886"
+  },
+  {
+   "display_name": "Multivariate statistics",
+   "id": "https://openalex.org/C161584116",
+   "level": 2,
+   "score": 0.5012900829315186,
+   "wikidata": "https://www.wikidata.org/wiki/Q1952580"
+  },
+  {
+   "display_name": "Additive model",
+   "id": "https://openalex.org/C203223496",
+   "level": 2,
+   "score": 0.49633485078811646,
+   "wikidata": "https://www.wikidata.org/wiki/Q4681344"
+  },
+  {
+   "display_name": "Multivariable calculus",
+   "id": "https://openalex.org/C117312493",
+   "level": 2,
+   "score": 0.48423075675964355,
+   "wikidata": "https://www.wikidata.org/wiki/Q2035437"
+  },
+  {
+   "display_name": "Knot (papermaking)",
+   "id": "https://openalex.org/C2779863119",
+   "level": 2,
+   "score": 0.4668249487876892,
+   "wikidata": "https://www.wikidata.org/wiki/Q6423048"
+  },
+  {
+   "display_name": "Regression analysis",
+   "id": "https://openalex.org/C152877465",
+   "level": 2,
+   "score": 0.4665144681930542,
+   "wikidata": "https://www.wikidata.org/wiki/Q208042"
+  },
+  {
+   "display_name": "Basis (linear algebra)",
+   "id": "https://openalex.org/C12426560",
+   "level": 2,
+   "score": 0.41954484581947327,
+   "wikidata": "https://www.wikidata.org/wiki/Q189569"
+  },
+  {
+   "display_name": "Applied mathematics",
+   "id": "https://openalex.org/C28826006",
+   "level": 1,
+   "score": 0.41935765743255615,
+   "wikidata": "https://www.wikidata.org/wiki/Q33521"
+  },
+  {
+   "display_name": "Algorithm",
+   "id": "https://openalex.org/C11413529",
+   "level": 1,
+   "score": 0.340842068195343,
+   "wikidata": "https://www.wikidata.org/wiki/Q8366"
+  },
+  {
+   "display_name": "Statistics",
+   "id": "https://openalex.org/C105795698",
+   "level": 1,
+   "score": 0.2937747538089752,
+   "wikidata": "https://www.wikidata.org/wiki/Q12483"
+  },
+  {
+   "display_name": "Structural engineering",
+   "id": "https://openalex.org/C66938386",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q633538"
+  },
+  {
+   "display_name": "Control engineering",
+   "id": "https://openalex.org/C133731056",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q4917288"
+  },
+  {
+   "display_name": "Geometry",
+   "id": "https://openalex.org/C2524010",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q8087"
+  },
+  {
+   "display_name": "Engineering",
+   "id": "https://openalex.org/C127413603",
+   "level": 0,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q11023"
+  },
+  {
+   "display_name": "Chemical engineering",
+   "id": "https://openalex.org/C42360764",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q83588"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 84,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 268,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 378,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 416,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 472,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 522,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 531,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 463,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 448,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 345,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 366,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 297,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 315,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 293,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 321,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1214/aos/1176347963",
+ "id": "https://openalex.org/W2102201073",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W8879762",
+  "https://openalex.org/W133977063",
+  "https://openalex.org/W155310615",
+  "https://openalex.org/W168150807",
+  "https://openalex.org/W568187553",
+  "https://openalex.org/W778085284",
+  "https://openalex.org/W1510444525",
+  "https://openalex.org/W1542048523",
+  "https://openalex.org/W1963944982",
+  "https://openalex.org/W1967227158",
+  "https://openalex.org/W1990351156",
+  "https://openalex.org/W1994753884",
+  "https://openalex.org/W2002113995",
+  "https://openalex.org/W2017977879",
+  "https://openalex.org/W2040615655",
+  "https://openalex.org/W2058802470",
+  "https://openalex.org/W2064257851",
+  "https://openalex.org/W2078836410",
+  "https://openalex.org/W2082102453",
+  "https://openalex.org/W2091886411",
+  "https://openalex.org/W2103116581",
+  "https://openalex.org/W2118020555",
+  "https://openalex.org/W2121148725",
+  "https://openalex.org/W2146766088",
+  "https://openalex.org/W2147169375",
+  "https://openalex.org/W2162430620",
+  "https://openalex.org/W2162870748",
+  "https://openalex.org/W2164086668",
+  "https://openalex.org/W2798909945",
+  "https://openalex.org/W3000332379",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Multivariate Adaptive Regression Splines"
+}

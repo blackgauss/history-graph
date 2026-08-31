@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 643,
+ "doi": "https://doi.org/10.1214/aos/1176345697",
+ "id": "https://openalex.org/W2000352206",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W1536997931",
+  "https://openalex.org/W1599068951",
+  "https://openalex.org/W1982146243",
+  "https://openalex.org/W2001221332",
+  "https://openalex.org/W2006157226",
+  "https://openalex.org/W2013868386",
+  "https://openalex.org/W2029910124",
+  "https://openalex.org/W2038416118",
+  "https://openalex.org/W2043228837",
+  "https://openalex.org/W2049713645",
+  "https://openalex.org/W2059412369",
+  "https://openalex.org/W2075462441",
+  "https://openalex.org/W2085984695",
+  "https://openalex.org/W2091474317",
+  "https://openalex.org/W2121270597",
+  "https://openalex.org/W2125812768",
+  "https://openalex.org/W2154999013",
+  "https://openalex.org/W2313953460",
+  "https://openalex.org/W2403035479"
+ ],
+ "title": "Least Squares Estimates in Stochastic Regression Models with Applications to Identification and Control of Dynamic Systems"
+}

@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 44,
+ "doi": "https://doi.org/10.1162/neco.1996.8.7.1541",
+ "id": "https://openalex.org/W2085835701",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1246461931",
+  "https://openalex.org/W1553004968",
+  "https://openalex.org/W1709719830",
+  "https://openalex.org/W1969451865",
+  "https://openalex.org/W1973578915",
+  "https://openalex.org/W1988171432",
+  "https://openalex.org/W1994405449",
+  "https://openalex.org/W2013570924",
+  "https://openalex.org/W2018584324",
+  "https://openalex.org/W2026799324",
+  "https://openalex.org/W2026915078",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2054505252",
+  "https://openalex.org/W2083380015",
+  "https://openalex.org/W2102122585",
+  "https://openalex.org/W2123698931",
+  "https://openalex.org/W2125838338",
+  "https://openalex.org/W2143247386",
+  "https://openalex.org/W2148695089",
+  "https://openalex.org/W2150884987",
+  "https://openalex.org/W2157140289",
+  "https://openalex.org/W2161523118",
+  "https://openalex.org/W2997317337"
+ ],
+ "title": "Hybrid Modeling, HMM/NN Architectures, and Protein Applications"
+}

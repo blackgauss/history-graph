@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 12,
+ "doi": "https://doi.org/10.1016/j.entcs.2004.06.066",
+ "id": "https://openalex.org/W2086822130",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1506430919",
+  "https://openalex.org/W1551824194",
+  "https://openalex.org/W1583912692",
+  "https://openalex.org/W1595386810",
+  "https://openalex.org/W2069422398",
+  "https://openalex.org/W2095182415",
+  "https://openalex.org/W2096967940",
+  "https://openalex.org/W2112044958",
+  "https://openalex.org/W2156915267",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2170145744",
+  "https://openalex.org/W2483160171",
+  "https://openalex.org/W2483649756",
+  "https://openalex.org/W2490478666",
+  "https://openalex.org/W2911357578",
+  "https://openalex.org/W2912629157",
+  "https://openalex.org/W4253148439",
+  "https://openalex.org/W6630264287",
+  "https://openalex.org/W6632879365",
+  "https://openalex.org/W6634938190",
+  "https://openalex.org/W6664434933",
+  "https://openalex.org/W6668066173",
+  "https://openalex.org/W6684396269",
+  "https://openalex.org/W6758326466"
+ ],
+ "title": "Combining Non-stably Infinite, Non-first Order Theories"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 39,
+ "doi": "https://doi.org/10.1080/02664760050076371",
+ "id": "https://openalex.org/W2048113320",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W92388884",
+  "https://openalex.org/W1483421714",
+  "https://openalex.org/W1908949312",
+  "https://openalex.org/W1912982817",
+  "https://openalex.org/W1965300533",
+  "https://openalex.org/W1965894730",
+  "https://openalex.org/W2000241167",
+  "https://openalex.org/W2032026767",
+  "https://openalex.org/W2047449506",
+  "https://openalex.org/W2075381171",
+  "https://openalex.org/W2141604678",
+  "https://openalex.org/W2142183404",
+  "https://openalex.org/W2149428338",
+  "https://openalex.org/W2167490420",
+  "https://openalex.org/W2333742443",
+  "https://openalex.org/W2797114046",
+  "https://openalex.org/W3023540311",
+  "https://openalex.org/W4247340049",
+  "https://openalex.org/W4249303080",
+  "https://openalex.org/W4298186428",
+  "https://openalex.org/W6658331526"
+ ],
+ "title": "Defining attributes for scorecard construction in credit scoring"
+}

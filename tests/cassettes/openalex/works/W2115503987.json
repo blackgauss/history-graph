@@ -1,0 +1,120 @@
+{
+ "cited_by_count": 1236,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 54,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 68,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 84,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 75,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 81,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 84,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 89,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 86,
+   "year": 2012
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W2115503987",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W35271428",
+  "https://openalex.org/W87905120",
+  "https://openalex.org/W191005192",
+  "https://openalex.org/W205648239",
+  "https://openalex.org/W1510252230",
+  "https://openalex.org/W1513287359",
+  "https://openalex.org/W1532006000",
+  "https://openalex.org/W1646696449",
+  "https://openalex.org/W1941983649",
+  "https://openalex.org/W1943411325",
+  "https://openalex.org/W1968386702",
+  "https://openalex.org/W1979447985",
+  "https://openalex.org/W1997332627",
+  "https://openalex.org/W1997996213",
+  "https://openalex.org/W2007034626",
+  "https://openalex.org/W2010801412",
+  "https://openalex.org/W2013892720",
+  "https://openalex.org/W2020765652",
+  "https://openalex.org/W2044564105",
+  "https://openalex.org/W2049263029",
+  "https://openalex.org/W2052464302",
+  "https://openalex.org/W2062735494",
+  "https://openalex.org/W2093583339",
+  "https://openalex.org/W2097829252",
+  "https://openalex.org/W2103851758",
+  "https://openalex.org/W2106990403",
+  "https://openalex.org/W2107483781",
+  "https://openalex.org/W2108493163",
+  "https://openalex.org/W2111586962",
+  "https://openalex.org/W2112215401",
+  "https://openalex.org/W2118828104",
+  "https://openalex.org/W2118924829",
+  "https://openalex.org/W2119360906",
+  "https://openalex.org/W2124298185",
+  "https://openalex.org/W2135216003",
+  "https://openalex.org/W2140955554",
+  "https://openalex.org/W2149576945",
+  "https://openalex.org/W2150206209",
+  "https://openalex.org/W2153259545",
+  "https://openalex.org/W2153399951",
+  "https://openalex.org/W2153834102",
+  "https://openalex.org/W2155859954",
+  "https://openalex.org/W2161569281",
+  "https://openalex.org/W2162553498",
+  "https://openalex.org/W2164128653",
+  "https://openalex.org/W2203361072",
+  "https://openalex.org/W2296677182",
+  "https://openalex.org/W2403180956",
+  "https://openalex.org/W2611007427"
+ ],
+ "title": "The Design of the Borealis Stream Processing Engine"
+}

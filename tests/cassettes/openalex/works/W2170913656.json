@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 725,
+ "doi": null,
+ "id": "https://openalex.org/W2170913656",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1520046401",
+  "https://openalex.org/W1536719366",
+  "https://openalex.org/W1554701668",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1595468493",
+  "https://openalex.org/W1696243063",
+  "https://openalex.org/W1882120692",
+  "https://openalex.org/W1990748933",
+  "https://openalex.org/W2016025989",
+  "https://openalex.org/W2039024435",
+  "https://openalex.org/W2104597806",
+  "https://openalex.org/W2128128566",
+  "https://openalex.org/W2146935111",
+  "https://openalex.org/W2153504150",
+  "https://openalex.org/W2912610563",
+  "https://openalex.org/W3017143921",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Analysis and visualization of classifier performance: comparison under imprecise class and cost distributions"
+}

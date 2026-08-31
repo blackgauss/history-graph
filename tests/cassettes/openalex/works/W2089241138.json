@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 742,
+ "doi": "https://doi.org/10.1093/comjnl/32.2.98",
+ "id": "https://openalex.org/W2089241138",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W159710003",
+  "https://openalex.org/W579689537",
+  "https://openalex.org/W1829244603",
+  "https://openalex.org/W2011087973",
+  "https://openalex.org/W2089674328",
+  "https://openalex.org/W2090587238",
+  "https://openalex.org/W2093415968",
+  "https://openalex.org/W3021661880"
+ ],
+ "title": "Why Functional Programming Matters"
+}

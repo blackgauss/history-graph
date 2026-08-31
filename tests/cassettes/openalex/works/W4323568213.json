@@ -1,0 +1,1154 @@
+{
+ "abstract_inverted_index": {
+  "(1)": [
+   130
+  ],
+  "(2)": [
+   202
+  ],
+  "(3)": [
+   255
+  ],
+  "(4)": [
+   331
+  ],
+  "12th": [
+   249
+  ],
+  "14th": [
+   253
+  ],
+  "18": [
+   291
+  ],
+  "6th": [
+   240
+  ],
+  "=": [
+   224,
+   350
+  ],
+  ">": [
+   170,
+   173,
+   220,
+   228,
+   276,
+   281,
+   318,
+   322,
+   347,
+   353
+  ],
+  "Among": [
+   285
+  ],
+  "First,": [
+   61
+  ],
+  "However,": [
+   25,
+   302
+  ],
+  "In": [
+   0,
+   33,
+   131,
+   203,
+   256
+  ],
+  "It": [
+   232
+  ],
+  "Second,": [
+   85
+  ],
+  "The": [
+   153,
+   176,
+   186,
+   332
+  ],
+  "Third,": [
+   104
+  ],
+  "This": [
+   121
+  ],
+  "a": [
+   64,
+   76
+  ],
+  "ability": [
+   146,
+   172,
+   341
+  ],
+  "accidents,": [
+   75
+  ],
+  "accidents.": [
+   24
+  ],
+  "acts": [
+   19,
+   82,
+   113,
+   150,
+   160
+  ],
+  "acts,": [
+   49
+  ],
+  "acts.": [
+   103
+  ],
+  "and": [
+   72,
+   107,
+   125,
+   144,
+   191,
+   242
+  ],
+  "apparent.": [
+   301
+  ],
+  "applied": [
+   91
+  ],
+  "are": [
+   119,
+   127
+  ],
+  "area": [
+   30
+  ],
+  "as": [
+   128,
+   165,
+   215,
+   272,
+   312,
+   343
+  ],
+  "attains": [
+   243
+  ],
+  "awareness,": [
+   355
+  ],
+  "based": [
+   62
+  ],
+  "but": [
+   325,
+   356
+  ],
+  "carry": [
+   57
+  ],
+  "causes": [
+   68
+  ],
+  "coal": [
+   71
+  ],
+  "coalmines": [
+   163,
+   270
+  ],
+  "coalmines,": [
+   134
+  ],
+  "company,": [
+   197
+  ],
+  "concept": [
+   230
+  ],
+  "conclusions": [
+   126
+  ],
+  "construct": [
+   338
+  ],
+  "construction": [
+   193,
+   205,
+   258
+  ],
+  "control": [
+   109
+  ],
+  "culture,": [
+   140,
+   209
+  ],
+  "culture.": [
+   175
+  ],
+  "degree": [
+   265,
+   308,
+   333
+  ],
+  "difference": [
+   177,
+   235,
+   327,
+   358
+  ],
+  "difference.": [
+   201
+  ],
+  "discipline": [
+   226
+  ],
+  "dynamic": [
+   77
+  ],
+  "dynamics": [
+   54,
+   88
+  ],
+  "eighteen.": [
+   185
+  ],
+  "elements": [
+   219,
+   223,
+   227
+  ],
+  "elements.": [
+   231
+  ],
+  "enterprise": [
+   116
+  ],
+  "especially": [
+   287
+  ],
+  "established.": [
+   84
+  ],
+  "evident": [
+   180
+  ],
+  "factors": [
+   42,
+   100
+  ],
+  "first": [
+   290
+  ],
+  "follows:": [
+   129,
+   166,
+   216,
+   273,
+   313,
+   344
+  ],
+  "for": [
+   80
+  ],
+  "from": [
+   238,
+   247
+  ],
+  "gas": [
+   73
+  ],
+  "greater": [
+   199
+  ],
+  "habits": [
+   352
+  ],
+  "higher": [
+   187
+  ],
+  "impact": [
+   294,
+   361
+  ],
+  "important": [
+   7
+  ],
+  "in": [
+   20,
+   28,
+   43,
+   114,
+   161,
+   181,
+   236,
+   268,
+   288,
+   303
+  ],
+  "influence": [
+   11,
+   38,
+   95,
+   136,
+   156,
+   213,
+   237,
+   267,
+   310,
+   335
+  ],
+  "investigate": [
+   93
+  ],
+  "is": [
+   5,
+   31,
+   90,
+   164,
+   178,
+   328
+  ],
+  "it": [
+   4
+  ],
+  "its": [
+   244
+  ],
+  "knowledge": [
+   346
+  ],
+  "law": [
+   39
+  ],
+  "level": [
+   190
+  ],
+  "main": [
+   123
+  ],
+  "management": [
+   142,
+   168,
+   262,
+   278,
+   283,
+   315,
+   320
+  ],
+  "management,": [
+   3
+  ],
+  "maximum": [
+   245
+  ],
+  "measure": [
+   218
+  ],
+  "measures": [
+   110
+  ],
+  "mechanism": [
+   106
+  ],
+  "mine,": [
+   306
+  ],
+  "model": [
+   79,
+   89
+  ],
+  "modern": [
+   1
+  ],
+  "month": [
+   241,
+   250
+  ],
+  "month.": [
+   254
+  ],
+  "months": [
+   182
+  ],
+  "months,": [
+   292
+  ],
+  "most": [
+   179,
+   300
+  ],
+  "new": [
+   133,
+   269
+  ],
+  "obtain": [
+   36
+  ],
+  "of": [
+   12,
+   40,
+   66,
+   69,
+   96,
+   111,
+   137,
+   155,
+   195,
+   206,
+   212,
+   259,
+   266,
+   295,
+   309,
+   334,
+   339
+  ],
+  "on": [
+   17,
+   47,
+   63,
+   101,
+   147,
+   157,
+   336,
+   359
+  ],
+  "order": [
+   21,
+   34,
+   154,
+   211
+  ],
+  "organization": [
+   279,
+   316
+  ],
+  "out": [
+   58
+  ],
+  "outburst": [
+   74
+  ],
+  "paper": [
+   51
+  ],
+  "policy": [
+   275,
+   298
+  ],
+  "policy,": [
+   324
+  ],
+  "prevent": [
+   23
+  ],
+  "procedures": [
+   321
+  ],
+  "procedures.": [
+   284
+  ],
+  "production": [
+   162,
+   305
+  ],
+  "psychology": [
+   349
+  ],
+  "research": [
+   27
+  ],
+  "research.": [
+   60
+  ],
+  "responsibility": [
+   222
+  ],
+  "result": [
+   124
+  ],
+  "safety": [
+   2,
+   15,
+   45,
+   98,
+   117,
+   139,
+   141,
+   145,
+   149,
+   159,
+   167,
+   171,
+   174,
+   189,
+   192,
+   208,
+   217,
+   221,
+   225,
+   229,
+   261,
+   274,
+   277,
+   282,
+   297,
+   314,
+   319,
+   323,
+   340,
+   345,
+   348,
+   351,
+   354
+  ],
+  "shows": [
+   233
+  ],
+  "similar.": [
+   152
+  ],
+  "simulation": [
+   55,
+   78
+  ],
+  "small.": [
+   330,
+   363
+  ],
+  "sparse.": [
+   32
+  ],
+  "standard": [
+   194
+  ],
+  "structure": [
+   280,
+   317
+  ],
+  "studied.": [
+   120
+  ],
+  "study": [
+   9
+  ],
+  "study's": [
+   122
+  ],
+  "summary": [
+   65
+  ],
+  "system": [
+   16,
+   46,
+   53,
+   87,
+   99,
+   118,
+   169
+  ],
+  "system,": [
+   143,
+   263
+  ],
+  "ten": [
+   183
+  ],
+  "the": [
+   10,
+   13,
+   37,
+   44,
+   67,
+   70,
+   86,
+   94,
+   105,
+   108,
+   115,
+   132,
+   135,
+   138,
+   148,
+   158,
+   188,
+   196,
+   198,
+   200,
+   204,
+   207,
+   210,
+   234,
+   239,
+   248,
+   252,
+   257,
+   260,
+   264,
+   289,
+   293,
+   296,
+   304,
+   307,
+   326,
+   337,
+   357,
+   360
+  ],
+  "them,": [
+   286
+  ],
+  "theoretical": [
+   26,
+   59
+  ],
+  "this": [
+   29,
+   50
+  ],
+  "to": [
+   8,
+   22,
+   35,
+   56,
+   92,
+   184,
+   251
+  ],
+  "unsafe": [
+   18,
+   48,
+   81,
+   102,
+   112
+  ],
+  "used": [
+   52
+  ],
+  "value": [
+   246
+  ],
+  "various": [
+   41,
+   97
+  ],
+  "very": [
+   6,
+   329
+  ],
+  "was": [
+   83,
+   214,
+   271,
+   299,
+   311,
+   342,
+   362
+  ],
+  "were": [
+   151
+  ],
+  "whole": [
+   14
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Department of Engineering Physics, Tsinghua University, Beijing 100084, China"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Institute of Public Safety Research, Tsinghua University, Beijing 100084, China"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I25757504"
+     ],
+     "raw_affiliation_string": "School of Emergency Management and Safety Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China"
+    }
+   ],
+   "author": {
+    "display_name": "Xuecai Xie",
+    "id": "https://openalex.org/A5101505389",
+    "orcid": "https://orcid.org/0000-0001-5808-8170"
+   },
+   "author_position": "first",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "China University of Mining and Technology",
+     "id": "https://openalex.org/I25757504",
+     "lineage": [
+      "https://openalex.org/I25757504"
+     ],
+     "ror": "https://ror.org/01xt2dr21",
+     "type": "education"
+    },
+    {
+     "country_code": "CN",
+     "display_name": "Tsinghua University",
+     "id": "https://openalex.org/I99065089",
+     "lineage": [
+      "https://openalex.org/I99065089"
+     ],
+     "ror": "https://ror.org/03cve4549",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Engineering Physics, Tsinghua University, Beijing 100084, China",
+    "Institute of Public Safety Research, Tsinghua University, Beijing 100084, China",
+    "School of Emergency Management and Safety Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China"
+   ],
+   "raw_author_name": "Xuecai Xie",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I25254941"
+     ],
+     "raw_affiliation_string": "Academy of Disaster Reduction and Emergency Management, Ministry of Emergency Management & Ministry of Education, Beijing Normal University, Beijing 100875, China"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I25254941"
+     ],
+     "raw_affiliation_string": "School of National Safety and Emergency Management, Beijing Normal University at Zhuhai, Zhuhai 519087, China"
+    }
+   ],
+   "author": {
+    "display_name": "Jun Hu",
+    "id": "https://openalex.org/A5100405527",
+    "orcid": "https://orcid.org/0000-0002-3020-0148"
+   },
+   "author_position": "middle",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "Beijing Normal University",
+     "id": "https://openalex.org/I25254941",
+     "lineage": [
+      "https://openalex.org/I25254941"
+     ],
+     "ror": "https://ror.org/022k4wk35",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Academy of Disaster Reduction and Emergency Management, Ministry of Emergency Management & Ministry of Education, Beijing Normal University, Beijing 100875, China",
+    "School of National Safety and Emergency Management, Beijing Normal University at Zhuhai, Zhuhai 519087, China"
+   ],
+   "raw_author_name": "Jun Hu",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I25757504"
+     ],
+     "raw_affiliation_string": "School of Emergency Management and Safety Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China"
+    }
+   ],
+   "author": {
+    "display_name": "Gui Fu",
+    "id": "https://openalex.org/A5049512774",
+    "orcid": "https://orcid.org/0000-0001-8461-3717"
+   },
+   "author_position": "middle",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "China University of Mining and Technology",
+     "id": "https://openalex.org/I25757504",
+     "lineage": [
+      "https://openalex.org/I25757504"
+     ],
+     "ror": "https://ror.org/01xt2dr21",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "School of Emergency Management and Safety Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China"
+   ],
+   "raw_author_name": "Gui Fu",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Department of Engineering Physics, Tsinghua University, Beijing 100084, China"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Institute of Public Safety Research, Tsinghua University, Beijing 100084, China"
+    }
+   ],
+   "author": {
+    "display_name": "Xueming Shu",
+    "id": "https://openalex.org/A5019638123",
+    "orcid": "https://orcid.org/0000-0001-7656-6690"
+   },
+   "author_position": "middle",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "Tsinghua University",
+     "id": "https://openalex.org/I99065089",
+     "lineage": [
+      "https://openalex.org/I99065089"
+     ],
+     "ror": "https://ror.org/03cve4549",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Engineering Physics, Tsinghua University, Beijing 100084, China",
+    "Institute of Public Safety Research, Tsinghua University, Beijing 100084, China"
+   ],
+   "raw_author_name": "Xueming Shu",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I25757504"
+     ],
+     "raw_affiliation_string": "School of Emergency Management and Safety Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China"
+    }
+   ],
+   "author": {
+    "display_name": "Yali Wu",
+    "id": "https://openalex.org/A5027212253",
+    "orcid": "https://orcid.org/0000-0003-4817-052X"
+   },
+   "author_position": "middle",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "China University of Mining and Technology",
+     "id": "https://openalex.org/I25757504",
+     "lineage": [
+      "https://openalex.org/I25757504"
+     ],
+     "ror": "https://ror.org/01xt2dr21",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "School of Emergency Management and Safety Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China"
+   ],
+   "raw_author_name": "Yali Wu",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Department of Engineering Physics, Tsinghua University, Beijing 100084, China"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Institute of Public Safety Research, Tsinghua University, Beijing 100084, China"
+    }
+   ],
+   "author": {
+    "display_name": "Lida Huang",
+    "id": "https://openalex.org/A5069617930",
+    "orcid": "https://orcid.org/0000-0002-2663-6221"
+   },
+   "author_position": "middle",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "Tsinghua University",
+     "id": "https://openalex.org/I99065089",
+     "lineage": [
+      "https://openalex.org/I99065089"
+     ],
+     "ror": "https://ror.org/03cve4549",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Engineering Physics, Tsinghua University, Beijing 100084, China",
+    "Institute of Public Safety Research, Tsinghua University, Beijing 100084, China"
+   ],
+   "raw_author_name": "Lida Huang",
+   "raw_orcid": "https://orcid.org/0000-0002-2663-6221"
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Department of Engineering Physics, Tsinghua University, Beijing 100084, China"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I99065089"
+     ],
+     "raw_affiliation_string": "Institute of Public Safety Research, Tsinghua University, Beijing 100084, China"
+    }
+   ],
+   "author": {
+    "display_name": "Shifei Shen",
+    "id": "https://openalex.org/A5113193736",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [
+    "CN"
+   ],
+   "institutions": [
+    {
+     "country_code": "CN",
+     "display_name": "Tsinghua University",
+     "id": "https://openalex.org/I99065089",
+     "lineage": [
+      "https://openalex.org/I99065089"
+     ],
+     "ror": "https://ror.org/03cve4549",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Engineering Physics, Tsinghua University, Beijing 100084, China",
+    "Institute of Public Safety Research, Tsinghua University, Beijing 100084, China"
+   ],
+   "raw_author_name": "Shifei Shen",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.3390/ijerph20064733",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.3390/ijerph20064733",
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "pdf_url": "https://www.mdpi.com/1660-4601/20/6/4733/pdf?version=1678247192",
+  "raw_source_name": "International Journal of Environmental Research and Public Health",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal of Environmental Research and Public Health",
+   "host_organization": "https://openalex.org/P4310310987",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310310987"
+   ],
+   "host_organization_lineage_names": [
+    "Multidisciplinary Digital Publishing Institute"
+   ],
+   "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+   "id": "https://openalex.org/S15239247",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "1660-4601",
+    "1661-7827"
+   ],
+   "issn_l": "1660-4601",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 8,
+ "counts_by_year": [
+  {
+   "cited_by_count": 3,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.3390/ijerph20064733",
+ "funders": [
+  {
+   "display_name": "National Natural Science Foundation of China",
+   "id": "https://openalex.org/F4320321001",
+   "ror": "https://ror.org/01h0zpd94"
+  },
+  {
+   "display_name": "National Key Research and Development Program of China",
+   "id": "https://openalex.org/F4320335777",
+   "ror": null
+  }
+ ],
+ "id": "https://openalex.org/W4323568213",
+ "ids": {
+  "doi": "https://doi.org/10.3390/ijerph20064733",
+  "openalex": "https://openalex.org/W4323568213",
+  "pmid": "https://pubmed.ncbi.nlm.nih.gov/36981641"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": true,
+  "is_oa": true,
+  "oa_status": "gold",
+  "oa_url": "https://www.mdpi.com/1660-4601/20/6/4733/pdf?version=1678247192"
+ },
+ "primary_location": {
+  "id": "doi:10.3390/ijerph20064733",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.3390/ijerph20064733",
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "pdf_url": "https://www.mdpi.com/1660-4601/20/6/4733/pdf?version=1678247192",
+  "raw_source_name": "International Journal of Environmental Research and Public Health",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "International Journal of Environmental Research and Public Health",
+   "host_organization": "https://openalex.org/P4310310987",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310310987"
+   ],
+   "host_organization_lineage_names": [
+    "Multidisciplinary Digital Publishing Institute"
+   ],
+   "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+   "id": "https://openalex.org/S15239247",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": true,
+   "issn": [
+    "1660-4601",
+    "1661-7827"
+   ],
+   "issn_l": "1660-4601",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2023,
+ "referenced_works": [
+  "https://openalex.org/W2141781845",
+  "https://openalex.org/W2413807712",
+  "https://openalex.org/W2570396001",
+  "https://openalex.org/W2576868625",
+  "https://openalex.org/W2773823231",
+  "https://openalex.org/W2783852239",
+  "https://openalex.org/W2788326542",
+  "https://openalex.org/W2802394868",
+  "https://openalex.org/W2896731413",
+  "https://openalex.org/W2904649424",
+  "https://openalex.org/W2904872130",
+  "https://openalex.org/W2907371908",
+  "https://openalex.org/W2909813771",
+  "https://openalex.org/W2912250415",
+  "https://openalex.org/W2947305136",
+  "https://openalex.org/W2953511553",
+  "https://openalex.org/W2964711776",
+  "https://openalex.org/W2987699057",
+  "https://openalex.org/W2989809714",
+  "https://openalex.org/W2990031054",
+  "https://openalex.org/W2990960148",
+  "https://openalex.org/W3004108881",
+  "https://openalex.org/W3005174305",
+  "https://openalex.org/W3019396349",
+  "https://openalex.org/W3021775424",
+  "https://openalex.org/W3022881751",
+  "https://openalex.org/W3031284103",
+  "https://openalex.org/W3113284152",
+  "https://openalex.org/W3118454241",
+  "https://openalex.org/W3121842614",
+  "https://openalex.org/W3137962681",
+  "https://openalex.org/W3141376898",
+  "https://openalex.org/W3180700219",
+  "https://openalex.org/W3185696394",
+  "https://openalex.org/W3185777893",
+  "https://openalex.org/W3187019869",
+  "https://openalex.org/W3197532251",
+  "https://openalex.org/W3198798069",
+  "https://openalex.org/W3202943371",
+  "https://openalex.org/W3206981076",
+  "https://openalex.org/W4200154467",
+  "https://openalex.org/W4200385848",
+  "https://openalex.org/W4205486723",
+  "https://openalex.org/W4206929533",
+  "https://openalex.org/W4210529375",
+  "https://openalex.org/W4220868823",
+  "https://openalex.org/W4221021469",
+  "https://openalex.org/W4223580411",
+  "https://openalex.org/W4225122552",
+  "https://openalex.org/W4281674197",
+  "https://openalex.org/W4286258736",
+  "https://openalex.org/W4286447611",
+  "https://openalex.org/W4291618257",
+  "https://openalex.org/W4310610670"
+ ],
+ "related_works": [
+  "https://openalex.org/W2068384771",
+  "https://openalex.org/W629205042",
+  "https://openalex.org/W3082066108",
+  "https://openalex.org/W2118131742",
+  "https://openalex.org/W1918870265",
+  "https://openalex.org/W3158604693",
+  "https://openalex.org/W1502857090",
+  "https://openalex.org/W3111249735",
+  "https://openalex.org/W3158033085",
+  "https://openalex.org/W2774812953"
+ ],
+ "title": "Investigation of Unsafe Acts Influence Law Based on System Dynamics Simulation: Thoughts on Behavior Mechanism and Safety Control",
+ "type": "article"
+}

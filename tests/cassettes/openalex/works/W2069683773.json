@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 617,
+ "doi": "https://doi.org/10.1016/0004-3702(85)90041-4",
+ "id": "https://openalex.org/W2069683773",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W27267440",
+  "https://openalex.org/W1972332180",
+  "https://openalex.org/W2002478775",
+  "https://openalex.org/W2068852367",
+  "https://openalex.org/W2072755230",
+  "https://openalex.org/W2096138715",
+  "https://openalex.org/W2119456262",
+  "https://openalex.org/W2135432705",
+  "https://openalex.org/W6601091264",
+  "https://openalex.org/W6674065141"
+ ],
+ "title": "The complexity of some polynomial network consistency algorithms for constraint satisfaction problems"
+}

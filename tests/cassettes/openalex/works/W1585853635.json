@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 44,
+ "doi": null,
+ "id": "https://openalex.org/W1585853635",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W314751454",
+  "https://openalex.org/W608118196",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1981523076",
+  "https://openalex.org/W2033368934",
+  "https://openalex.org/W2046269252",
+  "https://openalex.org/W2057354799",
+  "https://openalex.org/W2084060979",
+  "https://openalex.org/W2090019683",
+  "https://openalex.org/W2093793584",
+  "https://openalex.org/W2104027502",
+  "https://openalex.org/W2116436709",
+  "https://openalex.org/W2146884585",
+  "https://openalex.org/W2169486917",
+  "https://openalex.org/W2200545814",
+  "https://openalex.org/W2295596515",
+  "https://openalex.org/W2912039080"
+ ],
+ "title": "An Incremental Join Attachment for Starburst"
+}

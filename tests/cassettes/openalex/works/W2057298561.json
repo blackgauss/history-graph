@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 53,
+ "doi": "https://doi.org/10.1214/aos/1176345790",
+ "id": "https://openalex.org/W2057298561",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W31494007",
+  "https://openalex.org/W1515416301",
+  "https://openalex.org/W1968593861",
+  "https://openalex.org/W1971830622",
+  "https://openalex.org/W1992068214",
+  "https://openalex.org/W2065230098",
+  "https://openalex.org/W2751862591",
+  "https://openalex.org/W2797333853"
+ ],
+ "title": "Applications of Anova Type Decompositions for Comparisons of Conditional Variance Statistics Including Jackknife Estimates"
+}

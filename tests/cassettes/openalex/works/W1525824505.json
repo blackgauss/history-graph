@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 9,
+ "doi": null,
+ "id": "https://openalex.org/W1525824505",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W2006772093",
+  "https://openalex.org/W2039610696",
+  "https://openalex.org/W2066954445",
+  "https://openalex.org/W3094133439"
+ ],
+ "title": "Join graphs and acyclic database schemes"
+}

@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 237,
+ "doi": "https://doi.org/10.1007/3-540-69115-4_39",
+ "id": "https://openalex.org/W1582014272",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1484754041",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1565902562",
+  "https://openalex.org/W1582971263",
+  "https://openalex.org/W1584679449",
+  "https://openalex.org/W1593054802",
+  "https://openalex.org/W1606108510",
+  "https://openalex.org/W1974088341",
+  "https://openalex.org/W2027654459",
+  "https://openalex.org/W2053573447",
+  "https://openalex.org/W2340020088",
+  "https://openalex.org/W2485462264",
+  "https://openalex.org/W3163149830",
+  "https://openalex.org/W4255833381",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Fuzzy Similarity Relation as a Basis for Rough Approximations"
+}

@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 413,
+ "doi": null,
+ "id": "https://openalex.org/W1646696449",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1572028520",
+  "https://openalex.org/W1684311429",
+  "https://openalex.org/W1964857063",
+  "https://openalex.org/W1988843321",
+  "https://openalex.org/W1998783890",
+  "https://openalex.org/W2001474264",
+  "https://openalex.org/W2053075747",
+  "https://openalex.org/W2058978608",
+  "https://openalex.org/W2084119909",
+  "https://openalex.org/W2103701698",
+  "https://openalex.org/W2109149785",
+  "https://openalex.org/W2110557355",
+  "https://openalex.org/W2118828104",
+  "https://openalex.org/W2122731071",
+  "https://openalex.org/W2123845384",
+  "https://openalex.org/W2132461362",
+  "https://openalex.org/W2132837277",
+  "https://openalex.org/W2135499008",
+  "https://openalex.org/W2144771673",
+  "https://openalex.org/W2203361072"
+ ],
+ "title": "Query Processing, Approximation, and Resource Management in a Data Stream Management System."
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 352,
+ "doi": "https://doi.org/10.1109/72.846740",
+ "id": "https://openalex.org/W2142752589",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1554663460",
+  "https://openalex.org/W1784695092",
+  "https://openalex.org/W2032210760",
+  "https://openalex.org/W2112076978",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2161767008",
+  "https://openalex.org/W2164921999",
+  "https://openalex.org/W2921629193",
+  "https://openalex.org/W4388297464",
+  "https://openalex.org/W6658764832",
+  "https://openalex.org/W6676769703",
+  "https://openalex.org/W6683852811",
+  "https://openalex.org/W6684222330"
+ ],
+ "title": "Predicting subscriber dissatisfaction and improving retention in the wireless telecommunications industry"
+}

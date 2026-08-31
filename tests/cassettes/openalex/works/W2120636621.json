@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 990,
+ "doi": null,
+ "id": "https://openalex.org/W2120636621",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1567512734",
+  "https://openalex.org/W1967687583",
+  "https://openalex.org/W2069429561",
+  "https://openalex.org/W2080972498",
+  "https://openalex.org/W2096878708",
+  "https://openalex.org/W2114759290",
+  "https://openalex.org/W2161767008",
+  "https://openalex.org/W2204383650"
+ ],
+ "title": "The Infinite Gaussian Mixture Model"
+}

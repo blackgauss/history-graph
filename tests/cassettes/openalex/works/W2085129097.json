@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 367,
+ "doi": "https://doi.org/10.1103/physrevlett.85.2010",
+ "id": "https://openalex.org/W2085129097",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1967726379",
+  "https://openalex.org/W1985734554",
+  "https://openalex.org/W2011116661",
+  "https://openalex.org/W2023700540",
+  "https://openalex.org/W2048251016",
+  "https://openalex.org/W2049718282",
+  "https://openalex.org/W2051051926",
+  "https://openalex.org/W2061747723",
+  "https://openalex.org/W2062258079",
+  "https://openalex.org/W2967436726",
+  "https://openalex.org/W4232939297"
+ ],
+ "title": "Quantum Clock Synchronization Based on Shared Prior Entanglement"
+}

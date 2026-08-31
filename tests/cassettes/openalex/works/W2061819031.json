@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 336,
+ "doi": "https://doi.org/10.1145/2993.2994",
+ "id": "https://openalex.org/W2061819031",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1496645340",
+  "https://openalex.org/W1973501242",
+  "https://openalex.org/W1991199257",
+  "https://openalex.org/W2014772227",
+  "https://openalex.org/W2016944512",
+  "https://openalex.org/W2019303997",
+  "https://openalex.org/W2034791526",
+  "https://openalex.org/W2035362408",
+  "https://openalex.org/W2039164882",
+  "https://openalex.org/W2044850435",
+  "https://openalex.org/W2047482026",
+  "https://openalex.org/W2053374874",
+  "https://openalex.org/W2101148098",
+  "https://openalex.org/W2118891797",
+  "https://openalex.org/W2126924915",
+  "https://openalex.org/W3137092842",
+  "https://openalex.org/W3137220996",
+  "https://openalex.org/W6659086817"
+ ],
+ "title": "Using Time Instead of Timeout for Fault-Tolerant Distributed Systems."
+}

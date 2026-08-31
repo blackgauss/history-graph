@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 23,
+ "doi": null,
+ "id": "https://openalex.org/W2127085923",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W122483837",
+  "https://openalex.org/W145476170",
+  "https://openalex.org/W1526055535",
+  "https://openalex.org/W2006544565",
+  "https://openalex.org/W2110278466",
+  "https://openalex.org/W2117243393",
+  "https://openalex.org/W2121193622",
+  "https://openalex.org/W2124776405",
+  "https://openalex.org/W2160208155"
+ ],
+ "title": "Tempering Backpropagation Networks: Not All Weights are Created Equal"
+}

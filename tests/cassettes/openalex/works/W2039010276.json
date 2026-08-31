@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 65,
+ "doi": "https://doi.org/10.1287/moor.1100.0450",
+ "id": "https://openalex.org/W2039010276",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W231615869",
+  "https://openalex.org/W1521661520",
+  "https://openalex.org/W1534725838",
+  "https://openalex.org/W1595197680",
+  "https://openalex.org/W1822115467",
+  "https://openalex.org/W1977545325",
+  "https://openalex.org/W1980813953",
+  "https://openalex.org/W1980938853",
+  "https://openalex.org/W1995770143",
+  "https://openalex.org/W1997603709",
+  "https://openalex.org/W1998859889",
+  "https://openalex.org/W2036174679",
+  "https://openalex.org/W2067313317",
+  "https://openalex.org/W2069909817",
+  "https://openalex.org/W2097048499",
+  "https://openalex.org/W2102523945",
+  "https://openalex.org/W2118008360",
+  "https://openalex.org/W2165807407",
+  "https://openalex.org/W2334373848",
+  "https://openalex.org/W2340149117",
+  "https://openalex.org/W2561675875",
+  "https://openalex.org/W2913132751",
+  "https://openalex.org/W4234277722"
+ ],
+ "title": "Spending Constraint Utilities with Applications to the Adwords Market"
+}

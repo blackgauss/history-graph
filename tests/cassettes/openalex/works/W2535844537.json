@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 70,
+ "doi": "https://doi.org/10.1109/focs.1962.16",
+ "id": "https://openalex.org/W2535844537",
+ "publication_year": 1962,
+ "referenced_works": [
+  "https://openalex.org/W1589711670",
+  "https://openalex.org/W2103676795",
+  "https://openalex.org/W2109837541",
+  "https://openalex.org/W2111691987",
+  "https://openalex.org/W2117013363",
+  "https://openalex.org/W2136276229",
+  "https://openalex.org/W2534882627"
+ ],
+ "title": "Synthesis of combinational logic using three-input majority gates"
+}

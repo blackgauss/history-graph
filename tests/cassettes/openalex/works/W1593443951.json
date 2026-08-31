@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 74,
+ "doi": "https://doi.org/10.1023/a:1006249507577",
+ "id": "https://openalex.org/W1593443951",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1488477450",
+  "https://openalex.org/W1497109150",
+  "https://openalex.org/W1504309167",
+  "https://openalex.org/W1554604786",
+  "https://openalex.org/W1605860778",
+  "https://openalex.org/W1667614912",
+  "https://openalex.org/W1768790486",
+  "https://openalex.org/W2005146745",
+  "https://openalex.org/W2053892987",
+  "https://openalex.org/W2076073997",
+  "https://openalex.org/W2126583599",
+  "https://openalex.org/W2481330961",
+  "https://openalex.org/W4302584219",
+  "https://openalex.org/W6633329937"
+ ],
+ "title": "A Benchmark Method for the Propositional Modal Logics K, KT, S4"
+}

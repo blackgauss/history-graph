@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 3256,
+ "doi": "https://doi.org/10.1016/b978-155860702-6/50016-8",
+ "id": "https://openalex.org/W2262960161",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1972953650",
+  "https://openalex.org/W2020905544",
+  "https://openalex.org/W2028754841",
+  "https://openalex.org/W2059818516",
+  "https://openalex.org/W2059963347",
+  "https://openalex.org/W2080340258",
+  "https://openalex.org/W2089269509",
+  "https://openalex.org/W2095530266",
+  "https://openalex.org/W2155443304",
+  "https://openalex.org/W2156041286",
+  "https://openalex.org/W2178204534",
+  "https://openalex.org/W6683188703"
+ ],
+ "title": "Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment"
+}

@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 42,
+ "doi": "https://doi.org/10.1080/11663081.1999.10510981",
+ "id": "https://openalex.org/W2084802994",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W4983232",
+  "https://openalex.org/W82633235",
+  "https://openalex.org/W83818278",
+  "https://openalex.org/W1479669713",
+  "https://openalex.org/W1490486702",
+  "https://openalex.org/W1494902711",
+  "https://openalex.org/W1512262469",
+  "https://openalex.org/W1514356467",
+  "https://openalex.org/W1546773510",
+  "https://openalex.org/W1562833547",
+  "https://openalex.org/W1570374618",
+  "https://openalex.org/W1593443951",
+  "https://openalex.org/W1605860778",
+  "https://openalex.org/W1996010294",
+  "https://openalex.org/W2051518991",
+  "https://openalex.org/W2053892987",
+  "https://openalex.org/W2062485819",
+  "https://openalex.org/W2088374045",
+  "https://openalex.org/W2091307959",
+  "https://openalex.org/W2145465694",
+  "https://openalex.org/W2162361330",
+  "https://openalex.org/W2169882082",
+  "https://openalex.org/W2608239929",
+  "https://openalex.org/W4237009090"
+ ],
+ "title": "An empirical analysis of modal theorem provers"
+}

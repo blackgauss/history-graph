@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 198,
+ "counts_by_year": [
+  {
+   "cited_by_count": 81,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2023
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3678004",
+ "id": "https://openalex.org/W4400606525",
+ "publication_year": 2024,
+ "title": "How Can Recommender Systems Benefit from Large Language Models: A Survey"
+}

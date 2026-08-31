@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 593,
+ "doi": "https://doi.org/10.1162/neco.1990.2.4.490",
+ "id": "https://openalex.org/W2057653135",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1881179843",
+  "https://openalex.org/W1984205520",
+  "https://openalex.org/W2007431958",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2044422789",
+  "https://openalex.org/W2047515372",
+  "https://openalex.org/W2121553911",
+  "https://openalex.org/W2139273175",
+  "https://openalex.org/W2143503258",
+  "https://openalex.org/W2766736793"
+ ],
+ "title": "An Efficient Gradient-Based Algorithm for On-Line Training of Recurrent Network Trajectories"
+}

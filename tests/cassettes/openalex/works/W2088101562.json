@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 48,
+ "doi": "https://doi.org/10.1145/279943.279993",
+ "id": "https://openalex.org/W2088101562",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1605688901",
+  "https://openalex.org/W1803525338",
+  "https://openalex.org/W1995897489",
+  "https://openalex.org/W2014384147",
+  "https://openalex.org/W2038390905",
+  "https://openalex.org/W2062714872",
+  "https://openalex.org/W2070902649",
+  "https://openalex.org/W2072631813",
+  "https://openalex.org/W2074950806",
+  "https://openalex.org/W2081177492",
+  "https://openalex.org/W2094062207",
+  "https://openalex.org/W2103012681",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2170112109",
+  "https://openalex.org/W2330820318",
+  "https://openalex.org/W2912934387",
+  "https://openalex.org/W3085162807",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4233413206",
+  "https://openalex.org/W4300402905",
+  "https://openalex.org/W6843735874"
+ ],
+ "title": "Self bounding learning algorithms"
+}

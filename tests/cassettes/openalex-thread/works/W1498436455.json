@@ -1,0 +1,272 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I36258959"
+     ],
+     "raw_affiliation_string": "Institute for Cognitive Science, C-015, University of California, San Diego, La Jolla, California, 92093, USA"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I36258959"
+     ],
+     "raw_affiliation_string": "Institute for Cognitive Science, C-015, University of California, San Diego, La Jolla, USA"
+    }
+   ],
+   "author": {
+    "display_name": "David E. Rumelhart",
+    "id": "https://openalex.org/A5048240638",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "University of California San Diego",
+     "id": "https://openalex.org/I36258959",
+     "lineage": [
+      "https://openalex.org/I36258959"
+     ],
+     "ror": "https://ror.org/0168r3w48",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Institute for Cognitive Science, C-015, University of California, San Diego, La Jolla, California, 92093, USA",
+    "Institute for Cognitive Science, C-015, University of California, San Diego, La Jolla, USA"
+   ],
+   "raw_author_name": "David E. Rumelhart",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I74973139"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, Carnegie-Mellon University, Pittsburgh, Philadelphia, 15213, USA"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I74973139"
+     ],
+     "raw_affiliation_string": "Department of Computer Science, Carnegie–Mellon University, Pittsburgh, USA"
+    }
+   ],
+   "author": {
+    "display_name": "Geoffrey E. Hinton",
+    "id": "https://openalex.org/A5108093963",
+    "orcid": null
+   },
+   "author_position": "middle",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "Carnegie Mellon University",
+     "id": "https://openalex.org/I74973139",
+     "lineage": [
+      "https://openalex.org/I74973139"
+     ],
+     "ror": "https://ror.org/05x2bcf33",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science, Carnegie-Mellon University, Pittsburgh, Philadelphia, 15213, USA",
+    "Department of Computer Science, Carnegie–Mellon University, Pittsburgh, USA"
+   ],
+   "raw_author_name": "Geoffrey E. Hinton",
+   "raw_orcid": null
+  },
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I36258959"
+     ],
+     "raw_affiliation_string": "Institute for Cognitive Science, C-015, University of California, San Diego, La Jolla, California, 92093, USA"
+    },
+    {
+     "institution_ids": [
+      "https://openalex.org/I36258959"
+     ],
+     "raw_affiliation_string": "Institute for Cognitive Science, C-015, University of California, San Diego, La Jolla, USA"
+    }
+   ],
+   "author": {
+    "display_name": "Ronald J. Williams",
+    "id": "https://openalex.org/A5112059424",
+    "orcid": null
+   },
+   "author_position": "last",
+   "countries": [
+    "US"
+   ],
+   "institutions": [
+    {
+     "country_code": "US",
+     "display_name": "University of California San Diego",
+     "id": "https://openalex.org/I36258959",
+     "lineage": [
+      "https://openalex.org/I36258959"
+     ],
+     "ror": "https://ror.org/0168r3w48",
+     "type": "education"
+    }
+   ],
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Institute for Cognitive Science, C-015, University of California, San Diego, La Jolla, California, 92093, USA",
+    "Institute for Cognitive Science, C-015, University of California, San Diego, La Jolla, USA"
+   ],
+   "raw_author_name": "Ronald J. Williams",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 31635,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2185,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 3322,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 2663,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 2533,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 2475,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 2789,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 2485,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 2009,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 1554,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 1073,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 873,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 773,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 614,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 495,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 418,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1038/323533a0",
+ "funders": [],
+ "id": "https://openalex.org/W1498436455",
+ "ids": {
+  "doi": "https://doi.org/10.1038/323533a0",
+  "mag": "1498436455",
+  "openalex": "https://openalex.org/W1498436455"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1038/323533a0",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1038/323533a0",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Nature",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Nature",
+   "host_organization": "https://openalex.org/P4310319908",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319908",
+    "https://openalex.org/P4310319965"
+   ],
+   "host_organization_lineage_names": [
+    "Nature Portfolio",
+    "Springer Nature"
+   ],
+   "host_organization_name": "Nature Portfolio",
+   "id": "https://openalex.org/S137773608",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0028-0836",
+    "1476-4687"
+   ],
+   "issn_l": "0028-0836",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W102612133",
+  "https://openalex.org/W2322002063",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4300402905"
+ ],
+ "related_works": [
+  "https://openalex.org/W2555356437",
+  "https://openalex.org/W2417891382",
+  "https://openalex.org/W2076543106",
+  "https://openalex.org/W2083196709",
+  "https://openalex.org/W2019891950",
+  "https://openalex.org/W2085842814",
+  "https://openalex.org/W2023924986",
+  "https://openalex.org/W2523437662",
+  "https://openalex.org/W4387048144",
+  "https://openalex.org/W2492135063"
+ ],
+ "title": "Learning representations by back-propagating errors",
+ "type": "article"
+}

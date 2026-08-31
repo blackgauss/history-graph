@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 3917,
+ "doi": "https://doi.org/10.1145/321250.321253",
+ "id": "https://openalex.org/W2100738443",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W2040183410",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2064811181",
+  "https://openalex.org/W2068792980",
+  "https://openalex.org/W2069224897"
+ ],
+ "title": "A Machine-Oriented Logic Based on the Resolution Principle"
+}

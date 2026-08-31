@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 999,
+ "doi": "https://doi.org/10.1007/978-1-4684-3384-5_3",
+ "id": "https://openalex.org/W2105486835",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W10948978",
+  "https://openalex.org/W153207633",
+  "https://openalex.org/W329483354",
+  "https://openalex.org/W1485332185",
+  "https://openalex.org/W1487591965",
+  "https://openalex.org/W1541540802",
+  "https://openalex.org/W1593077566",
+  "https://openalex.org/W1766332311",
+  "https://openalex.org/W1998113645",
+  "https://openalex.org/W2057491878",
+  "https://openalex.org/W2100738443",
+  "https://openalex.org/W2108911687"
+ ],
+ "title": "On Closed World Data Bases"
+}

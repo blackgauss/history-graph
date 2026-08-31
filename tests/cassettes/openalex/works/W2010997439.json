@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 36,
+ "doi": "https://doi.org/10.1090/s0002-9939-1966-0216950-5",
+ "id": "https://openalex.org/W2010997439",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W1966291574",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2047937662",
+  "https://openalex.org/W2053099695",
+  "https://openalex.org/W2061015796",
+  "https://openalex.org/W2320703551",
+  "https://openalex.org/W4210665989",
+  "https://openalex.org/W4229577848",
+  "https://openalex.org/W4243731126",
+  "https://openalex.org/W6601397123"
+ ],
+ "title": "Completeness, the recursion theorem, and effectively simple sets"
+}

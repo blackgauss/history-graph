@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 2835,
+ "doi": null,
+ "id": "https://openalex.org/W1585743408",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W69407335",
+  "https://openalex.org/W1536643667",
+  "https://openalex.org/W1563072111",
+  "https://openalex.org/W1572982068",
+  "https://openalex.org/W1864487875",
+  "https://openalex.org/W1983661866",
+  "https://openalex.org/W1990037113",
+  "https://openalex.org/W2054658115",
+  "https://openalex.org/W2087094574",
+  "https://openalex.org/W2123194680",
+  "https://openalex.org/W2131022537",
+  "https://openalex.org/W2136000097",
+  "https://openalex.org/W2149706766",
+  "https://openalex.org/W2159977619",
+  "https://openalex.org/W3085162807"
+ ],
+ "title": "Multi-Interval Discretization of Continuous-Valued Attributes for Classification Learning"
+}

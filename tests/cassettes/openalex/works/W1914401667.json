@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 1688,
+ "doi": "https://doi.org/10.1152/jn.1987.58.6.1233",
+ "id": "https://openalex.org/W1914401667",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W173885394",
+  "https://openalex.org/W186880603",
+  "https://openalex.org/W1533179050",
+  "https://openalex.org/W1757333299",
+  "https://openalex.org/W1860887978",
+  "https://openalex.org/W1980058396",
+  "https://openalex.org/W1984667240",
+  "https://openalex.org/W2003370853",
+  "https://openalex.org/W2017600612",
+  "https://openalex.org/W2067443140",
+  "https://openalex.org/W2069696140",
+  "https://openalex.org/W2081293822",
+  "https://openalex.org/W2103083704",
+  "https://openalex.org/W2116360511",
+  "https://openalex.org/W2138100172",
+  "https://openalex.org/W2141572998",
+  "https://openalex.org/W2171074980",
+  "https://openalex.org/W2319041464",
+  "https://openalex.org/W2395296239",
+  "https://openalex.org/W2419588135",
+  "https://openalex.org/W2973818247",
+  "https://openalex.org/W4233714438"
+ ],
+ "title": "An evaluation of the two-dimensional Gabor filter model of simple receptive fields in cat striate cortex"
+}

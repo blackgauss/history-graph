@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 66,
+ "doi": "https://doi.org/10.1007/bfb0030679",
+ "id": "https://openalex.org/W1595621695",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W123792930",
+  "https://openalex.org/W1539861357",
+  "https://openalex.org/W1552521662",
+  "https://openalex.org/W1595621695",
+  "https://openalex.org/W1658016212",
+  "https://openalex.org/W1886613530",
+  "https://openalex.org/W2000832815",
+  "https://openalex.org/W2003214215",
+  "https://openalex.org/W2070941848",
+  "https://openalex.org/W2072730741",
+  "https://openalex.org/W2075854425",
+  "https://openalex.org/W2133943294",
+  "https://openalex.org/W2136259232",
+  "https://openalex.org/W2138949781",
+  "https://openalex.org/W2158987725",
+  "https://openalex.org/W2611515161",
+  "https://openalex.org/W3106753174",
+  "https://openalex.org/W4240914807"
+ ],
+ "title": "Revisiting the Paxos algorithm"
+}

@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 366,
+ "doi": "https://doi.org/10.1007/978-1-4613-8762-6_11",
+ "id": "https://openalex.org/W2132127784",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W34758359",
+  "https://openalex.org/W1967003314",
+  "https://openalex.org/W1989154489",
+  "https://openalex.org/W2003436900",
+  "https://openalex.org/W2053491613",
+  "https://openalex.org/W2055491565",
+  "https://openalex.org/W2059442555",
+  "https://openalex.org/W2074918857",
+  "https://openalex.org/W2077095314",
+  "https://openalex.org/W2080554766",
+  "https://openalex.org/W2094055697",
+  "https://openalex.org/W2131802419",
+  "https://openalex.org/W2148197093",
+  "https://openalex.org/W2486472695",
+  "https://openalex.org/W2606292975",
+  "https://openalex.org/W2802739963",
+  "https://openalex.org/W3023112487",
+  "https://openalex.org/W4245864521",
+  "https://openalex.org/W4299533062",
+  "https://openalex.org/W6651340495",
+  "https://openalex.org/W6989784139"
+ ],
+ "title": "Brownian Models of Queueing Networks with Heterogeneous Customer Populations"
+}

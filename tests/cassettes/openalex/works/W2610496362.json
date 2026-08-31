@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 74,
+ "doi": "https://doi.org/10.1016/b978-1-55860-377-6.50017-7",
+ "id": "https://openalex.org/W2610496362",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W40914139",
+  "https://openalex.org/W121193193",
+  "https://openalex.org/W1553244859",
+  "https://openalex.org/W1598003804",
+  "https://openalex.org/W1970483275",
+  "https://openalex.org/W2006863141",
+  "https://openalex.org/W2039315898",
+  "https://openalex.org/W2050660892",
+  "https://openalex.org/W2059602918",
+  "https://openalex.org/W2063475520",
+  "https://openalex.org/W2065861851",
+  "https://openalex.org/W2093825590",
+  "https://openalex.org/W2118383892",
+  "https://openalex.org/W2129113961",
+  "https://openalex.org/W4235920691",
+  "https://openalex.org/W4238617091",
+  "https://openalex.org/W4246994868",
+  "https://openalex.org/W4247635303",
+  "https://openalex.org/W6604982446"
+ ],
+ "title": "Empirical support for Winnow and Weighted-Majority based algorithms: results on a calendar scheduling domain"
+}

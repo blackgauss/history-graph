@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 1276,
+ "doi": "https://doi.org/10.1007/978-3-540-68279-0_1",
+ "id": "https://openalex.org/W2058937865",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W213367833",
+  "https://openalex.org/W2009683816",
+  "https://openalex.org/W2072849752",
+  "https://openalex.org/W2086863198",
+  "https://openalex.org/W2399100674",
+  "https://openalex.org/W3113130260"
+ ],
+ "title": "Solution of a Large-Scale Traveling-Salesman Problem"
+}

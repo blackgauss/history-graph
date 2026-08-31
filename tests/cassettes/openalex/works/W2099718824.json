@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 93,
+ "doi": "https://doi.org/10.1109/12.755000",
+ "id": "https://openalex.org/W2099718824",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W25557007",
+  "https://openalex.org/W183293735",
+  "https://openalex.org/W941013714",
+  "https://openalex.org/W1515707356",
+  "https://openalex.org/W1555791054",
+  "https://openalex.org/W1968037667",
+  "https://openalex.org/W1976822807",
+  "https://openalex.org/W2012170251",
+  "https://openalex.org/W2019807548",
+  "https://openalex.org/W2042194938",
+  "https://openalex.org/W2048625054",
+  "https://openalex.org/W2074357681",
+  "https://openalex.org/W2090432705",
+  "https://openalex.org/W2097575812",
+  "https://openalex.org/W2100615010",
+  "https://openalex.org/W2126545127",
+  "https://openalex.org/W2130118529",
+  "https://openalex.org/W2131194367",
+  "https://openalex.org/W2147154704",
+  "https://openalex.org/W2163137752",
+  "https://openalex.org/W2983896310",
+  "https://openalex.org/W4235946010",
+  "https://openalex.org/W4237059239",
+  "https://openalex.org/W6633314066"
+ ],
+ "title": "Spectral analysis of Boolean functions as a graph eigenvalue problem"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 345,
+ "doi": "https://doi.org/10.1287/opre.14.4.670",
+ "id": "https://openalex.org/W1979948822",
+ "publication_year": 1966,
+ "referenced_works": [
+  "https://openalex.org/W2003174713",
+  "https://openalex.org/W2021238517",
+  "https://openalex.org/W2027385835",
+  "https://openalex.org/W2042468710",
+  "https://openalex.org/W2044016711",
+  "https://openalex.org/W2051800258",
+  "https://openalex.org/W2109341366",
+  "https://openalex.org/W2164331727",
+  "https://openalex.org/W2904350042"
+ ],
+ "title": "The Queue M/G/1 with the Shortest Remaining Processing Time Discipline"
+}

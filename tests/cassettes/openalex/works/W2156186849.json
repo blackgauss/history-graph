@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 14543,
+ "doi": "https://doi.org/10.1109/tit.1976.1055638",
+ "id": "https://openalex.org/W2156186849",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W1655990431",
+  "https://openalex.org/W1981455414",
+  "https://openalex.org/W1981663184",
+  "https://openalex.org/W1984970810",
+  "https://openalex.org/W1991374982",
+  "https://openalex.org/W2003647955",
+  "https://openalex.org/W2023719829",
+  "https://openalex.org/W2032966520",
+  "https://openalex.org/W2047925852",
+  "https://openalex.org/W2065410314",
+  "https://openalex.org/W2066356146",
+  "https://openalex.org/W2109394932",
+  "https://openalex.org/W2171545223",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W2752853835"
+ ],
+ "title": "New directions in cryptography"
+}

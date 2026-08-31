@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 36,
+ "doi": "https://doi.org/10.1109/88.242447",
+ "id": "https://openalex.org/W2103851758",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1525495589",
+  "https://openalex.org/W2005373714",
+  "https://openalex.org/W2006305793",
+  "https://openalex.org/W2022049964",
+  "https://openalex.org/W2035209053",
+  "https://openalex.org/W2096870603",
+  "https://openalex.org/W2099606599",
+  "https://openalex.org/W2113261208",
+  "https://openalex.org/W2114860831",
+  "https://openalex.org/W2128501038",
+  "https://openalex.org/W2135664862",
+  "https://openalex.org/W2142871284",
+  "https://openalex.org/W2156436570",
+  "https://openalex.org/W3013120782"
+ ],
+ "title": "Scalable, adaptive load sharing for distributed systems"
+}

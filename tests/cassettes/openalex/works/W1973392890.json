@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 55,
+ "doi": "https://doi.org/10.1090/s0002-9947-1958-0097310-7",
+ "id": "https://openalex.org/W1973392890",
+ "publication_year": 1958,
+ "referenced_works": [
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1967629533",
+  "https://openalex.org/W2000487993",
+  "https://openalex.org/W2036694544",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2047764386",
+  "https://openalex.org/W2125407741",
+  "https://openalex.org/W2142539551",
+  "https://openalex.org/W2149982957",
+  "https://openalex.org/W2161331421",
+  "https://openalex.org/W2209400336",
+  "https://openalex.org/W2797656628",
+  "https://openalex.org/W3021208917",
+  "https://openalex.org/W4232225658",
+  "https://openalex.org/W4238574054",
+  "https://openalex.org/W4239495391",
+  "https://openalex.org/W4249297534",
+  "https://openalex.org/W4253210619",
+  "https://openalex.org/W4255479900",
+  "https://openalex.org/W6606406588",
+  "https://openalex.org/W6629967987"
+ ],
+ "title": "Some theorems on classes of recursively enumerable sets"
+}

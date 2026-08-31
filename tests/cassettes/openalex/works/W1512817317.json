@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 30,
+ "doi": "https://doi.org/10.1007/978-3-540-77105-0_18",
+ "id": "https://openalex.org/W1512817317",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1548499993",
+  "https://openalex.org/W1576262084",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2032215954",
+  "https://openalex.org/W2049260977",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2141230344",
+  "https://openalex.org/W2564127794",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4251083239"
+ ],
+ "title": "Cooperative or Vindictive: Bidding Strategies in Sponsored Search Auction"
+}

@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 148,
+ "doi": "https://doi.org/10.1016/0020-0255(80)90038-9",
+ "id": "https://openalex.org/W2006513683",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1574796876",
+  "https://openalex.org/W1590835706",
+  "https://openalex.org/W6635323047"
+ ],
+ "title": "On the structure of node-label-controlled graph languages"
+}

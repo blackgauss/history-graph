@@ -1,0 +1,102 @@
+{
+ "cited_by_count": 25,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2014
+  }
+ ],
+ "doi": "https://doi.org/10.1145/2487575.2488215",
+ "id": "https://openalex.org/W2010953147",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W49486804",
+  "https://openalex.org/W93480304",
+  "https://openalex.org/W1524761913",
+  "https://openalex.org/W1532854728",
+  "https://openalex.org/W1735712825",
+  "https://openalex.org/W1882120692",
+  "https://openalex.org/W1965555277",
+  "https://openalex.org/W1968927634",
+  "https://openalex.org/W1970210633",
+  "https://openalex.org/W1973948212",
+  "https://openalex.org/W1976526581",
+  "https://openalex.org/W1985554184",
+  "https://openalex.org/W1990748933",
+  "https://openalex.org/W2009892466",
+  "https://openalex.org/W2012852390",
+  "https://openalex.org/W2017629773",
+  "https://openalex.org/W2020313144",
+  "https://openalex.org/W2064036617",
+  "https://openalex.org/W2065000714",
+  "https://openalex.org/W2070721267",
+  "https://openalex.org/W2080706991",
+  "https://openalex.org/W2086511124",
+  "https://openalex.org/W2090883204",
+  "https://openalex.org/W2092126505",
+  "https://openalex.org/W2097533650",
+  "https://openalex.org/W2112651261",
+  "https://openalex.org/W2116825089",
+  "https://openalex.org/W2117423367",
+  "https://openalex.org/W2129606454",
+  "https://openalex.org/W2141014056",
+  "https://openalex.org/W2146422856",
+  "https://openalex.org/W2162979096",
+  "https://openalex.org/W2163757302",
+  "https://openalex.org/W2167793421",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4231144620",
+  "https://openalex.org/W4251560691",
+  "https://openalex.org/W6632276648",
+  "https://openalex.org/W6641869264",
+  "https://openalex.org/W6643601877",
+  "https://openalex.org/W6672077861",
+  "https://openalex.org/W6674754770",
+  "https://openalex.org/W6677127976"
+ ],
+ "title": "Predictive model performance"
+}

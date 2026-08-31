@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 54,
+ "doi": "https://doi.org/10.1109/ijcnn.2008.4633916",
+ "id": "https://openalex.org/W2103788620",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W2061074401",
+  "https://openalex.org/W2107994122",
+  "https://openalex.org/W2135908272",
+  "https://openalex.org/W2168059356",
+  "https://openalex.org/W2170402833",
+  "https://openalex.org/W2785491075"
+ ],
+ "title": "Realizing biological spiking network models in a configurable wafer-scale hardware system"
+}

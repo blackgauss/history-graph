@@ -1,0 +1,54 @@
+{
+ "cited_by_count": 172,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1016/0016-0032(60)90629-3",
+ "id": "https://openalex.org/W304665469",
+ "publication_year": 1960,
+ "referenced_works": [],
+ "title": "The theory of linear economic models"
+}

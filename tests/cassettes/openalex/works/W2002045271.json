@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 76,
+ "doi": "https://doi.org/10.1109/tc.1979.1675383",
+ "id": "https://openalex.org/W2002045271",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W69418942",
+  "https://openalex.org/W1987209055",
+  "https://openalex.org/W2003441663",
+  "https://openalex.org/W2013012235",
+  "https://openalex.org/W2022236446",
+  "https://openalex.org/W2026731931",
+  "https://openalex.org/W2026929157",
+  "https://openalex.org/W2032860407",
+  "https://openalex.org/W2048206051",
+  "https://openalex.org/W2066637274",
+  "https://openalex.org/W2076964639",
+  "https://openalex.org/W2079529544",
+  "https://openalex.org/W2093291418",
+  "https://openalex.org/W2159111714",
+  "https://openalex.org/W2241520589",
+  "https://openalex.org/W6602817696",
+  "https://openalex.org/W6673744344"
+ ],
+ "title": "RAP.2—An Associative Processor for Databases and Its Applications"
+}

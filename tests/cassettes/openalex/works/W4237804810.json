@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 3,
+ "doi": "https://doi.org/10.2307/1998123",
+ "id": "https://openalex.org/W4237804810",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1975466840",
+  "https://openalex.org/W2015707592",
+  "https://openalex.org/W2029823283",
+  "https://openalex.org/W2048588931",
+  "https://openalex.org/W2049442092",
+  "https://openalex.org/W2101746971",
+  "https://openalex.org/W2169781225",
+  "https://openalex.org/W4235475336",
+  "https://openalex.org/W4245011247",
+  "https://openalex.org/W4246124948",
+  "https://openalex.org/W4247104071",
+  "https://openalex.org/W6816451530"
+ ],
+ "title": "A Decidable Fragment of the Elementary Theory of the Lattice of Recursively Enumerable Sets"
+}

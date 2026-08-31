@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 21,
+ "doi": "https://doi.org/10.1142/s1469026801000342",
+ "id": "https://openalex.org/W2163715362",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2057653135",
+  "https://openalex.org/W2079724595",
+  "https://openalex.org/W2098678088",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2131924685",
+  "https://openalex.org/W2137388705",
+  "https://openalex.org/W2140622310",
+  "https://openalex.org/W2143908786",
+  "https://openalex.org/W2146914716",
+  "https://openalex.org/W2149925139",
+  "https://openalex.org/W4255521522"
+ ],
+ "title": "LEARNING ITERATIVE IMAGE RECONSTRUCTION IN THE NEURAL ABSTRACTION PYRAMID"
+}

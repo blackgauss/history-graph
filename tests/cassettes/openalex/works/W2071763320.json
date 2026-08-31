@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 38,
+ "doi": "https://doi.org/10.1017/s0963548300004466",
+ "id": "https://openalex.org/W2071763320",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1529556207",
+  "https://openalex.org/W1535038576",
+  "https://openalex.org/W1549664537",
+  "https://openalex.org/W1559492868",
+  "https://openalex.org/W1978526953",
+  "https://openalex.org/W1993944611",
+  "https://openalex.org/W2005146416",
+  "https://openalex.org/W2043682435",
+  "https://openalex.org/W2049220294",
+  "https://openalex.org/W2063966194",
+  "https://openalex.org/W2080479164",
+  "https://openalex.org/W2094776848",
+  "https://openalex.org/W2103749128",
+  "https://openalex.org/W2142901448"
+ ],
+ "title": "Discrete Isoperimetric Inequalities and the Probability of a Decoding Error"
+}

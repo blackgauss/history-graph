@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 6085,
+ "doi": "https://doi.org/10.1109/tcom.1983.1095851",
+ "id": "https://openalex.org/W2103504761",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W118993750",
+  "https://openalex.org/W1486071255",
+  "https://openalex.org/W1589450660",
+  "https://openalex.org/W1622620102",
+  "https://openalex.org/W2024397673",
+  "https://openalex.org/W2074163268",
+  "https://openalex.org/W2078498116",
+  "https://openalex.org/W2089975134",
+  "https://openalex.org/W2099590965",
+  "https://openalex.org/W2125311604",
+  "https://openalex.org/W2315251844",
+  "https://openalex.org/W2978983090",
+  "https://openalex.org/W4246668359"
+ ],
+ "title": "The Laplacian Pyramid as a Compact Image Code"
+}

@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.1090/s0002-9904-1975-13876-6",
+ "id": "https://openalex.org/W1989690755",
+ "publication_year": 1975,
+ "referenced_works": [
+  "https://openalex.org/W111095393",
+  "https://openalex.org/W1967629533",
+  "https://openalex.org/W1970488443",
+  "https://openalex.org/W1986222532",
+  "https://openalex.org/W2006726677",
+  "https://openalex.org/W2015965037",
+  "https://openalex.org/W2042499838",
+  "https://openalex.org/W2051601785",
+  "https://openalex.org/W2055051664",
+  "https://openalex.org/W2075451552",
+  "https://openalex.org/W2213438832",
+  "https://openalex.org/W4244676972",
+  "https://openalex.org/W4256123043"
+ ],
+ "title": "The decision problem for recursively enumerable degrees"
+}

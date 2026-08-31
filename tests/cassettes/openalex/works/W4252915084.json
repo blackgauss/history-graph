@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.2307/1995354",
+ "id": "https://openalex.org/W4252915084",
+ "publication_year": 1969,
+ "referenced_works": [
+  "https://openalex.org/W2005432166",
+  "https://openalex.org/W2053099695",
+  "https://openalex.org/W2062249564",
+  "https://openalex.org/W2083904032",
+  "https://openalex.org/W2105527649",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W4232819959",
+  "https://openalex.org/W4235948263",
+  "https://openalex.org/W4243971812",
+  "https://openalex.org/W4248952979",
+  "https://openalex.org/W4255102831"
+ ],
+ "title": "Relationships Between Reducibilities"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 232,
+ "doi": "https://doi.org/10.1137/0205036",
+ "id": "https://openalex.org/W2184268586",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W110348647",
+  "https://openalex.org/W1483568252",
+  "https://openalex.org/W1519523151",
+  "https://openalex.org/W1521093446",
+  "https://openalex.org/W1649882873",
+  "https://openalex.org/W2007270285",
+  "https://openalex.org/W2022438838",
+  "https://openalex.org/W2056239109",
+  "https://openalex.org/W2141568518"
+ ],
+ "title": "The Relation between Computational and Denotational Properties for Scott’s ${\\text{D}}_\\infty $-Models of the Lambda-Calculus"
+}

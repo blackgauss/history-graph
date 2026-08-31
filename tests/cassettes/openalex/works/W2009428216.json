@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 110,
+ "doi": "https://doi.org/10.1145/800221.806730",
+ "id": "https://openalex.org/W2009428216",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W2105896399",
+  "https://openalex.org/W2118891797",
+  "https://openalex.org/W3137220996"
+ ],
+ "title": "Maintaining the time in a distributed system"
+}

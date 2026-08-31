@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 27,
+ "doi": "https://doi.org/10.48550/arxiv.quant-ph/9712023",
+ "id": "https://openalex.org/W1612232219",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1514250485",
+  "https://openalex.org/W1537539847",
+  "https://openalex.org/W1599837121",
+  "https://openalex.org/W1608059257",
+  "https://openalex.org/W1617320786",
+  "https://openalex.org/W1778354783",
+  "https://openalex.org/W1782172301",
+  "https://openalex.org/W1974984900",
+  "https://openalex.org/W1985325442",
+  "https://openalex.org/W1988155384",
+  "https://openalex.org/W2001466659",
+  "https://openalex.org/W2004304976",
+  "https://openalex.org/W2075695434",
+  "https://openalex.org/W2096107368",
+  "https://openalex.org/W2151433956",
+  "https://openalex.org/W2154839628",
+  "https://openalex.org/W2412302988",
+  "https://openalex.org/W2987687226",
+  "https://openalex.org/W3121783526"
+ ],
+ "title": "A brief review on the impossibility of quantum bit commitment"
+}

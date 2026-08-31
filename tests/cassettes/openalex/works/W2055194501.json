@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 109,
+ "doi": "https://doi.org/10.1137/s0895480101407444",
+ "id": "https://openalex.org/W2055194501",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W104148001",
+  "https://openalex.org/W1551393307",
+  "https://openalex.org/W1909155726",
+  "https://openalex.org/W1970630090",
+  "https://openalex.org/W1980816908",
+  "https://openalex.org/W2002901911",
+  "https://openalex.org/W2018925011",
+  "https://openalex.org/W2070902649",
+  "https://openalex.org/W2088390444",
+  "https://openalex.org/W2111385661",
+  "https://openalex.org/W2118991990",
+  "https://openalex.org/W2139709458",
+  "https://openalex.org/W2151603610",
+  "https://openalex.org/W2165100639",
+  "https://openalex.org/W2404894606",
+  "https://openalex.org/W2914377170",
+  "https://openalex.org/W3004537778",
+  "https://openalex.org/W3008660429",
+  "https://openalex.org/W4235805661"
+ ],
+ "title": "Testing Basic Boolean Formulae"
+}

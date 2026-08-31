@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 87,
+ "doi": "https://doi.org/10.1007/3-540-46632-0_26",
+ "id": "https://openalex.org/W1896404939",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W9190679",
+  "https://openalex.org/W53068427",
+  "https://openalex.org/W96881573",
+  "https://openalex.org/W1509587667",
+  "https://openalex.org/W1582552841",
+  "https://openalex.org/W1784269369",
+  "https://openalex.org/W1896404939",
+  "https://openalex.org/W1972577597",
+  "https://openalex.org/W1988939260",
+  "https://openalex.org/W2006933117",
+  "https://openalex.org/W2014111643",
+  "https://openalex.org/W2052367117",
+  "https://openalex.org/W2073025989",
+  "https://openalex.org/W2134514766",
+  "https://openalex.org/W2161678469",
+  "https://openalex.org/W2170009211",
+  "https://openalex.org/W2221611244",
+  "https://openalex.org/W2394551636",
+  "https://openalex.org/W2913688336",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4292230561",
+  "https://openalex.org/W6638443772",
+  "https://openalex.org/W6647821740"
+ ],
+ "title": "Upper Bounds for MaxSat: Further Improved"
+}

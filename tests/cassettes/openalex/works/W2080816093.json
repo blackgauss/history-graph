@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 9,
+ "doi": "https://doi.org/10.1155/1993/165823",
+ "id": "https://openalex.org/W2080816093",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W9124626",
+  "https://openalex.org/W44384215",
+  "https://openalex.org/W1977542511",
+  "https://openalex.org/W2075151302",
+  "https://openalex.org/W2078182293",
+  "https://openalex.org/W2400766582",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Object‐Oriented Implementation of Software for Solving Ordinary Differential Equations"
+}

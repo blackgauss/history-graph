@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 229,
+ "doi": "https://doi.org/10.1145/1064009.1064014",
+ "id": "https://openalex.org/W2135724610",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W1964005287",
+  "https://openalex.org/W1968220721",
+  "https://openalex.org/W2002095701",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2035239570",
+  "https://openalex.org/W2038644905",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2078302807",
+  "https://openalex.org/W2089936379",
+  "https://openalex.org/W2110882703",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2136040603",
+  "https://openalex.org/W2149786846",
+  "https://openalex.org/W2739947352",
+  "https://openalex.org/W3126132841",
+  "https://openalex.org/W6641177048",
+  "https://openalex.org/W6677631006"
+ ],
+ "title": "Multi-unit auctions with budget-constrained bidders"
+}

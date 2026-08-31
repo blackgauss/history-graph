@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 1818,
+ "doi": "https://doi.org/10.1007/bf01009452",
+ "id": "https://openalex.org/W2022306346",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W2024060531",
+  "https://openalex.org/W2042986967",
+  "https://openalex.org/W2056760934",
+  "https://openalex.org/W2148673189",
+  "https://openalex.org/W2161455936"
+ ],
+ "title": "Optimization by simulated annealing: Quantitative studies"
+}

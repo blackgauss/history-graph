@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 488,
+ "doi": "https://doi.org/10.2307/2983576",
+ "id": "https://openalex.org/W2283688205",
+ "publication_year": 1947,
+ "referenced_works": [
+  "https://openalex.org/W1913333546",
+  "https://openalex.org/W1989665500",
+  "https://openalex.org/W2006901874",
+  "https://openalex.org/W2073906621",
+  "https://openalex.org/W6639876053",
+  "https://openalex.org/W6647848099",
+  "https://openalex.org/W6652084864",
+  "https://openalex.org/W6669055886"
+ ],
+ "title": "Factorial Experiments Derivable from Combinatorial Arrangements of Arrays"
+}

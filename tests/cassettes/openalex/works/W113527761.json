@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 6,
+ "doi": null,
+ "id": "https://openalex.org/W113527761",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W268424627",
+  "https://openalex.org/W1508620301",
+  "https://openalex.org/W1522657125",
+  "https://openalex.org/W1557923305",
+  "https://openalex.org/W1567721828",
+  "https://openalex.org/W1582971263",
+  "https://openalex.org/W1920267206",
+  "https://openalex.org/W2003408954",
+  "https://openalex.org/W2101285186"
+ ],
+ "title": "Data mining tasks and methods: Classification: multicriteria classification"
+}

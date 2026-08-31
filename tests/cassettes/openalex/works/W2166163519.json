@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 3461,
+ "doi": "https://doi.org/10.1214/ss/1177013604",
+ "id": "https://openalex.org/W2166163519",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W214995755",
+  "https://openalex.org/W219251239",
+  "https://openalex.org/W1490266132",
+  "https://openalex.org/W1528905581",
+  "https://openalex.org/W1568257564",
+  "https://openalex.org/W1580788756",
+  "https://openalex.org/W1979519992",
+  "https://openalex.org/W1979713464",
+  "https://openalex.org/W1993867461",
+  "https://openalex.org/W2003370103",
+  "https://openalex.org/W2024081693",
+  "https://openalex.org/W2030748132",
+  "https://openalex.org/W2091886411",
+  "https://openalex.org/W2121203842",
+  "https://openalex.org/W2122159287",
+  "https://openalex.org/W2152588837",
+  "https://openalex.org/W2325344028",
+  "https://openalex.org/W2801490189",
+  "https://openalex.org/W4239965608"
+ ],
+ "title": "Generalized Additive Models"
+}

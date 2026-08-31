@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 367,
+ "doi": "https://doi.org/10.1016/b978-1-55860-335-6.50017-9",
+ "id": "https://openalex.org/W2111746072",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W124784023",
+  "https://openalex.org/W165133269",
+  "https://openalex.org/W176843356",
+  "https://openalex.org/W177590838",
+  "https://openalex.org/W1516432974",
+  "https://openalex.org/W1561365512",
+  "https://openalex.org/W1580451812",
+  "https://openalex.org/W1594031697",
+  "https://openalex.org/W1604329830",
+  "https://openalex.org/W1927345150",
+  "https://openalex.org/W1995023359",
+  "https://openalex.org/W1999138184",
+  "https://openalex.org/W2089967664",
+  "https://openalex.org/W2104817411",
+  "https://openalex.org/W2125055259",
+  "https://openalex.org/W2128420091",
+  "https://openalex.org/W2136000097",
+  "https://openalex.org/W2187164964",
+  "https://openalex.org/W2330820318",
+  "https://openalex.org/W2520858206",
+  "https://openalex.org/W4234760406",
+  "https://openalex.org/W4254952533",
+  "https://openalex.org/W6605890096",
+  "https://openalex.org/W6607301666"
+ ],
+ "title": "Incremental Reduced Error Pruning"
+}

@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 2,
+ "doi": "https://doi.org/10.1090/conm/579/11526",
+ "id": "https://openalex.org/W2187151628",
+ "publication_year": 2012,
+ "referenced_works": [
+  "https://openalex.org/W1527197079",
+  "https://openalex.org/W1557415002",
+  "https://openalex.org/W1927331544",
+  "https://openalex.org/W2006252547",
+  "https://openalex.org/W2019807548",
+  "https://openalex.org/W2025318765",
+  "https://openalex.org/W2028009808",
+  "https://openalex.org/W2113856218",
+  "https://openalex.org/W2122270497",
+  "https://openalex.org/W2127579297",
+  "https://openalex.org/W2146261818",
+  "https://openalex.org/W2163137752"
+ ],
+ "title": "Small-bias sets from extended norm-trace codes"
+}

@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 1699,
+ "doi": "https://doi.org/10.1145/336992.337035",
+ "id": "https://openalex.org/W1997136459",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W8706888",
+  "https://openalex.org/W967013999",
+  "https://openalex.org/W1594945480",
+  "https://openalex.org/W1999047234",
+  "https://openalex.org/W2002875385",
+  "https://openalex.org/W2028036481",
+  "https://openalex.org/W2030144199",
+  "https://openalex.org/W2043403353",
+  "https://openalex.org/W2107150807",
+  "https://openalex.org/W2110325612",
+  "https://openalex.org/W2124029832",
+  "https://openalex.org/W2124591829",
+  "https://openalex.org/W2155106456",
+  "https://openalex.org/W2160117199",
+  "https://openalex.org/W2587619360",
+  "https://openalex.org/W2591957553"
+ ],
+ "title": "Recommender systems in e-commerce"
+}

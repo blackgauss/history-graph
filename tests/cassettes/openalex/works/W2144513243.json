@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 1297,
+ "doi": null,
+ "id": "https://openalex.org/W2144513243",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W1532247067",
+  "https://openalex.org/W1580142630",
+  "https://openalex.org/W1964862779",
+  "https://openalex.org/W1965770722",
+  "https://openalex.org/W1992612094",
+  "https://openalex.org/W2114766824",
+  "https://openalex.org/W2133671888",
+  "https://openalex.org/W2164359548",
+  "https://openalex.org/W2165758113",
+  "https://openalex.org/W2912633461",
+  "https://openalex.org/W3144276250"
+ ],
+ "title": "A Simple Weight Decay Can Improve Generalization"
+}

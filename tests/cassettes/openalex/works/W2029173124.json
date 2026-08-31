@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 31,
+ "doi": "https://doi.org/10.1016/0012-365x(86)90138-x",
+ "id": "https://openalex.org/W2029173124",
+ "publication_year": 1986,
+ "referenced_works": [
+  "https://openalex.org/W1605256314",
+  "https://openalex.org/W1973458874",
+  "https://openalex.org/W2007343403",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2012329067",
+  "https://openalex.org/W2019189827",
+  "https://openalex.org/W2033040247",
+  "https://openalex.org/W2042348250",
+  "https://openalex.org/W2071228820",
+  "https://openalex.org/W2316630687",
+  "https://openalex.org/W2986418635",
+  "https://openalex.org/W4246410616",
+  "https://openalex.org/W6636196866",
+  "https://openalex.org/W6660946736",
+  "https://openalex.org/W6676879625",
+  "https://openalex.org/W6992018761"
+ ],
+ "title": "Small solutions of linear Diophantine equations"
+}

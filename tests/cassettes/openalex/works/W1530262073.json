@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 431,
+ "doi": null,
+ "id": "https://openalex.org/W1530262073",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W2100921332",
+  "https://openalex.org/W2112796928"
+ ],
+ "title": "High Performance Convolutional Neural Networks for Document Processing"
+}

@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 4947,
+ "doi": "https://doi.org/10.1016/0021-9991(87)90140-9",
+ "id": "https://openalex.org/W2083206954",
+ "publication_year": 1987,
+ "referenced_works": [
+  "https://openalex.org/W1982115588",
+  "https://openalex.org/W1992906507",
+  "https://openalex.org/W2011842427",
+  "https://openalex.org/W2066429811",
+  "https://openalex.org/W2077852080",
+  "https://openalex.org/W3048087219",
+  "https://openalex.org/W6669879426"
+ ],
+ "title": "A fast algorithm for particle simulations"
+}

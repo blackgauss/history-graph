@@ -1,0 +1,96 @@
+{
+ "cited_by_count": 1073,
+ "concepts": [
+  {
+   "display_name": "Computer science",
+   "id": "https://openalex.org/C41008148",
+   "level": 0,
+   "score": 0.6041589975357056,
+   "wikidata": "https://www.wikidata.org/wiki/Q21198"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 26,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 55,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 64,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 73,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 74,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 76,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 97,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 72,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 56,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 74,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 49,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 58,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 46,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1242572.1242643",
+ "id": "https://openalex.org/W2090883204",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W28795318",
+  "https://openalex.org/W93480304",
+  "https://openalex.org/W1480376833",
+  "https://openalex.org/W1659541576",
+  "https://openalex.org/W1678356000",
+  "https://openalex.org/W1965555277",
+  "https://openalex.org/W2051434435",
+  "https://openalex.org/W2064987260",
+  "https://openalex.org/W2121672615",
+  "https://openalex.org/W2125771191",
+  "https://openalex.org/W2135060498",
+  "https://openalex.org/W2142589616",
+  "https://openalex.org/W2147164982",
+  "https://openalex.org/W3029645440",
+  "https://openalex.org/W3125094476",
+  "https://openalex.org/W4293775970"
+ ],
+ "title": "Predicting clicks"
+}

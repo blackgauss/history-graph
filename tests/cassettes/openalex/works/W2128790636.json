@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 86,
+ "doi": "https://doi.org/10.1016/s0022-0531(03)00104-2",
+ "id": "https://openalex.org/W2128790636",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W1570973162",
+  "https://openalex.org/W1992808246",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2091627599",
+  "https://openalex.org/W2105173236",
+  "https://openalex.org/W2125899808",
+  "https://openalex.org/W3121869879",
+  "https://openalex.org/W4251083239"
+ ],
+ "title": "All equilibria of the Vickrey auction"
+}

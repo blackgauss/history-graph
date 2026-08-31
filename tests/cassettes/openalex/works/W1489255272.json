@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 162,
+ "doi": null,
+ "id": "https://openalex.org/W1489255272",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W72853727",
+  "https://openalex.org/W1494985239",
+  "https://openalex.org/W1581547316",
+  "https://openalex.org/W1589269155",
+  "https://openalex.org/W1923473247",
+  "https://openalex.org/W1998244781",
+  "https://openalex.org/W2021850646",
+  "https://openalex.org/W2025051251",
+  "https://openalex.org/W2026896584",
+  "https://openalex.org/W2028660080",
+  "https://openalex.org/W2038122417",
+  "https://openalex.org/W2045604576",
+  "https://openalex.org/W2046437776",
+  "https://openalex.org/W2114029045",
+  "https://openalex.org/W2145910025",
+  "https://openalex.org/W2161463763",
+  "https://openalex.org/W2171903035",
+  "https://openalex.org/W2212047990"
+ ],
+ "title": "Dynamic Maintenance of Wavelet-Based Histograms"
+}

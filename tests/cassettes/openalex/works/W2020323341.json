@@ -1,0 +1,100 @@
+{
+ "cited_by_count": 294,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 10,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1080/10618600.1996.10474701",
+ "id": "https://openalex.org/W2020323341",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W644041320",
+  "https://openalex.org/W1515242458",
+  "https://openalex.org/W1967293014",
+  "https://openalex.org/W1969387177",
+  "https://openalex.org/W1977709729",
+  "https://openalex.org/W2013896975",
+  "https://openalex.org/W2017977879",
+  "https://openalex.org/W2077389465",
+  "https://openalex.org/W2079257256",
+  "https://openalex.org/W2100196924",
+  "https://openalex.org/W2155843307",
+  "https://openalex.org/W2158783235",
+  "https://openalex.org/W2314653259",
+  "https://openalex.org/W2319794630",
+  "https://openalex.org/W2334409269",
+  "https://openalex.org/W2495045169",
+  "https://openalex.org/W2610881169",
+  "https://openalex.org/W2611736676",
+  "https://openalex.org/W2618814260",
+  "https://openalex.org/W2797195457",
+  "https://openalex.org/W2797626083",
+  "https://openalex.org/W3021828281",
+  "https://openalex.org/W4230948549",
+  "https://openalex.org/W4233110100",
+  "https://openalex.org/W4236958517",
+  "https://openalex.org/W4249823351",
+  "https://openalex.org/W4250305371",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4300288930"
+ ],
+ "title": "The Visual Design and Control of Trellis Display"
+}

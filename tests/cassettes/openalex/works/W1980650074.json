@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 242,
+ "doi": "https://doi.org/10.1006/inco.1995.1060",
+ "id": "https://openalex.org/W1980650074",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W150806119",
+  "https://openalex.org/W1552521662",
+  "https://openalex.org/W1558939704",
+  "https://openalex.org/W1963615255",
+  "https://openalex.org/W1966437899",
+  "https://openalex.org/W1967084447",
+  "https://openalex.org/W1996360405",
+  "https://openalex.org/W1996404732",
+  "https://openalex.org/W2034791526",
+  "https://openalex.org/W2050951955",
+  "https://openalex.org/W2052504823",
+  "https://openalex.org/W2061819031",
+  "https://openalex.org/W2102977580",
+  "https://openalex.org/W2110541436",
+  "https://openalex.org/W2118153508",
+  "https://openalex.org/W2126097181"
+ ],
+ "title": "Atomic Broadcast: From Simple Message Diffusion to Byzantine Agreement"
+}

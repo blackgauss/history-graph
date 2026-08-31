@@ -1,0 +1,11 @@
+{
+ "cited_by_count": 750,
+ "doi": "https://doi.org/10.2307/1911818",
+ "id": "https://openalex.org/W1983743030",
+ "publication_year": 1961,
+ "referenced_works": [
+  "https://openalex.org/W1971258090",
+  "https://openalex.org/W2061059823"
+ ],
+ "title": "The Decomposition Algorithm for Linear Programs"
+}

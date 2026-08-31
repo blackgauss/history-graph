@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 555,
+ "doi": "https://doi.org/10.1109/sfcs.1985.49",
+ "id": "https://openalex.org/W2045924252",
+ "publication_year": 1985,
+ "referenced_works": [
+  "https://openalex.org/W1493926527",
+  "https://openalex.org/W1968286396",
+  "https://openalex.org/W1970755596",
+  "https://openalex.org/W1992972561",
+  "https://openalex.org/W1993138363",
+  "https://openalex.org/W1993749807",
+  "https://openalex.org/W1994357693",
+  "https://openalex.org/W2006787007",
+  "https://openalex.org/W2007464118",
+  "https://openalex.org/W2014850486",
+  "https://openalex.org/W2020831804",
+  "https://openalex.org/W2036656440",
+  "https://openalex.org/W2062196111",
+  "https://openalex.org/W2062767125",
+  "https://openalex.org/W2065251436",
+  "https://openalex.org/W2076688599",
+  "https://openalex.org/W2089914953",
+  "https://openalex.org/W2093779107"
+ ],
+ "title": "Separating the polynomial-time hierarchy by oracles"
+}

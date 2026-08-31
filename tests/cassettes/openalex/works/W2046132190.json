@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 110,
+ "doi": "https://doi.org/10.1006/jcss.2001.1775",
+ "id": "https://openalex.org/W2046132190",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W646503368",
+  "https://openalex.org/W1517585663",
+  "https://openalex.org/W1972326543",
+  "https://openalex.org/W1985250585",
+  "https://openalex.org/W1997240046",
+  "https://openalex.org/W2004541361",
+  "https://openalex.org/W2018094844",
+  "https://openalex.org/W2021131202",
+  "https://openalex.org/W2045519569",
+  "https://openalex.org/W2065251436",
+  "https://openalex.org/W2068157715",
+  "https://openalex.org/W2082448265",
+  "https://openalex.org/W2088044688",
+  "https://openalex.org/W2115324747",
+  "https://openalex.org/W2177603603",
+  "https://openalex.org/W2335478831",
+  "https://openalex.org/W2623224373",
+  "https://openalex.org/W4206794571",
+  "https://openalex.org/W4253456425",
+  "https://openalex.org/W6667587121",
+  "https://openalex.org/W6677167856",
+  "https://openalex.org/W7000925619"
+ ],
+ "title": "The Minimum Equivalent DNF Problem and Shortest Implicants"
+}

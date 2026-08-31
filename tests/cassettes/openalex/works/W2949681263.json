@@ -1,0 +1,41 @@
+{
+ "cited_by_count": 252,
+ "counts_by_year": [
+  {
+   "cited_by_count": 9,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 30,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 35,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 43,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 35,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 36,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 12,
+   "year": 2019
+  }
+ ],
+ "doi": "https://doi.org/10.1109/tnet.2019.2918736",
+ "id": "https://openalex.org/W2949681263",
+ "publication_year": 2019,
+ "title": "Scheduling Algorithms for Optimizing Age of Information in Wireless Networks With Throughput Constraints"
+}

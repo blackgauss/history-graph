@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 101,
+ "doi": "https://doi.org/10.1145/1835804.1835834",
+ "id": "https://openalex.org/W1969675113",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W1554544485",
+  "https://openalex.org/W1969415786",
+  "https://openalex.org/W1973628995",
+  "https://openalex.org/W1974778955",
+  "https://openalex.org/W1997628954",
+  "https://openalex.org/W2054553473",
+  "https://openalex.org/W2070996757",
+  "https://openalex.org/W2071488943",
+  "https://openalex.org/W2083991698",
+  "https://openalex.org/W2090883204",
+  "https://openalex.org/W2132708887",
+  "https://openalex.org/W2140160814",
+  "https://openalex.org/W2157355837",
+  "https://openalex.org/W2170712385",
+  "https://openalex.org/W2294062369",
+  "https://openalex.org/W2338406834",
+  "https://openalex.org/W4302853952"
+ ],
+ "title": "Estimating rates of rare events with multiple hierarchies through scalable log-linear models"
+}

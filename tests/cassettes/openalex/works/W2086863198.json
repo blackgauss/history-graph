@@ -1,0 +1,12 @@
+{
+ "cited_by_count": 172,
+ "doi": "https://doi.org/10.1287/opre.7.1.58",
+ "id": "https://openalex.org/W2086863198",
+ "publication_year": 1959,
+ "referenced_works": [
+  "https://openalex.org/W2011762930",
+  "https://openalex.org/W2058937865",
+  "https://openalex.org/W2060322444"
+ ],
+ "title": "On a Linear-Programming, Combinatorial Approach to the Traveling-Salesman Problem"
+}

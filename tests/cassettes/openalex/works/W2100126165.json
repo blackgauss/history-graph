@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 90,
+ "doi": "https://doi.org/10.1145/775832.775945",
+ "id": "https://openalex.org/W2100126165",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W153567890",
+  "https://openalex.org/W1532000439",
+  "https://openalex.org/W1553731663",
+  "https://openalex.org/W1556462035",
+  "https://openalex.org/W1568333198",
+  "https://openalex.org/W1572729891",
+  "https://openalex.org/W1575176197",
+  "https://openalex.org/W1589982562",
+  "https://openalex.org/W1592502301",
+  "https://openalex.org/W1741528175",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W2010880586",
+  "https://openalex.org/W2118154221",
+  "https://openalex.org/W2140344792",
+  "https://openalex.org/W2950805470"
+ ],
+ "title": "A hybrid SAT-based decision procedure for separation logic with uninterpreted functions"
+}

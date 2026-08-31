@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 244,
+ "doi": "https://doi.org/10.1023/a:1008141313927",
+ "id": "https://openalex.org/W1577178526",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1547358889",
+  "https://openalex.org/W1975837270",
+  "https://openalex.org/W1982937596",
+  "https://openalex.org/W1991776956",
+  "https://openalex.org/W2011611257",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2032393622",
+  "https://openalex.org/W2039535401",
+  "https://openalex.org/W2043424521",
+  "https://openalex.org/W2074940005",
+  "https://openalex.org/W2115400885",
+  "https://openalex.org/W2127683434",
+  "https://openalex.org/W2135911384",
+  "https://openalex.org/W2145588034",
+  "https://openalex.org/W2244322221",
+  "https://openalex.org/W3123046760",
+  "https://openalex.org/W3125571232",
+  "https://openalex.org/W4253574404",
+  "https://openalex.org/W4308765127",
+  "https://openalex.org/W6677625234"
+ ],
+ "title": "Experts and Amateurs: The Role of Experience in Internet Auctions"
+}

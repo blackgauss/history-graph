@@ -1,0 +1,25 @@
+{
+ "cited_by_count": 118,
+ "doi": "https://doi.org/10.1109/tpami.1984.4767523",
+ "id": "https://openalex.org/W2056334735",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W1480487340",
+  "https://openalex.org/W1986614083",
+  "https://openalex.org/W1989584148",
+  "https://openalex.org/W2042770250",
+  "https://openalex.org/W2050360441",
+  "https://openalex.org/W2076506437",
+  "https://openalex.org/W2084134149",
+  "https://openalex.org/W2085535170",
+  "https://openalex.org/W2088779313",
+  "https://openalex.org/W2089577785",
+  "https://openalex.org/W2092998534",
+  "https://openalex.org/W2122111042",
+  "https://openalex.org/W2137827358",
+  "https://openalex.org/W2164500538",
+  "https://openalex.org/W2334656152",
+  "https://openalex.org/W3104032773"
+ ],
+ "title": "An Optimal Global Nearest Neighbor Metric"
+}

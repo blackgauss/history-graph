@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 39,
+ "doi": null,
+ "id": "https://openalex.org/W1481270797",
+ "publication_year": 1984,
+ "referenced_works": [
+  "https://openalex.org/W23033777",
+  "https://openalex.org/W134694575",
+  "https://openalex.org/W161391355",
+  "https://openalex.org/W186659876",
+  "https://openalex.org/W1507469828",
+  "https://openalex.org/W1514871965",
+  "https://openalex.org/W1965909768",
+  "https://openalex.org/W1976607278",
+  "https://openalex.org/W2008116177",
+  "https://openalex.org/W2013334450",
+  "https://openalex.org/W2020601345",
+  "https://openalex.org/W2072191579",
+  "https://openalex.org/W2080042338",
+  "https://openalex.org/W2103920867",
+  "https://openalex.org/W2122789628",
+  "https://openalex.org/W2138709157",
+  "https://openalex.org/W2153329411",
+  "https://openalex.org/W2337288897"
+ ],
+ "title": "Extending the Algebraic Framework of Query Processing to Handle Outerjoins"
+}

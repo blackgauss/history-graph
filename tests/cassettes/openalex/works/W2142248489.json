@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 439,
+ "doi": "https://doi.org/10.1007/978-3-642-56927-2_6",
+ "id": "https://openalex.org/W2142248489",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W95146502",
+  "https://openalex.org/W2773349604",
+  "https://openalex.org/W3142760365",
+  "https://openalex.org/W6631065984"
+ ],
+ "title": "Learning Vector Quantization"
+}

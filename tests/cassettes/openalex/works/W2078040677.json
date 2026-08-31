@@ -1,0 +1,72 @@
+{
+ "cited_by_count": 3359,
+ "counts_by_year": [
+  {
+   "cited_by_count": 39,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 86,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 63,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 87,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 87,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 109,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 168,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 109,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 133,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 100,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 128,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 138,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 144,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 152,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 136,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.2307/1914085",
+ "id": "https://openalex.org/W2078040677",
+ "publication_year": 1973,
+ "referenced_works": [
+  "https://openalex.org/W1544140021"
+ ],
+ "title": "Incentives in Teams"
+}

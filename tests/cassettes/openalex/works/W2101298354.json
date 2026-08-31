@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 168,
+ "doi": "https://doi.org/10.1214/aoms/1177700279",
+ "id": "https://openalex.org/W2101298354",
+ "publication_year": 1965,
+ "referenced_works": [
+  "https://openalex.org/W48255060",
+  "https://openalex.org/W1627533315",
+  "https://openalex.org/W2033111980",
+  "https://openalex.org/W2049533878",
+  "https://openalex.org/W2063698478",
+  "https://openalex.org/W2324309783",
+  "https://openalex.org/W2800495218",
+  "https://openalex.org/W2903871214",
+  "https://openalex.org/W2904270642",
+  "https://openalex.org/W2905060314"
+ ],
+ "title": "Bayesian Estimation in Multivariate Analysis"
+}

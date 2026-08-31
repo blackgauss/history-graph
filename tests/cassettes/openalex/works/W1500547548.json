@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 133,
+ "doi": null,
+ "id": "https://openalex.org/W1500547548",
+ "publication_year": 1991,
+ "referenced_works": [
+  "https://openalex.org/W103650626",
+  "https://openalex.org/W1513100972",
+  "https://openalex.org/W1552081212",
+  "https://openalex.org/W1988144572",
+  "https://openalex.org/W2004731091",
+  "https://openalex.org/W2005132320",
+  "https://openalex.org/W2007030756",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2051244613",
+  "https://openalex.org/W2063663576",
+  "https://openalex.org/W2078528123",
+  "https://openalex.org/W2080427212",
+  "https://openalex.org/W2095075045",
+  "https://openalex.org/W2128912667",
+  "https://openalex.org/W2154165046"
+ ],
+ "title": "An Evaluation of Non-Equijoin Algorithms"
+}

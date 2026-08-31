@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 61,
+ "doi": null,
+ "id": "https://openalex.org/W1512262469",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W4983232",
+  "https://openalex.org/W80737574",
+  "https://openalex.org/W82633235",
+  "https://openalex.org/W1567530468",
+  "https://openalex.org/W1570374618",
+  "https://openalex.org/W1577054573",
+  "https://openalex.org/W1578780470",
+  "https://openalex.org/W1603243195",
+  "https://openalex.org/W1605860778",
+  "https://openalex.org/W1967970073",
+  "https://openalex.org/W1968198053",
+  "https://openalex.org/W1991138028",
+  "https://openalex.org/W2047580205",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2057858426",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2145465694",
+  "https://openalex.org/W2169185944"
+ ],
+ "title": "A SAT-based decision procedure for ALC"
+}

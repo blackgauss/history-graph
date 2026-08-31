@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 141,
+ "doi": "https://doi.org/10.1145/167088.167197",
+ "id": "https://openalex.org/W2079866219",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W248867876",
+  "https://openalex.org/W1505243998",
+  "https://openalex.org/W1519080809",
+  "https://openalex.org/W1978561269",
+  "https://openalex.org/W1986804393",
+  "https://openalex.org/W1989445634",
+  "https://openalex.org/W2003519998",
+  "https://openalex.org/W2011618217",
+  "https://openalex.org/W2017290750",
+  "https://openalex.org/W2018908820",
+  "https://openalex.org/W2019363670",
+  "https://openalex.org/W2020114845",
+  "https://openalex.org/W2027528470",
+  "https://openalex.org/W2042194938",
+  "https://openalex.org/W2046995465",
+  "https://openalex.org/W2052207834",
+  "https://openalex.org/W2064423787",
+  "https://openalex.org/W2085759780",
+  "https://openalex.org/W2095693260",
+  "https://openalex.org/W2108104892",
+  "https://openalex.org/W2117362057",
+  "https://openalex.org/W2117472863",
+  "https://openalex.org/W2120723699",
+  "https://openalex.org/W2157526632"
+ ],
+ "title": "Cryptographic hardness of distribution-specific learning"
+}

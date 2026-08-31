@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 1335,
+ "doi": "https://doi.org/10.48550/arxiv.1312.6229",
+ "id": "https://openalex.org/W1487583988",
+ "publication_year": 2013,
+ "referenced_works": [
+  "https://openalex.org/W2966661",
+  "https://openalex.org/W107408668",
+  "https://openalex.org/W1555385401",
+  "https://openalex.org/W1904365287",
+  "https://openalex.org/W1994065256",
+  "https://openalex.org/W2017691720",
+  "https://openalex.org/W2022508996",
+  "https://openalex.org/W2088049833",
+  "https://openalex.org/W2108598243",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2129981175",
+  "https://openalex.org/W2134557905",
+  "https://openalex.org/W2154579312",
+  "https://openalex.org/W2158778629",
+  "https://openalex.org/W2166440240",
+  "https://openalex.org/W2170837066",
+  "https://openalex.org/W2546302380",
+  "https://openalex.org/W2616465717",
+  "https://openalex.org/W2673062467"
+ ],
+ "title": "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks"
+}

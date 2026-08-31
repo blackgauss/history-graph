@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 933,
+ "doi": "https://doi.org/10.1016/1385-7258(72)90034-0",
+ "id": "https://openalex.org/W2568721247",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W628337076",
+  "https://openalex.org/W1594912681",
+  "https://openalex.org/W1603543937",
+  "https://openalex.org/W6923786857",
+  "https://openalex.org/W6983391712"
+ ],
+ "title": "Lambda calculus notation with nameless dummies, a tool for automatic formula manipulation, with application to the Church-Rosser theorem"
+}

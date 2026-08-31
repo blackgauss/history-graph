@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 12,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2014
+  }
+ ],
+ "doi": null,
+ "id": "https://openalex.org/W28795318",
+ "publication_year": 2014,
+ "referenced_works": [
+  "https://openalex.org/W1689629105",
+  "https://openalex.org/W2067050450"
+ ],
+ "title": "A Formal Analysis of Search Auctions Including Predictions on Click Fraud and Bidding Tactics"
+}

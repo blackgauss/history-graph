@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1145/1963405.1963464",
+ "id": "https://openalex.org/W2020313144",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W35651078",
+  "https://openalex.org/W85554864",
+  "https://openalex.org/W94637519",
+  "https://openalex.org/W1498594556",
+  "https://openalex.org/W1966850048",
+  "https://openalex.org/W1968927634",
+  "https://openalex.org/W1969118846",
+  "https://openalex.org/W1992411228",
+  "https://openalex.org/W1992549066",
+  "https://openalex.org/W1993320088",
+  "https://openalex.org/W2015338694",
+  "https://openalex.org/W2026430213",
+  "https://openalex.org/W2029006249",
+  "https://openalex.org/W2058896506",
+  "https://openalex.org/W2069870183",
+  "https://openalex.org/W2070192299",
+  "https://openalex.org/W2073722401",
+  "https://openalex.org/W2099111195",
+  "https://openalex.org/W2113640060",
+  "https://openalex.org/W2132314908",
+  "https://openalex.org/W2156640004",
+  "https://openalex.org/W4233760227"
+ ],
+ "title": "On the informativeness of cascade and intent-aware effectiveness measures"
+}

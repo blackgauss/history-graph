@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 687,
+ "doi": "https://doi.org/10.2307/1912117",
+ "id": "https://openalex.org/W1978180733",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W644772136",
+  "https://openalex.org/W1548462700",
+  "https://openalex.org/W1970235050",
+  "https://openalex.org/W1979809420",
+  "https://openalex.org/W1998191601",
+  "https://openalex.org/W1998598955",
+  "https://openalex.org/W2006553348",
+  "https://openalex.org/W2043715088",
+  "https://openalex.org/W2072078689",
+  "https://openalex.org/W2102794165",
+  "https://openalex.org/W2106622011",
+  "https://openalex.org/W2131740028",
+  "https://openalex.org/W2139774323",
+  "https://openalex.org/W2153335615"
+ ],
+ "title": "Efficient and Durable Decision Rules with Incomplete Information"
+}

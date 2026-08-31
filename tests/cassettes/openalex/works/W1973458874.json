@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 208,
+ "doi": "https://doi.org/10.1090/s0002-9939-1976-0396605-3",
+ "id": "https://openalex.org/W1973458874",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W2019189827",
+  "https://openalex.org/W2047158156",
+  "https://openalex.org/W2057182494",
+  "https://openalex.org/W2088135821",
+  "https://openalex.org/W2093404847",
+  "https://openalex.org/W2277485965",
+  "https://openalex.org/W2318517541",
+  "https://openalex.org/W3175367423",
+  "https://openalex.org/W4234361933",
+  "https://openalex.org/W4238575416",
+  "https://openalex.org/W4253845129",
+  "https://openalex.org/W6694777769"
+ ],
+ "title": "Bounds on positive integral solutions of linear Diophantine equations"
+}

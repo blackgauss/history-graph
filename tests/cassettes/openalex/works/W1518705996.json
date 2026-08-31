@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 2628,
+ "doi": "https://doi.org/10.1007/978-3-540-24605-3_37",
+ "id": "https://openalex.org/W1518705996",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W2005573219",
+  "https://openalex.org/W2024148935",
+  "https://openalex.org/W2046239089",
+  "https://openalex.org/W2048051309",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2095821893",
+  "https://openalex.org/W2096307462",
+  "https://openalex.org/W2110123236",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2160444875",
+  "https://openalex.org/W4231640108"
+ ],
+ "title": "An Extensible SAT-solver"
+}

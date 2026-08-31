@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 60,
+ "doi": "https://doi.org/10.1126/science.263.5147.695",
+ "id": "https://openalex.org/W1994894686",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W1964777250",
+  "https://openalex.org/W1970066416",
+  "https://openalex.org/W1974875620",
+  "https://openalex.org/W2029818103",
+  "https://openalex.org/W2163991910"
+ ],
+ "title": "Envisioning a Quantum Supercomputer"
+}

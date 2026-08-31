@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 156,
+ "doi": "https://doi.org/10.1145/1134707.1134731",
+ "id": "https://openalex.org/W2088532256",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W26772505",
+  "https://openalex.org/W203077648",
+  "https://openalex.org/W1576262084",
+  "https://openalex.org/W1769120835",
+  "https://openalex.org/W1954834360",
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W1986345564",
+  "https://openalex.org/W1987699207",
+  "https://openalex.org/W1999457273",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2045665199",
+  "https://openalex.org/W2092808281",
+  "https://openalex.org/W2135060498",
+  "https://openalex.org/W2135724610",
+  "https://openalex.org/W2135954328",
+  "https://openalex.org/W3124857404",
+  "https://openalex.org/W3125094476",
+  "https://openalex.org/W4205798102"
+ ],
+ "title": "An analysis of alternative slot auction designs for sponsored search"
+}

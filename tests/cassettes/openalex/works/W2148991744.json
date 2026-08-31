@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 210,
+ "doi": "https://doi.org/10.1109/72.377972",
+ "id": "https://openalex.org/W2148991744",
+ "publication_year": 1995,
+ "referenced_works": [
+  "https://openalex.org/W6768484",
+  "https://openalex.org/W1971674102",
+  "https://openalex.org/W1972150031",
+  "https://openalex.org/W2031016367",
+  "https://openalex.org/W2033245860",
+  "https://openalex.org/W2039708501",
+  "https://openalex.org/W2051812123",
+  "https://openalex.org/W2062999058",
+  "https://openalex.org/W2069348651",
+  "https://openalex.org/W2078376347",
+  "https://openalex.org/W2087836750",
+  "https://openalex.org/W2101927907",
+  "https://openalex.org/W2112375517",
+  "https://openalex.org/W2116424792",
+  "https://openalex.org/W2116640950",
+  "https://openalex.org/W2132152975",
+  "https://openalex.org/W2135804779",
+  "https://openalex.org/W2160208155",
+  "https://openalex.org/W2160699933",
+  "https://openalex.org/W2416739038",
+  "https://openalex.org/W2482792214",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4300402905",
+  "https://openalex.org/W6683736861"
+ ],
+ "title": "Dynamic learning rate optimization of the backpropagation algorithm"
+}

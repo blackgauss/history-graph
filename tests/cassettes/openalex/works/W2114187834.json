@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 102,
+ "doi": null,
+ "id": "https://openalex.org/W2114187834",
+ "publication_year": 1988,
+ "referenced_works": [
+  "https://openalex.org/W1491139858",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1535810436",
+  "https://openalex.org/W1564660545",
+  "https://openalex.org/W1733248925",
+  "https://openalex.org/W2017257315",
+  "https://openalex.org/W2030744088",
+  "https://openalex.org/W2069696140",
+  "https://openalex.org/W2101927907",
+  "https://openalex.org/W2122925692",
+  "https://openalex.org/W2131329059",
+  "https://openalex.org/W3022436500"
+ ],
+ "title": "An Optimality Principle for Unsupervised Learning"
+}

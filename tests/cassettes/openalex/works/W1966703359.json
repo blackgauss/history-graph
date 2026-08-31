@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 140,
+ "doi": "https://doi.org/10.1099/00221287-77-2-317",
+ "id": "https://openalex.org/W1966703359",
+ "publication_year": 1973,
+ "referenced_works": [
+  "https://openalex.org/W1968181674",
+  "https://openalex.org/W1984898167",
+  "https://openalex.org/W1993973265",
+  "https://openalex.org/W2009220676",
+  "https://openalex.org/W2012165542",
+  "https://openalex.org/W2012382914",
+  "https://openalex.org/W2025367236",
+  "https://openalex.org/W2049498254",
+  "https://openalex.org/W2061286780",
+  "https://openalex.org/W2087450154",
+  "https://openalex.org/W2100878112",
+  "https://openalex.org/W2111828334",
+  "https://openalex.org/W2127498136",
+  "https://openalex.org/W2155968679",
+  "https://openalex.org/W2170893984",
+  "https://openalex.org/W2330575697",
+  "https://openalex.org/W2469329190",
+  "https://openalex.org/W2798099693",
+  "https://openalex.org/W2905152011"
+ ],
+ "title": "Identification of Bacteria by Computer: Theory and Programming"
+}

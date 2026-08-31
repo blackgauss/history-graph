@@ -1,0 +1,41 @@
+{
+ "cited_by_count": 2467,
+ "counts_by_year": [
+  {
+   "cited_by_count": 403,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 598,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 504,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 405,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 283,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 199,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 68,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2019
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3357384.3357895",
+ "id": "https://openalex.org/W2984100107",
+ "publication_year": 2019,
+ "title": "BERT4Rec"
+}

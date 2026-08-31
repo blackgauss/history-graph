@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 2605,
+ "doi": "https://doi.org/10.1145/359576.359579",
+ "id": "https://openalex.org/W2172307690",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W655501358",
+  "https://openalex.org/W1512502927",
+  "https://openalex.org/W1525140360",
+  "https://openalex.org/W1559577056",
+  "https://openalex.org/W1594912681",
+  "https://openalex.org/W1998555378",
+  "https://openalex.org/W2012344170",
+  "https://openalex.org/W2020580827",
+  "https://openalex.org/W2029460931",
+  "https://openalex.org/W2037177386",
+  "https://openalex.org/W2045255985",
+  "https://openalex.org/W2067911767",
+  "https://openalex.org/W2103953153",
+  "https://openalex.org/W2109798037",
+  "https://openalex.org/W2113757735",
+  "https://openalex.org/W2143716265",
+  "https://openalex.org/W2987907651",
+  "https://openalex.org/W2997019115",
+  "https://openalex.org/W3146075203",
+  "https://openalex.org/W6631272657",
+  "https://openalex.org/W6782778789"
+ ],
+ "title": "Can programming be liberated from the von Neumann style?"
+}

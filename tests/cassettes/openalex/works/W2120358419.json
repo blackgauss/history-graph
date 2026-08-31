@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 856,
+ "doi": "https://doi.org/10.1145/509907.510017",
+ "id": "https://openalex.org/W2120358419",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1511716344",
+  "https://openalex.org/W1601503375",
+  "https://openalex.org/W1967935161",
+  "https://openalex.org/W1970259241",
+  "https://openalex.org/W2005090831",
+  "https://openalex.org/W2011869755",
+  "https://openalex.org/W2016232593",
+  "https://openalex.org/W2019578639",
+  "https://openalex.org/W2027020884",
+  "https://openalex.org/W2028146521",
+  "https://openalex.org/W2080905757",
+  "https://openalex.org/W2081254453",
+  "https://openalex.org/W2087226760",
+  "https://openalex.org/W2091004914",
+  "https://openalex.org/W2091921997",
+  "https://openalex.org/W2094135928",
+  "https://openalex.org/W2139689595",
+  "https://openalex.org/W2143996311",
+  "https://openalex.org/W2148352980",
+  "https://openalex.org/W2160033075",
+  "https://openalex.org/W2917997019"
+ ],
+ "title": "On the power of unique 2-prover 1-round games"
+}

@@ -1,0 +1,88 @@
+{
+ "cited_by_count": 910,
+ "counts_by_year": [
+  {
+   "cited_by_count": 3,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 22,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 51,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 66,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 70,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 86,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 154,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 121,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 138,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 88,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 54,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1109/icdmw.2010.172",
+ "id": "https://openalex.org/W2119745055",
+ "publication_year": 2010,
+ "referenced_works": [
+  "https://openalex.org/W192446467",
+  "https://openalex.org/W1561433714",
+  "https://openalex.org/W2072794470",
+  "https://openalex.org/W2098310557",
+  "https://openalex.org/W2115503987",
+  "https://openalex.org/W2128362607",
+  "https://openalex.org/W2149576945",
+  "https://openalex.org/W2162957845",
+  "https://openalex.org/W2171074980",
+  "https://openalex.org/W2173213060",
+  "https://openalex.org/W2478999990",
+  "https://openalex.org/W2912802084",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4256363426",
+  "https://openalex.org/W6607881844",
+  "https://openalex.org/W6677231548",
+  "https://openalex.org/W6758383543"
+ ],
+ "title": "S4: Distributed Stream Computing Platform"
+}

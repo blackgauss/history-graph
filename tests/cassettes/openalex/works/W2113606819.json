@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 2398,
+ "doi": "https://doi.org/10.7551/mitpress/7503.003.0105",
+ "id": "https://openalex.org/W2113606819",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W16591383",
+  "https://openalex.org/W1887132526",
+  "https://openalex.org/W1929281213",
+  "https://openalex.org/W1963995223",
+  "https://openalex.org/W1986931325",
+  "https://openalex.org/W2004915807",
+  "https://openalex.org/W2063978378",
+  "https://openalex.org/W2074376560",
+  "https://openalex.org/W2101933716",
+  "https://openalex.org/W2105464873",
+  "https://openalex.org/W2140499889",
+  "https://openalex.org/W2145889472",
+  "https://openalex.org/W2146672645",
+  "https://openalex.org/W2323067647"
+ ],
+ "title": "Efficient sparse coding algorithms"
+}

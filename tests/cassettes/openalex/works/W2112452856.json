@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 457,
+ "doi": "https://doi.org/10.1145/375663.375670",
+ "id": "https://openalex.org/W2112452856",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W161142484",
+  "https://openalex.org/W1505808391",
+  "https://openalex.org/W1526735133",
+  "https://openalex.org/W1573284583",
+  "https://openalex.org/W1983266860",
+  "https://openalex.org/W1983560552",
+  "https://openalex.org/W2028660080",
+  "https://openalex.org/W2092029745",
+  "https://openalex.org/W2114944618",
+  "https://openalex.org/W2118229812",
+  "https://openalex.org/W2161463763",
+  "https://openalex.org/W2171903035",
+  "https://openalex.org/W4255348059",
+  "https://openalex.org/W6630164444"
+ ],
+ "title": "Space-efficient online computation of quantile summaries"
+}

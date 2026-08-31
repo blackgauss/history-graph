@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 8,
+ "doi": "https://doi.org/10.1006/cbmr.1997.1432",
+ "id": "https://openalex.org/W3020908471",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1968632832",
+  "https://openalex.org/W1970036587",
+  "https://openalex.org/W2008230499",
+  "https://openalex.org/W2017123832",
+  "https://openalex.org/W2035035048",
+  "https://openalex.org/W2038128936",
+  "https://openalex.org/W2039689172",
+  "https://openalex.org/W2054804336",
+  "https://openalex.org/W2081136789",
+  "https://openalex.org/W2112081648",
+  "https://openalex.org/W2142334564",
+  "https://openalex.org/W2148965132",
+  "https://openalex.org/W2158267102",
+  "https://openalex.org/W2415903757",
+  "https://openalex.org/W2416287122",
+  "https://openalex.org/W2472363759",
+  "https://openalex.org/W3144372880",
+  "https://openalex.org/W4210728039",
+  "https://openalex.org/W4230399976",
+  "https://openalex.org/W4253020087",
+  "https://openalex.org/W6681941722",
+  "https://openalex.org/W6716721710"
+ ],
+ "title": "Neural Network Modeling of the Level of Observation Decision in an Acute Psychiatric Ward"
+}

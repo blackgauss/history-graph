@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 165,
+ "doi": "https://doi.org/10.1162/neco.1993.5.3.402",
+ "id": "https://openalex.org/W2109759383",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W146900863",
+  "https://openalex.org/W1560089794",
+  "https://openalex.org/W2025130480",
+  "https://openalex.org/W2154579312",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Neural Networks for Fingerprint Recognition"
+}

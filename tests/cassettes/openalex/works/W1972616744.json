@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 5,
+ "doi": "https://doi.org/10.1109/37.41449",
+ "id": "https://openalex.org/W1972616744",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W68498635",
+  "https://openalex.org/W1965282178",
+  "https://openalex.org/W1989945985",
+  "https://openalex.org/W1992834557",
+  "https://openalex.org/W2001914049",
+  "https://openalex.org/W2014347764",
+  "https://openalex.org/W2036413866",
+  "https://openalex.org/W2038211652",
+  "https://openalex.org/W2042445497",
+  "https://openalex.org/W2045673113",
+  "https://openalex.org/W2046965067",
+  "https://openalex.org/W2048751424",
+  "https://openalex.org/W2054674201",
+  "https://openalex.org/W2076992273",
+  "https://openalex.org/W2160958926",
+  "https://openalex.org/W2232871567",
+  "https://openalex.org/W2768949973",
+  "https://openalex.org/W4235388759"
+ ],
+ "title": "The differential analyzer as an active mathematical instrument"
+}

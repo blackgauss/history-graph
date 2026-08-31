@@ -1,0 +1,106 @@
+{
+ "cited_by_count": 529,
+ "counts_by_year": [
+  {
+   "cited_by_count": 4,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 33,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 45,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 69,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 46,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 60,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 41,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1145/1557019.1557029",
+ "id": "https://openalex.org/W2054553473",
+ "publication_year": 2009,
+ "referenced_works": [
+  "https://openalex.org/W1510348757",
+  "https://openalex.org/W1528905581",
+  "https://openalex.org/W1532852017",
+  "https://openalex.org/W1568698519",
+  "https://openalex.org/W1746819321",
+  "https://openalex.org/W1895899587",
+  "https://openalex.org/W1929593512",
+  "https://openalex.org/W1976618413",
+  "https://openalex.org/W1981457167",
+  "https://openalex.org/W1992270714",
+  "https://openalex.org/W2029507558",
+  "https://openalex.org/W2043403353",
+  "https://openalex.org/W2049633694",
+  "https://openalex.org/W2056932183",
+  "https://openalex.org/W2080512030",
+  "https://openalex.org/W2085040216",
+  "https://openalex.org/W2085937320",
+  "https://openalex.org/W2090692107",
+  "https://openalex.org/W2099586447",
+  "https://openalex.org/W2107743791",
+  "https://openalex.org/W2120166550",
+  "https://openalex.org/W2137245235",
+  "https://openalex.org/W2158515176",
+  "https://openalex.org/W2567948266",
+  "https://openalex.org/W3106333376",
+  "https://openalex.org/W3143596294",
+  "https://openalex.org/W4211049957",
+  "https://openalex.org/W4232980324",
+  "https://openalex.org/W4233135949",
+  "https://openalex.org/W4301861531",
+  "https://openalex.org/W4388319785",
+  "https://openalex.org/W6629804754",
+  "https://openalex.org/W6680012447",
+  "https://openalex.org/W7048738093",
+  "https://openalex.org/W7070499600"
+ ],
+ "title": "Regression-based latent factor models"
+}

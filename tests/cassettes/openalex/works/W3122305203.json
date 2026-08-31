@@ -1,0 +1,247 @@
+{
+ "cited_by_count": 1640,
+ "concepts": [
+  {
+   "display_name": "Economics",
+   "id": "https://openalex.org/C162324750",
+   "level": 0,
+   "score": 0.6746234893798828,
+   "wikidata": "https://www.wikidata.org/wiki/Q8134"
+  },
+  {
+   "display_name": "Mathematical economics",
+   "id": "https://openalex.org/C144237770",
+   "level": 1,
+   "score": 0.6074953675270081,
+   "wikidata": "https://www.wikidata.org/wiki/Q747534"
+  },
+  {
+   "display_name": "Vickrey auction",
+   "id": "https://openalex.org/C83426474",
+   "level": 4,
+   "score": 0.5836685299873352,
+   "wikidata": "https://www.wikidata.org/wiki/Q243758"
+  },
+  {
+   "display_name": "Microeconomics",
+   "id": "https://openalex.org/C175444787",
+   "level": 1,
+   "score": 0.5624677538871765,
+   "wikidata": "https://www.wikidata.org/wiki/Q39072"
+  },
+  {
+   "display_name": "Generalized second-price auction",
+   "id": "https://openalex.org/C48278072",
+   "level": 4,
+   "score": 0.544510006904602,
+   "wikidata": "https://www.wikidata.org/wiki/Q5532508"
+  },
+  {
+   "display_name": "Mechanism (biology)",
+   "id": "https://openalex.org/C89611455",
+   "level": 2,
+   "score": 0.49222031235694885,
+   "wikidata": "https://www.wikidata.org/wiki/Q6804646"
+  },
+  {
+   "display_name": "Vickrey–Clarke–Groves auction",
+   "id": "https://openalex.org/C147220207",
+   "level": 4,
+   "score": 0.4760327637195587,
+   "wikidata": "https://www.wikidata.org/wiki/Q773073"
+  },
+  {
+   "display_name": "Advertising",
+   "id": "https://openalex.org/C112698675",
+   "level": 1,
+   "score": 0.44588035345077515,
+   "wikidata": "https://www.wikidata.org/wiki/Q37038"
+  },
+  {
+   "display_name": "Sequential equilibrium",
+   "id": "https://openalex.org/C201364048",
+   "level": 5,
+   "score": 0.4327967166900635,
+   "wikidata": "https://www.wikidata.org/wiki/Q2897085"
+  },
+  {
+   "display_name": "Mechanism design",
+   "id": "https://openalex.org/C153517567",
+   "level": 2,
+   "score": 0.4254872798919678,
+   "wikidata": "https://www.wikidata.org/wiki/Q26090"
+  },
+  {
+   "display_name": "Auction theory",
+   "id": "https://openalex.org/C11276805",
+   "level": 3,
+   "score": 0.37132495641708374,
+   "wikidata": "https://www.wikidata.org/wiki/Q771334"
+  },
+  {
+   "display_name": "Common value auction",
+   "id": "https://openalex.org/C163239763",
+   "level": 2,
+   "score": 0.3306712508201599,
+   "wikidata": "https://www.wikidata.org/wiki/Q5153637"
+  },
+  {
+   "display_name": "Equilibrium selection",
+   "id": "https://openalex.org/C164407509",
+   "level": 4,
+   "score": 0.1930607557296753,
+   "wikidata": "https://www.wikidata.org/wiki/Q5384490"
+  },
+  {
+   "display_name": "Game theory",
+   "id": "https://openalex.org/C177142836",
+   "level": 2,
+   "score": 0.12107178568840027,
+   "wikidata": "https://www.wikidata.org/wiki/Q44455"
+  },
+  {
+   "display_name": "Business",
+   "id": "https://openalex.org/C144133560",
+   "level": 0,
+   "score": 0.10510987043380737,
+   "wikidata": "https://www.wikidata.org/wiki/Q4830453"
+  },
+  {
+   "display_name": "Repeated game",
+   "id": "https://openalex.org/C202556891",
+   "level": 3,
+   "score": 0.08102840185165405,
+   "wikidata": "https://www.wikidata.org/wiki/Q1584646"
+  },
+  {
+   "display_name": "Philosophy",
+   "id": "https://openalex.org/C138885662",
+   "level": 0,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q5891"
+  },
+  {
+   "display_name": "Epistemology",
+   "id": "https://openalex.org/C111472728",
+   "level": 1,
+   "score": 0.0,
+   "wikidata": "https://www.wikidata.org/wiki/Q9471"
+  }
+ ],
+ "counts_by_year": [
+  {
+   "cited_by_count": 25,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 37,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 52,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 41,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 89,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 82,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 68,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 84,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 95,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 74,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 101,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 119,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 141,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 111,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1257/aer.97.1.242",
+ "id": "https://openalex.org/W3122305203",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W203077648",
+  "https://openalex.org/W1484152228",
+  "https://openalex.org/W1735712825",
+  "https://openalex.org/W1769120835",
+  "https://openalex.org/W1976298608",
+  "https://openalex.org/W1978086656",
+  "https://openalex.org/W1985655142",
+  "https://openalex.org/W1985726524",
+  "https://openalex.org/W1991892223",
+  "https://openalex.org/W1993351029",
+  "https://openalex.org/W2002264611",
+  "https://openalex.org/W2002430844",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2018245896",
+  "https://openalex.org/W2019762987",
+  "https://openalex.org/W2024694589",
+  "https://openalex.org/W2026509256",
+  "https://openalex.org/W2031638670",
+  "https://openalex.org/W2043634452",
+  "https://openalex.org/W2055034183",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2077510906",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2094208470",
+  "https://openalex.org/W2096375861",
+  "https://openalex.org/W2114487161",
+  "https://openalex.org/W2116821104",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2131988597",
+  "https://openalex.org/W2134901430",
+  "https://openalex.org/W2135060498",
+  "https://openalex.org/W2139891288",
+  "https://openalex.org/W2148268719",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W2165216638",
+  "https://openalex.org/W2179252414",
+  "https://openalex.org/W2294210014",
+  "https://openalex.org/W3020834844",
+  "https://openalex.org/W3121671581",
+  "https://openalex.org/W3122038764",
+  "https://openalex.org/W3122647617",
+  "https://openalex.org/W3124772166",
+  "https://openalex.org/W3124837987",
+  "https://openalex.org/W3125357055",
+  "https://openalex.org/W3125965983",
+  "https://openalex.org/W3125985736",
+  "https://openalex.org/W4249667931",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords"
+}

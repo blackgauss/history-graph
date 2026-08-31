@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 1038,
+ "doi": "https://doi.org/10.1145/233269.233330",
+ "id": "https://openalex.org/W2111586962",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1490832606",
+  "https://openalex.org/W1515932031",
+  "https://openalex.org/W1545155892",
+  "https://openalex.org/W2012661207",
+  "https://openalex.org/W2052960791",
+  "https://openalex.org/W2059432328",
+  "https://openalex.org/W2117917070",
+  "https://openalex.org/W2142849519",
+  "https://openalex.org/W3004616691",
+  "https://openalex.org/W4239724225",
+  "https://openalex.org/W6681040091",
+  "https://openalex.org/W6837772203"
+ ],
+ "title": "The dangers of replication and a solution"
+}

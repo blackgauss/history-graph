@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 3781,
+ "doi": "https://doi.org/10.1016/0893-6080(90)90049-q",
+ "id": "https://openalex.org/W1964168965",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1554104828",
+  "https://openalex.org/W1977013337",
+  "https://openalex.org/W1977333505",
+  "https://openalex.org/W2037269865",
+  "https://openalex.org/W2066148634",
+  "https://openalex.org/W2118020555",
+  "https://openalex.org/W2122111042",
+  "https://openalex.org/W2146200922",
+  "https://openalex.org/W2161596194",
+  "https://openalex.org/W2801840425",
+  "https://openalex.org/W4252602300",
+  "https://openalex.org/W6683835401"
+ ],
+ "title": "Probabilistic neural networks"
+}

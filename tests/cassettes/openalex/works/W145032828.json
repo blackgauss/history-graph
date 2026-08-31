@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 28,
+ "doi": "https://doi.org/10.1007/978-3-540-35488-8_11",
+ "id": "https://openalex.org/W145032828",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W113430924",
+  "https://openalex.org/W196162695",
+  "https://openalex.org/W1550570395",
+  "https://openalex.org/W1567512734",
+  "https://openalex.org/W2040355924",
+  "https://openalex.org/W2069739265",
+  "https://openalex.org/W2109363337",
+  "https://openalex.org/W2121234459",
+  "https://openalex.org/W2155063211",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W3207021134",
+  "https://openalex.org/W3207342693",
+  "https://openalex.org/W4232632925",
+  "https://openalex.org/W4240874411",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W4300402905",
+  "https://openalex.org/W4388290228",
+  "https://openalex.org/W6678092841"
+ ],
+ "title": "High Dimensional Classification with Bayesian Neural Networks and Dirichlet Diffusion Trees"
+}

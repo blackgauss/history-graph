@@ -1,0 +1,139 @@
+{
+ "abstract_inverted_index": null,
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [],
+     "raw_affiliation_string": "Gotha"
+    }
+   ],
+   "author": {
+    "display_name": "Frieder. Andreas Perthes",
+    "id": "https://openalex.org/A5059119184",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Gotha"
+   ],
+   "raw_author_name": "Frieder. Andreas Perthes",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 55,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1002/asna.18550402508",
+ "funders": [],
+ "id": "https://openalex.org/W2092851275",
+ "ids": {
+  "doi": "https://doi.org/10.1002/asna.18550402508",
+  "mag": "2092851275",
+  "openalex": "https://openalex.org/W2092851275"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1002/asna.18550402508",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1002/asna.18550402508",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": "Astronomische Nachrichten",
+  "raw_type": "journal-article",
+  "source": {
+   "display_name": "Astronomische Nachrichten",
+   "host_organization": "https://openalex.org/P4310320595",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320595"
+   ],
+   "host_organization_lineage_names": [
+    "Wiley"
+   ],
+   "host_organization_name": "Wiley",
+   "id": "https://openalex.org/S173695690",
+   "is_core": true,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": [
+    "0004-6337",
+    "1521-3994"
+   ],
+   "issn_l": "0004-6337",
+   "type": "journal"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 1855,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W2390279801",
+  "https://openalex.org/W2358668433",
+  "https://openalex.org/W2376932109",
+  "https://openalex.org/W2001405890",
+  "https://openalex.org/W2358906198",
+  "https://openalex.org/W2382290278",
+  "https://openalex.org/W2350741829",
+  "https://openalex.org/W2530322880",
+  "https://openalex.org/W1596801655"
+ ],
+ "title": "Carolus Fridericus Gauss Theoria motus corporum coelestium in sectionibus conicis solem ambientium",
+ "type": "article"
+}

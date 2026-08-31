@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 91,
+ "doi": "https://doi.org/10.1016/0023-9690(76)90044-8",
+ "id": "https://openalex.org/W2020859083",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W621637629",
+  "https://openalex.org/W1894358115",
+  "https://openalex.org/W1967158064",
+  "https://openalex.org/W1968605841",
+  "https://openalex.org/W1974154877",
+  "https://openalex.org/W1991464227",
+  "https://openalex.org/W2005727881",
+  "https://openalex.org/W2016834214",
+  "https://openalex.org/W2019431309",
+  "https://openalex.org/W2020256668",
+  "https://openalex.org/W2032509822",
+  "https://openalex.org/W2046340060",
+  "https://openalex.org/W2048473493",
+  "https://openalex.org/W2061929866",
+  "https://openalex.org/W2080838289",
+  "https://openalex.org/W2106972320",
+  "https://openalex.org/W2119531941",
+  "https://openalex.org/W2140158566",
+  "https://openalex.org/W2163469380",
+  "https://openalex.org/W2503347033",
+  "https://openalex.org/W6724841182"
+ ],
+ "title": "Rats learn the relationship between responding and environmental events: An expansion of the learned helplessness hypothesis"
+}

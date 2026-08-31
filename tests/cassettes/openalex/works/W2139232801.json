@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 39,
+ "doi": null,
+ "id": "https://openalex.org/W2139232801",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1530666108",
+  "https://openalex.org/W1997449813",
+  "https://openalex.org/W2016580193",
+  "https://openalex.org/W2048060899",
+  "https://openalex.org/W2056009950",
+  "https://openalex.org/W2070849251",
+  "https://openalex.org/W2079537082",
+  "https://openalex.org/W2109779438",
+  "https://openalex.org/W2117671523",
+  "https://openalex.org/W2167462730",
+  "https://openalex.org/W2295027001",
+  "https://openalex.org/W2766736793"
+ ],
+ "title": "The Tempo 2 Algorithm: Adjusting Time-Delays By Supervised Learning"
+}

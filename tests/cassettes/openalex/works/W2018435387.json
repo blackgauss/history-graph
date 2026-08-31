@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 308,
+ "doi": "https://doi.org/10.1007/bf01931367",
+ "id": "https://openalex.org/W2018435387",
+ "publication_year": 1976,
+ "referenced_works": [
+  "https://openalex.org/W1971806520",
+  "https://openalex.org/W2030139351",
+  "https://openalex.org/W2079272786",
+  "https://openalex.org/W2095035380"
+ ],
+ "title": "Taylor expansion of the accumulated rounding error"
+}

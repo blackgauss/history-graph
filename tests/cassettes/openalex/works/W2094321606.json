@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 82,
+ "doi": "https://doi.org/10.1007/bf02125350",
+ "id": "https://openalex.org/W2094321606",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W155622430",
+  "https://openalex.org/W1496913341",
+  "https://openalex.org/W1970755596",
+  "https://openalex.org/W1972416792",
+  "https://openalex.org/W1973386461",
+  "https://openalex.org/W1984976620",
+  "https://openalex.org/W1992972561",
+  "https://openalex.org/W1993138363",
+  "https://openalex.org/W2014850486",
+  "https://openalex.org/W2045664183",
+  "https://openalex.org/W2045924252",
+  "https://openalex.org/W2055421995",
+  "https://openalex.org/W2059312796",
+  "https://openalex.org/W2060972166",
+  "https://openalex.org/W2062767125",
+  "https://openalex.org/W2080575940",
+  "https://openalex.org/W2096390054",
+  "https://openalex.org/W2098225435",
+  "https://openalex.org/W2144752539",
+  "https://openalex.org/W2148957455"
+ ],
+ "title": "Query complexity, or why is it difficult to separateNP A ∩coNP A fromP A by random oraclesA?"
+}

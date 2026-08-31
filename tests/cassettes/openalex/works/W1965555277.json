@@ -1,0 +1,70 @@
+{
+ "cited_by_count": 20330,
+ "counts_by_year": [
+  {
+   "cited_by_count": 894,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 1365,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 1355,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 1389,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 1366,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 1542,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 1384,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 1188,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 956,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 866,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 813,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 785,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 804,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 736,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 664,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1214/aoms/1177729694",
+ "id": "https://openalex.org/W1965555277",
+ "publication_year": 1951,
+ "referenced_works": [],
+ "title": "On Information and Sufficiency"
+}

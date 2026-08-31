@@ -1,0 +1,486 @@
+{
+ "abstract_inverted_index": {
+  "(1815–1864)": [
+   9
+  ],
+  "12": [
+   93
+  ],
+  "1854.": [
+   19
+  ],
+  "An": [
+   11
+  ],
+  "Aristotle": [
+   121
+  ],
+  "Boole": [
+   8,
+   42,
+   68,
+   130
+  ],
+  "Boolean": [
+   5
+  ],
+  "George": [
+   7
+  ],
+  "In": [
+   20,
+   90
+  ],
+  "Investigation": [
+   12
+  ],
+  "Laws": [
+   15
+  ],
+  "One": [
+   124
+  ],
+  "Self-taught": [
+   0
+  ],
+  "Spinoza.": [
+   123
+  ],
+  "Then": [
+   108
+  ],
+  "Thought": [
+   17
+  ],
+  "a": [
+   32,
+   51,
+   74,
+   80,
+   111
+  ],
+  "algebra,": [
+   6
+  ],
+  "analyses": [
+   110
+  ],
+  "and": [
+   2,
+   63,
+   115,
+   140
+  ],
+  "arguments": [
+   114
+  ],
+  "as": [
+   73,
+   79
+  ],
+  "but": [
+   78
+  ],
+  "can": [
+   83
+  ],
+  "chapters,": [
+   94
+  ],
+  "compelling": [
+   132
+  ],
+  "considers": [
+   69
+  ],
+  "down": [
+   97
+  ],
+  "earlier": [
+   40
+  ],
+  "establish": [
+   50
+  ],
+  "examine": [
+   54
+  ],
+  "explored": [
+   38
+  ],
+  "expression,": [
+   77
+  ],
+  "father": [
+   3
+  ],
+  "first": [
+   92
+  ],
+  "for": [
+   134
+  ],
+  "from": [
+   120
+  ],
+  "fundamental": [
+   27
+  ],
+  "had": [
+   37
+  ],
+  "he": [
+   36,
+   95,
+   109
+  ],
+  "highly": [
+   22
+  ],
+  "history": [
+   139
+  ],
+  "history's": [
+   126
+  ],
+  "human": [
+   30,
+   59,
+   88
+  ],
+  "ideas": [
+   35
+  ],
+  "in": [
+   18,
+   39,
+   104
+  ],
+  "insightful": [
+   128
+  ],
+  "intellectual": [
+   138
+  ],
+  "investigation": [
+   24
+  ],
+  "is": [
+   131
+  ],
+  "just": [
+   72
+  ],
+  "language": [
+   46,
+   70
+  ],
+  "laws": [
+   28
+  ],
+  "logic": [
+   62,
+   103
+  ],
+  "mathematician": [
+   1
+  ],
+  "mathematicians,": [
+   129
+  ],
+  "mathematics": [
+   48
+  ],
+  "method": [
+   52
+  ],
+  "mind": [
+   60
+  ],
+  "mind.": [
+   89,
+   145
+  ],
+  "mode": [
+   75
+  ],
+  "most": [
+   127
+  ],
+  "nature": [
+   56
+  ],
+  "necessary": [
+   100
+  ],
+  "not": [
+   71
+  ],
+  "of": [
+   4,
+   13,
+   16,
+   25,
+   29,
+   47,
+   57,
+   66,
+   76,
+   113,
+   117,
+   125,
+   137,
+   143
+  ],
+  "one": [
+   82
+  ],
+  "original": [
+   23
+  ],
+  "probabilities.": [
+   67
+  ],
+  "propositions": [
+   116
+  ],
+  "published": [
+   10
+  ],
+  "reading": [
+   133
+  ],
+  "reasoning,": [
+   31
+  ],
+  "represent": [
+   102
+  ],
+  "rules": [
+   99
+  ],
+  "science": [
+   142
+  ],
+  "sequel": [
+   33
+  ],
+  "sets": [
+   96
+  ],
+  "student": [
+   136
+  ],
+  "symbolic": [
+   45
+  ],
+  "system": [
+   81
+  ],
+  "the": [
+   14,
+   26,
+   44,
+   55,
+   58,
+   64,
+   87,
+   91,
+   98,
+   141,
+   144
+  ],
+  "theory": [
+   65
+  ],
+  "this": [
+   21,
+   105
+  ],
+  "to": [
+   34,
+   49,
+   53,
+   85,
+   101,
+   122
+  ],
+  "today's": [
+   135
+  ],
+  "understand": [
+   86
+  ],
+  "unique": [
+   106
+  ],
+  "use": [
+   84
+  ],
+  "uses": [
+   43
+  ],
+  "using": [
+   61
+  ],
+  "variety": [
+   112
+  ],
+  "various": [
+   118
+  ],
+  "way.": [
+   107
+  ],
+  "writers": [
+   119
+  ],
+  "writings,": [
+   41
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "George Boole",
+    "id": "https://openalex.org/A5076382518",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "George Boole",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 649,
+ "counts_by_year": [
+  {
+   "cited_by_count": 2,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 3,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 19,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 13,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 23,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 34,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1017/cbo9780511693090",
+ "funders": [],
+ "id": "https://openalex.org/W1578044518",
+ "ids": {
+  "doi": "https://doi.org/10.1017/cbo9780511693090",
+  "mag": "1578044518",
+  "openalex": "https://openalex.org/W1578044518"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1017/cbo9780511693090",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1017/cbo9780511693090",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": null,
+  "raw_type": "monograph",
+  "source": {
+   "display_name": "Cambridge University Press eBooks",
+   "host_organization": "https://openalex.org/P4310311721",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310311721",
+    "https://openalex.org/P4310311702"
+   ],
+   "host_organization_lineage_names": [
+    "Cambridge University Press",
+    "University of Cambridge"
+   ],
+   "host_organization_name": "Cambridge University Press",
+   "id": "https://openalex.org/S4306462995",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "ebook platform"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2009,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W2899084033",
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W2053707442",
+  "https://openalex.org/W1555424292",
+  "https://openalex.org/W2070051673",
+  "https://openalex.org/W2084036541",
+  "https://openalex.org/W2069322938",
+  "https://openalex.org/W2911125927",
+  "https://openalex.org/W2247044235",
+  "https://openalex.org/W2615415291"
+ ],
+ "title": "An Investigation of the Laws of Thought",
+ "type": "book"
+}

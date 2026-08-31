@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 2387,
+ "doi": "https://doi.org/10.1145/245108.245126",
+ "id": "https://openalex.org/W1999047234",
+ "publication_year": 1997,
+ "referenced_works": [
+  "https://openalex.org/W1557657228",
+  "https://openalex.org/W1579638493",
+  "https://openalex.org/W1952843833",
+  "https://openalex.org/W1966553486",
+  "https://openalex.org/W2006551346",
+  "https://openalex.org/W2013594690",
+  "https://openalex.org/W2030144199",
+  "https://openalex.org/W2124591829",
+  "https://openalex.org/W2155106456"
+ ],
+ "title": "GroupLens"
+}

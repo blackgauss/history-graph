@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 151,
+ "doi": "https://doi.org/10.1007/3-540-45657-0_18",
+ "id": "https://openalex.org/W1568333198",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W70873142",
+  "https://openalex.org/W1531082202",
+  "https://openalex.org/W1542298067",
+  "https://openalex.org/W1572729891",
+  "https://openalex.org/W1834186039",
+  "https://openalex.org/W1929502661",
+  "https://openalex.org/W2071559752",
+  "https://openalex.org/W2142785340",
+  "https://openalex.org/W2160444875",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2293606340",
+  "https://openalex.org/W2621468397",
+  "https://openalex.org/W4285719527"
+ ],
+ "title": "Checking Satisfiability of First-Order Formulas by Incremental Translation to SAT"
+}

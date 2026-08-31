@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 47,
+ "doi": "https://doi.org/10.1287/mnsc.1040.0339",
+ "id": "https://openalex.org/W1963767359",
+ "publication_year": 2005,
+ "referenced_works": [
+  "https://openalex.org/W166545893",
+  "https://openalex.org/W347038284",
+  "https://openalex.org/W1549789182",
+  "https://openalex.org/W1987768043",
+  "https://openalex.org/W2052475340",
+  "https://openalex.org/W2055943083",
+  "https://openalex.org/W2056207419",
+  "https://openalex.org/W2057067174",
+  "https://openalex.org/W2060410573",
+  "https://openalex.org/W2063487923",
+  "https://openalex.org/W2088277553",
+  "https://openalex.org/W2096370520",
+  "https://openalex.org/W2114415375",
+  "https://openalex.org/W2116814789",
+  "https://openalex.org/W2120836335",
+  "https://openalex.org/W2151510338",
+  "https://openalex.org/W2157771656",
+  "https://openalex.org/W2158267265",
+  "https://openalex.org/W2235112820",
+  "https://openalex.org/W3022015666"
+ ],
+ "title": "Low-Revenue Equilibria in Simultaneous Ascending-Bid Auctions"
+}

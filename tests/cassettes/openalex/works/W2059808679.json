@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 128,
+ "doi": "https://doi.org/10.1137/0716059",
+ "id": "https://openalex.org/W2059808679",
+ "publication_year": 1979,
+ "referenced_works": [
+  "https://openalex.org/W1978245827",
+  "https://openalex.org/W2006729027",
+  "https://openalex.org/W2012231377",
+  "https://openalex.org/W2018332842",
+  "https://openalex.org/W2022772618",
+  "https://openalex.org/W2041285248",
+  "https://openalex.org/W2042803051",
+  "https://openalex.org/W2043382734",
+  "https://openalex.org/W2056641273",
+  "https://openalex.org/W2059635037",
+  "https://openalex.org/W2316564661",
+  "https://openalex.org/W2989128237"
+ ],
+ "title": "A Relationship between the BFGS and Conjugate Gradient Algorithms and Its Implications for New Algorithms"
+}

@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 17,
+ "doi": "https://doi.org/10.1023/a:1018928026708",
+ "id": "https://openalex.org/W139888349",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1538314673",
+  "https://openalex.org/W1973092800",
+  "https://openalex.org/W2004305855",
+  "https://openalex.org/W2130859329",
+  "https://openalex.org/W2164310641"
+ ],
+ "title": "Warping aerial photographs to orthomaps using thin plate splines"
+}

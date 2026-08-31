@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 168,
+ "counts_by_year": [
+  {
+   "cited_by_count": 15,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 41,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 42,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2021
+  }
+ ],
+ "doi": "https://doi.org/10.1145/3340531.3411996",
+ "id": "https://openalex.org/W3093563174",
+ "publication_year": 2020,
+ "title": "DisenHAN: Disentangled Heterogeneous Graph Attention Network for Recommendation"
+}

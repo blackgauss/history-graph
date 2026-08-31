@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 78,
+ "doi": "https://doi.org/10.1145/321160.321166",
+ "id": "https://openalex.org/W2040183410",
+ "publication_year": 1963,
+ "referenced_works": [
+  "https://openalex.org/W1968605571",
+  "https://openalex.org/W1977420943",
+  "https://openalex.org/W1982939827",
+  "https://openalex.org/W1998522605",
+  "https://openalex.org/W1998599437",
+  "https://openalex.org/W2001485585",
+  "https://openalex.org/W2057361103",
+  "https://openalex.org/W2062897452",
+  "https://openalex.org/W2069224897",
+  "https://openalex.org/W2085089824",
+  "https://openalex.org/W2097038024",
+  "https://openalex.org/W2329728434",
+  "https://openalex.org/W2514809205",
+  "https://openalex.org/W3010207593"
+ ],
+ "title": "Theorem-Proving on the Computer"
+}

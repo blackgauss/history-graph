@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 348,
+ "doi": "https://doi.org/10.1016/0022-0396(67)90023-x",
+ "id": "https://openalex.org/W2094060968",
+ "publication_year": 1967,
+ "referenced_works": [
+  "https://openalex.org/W1973376127",
+  "https://openalex.org/W1986101505",
+  "https://openalex.org/W1997957916",
+  "https://openalex.org/W2008534422",
+  "https://openalex.org/W2034541289",
+  "https://openalex.org/W2054664076",
+  "https://openalex.org/W2083402998",
+  "https://openalex.org/W2099264463",
+  "https://openalex.org/W2798461040",
+  "https://openalex.org/W2799137445",
+  "https://openalex.org/W6643797780",
+  "https://openalex.org/W6671194128",
+  "https://openalex.org/W6675211155"
+ ],
+ "title": "Dynamical equations for optimal nonlinear filtering"
+}

@@ -1,0 +1,24 @@
+{
+ "cited_by_count": 74,
+ "doi": null,
+ "id": "https://openalex.org/W1528133536",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W50486269",
+  "https://openalex.org/W1508384000",
+  "https://openalex.org/W1570963478",
+  "https://openalex.org/W1575658237",
+  "https://openalex.org/W1608015248",
+  "https://openalex.org/W1965270141",
+  "https://openalex.org/W2014482607",
+  "https://openalex.org/W2046176422",
+  "https://openalex.org/W2077902449",
+  "https://openalex.org/W2083459869",
+  "https://openalex.org/W2118792918",
+  "https://openalex.org/W2120745256",
+  "https://openalex.org/W2138637686",
+  "https://openalex.org/W2169401877",
+  "https://openalex.org/W3023115439"
+ ],
+ "title": "High-probability regret bounds for bandit online linear optimization"
+}

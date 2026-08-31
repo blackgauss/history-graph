@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 36,
+ "doi": "https://doi.org/10.1007/bf01342939",
+ "id": "https://openalex.org/W2913148016",
+ "publication_year": 1959,
+ "referenced_works": [
+  "https://openalex.org/W788058594",
+  "https://openalex.org/W1963780006",
+  "https://openalex.org/W1967629533",
+  "https://openalex.org/W2015965037",
+  "https://openalex.org/W2024373817",
+  "https://openalex.org/W2042499838",
+  "https://openalex.org/W2045033949",
+  "https://openalex.org/W2053099695",
+  "https://openalex.org/W2087443598",
+  "https://openalex.org/W2125407741",
+  "https://openalex.org/W2126160338",
+  "https://openalex.org/W2146755812",
+  "https://openalex.org/W2209400336",
+  "https://openalex.org/W2763834584",
+  "https://openalex.org/W2797656628",
+  "https://openalex.org/W4239495391",
+  "https://openalex.org/W4253210619"
+ ],
+ "title": "Computing degrees of unsolvability"
+}

@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 36,
+ "doi": "https://doi.org/10.1016/0022-1236(89)90002-5",
+ "id": "https://openalex.org/W2016043329",
+ "publication_year": 1989,
+ "referenced_works": [
+  "https://openalex.org/W1488877410",
+  "https://openalex.org/W1642035965",
+  "https://openalex.org/W1794319083",
+  "https://openalex.org/W1993000235",
+  "https://openalex.org/W2013665084",
+  "https://openalex.org/W2043702877",
+  "https://openalex.org/W2049887038",
+  "https://openalex.org/W2058607012",
+  "https://openalex.org/W2075920630",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2125433609",
+  "https://openalex.org/W2327680971",
+  "https://openalex.org/W3020818366",
+  "https://openalex.org/W3038165843",
+  "https://openalex.org/W4244015970",
+  "https://openalex.org/W4251776440",
+  "https://openalex.org/W6638245459",
+  "https://openalex.org/W6825397723",
+  "https://openalex.org/W6833385495"
+ ],
+ "title": "The hypercontractive approach to exactly bounding an operator with complex Gaussian kernel"
+}

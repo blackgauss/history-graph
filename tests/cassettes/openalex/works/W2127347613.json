@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 331,
+ "doi": "https://doi.org/10.1145/1134707.1134708",
+ "id": "https://openalex.org/W2127347613",
+ "publication_year": 2006,
+ "referenced_works": [
+  "https://openalex.org/W1769120835",
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2078040677",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2131951207",
+  "https://openalex.org/W2135724610",
+  "https://openalex.org/W2501499209",
+  "https://openalex.org/W2616835318",
+  "https://openalex.org/W3124857404",
+  "https://openalex.org/W3125094476"
+ ],
+ "title": "Truthful auctions for pricing search keywords"
+}

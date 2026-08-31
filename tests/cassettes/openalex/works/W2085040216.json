@@ -1,0 +1,20 @@
+{
+ "cited_by_count": 1460,
+ "doi": "https://doi.org/10.1145/1390156.1390267",
+ "id": "https://openalex.org/W2085040216",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1516111018",
+  "https://openalex.org/W1612003148",
+  "https://openalex.org/W1976618413",
+  "https://openalex.org/W2047229728",
+  "https://openalex.org/W2109720450",
+  "https://openalex.org/W2118034806",
+  "https://openalex.org/W2137245235",
+  "https://openalex.org/W2151052953",
+  "https://openalex.org/W2156297475",
+  "https://openalex.org/W2165395308",
+  "https://openalex.org/W2535123820"
+ ],
+ "title": "Bayesian probabilistic matrix factorization using Markov chain Monte Carlo"
+}

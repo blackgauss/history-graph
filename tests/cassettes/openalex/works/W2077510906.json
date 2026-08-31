@@ -1,0 +1,49 @@
+{
+ "cited_by_count": 25,
+ "counts_by_year": [
+  {
+   "cited_by_count": 1,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 1,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1504/ijeb.2008.018071",
+ "id": "https://openalex.org/W2077510906",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W1512817317",
+  "https://openalex.org/W2085192478",
+  "https://openalex.org/W2088532256",
+  "https://openalex.org/W2146096504",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W4231144620"
+ ],
+ "title": "Equilibrium analysis of dynamic bidding in sponsored search auctions"
+}

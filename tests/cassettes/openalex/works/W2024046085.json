@@ -1,0 +1,113 @@
+{
+ "cited_by_count": 6990,
+ "counts_by_year": [
+  {
+   "cited_by_count": 123,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 211,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 242,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 297,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 361,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 439,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 385,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 372,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 296,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 291,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 276,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 339,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 357,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 336,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 360,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1214/aos/1016218223",
+ "id": "https://openalex.org/W2024046085",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W188401711",
+  "https://openalex.org/W1520252399",
+  "https://openalex.org/W1540007258",
+  "https://openalex.org/W1578772208",
+  "https://openalex.org/W1605688901",
+  "https://openalex.org/W1678356000",
+  "https://openalex.org/W1881647329",
+  "https://openalex.org/W1975846642",
+  "https://openalex.org/W1988790447",
+  "https://openalex.org/W1995055819",
+  "https://openalex.org/W2019575783",
+  "https://openalex.org/W2032210760",
+  "https://openalex.org/W2046033161",
+  "https://openalex.org/W2067885219",
+  "https://openalex.org/W2080265995",
+  "https://openalex.org/W2099968818",
+  "https://openalex.org/W2102201073",
+  "https://openalex.org/W2120240539",
+  "https://openalex.org/W2122111042",
+  "https://openalex.org/W2132166479",
+  "https://openalex.org/W2141518341",
+  "https://openalex.org/W2151693816",
+  "https://openalex.org/W2151832869",
+  "https://openalex.org/W2152761983",
+  "https://openalex.org/W2335925837",
+  "https://openalex.org/W3004732066",
+  "https://openalex.org/W3163638146",
+  "https://openalex.org/W4212883601",
+  "https://openalex.org/W4233372644",
+  "https://openalex.org/W4238893454",
+  "https://openalex.org/W4240861491",
+  "https://openalex.org/W4301861531",
+  "https://openalex.org/W6639409548",
+  "https://openalex.org/W6660397257",
+  "https://openalex.org/W6667474738",
+  "https://openalex.org/W6667615362",
+  "https://openalex.org/W6668150228",
+  "https://openalex.org/W6675460260",
+  "https://openalex.org/W6684823039",
+  "https://openalex.org/W6843735874",
+  "https://openalex.org/W7025168525",
+  "https://openalex.org/W7075620058"
+ ],
+ "title": "Additive logistic regression: a statistical view of boosting (With discussion and a rejoinder by the authors)"
+}

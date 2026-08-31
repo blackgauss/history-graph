@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 48,
+ "doi": "https://doi.org/10.1007/3-540-52255-7_31",
+ "id": "https://openalex.org/W2167607759",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W1544511537",
+  "https://openalex.org/W1969759198",
+  "https://openalex.org/W1984205520",
+  "https://openalex.org/W1984375561",
+  "https://openalex.org/W2014554807",
+  "https://openalex.org/W2016589492",
+  "https://openalex.org/W2025306374",
+  "https://openalex.org/W2028629011",
+  "https://openalex.org/W2077658674",
+  "https://openalex.org/W2082676519",
+  "https://openalex.org/W2117243393",
+  "https://openalex.org/W2119196219",
+  "https://openalex.org/W2143503258",
+  "https://openalex.org/W2146704595",
+  "https://openalex.org/W2182149289",
+  "https://openalex.org/W2264318756",
+  "https://openalex.org/W2325850497",
+  "https://openalex.org/W2476694670",
+  "https://openalex.org/W2766736793",
+  "https://openalex.org/W2796837256",
+  "https://openalex.org/W3004157836",
+  "https://openalex.org/W6682118888",
+  "https://openalex.org/W7030030695"
+ ],
+ "title": "The “moving targets” training algorithm"
+}

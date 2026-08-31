@@ -1,0 +1,30 @@
+{
+ "cited_by_count": 44,
+ "doi": "https://doi.org/10.1145/1374376.1374455",
+ "id": "https://openalex.org/W2160015585",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W13021155",
+  "https://openalex.org/W1554682571",
+  "https://openalex.org/W1975810219",
+  "https://openalex.org/W1997855358",
+  "https://openalex.org/W1999474022",
+  "https://openalex.org/W2007671490",
+  "https://openalex.org/W2064334110",
+  "https://openalex.org/W2084622077",
+  "https://openalex.org/W2098313059",
+  "https://openalex.org/W2111478028",
+  "https://openalex.org/W2125212199",
+  "https://openalex.org/W2129107602",
+  "https://openalex.org/W2131866098",
+  "https://openalex.org/W2146261818",
+  "https://openalex.org/W2163137752",
+  "https://openalex.org/W2190698610",
+  "https://openalex.org/W2335400162",
+  "https://openalex.org/W2963585281",
+  "https://openalex.org/W3004537778",
+  "https://openalex.org/W3102618960",
+  "https://openalex.org/W3124591719"
+ ],
+ "title": "Unconditional pseudorandom generators for low degree polynomials"
+}

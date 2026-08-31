@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 249,
+ "doi": "https://doi.org/10.1007/pl00009809",
+ "id": "https://openalex.org/W1986296546",
+ "publication_year": 1998,
+ "referenced_works": [
+  "https://openalex.org/W1529556207",
+  "https://openalex.org/W1963909248",
+  "https://openalex.org/W1969865855",
+  "https://openalex.org/W1994823074",
+  "https://openalex.org/W2094654291",
+  "https://openalex.org/W2100856114",
+  "https://openalex.org/W2103749128",
+  "https://openalex.org/W2742022539"
+ ],
+ "title": "Boolean Functions With Low Average Sensitivity Depend On Few Coordinates"
+}

@@ -1,0 +1,532 @@
+{
+ "abstract_inverted_index": {
+  "'Prince": [
+   29
+  ],
+  "'one": [
+   5
+  ],
+  "(1777–1855),": [
+   27
+  ],
+  "1801,": [
+   53
+  ],
+  "1809.": [
+   96
+  ],
+  "As": [
+   97
+  ],
+  "Carl": [
+   24
+  ],
+  "Ceres,": [
+   49
+  ],
+  "Described": [
+   0
+  ],
+  "Essai": [
+   136
+  ],
+  "French": [
+   132
+  ],
+  "Friedrich": [
+   25
+  ],
+  "Gauss": [
+   26
+  ],
+  "Gauss'": [
+   55,
+   105
+  ],
+  "German": [
+   22
+  ],
+  "Latin": [
+   19
+  ],
+  "Legendre,": [
+   134
+  ],
+  "Mathematicians',": [
+   31
+  ],
+  "a": [
+   63,
+   71,
+   101,
+   109
+  ],
+  "also": [
+   107,
+   143
+  ],
+  "an": [
+   38
+  ],
+  "and": [
+   65,
+   73,
+   84,
+   130
+  ],
+  "arising": [
+   116
+  ],
+  "as": [
+   4,
+   99
+  ],
+  "astronomers,": [
+   104
+  ],
+  "astronomical": [
+   39
+  ],
+  "astronomy',": [
+   15
+  ],
+  "attempt": [
+   35
+  ],
+  "between": [
+   128
+  ],
+  "books": [
+   10
+  ],
+  "by": [
+   1,
+   20
+  ],
+  "calculating": [
+   77
+  ],
+  "calculations": [
+   115
+  ],
+  "correct": [
+   59
+  ],
+  "degree,": [
+   64
+  ],
+  "derived": [
+   32
+  ],
+  "des": [
+   140
+  ],
+  "develop": [
+   70
+  ],
+  "discovery": [
+   124
+  ],
+  "disputed": [
+   127
+  ],
+  "dwarf": [
+   47
+  ],
+  "effect": [
+   79
+  ],
+  "error;": [
+   119
+  ],
+  "ever": [
+   11
+  ],
+  "first": [
+   50
+  ],
+  "for": [
+   103
+  ],
+  "from": [
+   33,
+   117
+  ],
+  "half": [
+   62
+  ],
+  "he": [
+   93
+  ],
+  "heavens": [
+   44
+  ],
+  "him": [
+   68,
+   129
+  ],
+  "his": [
+   34
+  ],
+  "however": [
+   126
+  ],
+  "in": [
+   18,
+   42,
+   52,
+   95,
+   145
+  ],
+  "inaccuracy": [
+   113
+  ],
+  "is": [
+   142
+  ],
+  "la": [
+   138
+  ],
+  "larger": [
+   82
+  ],
+  "led": [
+   67
+  ],
+  "mathematician": [
+   23,
+   133
+  ],
+  "measurement": [
+   118
+  ],
+  "method": [
+   75,
+   106
+  ],
+  "most": [
+   8
+  ],
+  "nombres": [
+   141
+  ],
+  "of": [
+   6,
+   30,
+   76,
+   80,
+   90,
+   111,
+   114,
+   122
+  ],
+  "offered": [
+   108
+  ],
+  "on": [
+   13,
+   87
+  ],
+  "one": [
+   2
+  ],
+  "orbits": [
+   89
+  ],
+  "perfect": [
+   9
+  ],
+  "planet": [
+   48
+  ],
+  "planetoids,": [
+   91
+  ],
+  "planets": [
+   83
+  ],
+  "position": [
+   57
+  ],
+  "predicted": [
+   56
+  ],
+  "primacy": [
+   121
+  ],
+  "providing": [
+   100
+  ],
+  "published": [
+   94
+  ],
+  "puzzle:": [
+   40
+  ],
+  "reappear?": [
+   54
+  ],
+  "reducing": [
+   112
+  ],
+  "reissued": [
+   144
+  ],
+  "reviewer": [
+   3
+  ],
+  "series.": [
+   147
+  ],
+  "sighted": [
+   51
+  ],
+  "solve": [
+   37
+  ],
+  "sophisticated": [
+   74
+  ],
+  "streamlined": [
+   72
+  ],
+  "sun": [
+   86
+  ],
+  "sur": [
+   137
+  ],
+  "the": [
+   7,
+   21,
+   28,
+   43,
+   46,
+   78,
+   81,
+   85,
+   88,
+   120,
+   131
+  ],
+  "theoretical": [
+   14
+  ],
+  "this": [
+   16,
+   66,
+   123,
+   146
+  ],
+  "théorie": [
+   139
+  ],
+  "to": [
+   36,
+   60,
+   69
+  ],
+  "tool": [
+   102
+  ],
+  "was": [
+   58,
+   125
+  ],
+  "way": [
+   110
+  ],
+  "well": [
+   98
+  ],
+  "where": [
+   41
+  ],
+  "which": [
+   92
+  ],
+  "whose": [
+   135
+  ],
+  "within": [
+   61
+  ],
+  "work": [
+   17
+  ],
+  "would": [
+   45
+  ],
+  "written": [
+   12
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [
+    {
+     "institution_ids": [
+      "https://openalex.org/I4210165287"
+     ],
+     "raw_affiliation_string": "Kunst-und Industrie-Comptoir, dicta"
+    }
+   ],
+   "author": {
+    "display_name": "Carl Friedrich Gauß",
+    "id": "https://openalex.org/A5111402631",
+    "orcid": null
+   },
+   "author_position": "first",
+   "countries": [
+    "PT"
+   ],
+   "institutions": [
+    {
+     "country_code": "PT",
+     "display_name": "Companhia de Equipamentos Industriais",
+     "id": "https://openalex.org/I4210165287",
+     "lineage": [
+      "https://openalex.org/I4210165287"
+     ],
+     "ror": "https://ror.org/05c2m7279",
+     "type": "company"
+    }
+   ],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "Kunst-und Industrie-Comptoir, dicta"
+   ],
+   "raw_author_name": "Carl Friedrich Gauss",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": null,
+ "cited_by_count": 165,
+ "counts_by_year": [
+  {
+   "cited_by_count": 5,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 8,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 9,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 2,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 5,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 11,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 4,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 6,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1017/cbo9780511841705",
+ "funders": [],
+ "id": "https://openalex.org/W3028376465",
+ "ids": {
+  "doi": "https://doi.org/10.1017/cbo9780511841705",
+  "mag": "3028376465",
+  "openalex": "https://openalex.org/W3028376465"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": false,
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null
+ },
+ "primary_location": {
+  "id": "doi:10.1017/cbo9780511841705",
+  "is_accepted": true,
+  "is_oa": false,
+  "is_published": true,
+  "landing_page_url": "https://doi.org/10.1017/cbo9780511841705",
+  "license": null,
+  "license_id": null,
+  "pdf_url": null,
+  "raw_source_name": null,
+  "raw_type": "monograph",
+  "source": {
+   "display_name": "Cambridge University Press eBooks",
+   "host_organization": "https://openalex.org/P4310311721",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310311721",
+    "https://openalex.org/P4310311702"
+   ],
+   "host_organization_lineage_names": [
+    "Cambridge University Press",
+    "University of Cambridge"
+   ],
+   "host_organization_name": "Cambridge University Press",
+   "id": "https://openalex.org/S4306462995",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "ebook platform"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W1438045404"
+ ],
+ "related_works": [
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W4387355496",
+  "https://openalex.org/W2358906198",
+  "https://openalex.org/W2054934363",
+  "https://openalex.org/W4297434856",
+  "https://openalex.org/W3166036498",
+  "https://openalex.org/W3105680091",
+  "https://openalex.org/W3099212456",
+  "https://openalex.org/W2125046482",
+  "https://openalex.org/W3098714857"
+ ],
+ "title": "Theoria Motus Corporum Coelestium in Sectionibus Conicis Solem Ambientium",
+ "type": "book"
+}

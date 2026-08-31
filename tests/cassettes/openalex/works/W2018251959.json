@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 241,
+ "doi": "https://doi.org/10.1006/jcss.1996.0081",
+ "id": "https://openalex.org/W2018251959",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1636182933",
+  "https://openalex.org/W1963913579",
+  "https://openalex.org/W1969377401",
+  "https://openalex.org/W1969966778",
+  "https://openalex.org/W1972848853",
+  "https://openalex.org/W1991529951",
+  "https://openalex.org/W1996980357",
+  "https://openalex.org/W2002651865",
+  "https://openalex.org/W2031823362",
+  "https://openalex.org/W2037870843",
+  "https://openalex.org/W2051580875",
+  "https://openalex.org/W2055638404",
+  "https://openalex.org/W2055978814",
+  "https://openalex.org/W2077925882",
+  "https://openalex.org/W2098290609",
+  "https://openalex.org/W2126420408",
+  "https://openalex.org/W2164346692",
+  "https://openalex.org/W2165813367",
+  "https://openalex.org/W2410460599"
+ ],
+ "title": "A Threshold for Unsatisfiability"
+}

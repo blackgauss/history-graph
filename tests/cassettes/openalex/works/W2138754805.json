@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 1612,
+ "doi": null,
+ "id": "https://openalex.org/W2138754805",
+ "publication_year": 1994,
+ "referenced_works": [
+  "https://openalex.org/W65738273",
+  "https://openalex.org/W1968747946",
+  "https://openalex.org/W2010150441",
+  "https://openalex.org/W2047870719",
+  "https://openalex.org/W2112796159",
+  "https://openalex.org/W2114187834",
+  "https://openalex.org/W2126598917",
+  "https://openalex.org/W2432567885"
+ ],
+ "title": "A Growing Neural Gas Network Learns Topologies"
+}

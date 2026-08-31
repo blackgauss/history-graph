@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 147,
+ "doi": "https://doi.org/10.1007/bf01407874",
+ "id": "https://openalex.org/W2030405518",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W5536954",
+  "https://openalex.org/W424742634",
+  "https://openalex.org/W1484494266",
+  "https://openalex.org/W1573176827",
+  "https://openalex.org/W1603599251",
+  "https://openalex.org/W1635457335",
+  "https://openalex.org/W2002199316",
+  "https://openalex.org/W2011253492",
+  "https://openalex.org/W2032083269",
+  "https://openalex.org/W2062294426",
+  "https://openalex.org/W2078409719",
+  "https://openalex.org/W2090963365",
+  "https://openalex.org/W2107501462",
+  "https://openalex.org/W2112820497",
+  "https://openalex.org/W2118040915",
+  "https://openalex.org/W2312922691",
+  "https://openalex.org/W3141890267",
+  "https://openalex.org/W4237209688",
+  "https://openalex.org/W4299512035"
+ ],
+ "title": "Local convergence analysis for partitioned quasi-Newton updates"
+}

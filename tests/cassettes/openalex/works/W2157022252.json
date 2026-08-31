@@ -1,0 +1,26 @@
+{
+ "cited_by_count": 157,
+ "doi": "https://doi.org/10.14778/1454159.1454179",
+ "id": "https://openalex.org/W2157022252",
+ "publication_year": 2008,
+ "referenced_works": [
+  "https://openalex.org/W79504326",
+  "https://openalex.org/W1497285001",
+  "https://openalex.org/W1582747324",
+  "https://openalex.org/W2002110561",
+  "https://openalex.org/W2025190917",
+  "https://openalex.org/W2099395665",
+  "https://openalex.org/W2112215401",
+  "https://openalex.org/W2124298185",
+  "https://openalex.org/W2142580323",
+  "https://openalex.org/W2144771673",
+  "https://openalex.org/W2149233085",
+  "https://openalex.org/W2149576945",
+  "https://openalex.org/W2153753043",
+  "https://openalex.org/W2162553498",
+  "https://openalex.org/W2166604013",
+  "https://openalex.org/W2167274498",
+  "https://openalex.org/W2999505802"
+ ],
+ "title": "Towards a streaming SQL standard"
+}

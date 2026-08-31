@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 607,
+ "doi": "https://doi.org/10.1109/swat.1972.29",
+ "id": "https://openalex.org/W2007464118",
+ "publication_year": 1972,
+ "referenced_works": [
+  "https://openalex.org/W2036265926",
+  "https://openalex.org/W2125495920",
+  "https://openalex.org/W2401610261",
+  "https://openalex.org/W2533977282",
+  "https://openalex.org/W2905135108",
+  "https://openalex.org/W4239242491"
+ ],
+ "title": "The equivalence problem for regular expressions with squaring requires exponential space"
+}

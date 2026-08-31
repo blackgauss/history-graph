@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 567,
+ "doi": "https://doi.org/10.1109/proc.1978.11114",
+ "id": "https://openalex.org/W2016944512",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W1533440023",
+  "https://openalex.org/W2019342577",
+  "https://openalex.org/W2066501089",
+  "https://openalex.org/W2133201251",
+  "https://openalex.org/W3028888466",
+  "https://openalex.org/W3035757797",
+  "https://openalex.org/W4251912342",
+  "https://openalex.org/W6667187698"
+ ],
+ "title": "SIFT: Design and analysis of a fault-tolerant computer for aircraft control"
+}

@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 191,
+ "doi": "https://doi.org/10.1051/m2an/1978120403251",
+ "id": "https://openalex.org/W166906646",
+ "publication_year": 1978,
+ "referenced_works": [
+  "https://openalex.org/W63727357",
+  "https://openalex.org/W2046914952",
+  "https://openalex.org/W2283048858",
+  "https://openalex.org/W2914857586"
+ ],
+ "title": "Sur l’erreur d’interpolation des fonctions de plusieurs variables par les $D^m$-splines"
+}

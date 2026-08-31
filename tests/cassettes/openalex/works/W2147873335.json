@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 931,
+ "doi": "https://doi.org/10.1109/tac.1980.1102363",
+ "id": "https://openalex.org/W2147873335",
+ "publication_year": 1980,
+ "referenced_works": [
+  "https://openalex.org/W1727563213",
+  "https://openalex.org/W1976490055",
+  "https://openalex.org/W2008373947",
+  "https://openalex.org/W2014556244",
+  "https://openalex.org/W2021305177",
+  "https://openalex.org/W2038967755",
+  "https://openalex.org/W2065737674",
+  "https://openalex.org/W2125812768",
+  "https://openalex.org/W2139132996",
+  "https://openalex.org/W2145348633",
+  "https://openalex.org/W2148401037",
+  "https://openalex.org/W2154831602",
+  "https://openalex.org/W2165010569",
+  "https://openalex.org/W2165503808",
+  "https://openalex.org/W2170071902",
+  "https://openalex.org/W2345659435",
+  "https://openalex.org/W2346219705",
+  "https://openalex.org/W4237436311",
+  "https://openalex.org/W6637647253"
+ ],
+ "title": "Discrete-time multivariable adaptive control"
+}

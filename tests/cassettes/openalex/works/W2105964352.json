@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 73,
+ "doi": "https://doi.org/10.1109/9.847749",
+ "id": "https://openalex.org/W2105964352",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W304861154",
+  "https://openalex.org/W1646998587",
+  "https://openalex.org/W1964377184",
+  "https://openalex.org/W2087435860",
+  "https://openalex.org/W2094060968",
+  "https://openalex.org/W2099371695",
+  "https://openalex.org/W2099867508",
+  "https://openalex.org/W2122512809",
+  "https://openalex.org/W2178464435",
+  "https://openalex.org/W2314359380",
+  "https://openalex.org/W3179730449",
+  "https://openalex.org/W4302367620"
+ ],
+ "title": "A nonlinear filtering algorithm based on an approximation of the conditional distribution"
+}

@@ -1,0 +1,31 @@
+{
+ "cited_by_count": 187,
+ "doi": "https://doi.org/10.1007/bf01585184",
+ "id": "https://openalex.org/W2092812429",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W1499675658",
+  "https://openalex.org/W1587744656",
+  "https://openalex.org/W1975666048",
+  "https://openalex.org/W1985142495",
+  "https://openalex.org/W1989042829",
+  "https://openalex.org/W1995441663",
+  "https://openalex.org/W2011039300",
+  "https://openalex.org/W2013348732",
+  "https://openalex.org/W2014079391",
+  "https://openalex.org/W2026081974",
+  "https://openalex.org/W2031978868",
+  "https://openalex.org/W2033852356",
+  "https://openalex.org/W2034300764",
+  "https://openalex.org/W2055365041",
+  "https://openalex.org/W2082001376",
+  "https://openalex.org/W2100440346",
+  "https://openalex.org/W2144787788",
+  "https://openalex.org/W2159739530",
+  "https://openalex.org/W2595295261",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6655879085",
+  "https://openalex.org/W7033238899"
+ ],
+ "title": "Laplacian eigenvalues and the maximum cut problem"
+}

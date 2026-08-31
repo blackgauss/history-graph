@@ -1,0 +1,21 @@
+{
+ "cited_by_count": 14,
+ "doi": "https://doi.org/10.1109/focs.1961.17",
+ "id": "https://openalex.org/W2544549009",
+ "publication_year": 1961,
+ "referenced_works": [
+  "https://openalex.org/W2029297058",
+  "https://openalex.org/W2048498012",
+  "https://openalex.org/W2061055380",
+  "https://openalex.org/W2079873320",
+  "https://openalex.org/W2103676795",
+  "https://openalex.org/W2106507154",
+  "https://openalex.org/W2124076859",
+  "https://openalex.org/W2169059873",
+  "https://openalex.org/W3015719403",
+  "https://openalex.org/W6657673188",
+  "https://openalex.org/W6670577401",
+  "https://openalex.org/W6678072754"
+ ],
+ "title": "Functional forms of majority functions and a necessary and sufficient condition for their realizability"
+}

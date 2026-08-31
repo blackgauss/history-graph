@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 94,
+ "doi": "https://doi.org/10.1109/iscas.2000.856049",
+ "id": "https://openalex.org/W2128477394",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1541084404",
+  "https://openalex.org/W1602007439",
+  "https://openalex.org/W2098432798",
+  "https://openalex.org/W2119717200",
+  "https://openalex.org/W6635883855"
+ ],
+ "title": "Direct gradient-based reinforcement learning"
+}

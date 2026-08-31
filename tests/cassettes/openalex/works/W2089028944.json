@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 15,
+ "doi": "https://doi.org/10.1007/s001860400377",
+ "id": "https://openalex.org/W2089028944",
+ "publication_year": 2004,
+ "referenced_works": [
+  "https://openalex.org/W5795904",
+  "https://openalex.org/W1487965496",
+  "https://openalex.org/W1627230931",
+  "https://openalex.org/W1966581112",
+  "https://openalex.org/W1967184028",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W1997672673",
+  "https://openalex.org/W2013621063",
+  "https://openalex.org/W2035016254",
+  "https://openalex.org/W2049143039",
+  "https://openalex.org/W2050091725",
+  "https://openalex.org/W2071143636",
+  "https://openalex.org/W2078289947",
+  "https://openalex.org/W2106264302",
+  "https://openalex.org/W2125448650",
+  "https://openalex.org/W2137373403",
+  "https://openalex.org/W2146826069",
+  "https://openalex.org/W2210840110",
+  "https://openalex.org/W2495457432"
+ ],
+ "title": "On semidefinite programming relaxations for the satisfiability problem"
+}

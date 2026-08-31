@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 124,
+ "doi": "https://doi.org/10.1145/301250.301431",
+ "id": "https://openalex.org/W2026820987",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W1562625908",
+  "https://openalex.org/W1967935161",
+  "https://openalex.org/W1985123706",
+  "https://openalex.org/W1990313671",
+  "https://openalex.org/W2001564241",
+  "https://openalex.org/W2026634792",
+  "https://openalex.org/W2035016254",
+  "https://openalex.org/W2041979432",
+  "https://openalex.org/W2045148236",
+  "https://openalex.org/W2053308793",
+  "https://openalex.org/W2058772615",
+  "https://openalex.org/W2087226760",
+  "https://openalex.org/W2094135928",
+  "https://openalex.org/W2098939501",
+  "https://openalex.org/W2109039359",
+  "https://openalex.org/W2126331452",
+  "https://openalex.org/W2130857672",
+  "https://openalex.org/W2137373403",
+  "https://openalex.org/W2172622297",
+  "https://openalex.org/W6665097756"
+ ],
+ "title": "Outward rotations"
+}

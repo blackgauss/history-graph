@@ -1,0 +1,29 @@
+{
+ "cited_by_count": 56,
+ "doi": "https://doi.org/10.1007/3-540-61511-3_107",
+ "id": "https://openalex.org/W1546619436",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W1506758048",
+  "https://openalex.org/W1534850143",
+  "https://openalex.org/W1543935311",
+  "https://openalex.org/W1969777579",
+  "https://openalex.org/W2000346568",
+  "https://openalex.org/W2030670832",
+  "https://openalex.org/W2036915776",
+  "https://openalex.org/W2099078002",
+  "https://openalex.org/W2113486906",
+  "https://openalex.org/W2130175237",
+  "https://openalex.org/W2132302503",
+  "https://openalex.org/W2153131284",
+  "https://openalex.org/W2164778826",
+  "https://openalex.org/W2314173840",
+  "https://openalex.org/W2478055516",
+  "https://openalex.org/W4299962237",
+  "https://openalex.org/W6631674820",
+  "https://openalex.org/W6631954194",
+  "https://openalex.org/W6674800768",
+  "https://openalex.org/W6679655809"
+ ],
+ "title": "On Shostak's decision procedure for combinations of theories"
+}

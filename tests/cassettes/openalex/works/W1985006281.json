@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 157,
+ "doi": "https://doi.org/10.1145/383962.384010",
+ "id": "https://openalex.org/W1985006281",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1481392484",
+  "https://openalex.org/W1552997261",
+  "https://openalex.org/W1554088294",
+  "https://openalex.org/W1609618519",
+  "https://openalex.org/W1641905180",
+  "https://openalex.org/W2035362408",
+  "https://openalex.org/W2043847722",
+  "https://openalex.org/W2045362872",
+  "https://openalex.org/W2050085314",
+  "https://openalex.org/W2097387829",
+  "https://openalex.org/W2117358061",
+  "https://openalex.org/W2121883877",
+  "https://openalex.org/W2124617909",
+  "https://openalex.org/W2133943294",
+  "https://openalex.org/W2159185290",
+  "https://openalex.org/W2263081563",
+  "https://openalex.org/W6678459575",
+  "https://openalex.org/W7005305730"
+ ],
+ "title": "On scalable and efficient distributed failure detectors"
+}

@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 73,
+ "doi": "https://doi.org/10.1016/s0019-9958(82)90796-3",
+ "id": "https://openalex.org/W2050289409",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W4861723",
+  "https://openalex.org/W1512478964",
+  "https://openalex.org/W1540909559",
+  "https://openalex.org/W1970227944",
+  "https://openalex.org/W1972921902",
+  "https://openalex.org/W1978856319",
+  "https://openalex.org/W2072497723",
+  "https://openalex.org/W2093541252",
+  "https://openalex.org/W2097311580",
+  "https://openalex.org/W2154273644",
+  "https://openalex.org/W4211265583",
+  "https://openalex.org/W6674999329",
+  "https://openalex.org/W6824895264",
+  "https://openalex.org/W7020193950"
+ ],
+ "title": "Models of the lambda calculus"
+}

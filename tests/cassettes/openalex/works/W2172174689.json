@@ -1,0 +1,23 @@
+{
+ "cited_by_count": 1088,
+ "doi": "https://doi.org/10.7551/mitpress/7503.003.0147",
+ "id": "https://openalex.org/W2172174689",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W11828546",
+  "https://openalex.org/W1802356529",
+  "https://openalex.org/W1902027874",
+  "https://openalex.org/W2075187489",
+  "https://openalex.org/W2102409316",
+  "https://openalex.org/W2105464873",
+  "https://openalex.org/W2106884367",
+  "https://openalex.org/W2108838716",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2112812053",
+  "https://openalex.org/W2116064496",
+  "https://openalex.org/W2116365953",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2156163116"
+ ],
+ "title": "Efficient Learning of Sparse Representations with an Energy-Based Model"
+}

@@ -1,0 +1,15 @@
+{
+ "cited_by_count": 96,
+ "doi": "https://doi.org/10.1007/3-540-11607-9_1",
+ "id": "https://openalex.org/W1709275931",
+ "publication_year": 1982,
+ "referenced_works": [
+  "https://openalex.org/W1550041751",
+  "https://openalex.org/W1551631489",
+  "https://openalex.org/W2009798194",
+  "https://openalex.org/W2083368929",
+  "https://openalex.org/W2088823599",
+  "https://openalex.org/W2752853835"
+ ],
+ "title": "Asymptotically fast algorithms for the numerical muitiplication and division of polynomials with complex coefficients"
+}

@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 183,
+ "doi": "https://doi.org/10.1016/0098-1354(95)00196-4",
+ "id": "https://openalex.org/W2018193928",
+ "publication_year": 1996,
+ "referenced_works": [
+  "https://openalex.org/W63983101",
+  "https://openalex.org/W93354010",
+  "https://openalex.org/W1761036090",
+  "https://openalex.org/W2000374946",
+  "https://openalex.org/W2006785871",
+  "https://openalex.org/W2009573643",
+  "https://openalex.org/W2016469042",
+  "https://openalex.org/W2036796570",
+  "https://openalex.org/W2054584575",
+  "https://openalex.org/W2056030522",
+  "https://openalex.org/W2084221210",
+  "https://openalex.org/W2121198180",
+  "https://openalex.org/W2318598751",
+  "https://openalex.org/W2467904402",
+  "https://openalex.org/W2541831990",
+  "https://openalex.org/W2594848264",
+  "https://openalex.org/W2894656633",
+  "https://openalex.org/W3152034379",
+  "https://openalex.org/W4285719527",
+  "https://openalex.org/W6602539101",
+  "https://openalex.org/W6650253302",
+  "https://openalex.org/W6669881967",
+  "https://openalex.org/W6719423377",
+  "https://openalex.org/W6729356793"
+ ],
+ "title": "A modelling and simulation language for combined lumped and distributed parameter systems"
+}

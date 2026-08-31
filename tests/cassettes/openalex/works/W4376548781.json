@@ -1,0 +1,217 @@
+{
+ "abstract_inverted_index": {
+  "-": [
+   22
+  ],
+  "01": [
+   34
+  ],
+  "1,": [
+   32
+  ],
+  "17,": [
+   36
+  ],
+  "2009.": [
+   37
+  ],
+  "7,": [
+   30
+  ],
+  "A": [
+   7
+  ],
+  "Analysis": [
+   9
+  ],
+  "C.": [
+   1
+  ],
+  "Circuits:": [
+   14
+  ],
+  "Claude": [
+   3
+  ],
+  "Comunicação": [
+   25
+  ],
+  "Contemporânea": [
+   21
+  ],
+  "Cultura,": [
+   27
+  ],
+  "Elwood": [
+   4
+  ],
+  "H.": [
+   2
+  ],
+  "PELEGRINI,": [
+   0
+  ],
+  "Relay": [
+   11
+  ],
+  "Revista": [
+   23
+  ],
+  "Salvador,": [
+   28
+  ],
+  "Shannon": [
+   5
+  ],
+  "Switching": [
+   13
+  ],
+  "Symbolic": [
+   8
+  ],
+  "a": [
+   35
+  ],
+  "and": [
+   12
+  ],
+  "computador": [
+   17
+  ],
+  "de": [
+   24
+  ],
+  "e": [
+   6,
+   26
+  ],
+  "máquina": [
+   19
+  ],
+  "n.": [
+   31
+  ],
+  "o": [
+   16
+  ],
+  "of": [
+   10
+  ],
+  "p.": [
+   33
+  ],
+  "semiótica.": [
+   20
+  ],
+  "tornando": [
+   15
+  ],
+  "uma": [
+   18
+  ],
+  "v.": [
+   29
+  ]
+ },
+ "authorships": [
+  {
+   "affiliations": [],
+   "author": {
+    "display_name": "Christian Hugo Pelegrini",
+    "id": "https://openalex.org/A5014832887",
+    "orcid": "https://orcid.org/0000-0001-9289-4694"
+   },
+   "author_position": "first",
+   "countries": [],
+   "institutions": [],
+   "is_corresponding": true,
+   "raw_affiliation_strings": [],
+   "raw_author_name": "PELEGRINI, Christian Hugo",
+   "raw_orcid": null
+  }
+ ],
+ "best_oa_location": {
+  "id": "pmh:oai:americanae.aecid.es:2346317",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "http://www.portalseer.ufba.br/index.php/contemporaneaposcom/article/view/3600",
+  "license": "other-oa",
+  "license_id": "https://openalex.org/licenses/other-oa",
+  "pdf_url": null,
+  "raw_source_name": "reponame:Repositório Institucional da USCS",
+  "raw_type": "info:eu-repo/semantics/publishedVersion",
+  "source": {
+   "display_name": "Americanae (AECID Library)",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S4306400786",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": "publishedVersion"
+ },
+ "cited_by_count": 0,
+ "counts_by_year": [],
+ "doi": null,
+ "funders": [],
+ "id": "https://openalex.org/W4376548781",
+ "ids": {
+  "openalex": "https://openalex.org/W4376548781"
+ },
+ "open_access": {
+  "any_repository_has_fulltext": true,
+  "is_oa": true,
+  "oa_status": "green",
+  "oa_url": "http://www.portalseer.ufba.br/index.php/contemporaneaposcom/article/view/3600"
+ },
+ "primary_location": {
+  "id": "pmh:oai:americanae.aecid.es:2346317",
+  "is_accepted": true,
+  "is_oa": true,
+  "is_published": true,
+  "landing_page_url": "http://www.portalseer.ufba.br/index.php/contemporaneaposcom/article/view/3600",
+  "license": "other-oa",
+  "license_id": "https://openalex.org/licenses/other-oa",
+  "pdf_url": null,
+  "raw_source_name": "reponame:Repositório Institucional da USCS",
+  "raw_type": "info:eu-repo/semantics/publishedVersion",
+  "source": {
+   "display_name": "Americanae (AECID Library)",
+   "host_organization": null,
+   "host_organization_lineage": [],
+   "host_organization_lineage_names": [],
+   "host_organization_name": null,
+   "id": "https://openalex.org/S4306400786",
+   "is_core": false,
+   "is_in_doaj": false,
+   "is_oa": false,
+   "issn": null,
+   "issn_l": null,
+   "type": "repository"
+  },
+  "version": "publishedVersion"
+ },
+ "publication_year": 2009,
+ "referenced_works": [],
+ "related_works": [
+  "https://openalex.org/W3003988483",
+  "https://openalex.org/W3028444640",
+  "https://openalex.org/W2883549446",
+  "https://openalex.org/W2805559433",
+  "https://openalex.org/W3015710275",
+  "https://openalex.org/W2465954300",
+  "https://openalex.org/W2337914679",
+  "https://openalex.org/W2793196304",
+  "https://openalex.org/W3156152621",
+  "https://openalex.org/W4214859627"
+ ],
+ "title": "Claude Elwood Shannon e A Symbolic Analysis of Relay and Switching Circuits: tornando o computador uma máquina semiótica",
+ "type": "article"
+}

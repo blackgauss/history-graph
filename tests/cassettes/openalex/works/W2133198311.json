@@ -1,0 +1,33 @@
+{
+ "cited_by_count": 385,
+ "doi": "https://doi.org/10.1093/qje/qjr028",
+ "id": "https://openalex.org/W2133198311",
+ "publication_year": 2011,
+ "referenced_works": [
+  "https://openalex.org/W1496301024",
+  "https://openalex.org/W1516531249",
+  "https://openalex.org/W1536776891",
+  "https://openalex.org/W1964677855",
+  "https://openalex.org/W1991892223",
+  "https://openalex.org/W1999457273",
+  "https://openalex.org/W2033676662",
+  "https://openalex.org/W2043948304",
+  "https://openalex.org/W2088532256",
+  "https://openalex.org/W2111364868",
+  "https://openalex.org/W2120402121",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W2135060498",
+  "https://openalex.org/W2135724610",
+  "https://openalex.org/W2153370512",
+  "https://openalex.org/W2169269659",
+  "https://openalex.org/W2171613954",
+  "https://openalex.org/W2892331156",
+  "https://openalex.org/W3121533909",
+  "https://openalex.org/W3122305203",
+  "https://openalex.org/W3122606698",
+  "https://openalex.org/W3124541870",
+  "https://openalex.org/W4231144620",
+  "https://openalex.org/W4243959159"
+ ],
+ "title": "Position Auctions with Consumer Search"
+}

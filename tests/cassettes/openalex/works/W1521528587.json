@@ -1,0 +1,28 @@
+{
+ "cited_by_count": 51,
+ "doi": null,
+ "id": "https://openalex.org/W1521528587",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1498726528",
+  "https://openalex.org/W1502768341",
+  "https://openalex.org/W1504629059",
+  "https://openalex.org/W1535125202",
+  "https://openalex.org/W1543478006",
+  "https://openalex.org/W1668373982",
+  "https://openalex.org/W1965256303",
+  "https://openalex.org/W1992580876",
+  "https://openalex.org/W2030464256",
+  "https://openalex.org/W2054308357",
+  "https://openalex.org/W2098229290",
+  "https://openalex.org/W2112053513",
+  "https://openalex.org/W2116882484",
+  "https://openalex.org/W2121109447",
+  "https://openalex.org/W2144570882",
+  "https://openalex.org/W2146407113",
+  "https://openalex.org/W2150864656",
+  "https://openalex.org/W2171936347",
+  "https://openalex.org/W2752853835"
+ ],
+ "title": "Data Staging for On-Demand Broadcast"
+}

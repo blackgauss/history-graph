@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 74,
+ "doi": "https://doi.org/10.1145/312129.312225",
+ "id": "https://openalex.org/W2017132602",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W88008059",
+  "https://openalex.org/W94711845",
+  "https://openalex.org/W142793689",
+  "https://openalex.org/W166194309",
+  "https://openalex.org/W1509294483",
+  "https://openalex.org/W2142334564",
+  "https://openalex.org/W2170913656"
+ ],
+ "title": "Estimating campaign benefits and modeling lift"
+}

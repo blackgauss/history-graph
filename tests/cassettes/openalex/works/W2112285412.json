@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 27,
+ "doi": "https://doi.org/10.1109/phycmp.1994.363698",
+ "id": "https://openalex.org/W2112285412",
+ "publication_year": 2002,
+ "referenced_works": [
+  "https://openalex.org/W1993688167",
+  "https://openalex.org/W2050334794",
+  "https://openalex.org/W2101088258",
+  "https://openalex.org/W2148132004",
+  "https://openalex.org/W2179731956"
+ ],
+ "title": "The stabilisation of quantum computations"
+}

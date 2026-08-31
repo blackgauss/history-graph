@@ -1,0 +1,13 @@
+{
+ "cited_by_count": 2717,
+ "doi": "https://doi.org/10.1016/0005-1098(93)90081-4",
+ "id": "https://openalex.org/W130083205",
+ "publication_year": 1993,
+ "referenced_works": [
+  "https://openalex.org/W2060739390",
+  "https://openalex.org/W2149573563",
+  "https://openalex.org/W2154831602",
+  "https://openalex.org/W6682185220"
+ ],
+ "title": "Adaptive control stability, convergence, and robustness"
+}

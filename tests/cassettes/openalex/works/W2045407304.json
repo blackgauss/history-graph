@@ -1,0 +1,14 @@
+{
+ "cited_by_count": 5182,
+ "doi": "https://doi.org/10.1109/tit.1974.1055186",
+ "id": "https://openalex.org/W2045407304",
+ "publication_year": 1974,
+ "referenced_works": [
+  "https://openalex.org/W1991133427",
+  "https://openalex.org/W2007321142",
+  "https://openalex.org/W2023141412",
+  "https://openalex.org/W2142384583",
+  "https://openalex.org/W2166851988"
+ ],
+ "title": "Optimal decoding of linear codes for minimizing symbol error rate (Corresp.)"
+}

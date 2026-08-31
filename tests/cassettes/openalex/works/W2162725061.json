@@ -1,0 +1,19 @@
+{
+ "cited_by_count": 435,
+ "doi": "https://doi.org/10.1137/0319052",
+ "id": "https://openalex.org/W2162725061",
+ "publication_year": 1981,
+ "referenced_works": [
+  "https://openalex.org/W636529089",
+  "https://openalex.org/W1993138825",
+  "https://openalex.org/W2022467017",
+  "https://openalex.org/W2084029876",
+  "https://openalex.org/W2125812768",
+  "https://openalex.org/W2147873335",
+  "https://openalex.org/W2148401037",
+  "https://openalex.org/W2154831602",
+  "https://openalex.org/W2165503808",
+  "https://openalex.org/W4231022371"
+ ],
+ "title": "Discrete Time Stochastic Adaptive Control"
+}

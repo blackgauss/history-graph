@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 376,
+ "doi": "https://doi.org/10.1109/tnano.2003.808508",
+ "id": "https://openalex.org/W2162983760",
+ "publication_year": 2003,
+ "referenced_works": [
+  "https://openalex.org/W91244428",
+  "https://openalex.org/W1646294624",
+  "https://openalex.org/W1705886065",
+  "https://openalex.org/W1830708738",
+  "https://openalex.org/W1966325235",
+  "https://openalex.org/W1979077619",
+  "https://openalex.org/W1985555064",
+  "https://openalex.org/W1993896794",
+  "https://openalex.org/W2005261685",
+  "https://openalex.org/W2005485153",
+  "https://openalex.org/W2019219628",
+  "https://openalex.org/W2022829874",
+  "https://openalex.org/W2027006268",
+  "https://openalex.org/W2030496130",
+  "https://openalex.org/W2049650033",
+  "https://openalex.org/W2054201028",
+  "https://openalex.org/W2088915729",
+  "https://openalex.org/W2120397377",
+  "https://openalex.org/W2139399616",
+  "https://openalex.org/W2951062193",
+  "https://openalex.org/W4233477625",
+  "https://openalex.org/W6603701625",
+  "https://openalex.org/W6638478215"
+ ],
+ "title": "Array-based architecture for FET-based, nanoscale electronics"
+}

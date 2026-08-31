@@ -1,0 +1,16 @@
+{
+ "cited_by_count": 305,
+ "doi": "https://doi.org/10.1007/bf00933971",
+ "id": "https://openalex.org/W1988288472",
+ "publication_year": 1983,
+ "referenced_works": [
+  "https://openalex.org/W1986248729",
+  "https://openalex.org/W2017554751",
+  "https://openalex.org/W2017921326",
+  "https://openalex.org/W2033240986",
+  "https://openalex.org/W2042843297",
+  "https://openalex.org/W2165213705",
+  "https://openalex.org/W2539793622"
+ ],
+ "title": "Perturbation analysis and optimization of queueing networks"
+}

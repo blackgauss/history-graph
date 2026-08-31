@@ -1,0 +1,27 @@
+{
+ "cited_by_count": 96,
+ "doi": "https://doi.org/10.1145/375551.375563",
+ "id": "https://openalex.org/W2141174150",
+ "publication_year": 2001,
+ "referenced_works": [
+  "https://openalex.org/W1480446764",
+  "https://openalex.org/W1520830005",
+  "https://openalex.org/W1529615245",
+  "https://openalex.org/W1546647560",
+  "https://openalex.org/W1589922412",
+  "https://openalex.org/W1955600018",
+  "https://openalex.org/W1972418517",
+  "https://openalex.org/W1974239329",
+  "https://openalex.org/W1985108724",
+  "https://openalex.org/W1993863827",
+  "https://openalex.org/W2106163233",
+  "https://openalex.org/W2127057359",
+  "https://openalex.org/W2128061541",
+  "https://openalex.org/W2134826720",
+  "https://openalex.org/W2150346598",
+  "https://openalex.org/W2153803014",
+  "https://openalex.org/W2158454296",
+  "https://openalex.org/W6635168113"
+ ],
+ "title": "Optimization of sequence queries in database systems"
+}

@@ -1,0 +1,18 @@
+{
+ "cited_by_count": 401,
+ "doi": "https://doi.org/10.1090/s0002-9947-1959-0122718-1",
+ "id": "https://openalex.org/W1980180357",
+ "publication_year": 1959,
+ "referenced_works": [
+  "https://openalex.org/W788058594",
+  "https://openalex.org/W1975627271",
+  "https://openalex.org/W2003976385",
+  "https://openalex.org/W2012072427",
+  "https://openalex.org/W2080126541",
+  "https://openalex.org/W4233191308",
+  "https://openalex.org/W4234769634",
+  "https://openalex.org/W4247833764",
+  "https://openalex.org/W4250120655"
+ ],
+ "title": "A new proof of the completeness of the Łukasiewicz axioms"
+}

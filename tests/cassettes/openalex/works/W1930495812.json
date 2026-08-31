@@ -1,0 +1,17 @@
+{
+ "cited_by_count": 5,
+ "doi": "https://doi.org/10.1023/a:1026413320413",
+ "id": "https://openalex.org/W1930495812",
+ "publication_year": 1999,
+ "referenced_works": [
+  "https://openalex.org/W4861723",
+  "https://openalex.org/W1482532876",
+  "https://openalex.org/W1487717359",
+  "https://openalex.org/W1488538795",
+  "https://openalex.org/W1795577507",
+  "https://openalex.org/W2030752324",
+  "https://openalex.org/W2039977878",
+  "https://openalex.org/W2054162580"
+ ],
+ "title": "Marginalia on Sequent Calculi"
+}

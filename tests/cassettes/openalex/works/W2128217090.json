@@ -1,0 +1,32 @@
+{
+ "cited_by_count": 44,
+ "doi": "https://doi.org/10.1145/1281100.1281174",
+ "id": "https://openalex.org/W2128217090",
+ "publication_year": 2007,
+ "referenced_works": [
+  "https://openalex.org/W1861050369",
+  "https://openalex.org/W1975392791",
+  "https://openalex.org/W1979352993",
+  "https://openalex.org/W1998498767",
+  "https://openalex.org/W2007201570",
+  "https://openalex.org/W2030874315",
+  "https://openalex.org/W2044944116",
+  "https://openalex.org/W2058879737",
+  "https://openalex.org/W2062373125",
+  "https://openalex.org/W2089918184",
+  "https://openalex.org/W2126394879",
+  "https://openalex.org/W2127347613",
+  "https://openalex.org/W2133469585",
+  "https://openalex.org/W2149740677",
+  "https://openalex.org/W2152139885",
+  "https://openalex.org/W2173246629",
+  "https://openalex.org/W2317700292",
+  "https://openalex.org/W3124857404",
+  "https://openalex.org/W4246270964",
+  "https://openalex.org/W4401545442",
+  "https://openalex.org/W6649871043",
+  "https://openalex.org/W6685455882",
+  "https://openalex.org/W6724046077"
+ ],
+ "title": "An incentive-compatible multi-armed bandit mechanism"
+}

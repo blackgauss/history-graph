@@ -1,0 +1,22 @@
+{
+ "cited_by_count": 75,
+ "doi": null,
+ "id": "https://openalex.org/W1754860248",
+ "publication_year": 1990,
+ "referenced_works": [
+  "https://openalex.org/W158628092",
+  "https://openalex.org/W1567895907",
+  "https://openalex.org/W1975577269",
+  "https://openalex.org/W2014820311",
+  "https://openalex.org/W2031138923",
+  "https://openalex.org/W2043934800",
+  "https://openalex.org/W2063455950",
+  "https://openalex.org/W2067021215",
+  "https://openalex.org/W2104349760",
+  "https://openalex.org/W2149173084",
+  "https://openalex.org/W2151817724",
+  "https://openalex.org/W2200275386",
+  "https://openalex.org/W2494698479"
+ ],
+ "title": "An adaptive data placement scheme for parallel database computer systems"
+}

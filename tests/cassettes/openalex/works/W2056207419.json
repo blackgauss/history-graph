@@ -1,0 +1,91 @@
+{
+ "cited_by_count": 699,
+ "counts_by_year": [
+  {
+   "cited_by_count": 4,
+   "year": 2026
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2025
+  },
+  {
+   "cited_by_count": 7,
+   "year": 2024
+  },
+  {
+   "cited_by_count": 16,
+   "year": 2023
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2022
+  },
+  {
+   "cited_by_count": 32,
+   "year": 2021
+  },
+  {
+   "cited_by_count": 26,
+   "year": 2020
+  },
+  {
+   "cited_by_count": 14,
+   "year": 2019
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2018
+  },
+  {
+   "cited_by_count": 25,
+   "year": 2017
+  },
+  {
+   "cited_by_count": 24,
+   "year": 2016
+  },
+  {
+   "cited_by_count": 29,
+   "year": 2015
+  },
+  {
+   "cited_by_count": 31,
+   "year": 2014
+  },
+  {
+   "cited_by_count": 18,
+   "year": 2013
+  },
+  {
+   "cited_by_count": 17,
+   "year": 2012
+  }
+ ],
+ "doi": "https://doi.org/10.1086/262118",
+ "id": "https://openalex.org/W2056207419",
+ "publication_year": 2000,
+ "referenced_works": [
+  "https://openalex.org/W1494498837",
+  "https://openalex.org/W1549789182",
+  "https://openalex.org/W1581680570",
+  "https://openalex.org/W1964310246",
+  "https://openalex.org/W1993370695",
+  "https://openalex.org/W2015007620",
+  "https://openalex.org/W2022839848",
+  "https://openalex.org/W2050169315",
+  "https://openalex.org/W2055489940",
+  "https://openalex.org/W2055516979",
+  "https://openalex.org/W2055943083",
+  "https://openalex.org/W2059667581",
+  "https://openalex.org/W2105631488",
+  "https://openalex.org/W2116814789",
+  "https://openalex.org/W2120100612",
+  "https://openalex.org/W2120836335",
+  "https://openalex.org/W2142850237",
+  "https://openalex.org/W2158486621",
+  "https://openalex.org/W2166139632",
+  "https://openalex.org/W2235112820"
+ ],
+ "title": "Putting Auction Theory to Work: The Simultaneous Ascending Auction"
+}
