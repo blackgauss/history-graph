@@ -1,0 +1,15 @@
+services:
+  history-graph-mcp:
+    build: .
+    image: history-graph-mcp
+    env_file: .env
+    environment:
+      HG_MCP_TRANSPORT: http
+      HG_MCP_HOST: 0.0.0.0
+      # set HG_MCP_TOKEN in .env to require "Authorization: Bearer <token>"
+    ports:
+      - "8765:8765"
+    volumes:
+      - ./data:/app/data
+      - ./tests/cassettes:/app/tests/cassettes  # writable for HG_CASSETTE_MODE=record
+    restart: unless-stopped

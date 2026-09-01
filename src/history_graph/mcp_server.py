@@ -693,8 +693,60 @@ def build_server() -> MCPServer:
     return server
 
 
-def main() -> int:
-    build_server().run(transport="stdio")
+def _bearer_guard(app):
+    """Reject unauthenticated traffic when HG_MCP_TOKEN is set."""
+    token = os.environ.get("HG_MCP_TOKEN")
+    if not token:
+        return app
+
+    class RequireBearer:
+        def __init__(self, inner):
+            self._inner = inner
+
+        async def __call__(self, scope, receive, send):
+            if scope["type"] == "http":
+                headers = dict(scope.get("headers") or [])
+                import hmac
+
+                auth = headers.get(b"authorization", b"").decode("latin-1")
+                if not hmac.compare_digest(auth.lower(), f"bearer {token}".lower()):
+                    body = b'{"error": "unauthorized"}'
+                    await send(
+                        {
+                            "type": "http.response.start",
+                            "status": 401,
+                            "headers": [
+                                (b"content-type", b"application/json"),
+                                (b"content-length", str(len(body)).encode()),
+                            ],
+                        }
+                    )
+                    await send({"type": "http.response.body", "body": body})
+                    return
+            return await self._inner(scope, receive, send)
+
+    return RequireBearer(app)
+
+
+def serve_http(host: str, port: int) -> None:
+    import uvicorn
+
+    uvicorn.run(_bearer_guard(build_server().streamable_http_app()), host=host, port=port)
+
+
+def main(argv: list[str] | None = None) -> int:
+    import argparse
+
+    parser = argparse.ArgumentParser(prog="history-graph-mcp")
+    parser.add_argument("--transport", choices=("stdio", "http"),
+                        default=os.environ.get("HG_MCP_TRANSPORT", "stdio"))
+    parser.add_argument("--host", default=os.environ.get("HG_MCP_HOST", "127.0.0.1"))
+    parser.add_argument("--port", type=int, default=int(os.environ.get("HG_MCP_PORT", "8765")))
+    args = parser.parse_args(argv)
+    if args.transport == "http":
+        serve_http(args.host, args.port)
+    else:
+        build_server().run(transport="stdio")
     return 0
 
 

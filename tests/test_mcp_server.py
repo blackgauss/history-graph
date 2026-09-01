@@ -219,6 +219,6 @@ def test_pdf_source_prefers_openalex(monkeypatch) -> None:
 def test_pdf_source_falls_back_without_fulltext(monkeypatch) -> None:
     for record in (None, {"id": "W1", "has_fulltext": False}):
         oa, sci = _FakeOA(record, None), _FakeSci()
-        monkeypatch.setattr(mcp_server, "_openalex", lambda: oa)
-        monkeypatch.setattr(mcp_server, "_scihub", lambda: sci)
+        monkeypatch.setattr(mcp_server, "_openalex", lambda oa=oa: oa)
+        monkeypatch.setattr(mcp_server, "_scihub", lambda sci=sci: sci)
         assert mcp_server._pdf_source().get_pdf("10.5555/y") == b"mirror-pdf"
