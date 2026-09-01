@@ -118,6 +118,26 @@ def _openalex() -> OpenAlexClient:
     return _clients["openalex"]
 
 
+def _pdf_source():
+    """Chained PDF fetcher: OpenAlex-hosted text first (fast, captcha-free),
+    Sci-Hub mirrors only for works OpenAlex lacks."""
+    oa, sci = _openalex(), _scihub()
+
+    class _Chained:
+        def get_pdf(self, doi: str) -> bytes:
+            try:
+                record = oa.get_work(f"doi:{doi}", select=["id", "has_fulltext"])
+                if record and record.get("has_fulltext"):
+                    blob = oa.get_pdf(str(record.get("id", "")))
+                    if blob:
+                        return blob
+            except Exception:  # can't-tell or cassette miss -> mirrors
+                pass
+            return sci.get_pdf(doi)
+
+    return _Chained()
+
+
 def _scihub() -> SciHubClient:
     if "scihub" not in _clients:
         mode = _cassette_mode()
@@ -338,7 +358,8 @@ def search_fulltext(query: str, context_chars: int = 200, limit: int = 5) -> str
 
 @tool
 def fetch_pdf(doi: str) -> str:
-    """Download a paper PDF via sci-hub now (each request waits >= 15s throttle).
+    """Download a paper's PDF: OpenAlex-hosted text first (fast, no captcha),
+    Sci-Hub mirrors as fallback (those wait >= 15s each and may captcha-wall).
 
     May return `failed` when mirrors captcha-wall or lack the paper; retrying
     later generally succeeds. Full text is extracted for search_fulltext."""
@@ -347,7 +368,7 @@ def fetch_pdf(doi: str) -> str:
     pdf_dir.mkdir(parents=True, exist_ok=True)
     tmp_seeds.write_text(normalize_doi(doi) + "\n", encoding="utf-8")
     try:
-        manifest = run_download(_scihub(), [tmp_seeds], pdf_dir)
+        manifest = run_download(_pdf_source(), [tmp_seeds], pdf_dir)
         texts = extract_pdf_texts(pdf_dir)
     finally:
         tmp_seeds.unlink(missing_ok=True)

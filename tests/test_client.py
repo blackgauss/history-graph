@@ -125,3 +125,18 @@ def test_mailto_is_sent_for_polite_pool(client_factory) -> None:
     list(client.paginate("/works"))
 
     assert captured["mailto"] == "test@example.org"
+
+
+def test_get_pdf_returns_blob_or_none(client_factory) -> None:
+    good = client_factory(lambda request: httpx.Response(200, content=b"%PDF-1.7 fake"))
+    assert good.get_pdf("W42") == b"%PDF-1.7 fake"
+    missing = client_factory(lambda request: httpx.Response(404, json={}))
+    assert missing.get_pdf("W404") is None
+    html = client_factory(
+        lambda request: httpx.Response(200, content=b"<html>nope</html>")
+    )
+    import pytest
+
+    with pytest.raises(Exception) as excinfo:
+        html.get_pdf("W1")
+    assert getattr(excinfo.value, "reason", None) == "bad_format"
