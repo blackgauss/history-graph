@@ -56,6 +56,13 @@ def test_run_ingest_end_to_end(tmp_path: Path) -> None:
     def handler(request: httpx.Request) -> httpx.Response:
         params = request.url.params
         filter_value = params.get("filter", "")
+        if request.url.path.startswith("/works/"):  # free singletons (doi or id)
+            ident = request.url.path[len("/works/") :]
+            if ident.startswith("doi:"):
+                work = WORKS_BY_DOI.get(ident[4:])
+            else:
+                work = next((w for w in HYDRATED if w["id"] == ident), None)
+            return httpx.Response(200, json=work) if work else httpx.Response(404, json={})
         if filter_value.startswith("doi:"):
             work = WORKS_BY_DOI.get(filter_value[4:])
             return httpx.Response(200, json=conftest.works_page([work] if work else []))
