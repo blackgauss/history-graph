@@ -182,3 +182,43 @@ def test_server_builds_with_all_tools() -> None:
     server = mcp_server.build_server()
     tools = asyncio.run(server.list_tools())
     assert {t.name for t in tools} == names
+
+
+class _FakeOA:
+    def __init__(self, record, blob):
+        self._record, self._blob = record, blob
+        self.recorded = False
+
+    def get_work(self, ref, *, select=None):
+        return self._record
+
+    def get_pdf(self, ref):
+        self.recorded = True
+        return self._blob
+
+
+class _FakeSci:
+    def __init__(self):
+        self.calls = 0
+
+    def get_pdf(self, doi):
+        self.calls += 1
+        return b"mirror-pdf"
+
+
+def test_pdf_source_prefers_openalex(monkeypatch) -> None:
+    oa = _FakeOA({"id": "W42", "has_fulltext": True}, b"oa-pdf")
+    sci = _FakeSci()
+    monkeypatch.setattr(mcp_server, "_openalex", lambda: oa)
+    monkeypatch.setattr(mcp_server, "_scihub", lambda: sci)
+    source = mcp_server._pdf_source()
+    assert source.get_pdf("10.5555/x") == b"oa-pdf"
+    assert sci.calls == 0  # mirror never asked
+
+
+def test_pdf_source_falls_back_without_fulltext(monkeypatch) -> None:
+    for record in (None, {"id": "W1", "has_fulltext": False}):
+        oa, sci = _FakeOA(record, None), _FakeSci()
+        monkeypatch.setattr(mcp_server, "_openalex", lambda: oa)
+        monkeypatch.setattr(mcp_server, "_scihub", lambda: sci)
+        assert mcp_server._pdf_source().get_pdf("10.5555/y") == b"mirror-pdf"

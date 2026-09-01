@@ -165,6 +165,27 @@ class OpenAlexClient:
             record = {k: v for k, v in record.items() if k in fields}
         return record
 
+    def get_pdf(self, ref: str) -> bytes | None:
+        """Fetch the OpenAlex-hosted PDF by work id or DOI prefix; None if absent.
+
+        content.openalex.org serves full text for works with has_fulltext=true —
+        deterministic and captcha-free, unlike Sci-Hub mirrors.
+        """
+        ref = ref.strip()
+        url = f"https://content.openalex.org/works/{quote(ref, safe=':/')}.pdf"
+        try:
+            response = self._fetch(url, {})
+        except httpx.HTTPStatusError as exc:
+            if exc.response.status_code == 404:
+                return None
+            raise http_status_outcome(OpenAlexError, exc) from exc
+        except httpx.HTTPError as exc:
+            raise http_status_outcome(OpenAlexError, exc) from exc
+        blob = response.content
+        if not (blob.startswith(b"%PDF") or b"%PDF" in blob[:2048]):
+            raise bad_format_error(OpenAlexError, url)
+        return blob
+
     def get_work_by_doi(self, doi: str) -> dict[str, Any] | None:
         """Resolve a bare DOI (e.g. ``10.1038/s41586-021-03819-2``) to a work."""
         return self.get_work(f"doi:{doi.strip().lower()}", select=WORK_FIELDS)
