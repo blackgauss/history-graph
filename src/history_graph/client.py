@@ -10,6 +10,7 @@ from __future__ import annotations
 import time
 from collections.abc import Callable, Iterator, Mapping, Sequence
 from typing import Any
+from urllib.parse import quote
 
 import httpx
 
@@ -135,15 +136,38 @@ class OpenAlexClient:
             if max_pages is not None and pages >= max_pages:
                 break
 
+    def get_work(
+        self,
+        ref: str,
+        *,
+        select: Sequence[str] | None = None,
+        corpus: str = "all",
+    ) -> dict[str, Any] | None:
+        """Singleton by-id / by-doi read: free with an api_key, corpus=all so
+        expansion-corpus works are never mistaken for absent, 404 = proven death."""
+        ref = ref.strip()
+        try:
+            response = self._fetch(f"{WORKS_PATH}/{quote(ref, safe=':/')}", {"corpus": corpus})
+        except httpx.HTTPStatusError as exc:
+            if exc.response.status_code == 404:
+                return None
+            raise http_status_outcome(OpenAlexError, exc) from exc
+        except httpx.HTTPError as exc:
+            raise http_status_outcome(OpenAlexError, exc) from exc
+        try:
+            record = response.json()
+        except ValueError as exc:
+            raise bad_format_error(OpenAlexError, ref) from exc
+        if not isinstance(record, dict) or ("results" in record and "meta" in record):
+            raise OpenAlexError(f"Expected work object for {ref}, got page/other shape")
+        if select:
+            fields = set(select)
+            record = {k: v for k, v in record.items() if k in fields}
+        return record
+
     def get_work_by_doi(self, doi: str) -> dict[str, Any] | None:
         """Resolve a bare DOI (e.g. ``10.1038/s41586-021-03819-2``) to a work."""
-        results = self.paginate(
-            WORKS_PATH,
-            {"filter": f"doi:{doi.strip().lower()}"},
-            select=WORK_FIELDS,
-            per_page=BATCH_SIZE,
-        )
-        return next(iter(results), None)
+        return self.get_work(f"doi:{doi.strip().lower()}", select=WORK_FIELDS)
 
     def get_work_by_title(self, title: str) -> dict[str, Any] | None:
         """Best-effort resolution via ``title.search``; for works without DOIs."""
@@ -161,7 +185,18 @@ class OpenAlexClient:
         *,
         select: Sequence[str] | None = None,
     ) -> Iterator[dict[str, Any]]:
-        """Fetch works in batches via the pipe-joined ``openalex_id`` filter."""
+        """Fetch works as free singletons; dead ids vanish, like the old batch."""
+        for work_id in list(work_ids):
+            found = self.get_work(work_id, select=select)
+            if found is not None:
+                yield found
+
+    def _get_works_batch_legacy(
+        self,
+        work_ids: list[str],
+        *,
+        select: Sequence[str] | None = None,
+    ) -> Iterator[dict[str, Any]]:
         for start in range(0, len(work_ids), BATCH_SIZE):
             chunk = work_ids[start : start + BATCH_SIZE]
             yield from self.paginate(

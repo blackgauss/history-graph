@@ -59,8 +59,10 @@ entries:
 def test_run_thread_resolves_doi_title_fallback_and_unresolved(tmp_path: Path) -> None:
     def handler(request: httpx.Request) -> httpx.Response:
         filter_value = request.url.params.get("filter", "")
-        if filter_value == "doi:10.1/known":
-            return httpx.Response(200, json=conftest.works_page([WORK_KNOWN]))
+        if request.url.path == "/works/doi:10.1/known":  # free singleton
+            return httpx.Response(200, json=WORK_KNOWN)
+        if request.url.path.startswith("/works/doi:"):
+            return httpx.Response(404, json={})
         if filter_value == "title.search:The Missing Paper Title":
             return httpx.Response(200, json=conftest.works_page([WORK_BY_TITLE]))
         return httpx.Response(200, json=conftest.works_page([]))

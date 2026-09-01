@@ -46,42 +46,39 @@ def test_paginate_respects_max_pages(client_factory) -> None:
     assert calls == 2
 
 
-def test_get_work_by_doi_returns_first_result(client_factory) -> None:
+def test_get_work_by_doi_uses_free_singleton(client_factory) -> None:
+    seen: list[str] = []
+
     def handler(request: httpx.Request) -> httpx.Response:
-        params = request.url.params
-        assert params["filter"].startswith("doi:")
-        return httpx.Response(
-            200,
-            json=conftest.works_page([{"id": "W42", "doi": params["filter"][4:]}]),
-        )
+        seen.append(request.url.path)
+        return httpx.Response(200, json={"id": "W42", "doi": "doi:10.9999/test"})
 
     client = client_factory(handler)
     work = client.get_work_by_doi("10.9999/test")
 
-    assert work is not None
-    assert work["id"] == "W42"
+    assert work is not None and work["id"] == "W42"
+    assert seen == ["/works/doi:10.9999/test"]  # singleton, not a priced list
 
 
 def test_get_work_by_doi_returns_none_when_missing(client_factory) -> None:
-    client = client_factory(lambda request: httpx.Response(200, json=conftest.works_page([])))
+    client = client_factory(lambda request: httpx.Response(404, json={}))
     assert client.get_work_by_doi("10.9999/nope") is None
 
 
-def test_get_works_batches_ids_at_fifty(client_factory) -> None:
-    filters: list[str] = []
+def test_get_works_fans_out_to_singletons(client_factory) -> None:
+    paths: list[str] = []
 
     def handler(request: httpx.Request) -> httpx.Response:
-        filters.append(request.url.params["filter"])
-        return httpx.Response(200, json=conftest.works_page([]))
+        paths.append(request.url.path)
+        wid = request.url.path.rsplit("/", 1)[-1]
+        return httpx.Response(200, json={"id": wid, "referenced_works": []})
 
     client = client_factory(handler)
-    ids = [f"W{i}" for i in range(75)]
-    list(client.get_works(ids))  # exhaust generator
+    ids = [f"W{i}" for i in range(3)]
+    out = list(client.get_works(ids))
 
-    assert len(filters) == 2
-    assert filters[0].count("|") == 49  # first chunk holds 50 ids
-    assert filters[1].startswith("openalex_id:W50|")
-    assert filters[1].count("|") == 24  # second chunk holds 25 ids
+    assert [w["id"] for w in out] == ids  # free singletons; no batch filter page
+    assert paths == [f"/works/{i}" for i in ids]
 
 
 def test_retry_recovers_from_transient_503(client_factory) -> None:

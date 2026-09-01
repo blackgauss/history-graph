@@ -76,6 +76,11 @@ class Cassette:
             payload = json.loads(content)
         except ValueError:
             return
+        if isinstance(payload, dict) and payload.get("id", "").startswith(
+            "https://openalex.org/"
+        ) and "results" not in payload:  # singleton shape
+            self.work_store.upsert(payload)
+            return
         results = payload.get("results") if isinstance(payload, dict) else None
         if isinstance(results, list):
             for record in results:
@@ -168,9 +173,39 @@ class WorkStore:
 def _synthesize_works(store: WorkStore, request: httpx.Request) -> httpx.Response | None:
     """Serve /works?filter=openalex_id:...|... or doi:... entirely from the store."""
 
-    if request.url.host != "api.openalex.org" or request.url.path != "/works":
+    import urllib.parse as _up
+
+    if request.url.host != "api.openalex.org":
         return None
     q = dict(request.url.params)
+    path = _up.unquote(request.url.path)
+    if path.startswith("/works/") and len(path) > len("/works/"):
+        ident = path[len("/works/"):]
+        if ident.lower().startswith("doi:"):
+            rec = store.get_by_doi(ident[4:].lower())
+        else:
+            rec = store.get(ident.rsplit("/", 1)[-1])
+        if rec is None:
+            return None
+        if rec.get("_dead"):
+            return httpx.Response(
+                404,
+                headers={"content-type": "application/json"},
+                content=b'{"error": "404 Not Found"}',
+                request=request,
+            )
+        select = q.get("select")
+        if select:
+            fields = set(select.split(","))
+            rec = {k: v for k, v in rec.items() if k in fields}
+        return httpx.Response(
+            200,
+            headers={"content-type": "application/json"},
+            content=json.dumps(rec, sort_keys=True).encode("utf-8"),
+            request=request,
+        )
+    if request.url.path != "/works":
+        return None
     filt = q.get("filter", "")
     if filt.count(":") != 1 or "+" in filt:
         return None
@@ -264,6 +299,10 @@ class _Recorder(httpx.BaseTransport):
             **self._cassette.store_body(key, saved.content),
         }
         self._cassette.store_works(saved.content, request=request)
+        if saved.status_code == 404 and request.url.path.startswith("/works/"):
+            ident = request.url.path[len("/works/") :]
+            if not ident.lower().startswith("doi:"):
+                self._cassette.work_store.mark_dead(ident.rsplit("/", 1)[-1])
         self.save()
         return response
 
