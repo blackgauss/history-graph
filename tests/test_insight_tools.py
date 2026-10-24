@@ -119,21 +119,34 @@ def s2_client_with(responses: dict[str, Any]):
 
 
 def test_s2_builds_upon_intent_from_context():
+    seen: list[httpx.Request] = []
+
     client = s2_client_with({
-        "/paper/doi:10.1/b/citations": {
+        "/references": {
             "data": [{
-                "context": "Following the method introduced in the factorization"
-                " machine paper [12]",
+                "contexts": [
+                    "Following the method introduced in the factorization machine paper [12]"
+                ],
                 "intents": [],
-                "isInText": True,
+                "isInfluential": True,
                 "citedPaper": {"paperId": "x", "externalIds": {"DOI": "10.1/a"}},
             }],
             "next": None,
         }
     })
+    original_fetch = client._fetch
+
+    def capture(path: str, params: dict[str, Any]) -> httpx.Response:
+        seen.append(client._http.build_request("GET", path, params=params))
+        return original_fetch(path, params)
+
+    client._fetch = capture
     out = client.citation_context("10.1/b", "10.1/a")
     assert out["intent"] in {"builds-upon", "method", "used"}
-    assert out["in_text"] is True
+    assert out["found"] is True and out["is_influential"] is True
+    assert seen[0].url.path.endswith("/paper/doi:10.1/b/references")
+    assert "%2F" in seen[0].url.raw_path.decode()
+    assert "contexts,intents,isInfluential" in seen[0].url.params["fields"]
 
 
 def test_s2_404_is_unknown_not_empty():
@@ -141,8 +154,25 @@ def test_s2_404_is_unknown_not_empty():
     assert client.citation_context("10.1/nope", "10.1/a") is None
 
 
+def test_s2_does_not_invent_a_citation_when_reference_is_absent():
+    client = s2_client_with({
+        "/references": {
+            "data": [{
+                "contexts": [],
+                "intents": [],
+                "citedPaper": {"paperId": "other", "externalIds": {"DOI": "10.1/other"}},
+            }],
+            "next": None,
+        }
+    })
+    out = client.citation_context("10.1/b", "10.1/a")
+    assert out == {
+        "found": False,
+        "note": "no matching reference in Semantic Scholar; coverage may be incomplete",
+    }
+
+
 def test_s2_to_s2_id_forms():
     assert s2.SemanticScholarClient.to_s2_id("10.1038/x") == "doi:10.1038/x"
     assert s2.SemanticScholarClient.to_s2_id("ARXIV:1706.03762") == "ARXIV:1706.03762"
     assert s2.SemanticScholarClient.to_s2_id("https://doi.org/10.1/x") == "doi:10.1/x"
-

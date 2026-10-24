@@ -10,6 +10,7 @@ from __future__ import annotations
 import time
 from collections.abc import Callable
 from typing import Any
+from urllib.parse import quote
 
 import httpx
 
@@ -119,14 +120,14 @@ class SemanticScholarClient:
     ) -> dict[str, Any] | None:
         """Snippet where `citing` cites `cited`, plus heuristic intent."""
         citing, cited = self.to_s2_id(citing_ref), self.to_s2_id(cited_ref)
-        cited_norm = cited_ref.lower().removeprefix("https://doi.org/")
+        cited_norm = cited.lower().removeprefix("https://doi.org/").removeprefix("doi:")
         offset = 0
         for _ in range(max_pages):
             page = self._get(
-                f"paper/{citing}/citations",
+                f"paper/{quote(citing, safe=':')}/references",
                 {
                     "fields": "citedPaper.paperId,citedPaper.title,citedPaper.externalIds,"
-                    "context,intents,isInText",
+                    "contexts,intents,isInfluential",
                     "limit": 100,
                     "offset": offset,
                 },
@@ -137,23 +138,37 @@ class SemanticScholarClient:
             if not isinstance(rows, list):
                 raise SemanticScholarError(f"unexpected citations payload from {citing}")
             for row in rows:
-                external = ((row.get("citedPaper") or {}).get("externalIds") or {})
-                doi = str(external.get("DOI") or "").lower()
-                hit = (
-                    doi == cited_norm
-                    or (row.get("citedPaper") or {}).get("paperId") == cited.split(":")[-1]
-                )
+                paper = row.get("citedPaper") or {}
+                external = paper.get("externalIds") or {}
+                doi = str(external.get("DOI") or "").lower().removeprefix("https://doi.org/")
+                if cited.startswith("doi:"):
+                    hit = doi == cited_norm
+                elif cited.lower().startswith("corpusid:"):
+                    hit = str(external.get("CorpusId") or "") == cited.split(":", 1)[1]
+                elif cited.lower().startswith("arxiv:"):
+                    hit = str(external.get("ArXiv") or "").lower() == cited.split(":", 1)[1].lower()
+                elif cited.lower().startswith("pmid:"):
+                    hit = str(external.get("PubMed") or "") == cited.split(":", 1)[1]
+                else:
+                    hit = paper.get("paperId") == cited
                 if hit:
+                    contexts = row.get("contexts") or []
+                    context = " ".join(str(item) for item in contexts if item)
+                    intents = row.get("intents") or []
                     return {
-                        "context": row.get("context"),
-                        "intents": row.get("intents") or [],
-                        "in_text": row.get("isInText"),
-                        "intent": classify_context(row.get("context"), row.get("intents")),
+                        "found": True,
+                        "context": context or None,
+                        "intents": intents,
+                        "is_influential": row.get("isInfluential"),
+                        "intent": classify_context(context, intents),
                     }
             if not rows or page.get("next") is None:
                 break
             offset += 100
-        return {"intent": "reference", "context": None, "note": "no snippet (S2 context is sparse)"}
+        return {
+            "found": False,
+            "note": "no matching reference in Semantic Scholar; coverage may be incomplete",
+        }
 
 
 def default_client() -> SemanticScholarClient:

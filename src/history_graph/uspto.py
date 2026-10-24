@@ -59,6 +59,13 @@ def _rows(payload: dict[str, Any]) -> list[dict[str, Any]]:
     return out
 
 
+def _page_complete(total: Any, page: int, limit: int, returned: int) -> bool:
+    if not isinstance(total, int) or total < 0:
+        return False
+    expected = min(limit, max(0, total - page * limit))
+    return (page + 1) * limit >= total and returned >= expected
+
+
 class PatentSearchClient:
     def __init__(
         self,
@@ -132,7 +139,10 @@ class PatentSearchClient:
         limit: int = 20,
         page: int = 0,
     ) -> dict[str, Any]:
+        if not 1 <= limit <= 100 or page < 0:
+            raise ValueError("limit must be 1..100 and page must be non-negative")
         inner = self._inner(q, after=after, before=before)
+        inner += f"&num={limit}"
         if assignee:
             inner += f"&assignee={assignee}"
         if inventor:
@@ -141,13 +151,44 @@ class PatentSearchClient:
             inner += f"&page={page}"
         payload = self._get("/xhr/query", url=inner)
         results = payload.get("results") or {}
-        return {"total": results.get("total_num_results"), "patents": _rows(payload)[:limit]}
+        total = results.get("total_num_results")
+        patents = _rows(payload)[:limit]
+        complete = _page_complete(total, page, limit, len(patents))
+        return {
+            "source": "Google Patents",
+            "query": q,
+            "total": total,
+            "returned_count": len(patents),
+            "complete": complete,
+            "next_page": None if complete else page + 1,
+            "patents": patents,
+        }
 
     def citing(self, publication_number: str, *, limit: int = 25, page: int = 0) -> dict[str, Any]:
-        inner = f"citing={publication_number}" + (f"&page={page}" if page else "")
+        if not 1 <= limit <= 100 or page < 0:
+            raise ValueError("limit must be 1..100 and page must be non-negative")
+        # Google Patents search syntax uses q=cites:<number>. A top-level
+        # `citing=` parameter is ignored by the XHR endpoint and can return
+        # unrelated search results while appearing successful.
+        inner = self._inner(f"cites:{publication_number}")
+        inner += f"&num={limit}"
+        if page:
+            inner += f"&page={page}"
         payload = self._get("/xhr/query", url=inner)
         results = payload.get("results") or {}
-        return {"total": results.get("total_num_results"), "patents": _rows(payload)[:limit]}
+        total = results.get("total_num_results")
+        patents = _rows(payload)[:limit]
+        complete = _page_complete(total, page, limit, len(patents))
+        return {
+            "source": "Google Patents",
+            "direction": "cited_by_patent",
+            "publication_number": publication_number,
+            "total": total,
+            "returned_count": len(patents),
+            "complete": complete,
+            "next_page": None if complete else page + 1,
+            "patents": patents,
+        }
 
     def scholar(self, publication_number: str, direction: str = "forward") -> dict[str, Any]:
         """Ac <-> patent citations ('forward' = papers citing the patent).
@@ -172,4 +213,9 @@ class PatentSearchClient:
                         "venue": (p.get("assignee") or p.get("maintainer") or "").strip() or None,
                     }
                 )
-        return {"publication_number": publication_number, "direction": direction, "works": rows}
+        return {
+            "source": "Google Patents Scholar",
+            "publication_number": publication_number,
+            "direction": direction,
+            "works": rows,
+        }

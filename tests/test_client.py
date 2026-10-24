@@ -46,6 +46,38 @@ def test_paginate_respects_max_pages(client_factory) -> None:
     assert calls == 2
 
 
+def test_iter_pages_exposes_count_and_resumption_cursor(client_factory) -> None:
+    seen: list[str | None] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        seen.append(request.url.params.get("cursor"))
+        return httpx.Response(
+            200,
+            json=conftest.works_page(
+                [{"id": f"W{len(seen)}"}], next_cursor="cursor-2" if len(seen) == 1 else None
+            ),
+        )
+
+    client = client_factory(handler)
+    first = next(client.iter_pages("/works", per_page=1))
+    second = next(client.iter_pages("/works", per_page=1, cursor=first["next_cursor"]))
+
+    assert first["meta"]["count"] >= 1
+    assert first["results"] == [{"id": "W1"}]
+    assert first["next_cursor"] == "cursor-2"
+    assert second["results"] == [{"id": "W2"}]
+    assert second["next_cursor"] is None
+    assert seen == ["*", "cursor-2"]
+
+
+def test_iter_pages_rejects_invalid_limits(client_factory) -> None:
+    client = client_factory(lambda request: httpx.Response(200, json=conftest.works_page([])))
+    with pytest.raises(ValueError, match="per_page"):
+        list(client.iter_pages("/works", per_page=0))
+    with pytest.raises(ValueError, match="max_pages"):
+        list(client.iter_pages("/works", max_pages=0))
+
+
 def test_get_work_by_doi_returns_first_result(client_factory) -> None:
     def handler(request: httpx.Request) -> httpx.Response:
         params = request.url.params

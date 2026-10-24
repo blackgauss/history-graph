@@ -47,6 +47,8 @@ def test_search_parses_rows_and_builds_query():
     assert out["patents"][0]["publication_number"] == "US2688403A"
     assert "after=priority:19450101" in seen["url"]
     assert "before=priority:19551231" in seen["url"]
+    assert "num=5" in seen["url"]
+    assert out["complete"] is False and out["next_page"] == 1
 
 
 def test_citing_query_uses_publication_number():
@@ -54,11 +56,30 @@ def test_citing_query_uses_publication_number():
 
     def handler(request: httpx.Request) -> httpx.Response:
         seen.update(dict(request.url.params))
-        return payload([{"id": "patent/US3120606A/en", "patent": {"title": "later"}}])
+        return payload([{"id": "patent/US3120606A/en", "patent": {"title": "later"}}], total=1)
 
     out = client_for(handler).citing("US2688403A")
-    assert seen["url"].startswith("citing=US2688403A")
+    assert seen["url"].startswith("q=cites:US2688403A")
+    assert "num=25" in seen["url"]
     assert out["patents"][0]["publication_number"] == "US3120606A"
+    assert out["complete"] is True and out["next_page"] is None
+
+
+def test_citing_pagination_is_reported_as_partial():
+    def handler(request: httpx.Request) -> httpx.Response:
+        return payload([{"id": "patent/US3120606A/en", "patent": {"title": "later"}}], total=3)
+
+    out = client_for(handler).citing("US2688403A", limit=1, page=0)
+    assert out["complete"] is False
+    assert out["next_page"] == 1
+
+
+def test_citation_query_rejects_invalid_pagination():
+    client = client_for(lambda request: payload([]))
+    with pytest.raises(ValueError, match="limit"):
+        client.citing("US2688403A", limit=0)
+    with pytest.raises(ValueError, match="page"):
+        client.search("anything", page=-1)
 
 
 def test_captcha_is_its_own_error():
@@ -120,12 +141,23 @@ def test_patent_links_falls_back_to_openalex_when_walled(monkeypatch):
             return iter([{"id": "W2073840571", "title": "A mathematical theory of communication",
                           "publication_year": 1948}])
 
+        def iter_pages(self, path, params, **kwargs):
+            assert path == "/works" and params == {"filter": "cites:W1983129989"}
+            return iter([{
+                "meta": {"count": 1},
+                "results": [{"id": "W2073840571", "title": "A mathematical theory of communication",
+                             "publication_year": 1948}],
+                "next_cursor": None,
+            }])
+
     monkeypatch.setattr(mcp_server, "_clients", {"patents": Walled(), "openalex": OA()})
     import json
 
     out = json.loads(mcp_server.patent_links("US2466157A"))
-    assert out["cited_by_patents"] is None and "google_note" in out
-    assert out["fallback"]["source"] == "openalex"
+    assert out["cited_by_patents"] is None and "patent_source_error" in out
+    assert out["status"] == "best_effort" and out["complete"] is False
+    assert out["fallback"]["source"] == "OpenAlex"
+    assert out["fallback"]["complete"] is True
     assert out["fallback"]["cited_by_papers"][0]["openalex_id"] == "W2073840571"
 
     missing = json.loads(mcp_server.patent_links("US9999999A"))

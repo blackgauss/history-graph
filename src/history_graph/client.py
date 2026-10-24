@@ -113,20 +113,52 @@ class OpenAlexClient:
         per_page: int = PER_PAGE_MAX,
         select: Sequence[str] | None = None,
         max_pages: int | None = None,
+        cursor: str = "*",
     ) -> Iterator[dict[str, Any]]:
         """Yield result records across all pages using cursor pagination."""
-        cursor: str | None = "*"
+        for page in self.iter_pages(
+            path,
+            params,
+            per_page=per_page,
+            select=select,
+            max_pages=max_pages,
+            cursor=cursor,
+        ):
+            yield from page["results"]
+
+    def iter_pages(
+        self,
+        path: str,
+        params: Mapping[str, Any] | None = None,
+        *,
+        per_page: int = PER_PAGE_MAX,
+        select: Sequence[str] | None = None,
+        max_pages: int | None = None,
+        cursor: str = "*",
+    ) -> Iterator[dict[str, Any]]:
+        """Yield OpenAlex pages with metadata, preserving cursor/completeness."""
+        if not 1 <= per_page <= PER_PAGE_MAX:
+            raise ValueError(f"per_page must be between 1 and {PER_PAGE_MAX}")
+        if max_pages is not None and max_pages < 1:
+            raise ValueError("max_pages must be positive")
+
+        next_cursor: str | None = cursor
         pages = 0
         base_params = dict(params or {})
         if select:
             base_params["select"] = ",".join(select)
-        while cursor:
-            page = self._request(path, {**base_params, "per-page": per_page, "cursor": cursor})
-            meta = page.get("meta")
+        while next_cursor:
+            payload = self._request(
+                path, {**base_params, "per-page": per_page, "cursor": next_cursor}
+            )
+            meta = payload.get("meta")
             if not isinstance(meta, dict):
                 raise OpenAlexError(f"Missing 'meta' in paged response from {path}")
-            yield from page.get("results", [])
-            cursor = meta.get("next_cursor")
+            results = payload.get("results")
+            if not isinstance(results, list):
+                raise OpenAlexError(f"Missing 'results' list in paged response from {path}")
+            next_cursor = meta.get("next_cursor")
+            yield {"meta": meta, "results": results, "next_cursor": next_cursor}
             pages += 1
             if max_pages is not None and pages >= max_pages:
                 break
